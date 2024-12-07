@@ -31,7 +31,7 @@ if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 if not structure_file:
     st.info("Please add your structure file to continue")
-if openai_api_key and structure_file:
+if  structure_file:
     # create a local copy of structure file in the container
     save_directory = "./temp"
     if os.path.exists(save_directory):
@@ -77,7 +77,7 @@ if openai_api_key and structure_file:
         file_name='qe_input.zip',
         mime="application/octet-stream"
     )
-    
+if openai_api_key:
     # Create an OpenAI client.
     client = OpenAI(api_key=openai_api_key)
 
