@@ -27,8 +27,13 @@ openai_api_key = st.text_input("OpenAI API Key", type="password")
 # upload structure file into buffer
 structure_file = st.file_uploader("Upload the structure file", type=("cif"))
 
-if not openai_api_key:
-    st.info("Please add your OpenAI API key to continue.", icon="🗝️")
+functional="PBE"
+mode="efficiency"
+
+###############################################
+### Generating QE input from structure file ###
+###############################################
+
 if not structure_file:
     st.info("Please add your structure file to continue")
 if  structure_file:
@@ -45,9 +50,6 @@ if  structure_file:
         f.write(structure_file.getbuffer())
     structure = Structure.from_file(file_path)
     composition = Composition(structure.alphabetical_formula)
-
-    functional="PBE"
-    mode="efficiency"
     
     pseudo_path="./temp/pseudos/"
     if not os.path.exists(pseudo_path):
@@ -77,6 +79,12 @@ if  structure_file:
         file_name='qe_input.zip',
         mime="application/octet-stream"
     )
+###############################################
+### LLM part to answer questions            ###
+###############################################
+
+if not openai_api_key:
+    st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 if openai_api_key:
     # Create an OpenAI client.
     client = OpenAI(api_key=openai_api_key)
@@ -93,7 +101,7 @@ if openai_api_key:
 
     # Create a chat input field to allow the user to enter a message. This will display
     # automatically at the bottom of the page.
-    if prompt := st.chat_input("What is up?"):
+    if prompt := st.chat_input("Do you have any questions?"):
 
         # Store and display the current prompt.
         st.session_state.messages.append({"role": "user", "content": prompt})
