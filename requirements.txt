@@ -1,2 +1,10 @@
 streamlit
 openai
+langchain-core
+langchain-openai
+langgraph
+pymatgen
+ase
+aiida-core
+aiida-pseudo
+pydantic==2.10.3
