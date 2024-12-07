@@ -7,19 +7,29 @@ from utils import list_of_pseudos, cutoff_limits, generate_input_file
 import os
 import shutil
 import json
-# from utils import pseudo_info
 
+with st.sidebar:
+    openai_api_key = st.text_input("OpenAI API Key", key="feedback_api_key", type="password")
+    "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
+    functional = st.selectbox('XC-functional', 
+                              ('PBE','PBEsol'), 
+                              index=None, 
+                              placeholder='PBE')
+    mode = st.selectbox('pseudopotential flavour', 
+                        ('efficiency','precision'), 
+                        index=None, 
+                        placeholder='efficiency')
+    llm_name = st.selectbox('assistant LLM', 
+                        ("gpt-4o", "gpt-4o-mini", 'gpt-3.5-turbo'), 
+                        index=None, 
+                        placeholder='gpt-4o')
 
 # Show title and description.
 st.title("💬 Chatbot for QE input")
-st.write(
-    "This is a simple chatbot that uses OpenAI's GPT-4o model to generate responses. "
-    "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys)."
-)
 
 st.write(
     "To generate input file, provide structure CIF file."
-    "The Chatbot will generate an input file for QE single point scf calculations."
+    "The Chatbot will generate an input file for QE single point scf calculations and answer your questions."
 )
 
 # read OpenAI key
@@ -27,8 +37,8 @@ openai_api_key = st.text_input("OpenAI API Key", type="password")
 # upload structure file into buffer
 structure_file = st.file_uploader("Upload the structure file", type=("cif"))
 
-functional="PBE"
-mode="efficiency"
+# functional="PBE"
+# mode="efficiency"
 
 ###############################################
 ### Generating QE input from structure file ###
