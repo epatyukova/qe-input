@@ -71,6 +71,7 @@ if  structure_file:
     pseudo_family, list_of_element_files=list_of_pseudos('./pseudos/', functional, mode, composition,pseudo_path)
     cutoffs=cutoff_limits('./pseudo_cutoffs/', functional, mode, composition)
     
+    st.write('compound: ', composition)
     st.write('Pseudo family used: ', pseudo_family)
     st.write('energy cutoff (Ry): ', cutoffs['max_ecutwfc'])
     st.write('density cutoff (Ry): ', cutoffs['max_ecutrho'])
