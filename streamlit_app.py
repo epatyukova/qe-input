@@ -32,8 +32,6 @@ st.write(
     "The Chatbot will generate an input file for QE single point scf calculations and answer your questions."
 )
 
-# read OpenAI key
-openai_api_key = st.text_input("OpenAI API Key", type="password")
 # upload structure file into buffer
 structure_file = st.file_uploader("Upload the structure file", type=("cif"))
 
