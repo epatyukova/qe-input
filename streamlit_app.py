@@ -69,6 +69,7 @@ if openai_api_key and structure_file:
                                            cutoffs['max_ecutwfc'], 
                                            cutoffs['max_ecutrho'], 
                                            kspacing=0.01)
+    shutil.make_archive('qe_input', 'zip', './temp')
     
     st.download_button(
         label="Download the files",
