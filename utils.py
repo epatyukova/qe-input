@@ -64,8 +64,8 @@ def cutoff_limits(pseudo_potentials_cutoffs_folder: str,
         subset={key:cutoffs[key] for key in elements}
         encutoffs=[subset[i]['cutoff_wfc'] for i in subset.keys()]
         rhocutoffs=[subset[i]['cutoff_rho'] for i in subset.keys()]
-        max_ecutoff=min(encutoffs)
-        max_rhocutoff=min(rhocutoffs)
+        max_ecutoff=max(encutoffs)
+        max_rhocutoff=max(rhocutoffs)
     else:
         max_ecutoff=np.nan
         max_rhocutoff=np.nan
