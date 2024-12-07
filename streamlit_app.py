@@ -62,6 +62,11 @@ if  structure_file:
     pseudo_path="./temp/pseudos/"
     if not os.path.exists(pseudo_path):
         os.makedirs(pseudo_path)
+    
+    if not functional:
+        functional='PBE'
+    if not mode:
+        mode='efficiency'
 
     pseudo_family, list_of_element_files=list_of_pseudos('./pseudos/', functional, mode, composition,pseudo_path)
     cutoffs=cutoff_limits('./pseudo_cutoffs/', functional, mode, composition)
