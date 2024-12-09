@@ -108,5 +108,16 @@ def generate_input_file(save_directory, structure_file, pseudo_path, dict_pseudo
     input_file_content=''
     with open(save_directory+'/qe.in','r') as file:
         for line in file:
-            input_file_content+=line
+            input_file_content+=line+'\n'
+    input_file_content=input_file_content[:-1]
     return input_file_content
+
+def update_input_file(file_path: str, new_content: str) -> None:
+    """The function to update the content of input file
+       Input: file_path the location of the file to be update
+              new_content new content to write in the file
+    """
+    with open(file_path,'w') as file:
+       file.write(new_content)
+    st.write('qe.in file was updated')
+    return
