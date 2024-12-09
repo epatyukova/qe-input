@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
-from utils import list_of_pseudos, cutoff_limits, generate_input_file
+from utils import list_of_pseudos, cutoff_limits, generate_input_file, update_input_file
 
 
 import os
@@ -12,18 +12,35 @@ import json
 with st.sidebar:
     openai_api_key = st.text_input("OpenAI API Key", key="feedback_api_key", type="password")
     "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
-    functional = st.selectbox('XC-functional', 
+    functional_value = st.selectbox('XC-functional', 
                               ('PBE','PBEsol'), 
                               index=None, 
                               placeholder='PBE')
-    mode = st.selectbox('pseudopotential flavour', 
+    mode_value = st.selectbox('pseudopotential flavour', 
                         ('efficiency','precision'), 
                         index=None, 
                         placeholder='efficiency')
-    llm_name = st.selectbox('assistant LLM', 
+    llm_name_value = st.selectbox('assistant LLM', 
                         ("gpt-4o", "gpt-4o-mini", 'gpt-3.5-turbo'), 
                         index=None, 
                         placeholder='gpt-4o')
+
+
+if functional_value:
+    st.session_state['functional'] = functional_value
+else:
+    st.session_state['functional'] = 'PBE'
+
+if mode_value:
+    st.session_state['mode'] = mode_value
+else:
+    st.session_state['mode'] = 'efficiency'
+
+if llm_name_value:
+    st.session_state['llm_name'] = llm_name_value
+else:
+    st.session_state['llm_name'] = 'gpt-4o'
+
 
 # Show title and description.
 st.title("💬 Chatbot for QE input")
@@ -64,13 +81,15 @@ if  structure_file:
     if not os.path.exists(pseudo_path):
         os.makedirs(pseudo_path)
     
-    if not functional:
-        functional='PBE'
-    if not mode:
-        mode='efficiency'
+    # if not functional:
+    #     functional='PBE'
+    # if not mode:
+    #     mode='efficiency'
 
-    pseudo_family, list_of_element_files=list_of_pseudos('./pseudos/', functional, mode, composition,pseudo_path)
-    cutoffs=cutoff_limits('./pseudo_cutoffs/', functional, mode, composition)
+    pseudo_family, list_of_element_files=list_of_pseudos('./pseudos/', st.session_state['functional'], 
+                                                         st.session_state['mode'], composition,pseudo_path)
+    cutoffs=cutoff_limits('./pseudo_cutoffs/', st.session_state['functional'],
+                          st.session_state['mode'], composition)
     
     st.write('compound: ', composition)
     st.write('Pseudo family used: ', pseudo_family)
@@ -88,6 +107,11 @@ if  structure_file:
                                            kspacing=0.01)
     shutil.make_archive('qe_input', 'zip', './temp')
     
+    if input_file_content:
+        st.session_state['input_file'] = input_file_content
+        st.session_state['input_file_path'] = './temp/qe.in'
+    
+
     st.download_button(
         label="Download the files",
         data=open('./qe_input.zip', "rb").read(),
@@ -97,28 +121,27 @@ if  structure_file:
 ###############################################
 ### LLM part to answer questions            ###
 ###############################################
-# from agent import define_model
-# from langchain_openai import ChatOpenAI
 
 if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 if openai_api_key:
     # Create an OpenAI client.
-    if not llm_name:
-        llm_name='gpt-4o'
     client = OpenAI(api_key=openai_api_key)
-    # client=ChatOpenAI(model_name=llm_name,openai_api_key=openai_api_key,temperature=0)
-
     # Create a session state variable to store the chat messages. This ensures that the
     # messages persist across reruns.
     if "messages" not in st.session_state:
         st.session_state.messages = []
-
+    
+    # add input file content to the prompt
+    if 'input_file' in st.session_state.keys() and 'input_file_path' in st.session_state.keys():
+        st.session_state.messages.append({"role": "system", "content": "When generating reply take into account QE input file content:\n"\
+                                            + st.session_state['input_file']+\
+                                            'and its locaiton: ' + st.session_state['input_file_path']})
     # Display the existing chat messages via `st.chat_message`.
     for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
+        if(message["role"]=="user" or message["role"]=="assistant"):
             st.markdown(message["content"])
-
+    
     # Create a chat input field to allow the user to enter a message. This will display
     # automatically at the bottom of the page.
     if prompt := st.chat_input("Do you have any questions?"):
@@ -127,14 +150,11 @@ if openai_api_key:
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
             st.markdown(prompt)
-
+        
         # Generate a response using the OpenAI API.
         stream = client.chat.completions.create(
-            model=llm_name,
-            messages=[
-                {"role": m["role"], "content": m["content"]}
-                for m in st.session_state.messages
-            ],
+            model=st.session_state['llm_name'],
+            messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
             stream=True,
         )
 

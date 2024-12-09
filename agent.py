@@ -3,6 +3,10 @@ from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import START, StateGraph
 from langgraph.prebuilt import tools_condition
 
+
+class Model:
+    
+
 # def define_model(model_name, openai_api_key,tools: None):
 #     if tools:
 #         llm = ChatOpenAI(model_name=model_name,openai_api_key=openai_api_key,temperature=0)
