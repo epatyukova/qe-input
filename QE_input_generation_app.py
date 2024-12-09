@@ -127,6 +127,7 @@ if not openai_api_key:
 if openai_api_key:
     # Create an OpenAI client.
     client = OpenAI(api_key=openai_api_key)
+    st.markdown('**You can ask agent to correct any input parameters, ask about their meaning, or generate aiida code to run calculations!**')
     # Create a session state variable to store the chat messages. This ensures that the
     # messages persist across reruns.
     if "messages" not in st.session_state:
