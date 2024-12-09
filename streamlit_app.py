@@ -4,6 +4,7 @@ from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
 from utils import list_of_pseudos, cutoff_limits, generate_input_file
 
+
 import os
 import shutil
 import json
@@ -96,12 +97,16 @@ if  structure_file:
 ###############################################
 ### LLM part to answer questions            ###
 ###############################################
+from agent import define_model
 
 if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 if openai_api_key:
     # Create an OpenAI client.
-    client = OpenAI(api_key=openai_api_key)
+    # client = OpenAI(api_key=openai_api_key)
+    if not llm_name:
+        llm_name='gpt-4o'
+    client=define_model(llm_name, openai_api_key)
 
     # Create a session state variable to store the chat messages. This ensures that the
     # messages persist across reruns.
