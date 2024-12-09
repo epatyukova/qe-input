@@ -98,7 +98,7 @@ if  structure_file:
 ### LLM part to answer questions            ###
 ###############################################
 # from agent import define_model
-from langchain_openai import ChatOpenAI
+# from langchain_openai import ChatOpenAI
 
 if not openai_api_key:
     st.info("Please add your OpenAI API key to continue.", icon="🗝️")
