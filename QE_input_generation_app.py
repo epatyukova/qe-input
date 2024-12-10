@@ -3,8 +3,6 @@ from openai import OpenAI
 from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
 from utils import list_of_pseudos, cutoff_limits, generate_input_file, update_input_file
-
-
 import os
 import shutil
 import json
@@ -99,7 +97,7 @@ if  structure_file:
 
     shutil.make_archive('qe_input', 'zip', './temp')
     input_file_content=generate_input_file(save_directory, 
-                                           structure_file, 
+                                           file_path, 
                                            pseudo_path, 
                                            list_of_element_files, 
                                            cutoffs['max_ecutwfc'], 
