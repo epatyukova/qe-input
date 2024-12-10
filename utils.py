@@ -80,16 +80,16 @@ def generate_input_file(save_directory, structure_file, pseudo_path, dict_pseudo
     from ase.io import read
     from ase.calculators.espresso import Espresso, EspressoProfile
     from ase.io.espresso import write_espresso_in
-    from pymargen.core.structure import Structure
+    from pymatgen.core.structure import Structure
     from pymatgen.io.ase import AseAtomsAdaptor
     
     try:
-        structure = read(structure_file)
+        structure=read(structure_file)
     except:
-        pymatgen_structure=Structure.from_file(structure)
+        pymatgen_structure=Structure.from_file(structure_file)
         adaptor = AseAtomsAdaptor()
-        structure = adaptor.get_structure(pymatgen_structure)
-        
+        structure = adaptor.get_atoms(pymatgen_structure)
+
     profile = EspressoProfile(
                   command='mpirun -n 8 ~/Documents/github/q-e/bin/pw.x',
                   pseudo_dir=pseudo_path,
