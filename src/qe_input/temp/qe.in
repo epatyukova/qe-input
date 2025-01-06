@@ -1,0 +1,56 @@
+&CONTROL
+   calculation      = 'scf'
+   restart_mode     = 'from_scratch'
+   tprnfor          = .true.
+   etot_conv_thr    = 1e-05
+   forc_conv_thr    = 0.0001
+/
+&SYSTEM
+   ecutwfc          = 30
+   ecutrho          = 240
+   occupations      = 'smearing'
+   degauss          = 0.0045
+   smearing         = 'fermi-dirac'
+   ntyp             = 2
+   nat              = 10
+   ibrav            = 0
+/
+&ELECTRONS
+   conv_thr         = 1e-08
+   mixing_mode      = 'plain'
+   mixing_beta      = 0.6
+   diagonalization  = 'ppcg'
+   startingwfc      = 'atomic+random'
+/
+&IONS
+/
+&CELL
+/
+&FCP
+/
+&RISM
+/
+ATOMIC_SPECIES
+Mg 24.305 Mg.pbe-n-kjpaw_psl.0.3.0.UPF
+P 30.973761998 P.pbe-n-rrkjus_psl.1.0.0.UPF
+
+K_POINTS automatic
+20 20 14  0 0 0
+
+CELL_PARAMETERS angstrom
+5.14400000000000 0.00000000000000 0.00000000000000
+0.00000000000000 5.08500000000000 0.00000000000000
+-1.13319497172392 0.00000000000000 7.44019792452188
+
+ATOMIC_POSITIONS angstrom
+Mg -0.5665974859 2.5425000000 3.7200989623  
+Mg 0.0000000000 0.0000000000 0.0000000000  
+P 3.5693471175 1.0536120000 1.8310327092  
+P 1.0080553967 3.5961120000 1.8890662530  
+P 0.4414579108 4.0313880000 5.6091652153  
+P 3.0027496316 1.4888880000 5.5511316715  
+P 2.0835697720 3.0998160000 6.7058503894  
+P 1.3606377704 0.5573160000 4.4544464974  
+P 1.9272352563 1.9851840000 0.7343475352  
+P 2.6501672578 4.5276840000 2.9857514271  
+
