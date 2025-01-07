@@ -116,11 +116,16 @@ def test_structure_read(tmp_path):
     assert Structure.from_file(mock_file)
     assert Structure.from_file(mock_file).lattice
     assert Structure.from_file(mock_file).formula
-    
+    # try to open corrupted cif
     with pytest.raises(ValueError):
         mock_file = tmp_path / 'mock_structure.cif'
         mock_file.write_text(CIF[-10], encoding="utf-8")
         assert Structure.from_file(mock_file)
+
+# check that pseudos for all elements exist
+# def test_pseudos():
+
+
 
 
 
