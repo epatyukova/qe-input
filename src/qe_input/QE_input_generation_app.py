@@ -63,7 +63,7 @@ if not structure_file:
     st.info("Please add your structure file to continue")
 if  structure_file:
     # create a local copy of structure file in the container
-    save_directory = "./src/qe_input/temp"
+    save_directory = "./src/qe_input/temp/"
     if os.path.exists(save_directory):
         shutil.rmtree(save_directory, ignore_errors=True)
     os.makedirs(save_directory)
@@ -79,14 +79,9 @@ if  structure_file:
     pseudo_path="./src/qe_input/pseudos/"
     if not os.path.exists(pseudo_path):
         os.makedirs(pseudo_path)
-    
-    # if not functional:
-    #     functional='PBE'
-    # if not mode:
-    #     mode='efficiency'
 
-    pseudo_family, list_of_element_files=list_of_pseudos('./src/qe_input/pseudos/', st.session_state['functional'], 
-                                                         st.session_state['mode'], composition,pseudo_path)
+    pseudo_family, list_of_element_files=list_of_pseudos(pseudo_path, st.session_state['functional'], 
+                                                         st.session_state['mode'], composition,save_directory)
     cutoffs=cutoff_limits('./src/qe_input/pseudo_cutoffs/', st.session_state['functional'],
                           st.session_state['mode'], composition)
     
@@ -96,7 +91,6 @@ if  structure_file:
     st.write('density cutoff (Ry): ', cutoffs['max_ecutrho'])
     st.write('k spacing (1/A): ', 0.01)
 
-    shutil.make_archive('qe_input', 'zip', './src/qe_input/temp')
     input_file_content=generate_input_file(save_directory, 
                                            file_path, 
                                            pseudo_path, 
@@ -104,13 +98,14 @@ if  structure_file:
                                            cutoffs['max_ecutwfc'], 
                                            cutoffs['max_ecutrho'], 
                                            kspacing=0.01)
-    shutil.make_archive('qe_input', 'zip', './src/qe_input/temp')
-    
     if input_file_content:
         st.session_state['input_file'] = input_file_content
-        st.session_state['input_file_path'] = './src/qe_input/qe.in'
-    
+        st.session_state['input_file_path'] = './src/qe_input/temp/qe.in'
+    else:
+        st.write('Error: Input file was not generated!')
 
+    shutil.make_archive('./src/qe_input/qe_input', 'zip','./src/qe_input/temp')
+    
     st.download_button(
         label="Download the files",
         data=open('./src/qe_input/qe_input.zip', "rb").read(),
