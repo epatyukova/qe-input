@@ -6,7 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../src/
 from streamlit.testing.v1 import AppTest
 from dotenv import load_dotenv
 from openai import OpenAI
-import os
+import re
 import pytest
 from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
@@ -71,16 +71,43 @@ def test_app():
         if(x.label=='XC-functional'):
             assert 'PBE' in x.options
             assert 'PBEsol' in x.options
+            x._value='PBEsol'
+            x.run()
+            assert at.session_state['functional']=='PBEsol'
         if(x.label=='pseudopotential flavour'):
             assert 'efficiency' in x.options
             assert 'precision' in x.options
+            x._value='precision'
+            x.run()
+            assert at.session_state['mode']=='precision'
         if(x.label=='assistant LLM'):
             assert 'gpt-4o' in x.options
             assert 'gpt-4o-mini' in x.options
             assert 'gpt-3.5-turbo' in x.options
+            x._value='gpt-3.5-turbo'
+            x.run()
+            assert at.session_state['llm_name']=='gpt-3.5-turbo'
     # Main body elements. Note that fileupload is recordered as 'UnknownElement' and 
     # neither is recognised by the test class, nor can be interacted with...
-    
+    main_values=[at.main[i].value for i in range(len(at.main))]
+    # not very useful assertion about whether any headings/sentences/info in the main
+    # section contain 'structure file' string
+    assert any([re.search('structure file',main_values[i])!=None \
+                for i in range(len(main_values)) if (type(main_values[i])==str)])
+    assert at.get('chat_input')==[]
+    # Check that the chat_input appears after the openai_api_key input
+    at.sidebar.get('text_input')[0]._value=openai_api_key
+    at.run()
+    assert at.session_state['feedback_api_key'] == openai_api_key
+    assert at.get('chat_input')!=[]
+    assert at.session_state['messages']==[]
+    # Testing interaction with the agent
+    at.get('chat_input')[0].set_value('Hello')
+    at.get('chat_input')[0].run()
+    assert at.session_state['messages']!=[] 
+    assert at.session_state['messages'][0]['role']=='user'
+    assert at.session_state['messages'][1]['role']=='assistant'
+
 
 # check that fake cif file is read correctely and save correctly in the container
 def test_structure_read(tmp_path):
