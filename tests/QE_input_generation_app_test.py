@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import re
 import pytest
+import json
 from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
 import streamlit as st
@@ -52,7 +53,18 @@ loop_
   F-  F4  1  0.80433674  0.19566326  0.50000000  1
   F-  F5  1  0.19566326  0.80433674  0.50000000  1"""
 
-# check that we can run the app and it has all nessecary components
+ELEMENTS=['Ac', 'Ag', 'Al', 'Am', 'Ar', 'As', 'At', 'Au', 'B', 'Ba', 'Be',\
+       'Bi', 'Bk', 'Br', 'C', 'Ca', 'Cd', 'Ce', 'Cf', 'Cl', 'Cm', 'Co',\
+       'Cr', 'Cs', 'Cu', 'Dy', 'Er', 'Es', 'Eu', 'F', 'Fe', 'Fm', 'Fr',\
+       'Ga', 'Gd', 'Ge', 'H', 'He', 'Hf', 'Hg', 'Ho', 'I', 'In', 'Ir',\
+       'K', 'Kr', 'La', 'Li', 'Lr', 'Lu', 'Md', 'Mg', 'Mn', 'Mo', 'N',\
+       'Na', 'Nb', 'Nd', 'Ne', 'Ni', 'No', 'Np', 'O', 'Os', 'P', 'Pa',\
+       'Pb', 'Pd', 'Pm', 'Po', 'Pr', 'Pt', 'Pu', 'Ra', 'Rb', 'Re', 'Rh',\
+       'Rn', 'Ru', 'S', 'Sb', 'Sc', 'Se', 'Si', 'Sm', 'Sn', 'Sr', 'Ta',\
+       'Tb', 'Tc', 'Te', 'Th', 'Ti', 'Tl', 'Tm', 'U', 'V', 'W', 'Xe', 'Y',\
+       'Yb', 'Zn', 'Zr']
+
+# check that we can run the app and it has all necessary components
 def test_app():
     at = AppTest(script_path="src/qe_input/QE_input_generation_app.py", default_timeout=10)
     at.run()
@@ -122,7 +134,60 @@ def test_structure_read(tmp_path):
         assert Structure.from_file(mock_file)
 
 # check that pseudos for all elements exist
-# def test_pseudos():
+def test_pseudos():
+    assert os.path.exists('./src/qe_input/pseudos/')
+    assert os.path.exists('./src/qe_input/pseudo_cutoffs/')
+    list_of_pseudo_types=os.listdir('./src/qe_input/pseudos/')
+    list_of_pseudo_types.remove(".DS_Store")
+    list_of_cutoffs=os.listdir('./src/qe_input/pseudo_cutoffs/')
+    list_of_cutoffs.remove(".DS_Store")
+    ## check taht for each combination of functional and mode there is a folder
+    ## that each folder contains psudos for all elements
+    at = AppTest(script_path="src/qe_input/QE_input_generation_app.py", default_timeout=10)
+    at.run()
+    for x in at.sidebar.get('selectbox'):
+        if(x.label=='XC-functional'):
+            functional_options=x.options
+        if(x.label=='pseudopotential flavour'):
+            mode_options=x.options
+    for functional in functional_options:
+        for mode in mode_options:
+            switch_pseudo=0
+            switch_cutoff=0
+            for pseudo in list_of_pseudo_types:
+                if(functional in pseudo and mode in pseudo):
+                    switch_pseudo=1
+            for cutoff_name in list_of_cutoffs:
+                if(functional in pseudo and mode in cutoff_name):
+                    switch_cutoff=1
+            assert switch_pseudo # it would be good to add a message about what functional/mode combination fail
+            assert switch_cutoff
+    for folder in list_of_pseudo_types:
+        list_of_files=os.listdir('./src/qe_input/pseudos/'+folder)
+        represented_elements=[]
+        for file in list_of_files:
+            if(file[1]=='.' or file[1]=='_' or file[1]=='-'):
+                el=file[0]
+                el=el.upper()
+            elif(file[2]=='.' or file[2]=='_' or file[2]=='-'):
+                el=file[:2]
+                el=el[0].upper()+el[1].lower()
+            assert el in ELEMENTS
+            represented_elements.append(el)
+        for el in ELEMENTS:
+            assert el in represented_elements
+    for file in list_of_cutoffs:
+        with open('./src/qe_input/pseudo_cutoffs/'+file,'r') as f:
+            cutoffs=json.load(f)
+            for el in ELEMENTS:
+                assert el in cutoffs.keys()
+    
+# checking that the downloads buttons is working
+def test_download(tmp_path):
+    at = AppTest(script_path="src/qe_input/QE_input_generation_app.py", default_timeout=10)
+    at.run()
+    mock_file = tmp_path / 'mock_structure.cif'
+    mock_file.write_text(CIF, encoding="utf-8")
 
 
 
