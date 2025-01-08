@@ -57,7 +57,7 @@ def cutoff_limits(pseudo_potentials_cutoffs_folder: str,
             try:
                 with open(pseudo_potentials_cutoffs_folder+file, "r") as f:
                     cutoffs=json.load(f)
-            except:
+            except FileNotFoundError:
                 cutoffs={}
     elements=[str(el) for el in Composition(compound).elements]
     if(cutoffs!={}):
@@ -77,23 +77,15 @@ def generate_input_file(save_directory, structure_file, pseudo_path, dict_pseudo
     It save the file on disk and prints it out.
     Arguments: generator input of type PW_input_data
     """
-    from ase.io import read
-    from ase.calculators.espresso import Espresso, EspressoProfile
+
     from ase.io.espresso import write_espresso_in
     from pymatgen.core.structure import Structure
     from pymatgen.io.ase import AseAtomsAdaptor
     
-    try:
-        structure=read(structure_file)
-    except:
-        pymatgen_structure=Structure.from_file(structure_file)
-        adaptor = AseAtomsAdaptor()
-        structure = adaptor.get_atoms(pymatgen_structure)
+    pymatgen_structure=Structure.from_file(structure_file)
+    adaptor = AseAtomsAdaptor()
+    structure = adaptor.get_atoms(pymatgen_structure)
 
-    profile = EspressoProfile(
-                  command='mpirun -n 8 ~/Documents/github/q-e/bin/pw.x',
-                  pseudo_dir=pseudo_path,
-                  )
     input_data = {
         'calculation': 'scf',
         'restart_mode': 'from_scratch',
