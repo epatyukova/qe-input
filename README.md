@@ -15,5 +15,5 @@ A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
 2. Run the app
 
    ```
-   $ streamlit run QE_input_generation_app.py
+   $ streamlit run src/qe_input/QE_input_generation_app.py
    ```
