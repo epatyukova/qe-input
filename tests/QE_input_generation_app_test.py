@@ -52,7 +52,18 @@ loop_
   F-  F4  1  0.80433674  0.19566326  0.50000000  1
   F-  F5  1  0.19566326  0.80433674  0.50000000  1"""
 
-# check that we can run the app and it has all nessecary components
+ELEMENTS=['Ac', 'Ag', 'Al', 'Am', 'Ar', 'As', 'At', 'Au', 'B', 'Ba', 'Be',\
+       'Bi', 'Bk', 'Br', 'C', 'Ca', 'Cd', 'Ce', 'Cf', 'Cl', 'Cm', 'Co',\
+       'Cr', 'Cs', 'Cu', 'Dy', 'Er', 'Es', 'Eu', 'F', 'Fe', 'Fm', 'Fr',\
+       'Ga', 'Gd', 'Ge', 'H', 'He', 'Hf', 'Hg', 'Ho', 'I', 'In', 'Ir',\
+       'K', 'Kr', 'La', 'Li', 'Lr', 'Lu', 'Md', 'Mg', 'Mn', 'Mo', 'N',\
+       'Na', 'Nb', 'Nd', 'Ne', 'Ni', 'No', 'Np', 'O', 'Os', 'P', 'Pa',\
+       'Pb', 'Pd', 'Pm', 'Po', 'Pr', 'Pt', 'Pu', 'Ra', 'Rb', 'Re', 'Rh',\
+       'Rn', 'Ru', 'S', 'Sb', 'Sc', 'Se', 'Si', 'Sm', 'Sn', 'Sr', 'Ta',\
+       'Tb', 'Tc', 'Te', 'Th', 'Ti', 'Tl', 'Tm', 'U', 'V', 'W', 'Xe', 'Y',\
+       'Yb', 'Zn', 'Zr']
+
+# check that we can run the app and it has all necessary components
 def test_app():
     at = AppTest(script_path="src/qe_input/QE_input_generation_app.py", default_timeout=10)
     at.run()
@@ -122,7 +133,10 @@ def test_structure_read(tmp_path):
         assert Structure.from_file(mock_file)
 
 # check that pseudos for all elements exist
-# def test_pseudos():
+def test_pseudos():
+    assert os.path.exists('./src/qe_input/pseudos/')
+    ## check taht for each combination of functional and mode there is a folder
+    ## that each folder contains psudos for all elements
 
 
 
