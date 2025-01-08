@@ -92,8 +92,8 @@ def test_app():
     main_values=[at.main[i].value for i in range(len(at.main))]
     # not very useful assertion about whether any headings/sentences/info in the main
     # section contain 'structure file' string
-    assert any([re.search('structure file',main_values[i])!=None \
-                for i in range(len(main_values)) if (type(main_values[i])==str)])
+    assert any([re.search('structure file',main_values[i]) is not None \
+                for i in range(len(main_values)) if isinstance(main_values[i],str)])
     assert at.get('chat_input')==[]
     # Check that the chat_input appears after the openai_api_key input
     at.sidebar.get('text_input')[0]._value=openai_api_key
@@ -107,7 +107,6 @@ def test_app():
     assert at.session_state['messages']!=[] 
     assert at.session_state['messages'][0]['role']=='user'
     assert at.session_state['messages'][1]['role']=='assistant'
-
 
 # check that fake cif file is read correctely and save correctly in the container
 def test_structure_read(tmp_path):

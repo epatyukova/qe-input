@@ -45,8 +45,8 @@ else:
 st.title("💬 Chatbot for QE input")
 
 st.write(
-    "To generate input file, provide structure CIF file."
-    "The Chatbot will generate an input file for QE single point scf calculations and answer your questions."
+    """To generate input file, provide structure CIF file.
+    The Chatbot will generate an input file for QE single point scf calculations and answer your questions."""
 )
 
 # upload structure file into buffer
