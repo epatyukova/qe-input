@@ -12,6 +12,21 @@ import json
 from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
 import streamlit as st
+
+from unittest.mock import MagicMock
+from streamlit.runtime.memory_uploaded_file_manager import MemoryUploadedFileManager, UploadedFileRec
+from streamlit.testing.v1.local_script_runner import LocalScriptRunner
+from streamlit.runtime.state.session_state import SessionState
+from streamlit.runtime.state.safe_session_state import SafeSessionState
+from streamlit.runtime.pages_manager import PagesManager
+from streamlit.runtime import Runtime
+
+from streamlit.runtime.fragment import MemoryFragmentStorage
+from streamlit.runtime.scriptrunner import RerunData, ScriptRunner, ScriptRunnerEvent
+from streamlit.runtime.scriptrunner.script_cache import ScriptCache
+import uuid
+from time import sleep
+
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
@@ -182,14 +197,52 @@ def test_pseudos():
             for el in ELEMENTS:
                 assert el in cutoffs.keys()
     
-# checking that the downloads buttons is working
-def test_download(tmp_path):
-    at = AppTest(script_path="src/qe_input/QE_input_generation_app.py", default_timeout=10)
-    at.run()
-    mock_file = tmp_path / 'mock_structure.cif'
-    mock_file.write_text(CIF, encoding="utf-8")
+# it is not clear how to test file uploader/downloader
+# the code below essentially is not working, the 'uploaded' mock file is not seen
+# Probably it is better to modify AppTest class to include self.upload_file_manager,
+# its interaction with events/session_state and a method reacting to changes in the list of uploaded files
 
+# def test_upload_with_scriptrunner(tmp_path):
+#     # Initialize dependencies for ScriptRunner 
 
+#     session_id = str(uuid.uuid4())
 
+#     # Initialize MemoryUploadedFileManager
+#     mock_file = tmp_path / "mock_structure.cif"
+#     mock_file.write_text(CIF, encoding="utf-8")
 
+#     # Set up the script path and ScriptRunner
+#     app_script_path = "src/qe_input/QE_input_generation_app.py"  # Replace with the path to your Streamlit app
+#     # session_state = SafeSessionState(SessionState(), lambda: None)
+#     # pages_manager=PagesManager(main_script_path=app_script_path)
+#     # uploaded_file_mgr = MemoryUploadedFileManager(tmp_path)
 
+#     script_runner = LocalScriptRunner(
+#             script_path=app_script_path,
+#             session_state=SafeSessionState(SessionState(), lambda: None),
+#             pages_manager=PagesManager(main_script_path=app_script_path),
+#             args=None,
+#             kwargs=None
+#         )
+
+#     # Start the ScriptRunner
+#     script_runner.start()
+#     print(script_runner.session_state)
+#      # Add a file to UploadedFileManager
+#     file_id = "test_file_id"
+#     uploaded_file_mgr = MemoryUploadedFileManager(tmp_path)
+#     script_runner.uploaded_file_mgr = uploaded_file_mgr
+#     Runtime._instance = script_runner
+
+#     uploaded_file_rec = UploadedFileRec(
+#         file_id=file_id,
+#         name="mock_structure.cif",
+#         type="text/plain",
+#         data=mock_file.read_bytes(),
+#     )
+#     script_runner.uploaded_file_mgr.add_file(session_id, uploaded_file_rec)
+#     sleep(3)
+#         # Validate uploaded file behavior
+#     files = script_runner.uploaded_file_mgr.get_files(session_id, file_id)
+#     print("Files in manager:", files) 
+#     assert files

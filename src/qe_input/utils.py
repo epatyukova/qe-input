@@ -6,6 +6,7 @@ from pymatgen.core.composition import Composition
 import numpy as np
 from typing import Dict
 import streamlit as st
+from pathlib import Path
 
 def list_of_pseudos(pseudo_potentials_folder: str, 
                     functional: str,
@@ -103,10 +104,12 @@ def generate_input_file(save_directory, structure_file, pseudo_path, dict_pseudo
         'diagonalization': 'ppcg',
         'startingwfc':'atomic+random'
     }
-    write_espresso_in(save_directory+'/qe.in', structure, input_data=input_data, pseudopotentials=dict_pseudo_file_names, 
+    save_directory = Path(save_directory)
+    filename = save_directory / 'qe.in'
+    write_espresso_in(str(filename), structure, input_data=input_data, pseudopotentials=dict_pseudo_file_names, 
                       kspacing=float(kspacing), format='espresso-in')
     input_file_content=''
-    with open(save_directory+'/qe.in','r') as file:
+    with open(str(filename),'r') as file:
         for line in file:
             input_file_content+=line+'\n'
     input_file_content=input_file_content[:-1]
