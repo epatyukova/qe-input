@@ -1,12 +1,24 @@
 import os
 import streamlit as st
+import pandas as pd
 from openai import OpenAI
 from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
-from utils import list_of_pseudos, cutoff_limits, generate_input_file, update_input_file
+from utils import list_of_pseudos, cutoff_limits, generate_input_file
+
+from crystal_toolkit.components.structure import StructureMoleculeComponent
+import crystal_toolkit.components as ctc
+from crystal_toolkit.settings import SETTINGS
+import dash
+
+from dash import html, Dash, callback, Output, Input
+from flask import Flask
+
+import threading
 
 import shutil
 import json
+import time
 
 with st.sidebar:
     openai_api_key = st.text_input("OpenAI API Key", key="feedback_api_key", type="password")
@@ -67,9 +79,12 @@ if  structure_file:
     if os.path.exists(save_directory):
         shutil.rmtree(save_directory, ignore_errors=True)
     os.makedirs(save_directory)
+
     
     file_name = structure_file.name
     file_path = os.path.join(save_directory, file_name)
+    st.session_state['save_directory']=save_directory
+    st.session_state['structure_file']=file_path
 
     with open(file_path, "wb") as f:
         f.write(structure_file.getbuffer())
@@ -85,12 +100,6 @@ if  structure_file:
     cutoffs=cutoff_limits('./src/qe_input/pseudo_cutoffs/', st.session_state['functional'],
                           st.session_state['mode'], composition)
     
-    st.write('compound: ', composition)
-    st.write('Pseudo family used: ', pseudo_family)
-    st.write('energy cutoff (Ry): ', cutoffs['max_ecutwfc'])
-    st.write('density cutoff (Ry): ', cutoffs['max_ecutrho'])
-    st.write('k spacing (1/A): ', 0.01)
-
     input_file_content=generate_input_file(save_directory, 
                                            file_path, 
                                            pseudo_path, 
@@ -106,12 +115,62 @@ if  structure_file:
 
     shutil.make_archive('./src/qe_input/qe_input', 'zip','./src/qe_input/temp')
     
+    # visualising the structure and printing info about the parameters
+
+    # server=Flask(__name__)
+    # app = Dash(__name__,server=server)
+    app = Dash()
+    structure_component = StructureMoleculeComponent(structure, id="structure")
+    app.layout=html.Div([structure_component.layout()])
+    def run_dash_app():
+        app.run_server(debug=False, host="0.0.0.0", port=8055)
+
+    thread = threading.Thread(target=run_dash_app, daemon=True)
+    thread.start()
+    time.sleep(3)
+    st.components.v1.iframe(src="http://0.0.0.0:8055", height=600)
+    
+    # server=Flask(__name__)
+    # app = Dash(__name__,server=server)
+    # # app = Dash()
+    # structure_component = StructureMoleculeComponent(structure, id="structure")
+    # app.layout=html.Div([html.Button('Draw the structure', id='button-draw-structure',n_clicks=0),
+    #                      html.Div(children=structure_component.layout(),id='layout'),
+    #                     ])
+    # @callback(
+    #     Output(component_id='layout', component_property='children'),
+    #     Input(component_id='button-draw-structure', component_property='n_clicks'), Input(component_property='structure')
+    # )
+    # def update_layout(n_clicks,structure):
+    #     print(n_clicks)
+    #     structure_component = StructureMoleculeComponent(structure, id="structure")
+    #     time.sleep(2)
+    #     return structure_component.layout()
+
+    # # # # now put dash app inside streamlit container
+    # def run_dash_app():
+    #     return app.run_server(debug=False, host="0.0.0.0", port=8055)
+    # thread = threading.Thread(target=run_dash_app, daemon=True)
+    # thread.start()
+    # time.sleep(3)
+    # st.components.v1.iframe(src="http://0.0.0.0:8055", height=100)
+    
+  
+    st.write('compound: ', composition)
+    st.write('Pseudo family used: ', pseudo_family)
+    st.write('energy cutoff (Ry): ', cutoffs['max_ecutwfc'])
+    st.write('density cutoff (Ry): ', cutoffs['max_ecutrho'])
+    st.write('k spacing (1/A): ', 0.01)
+
     st.download_button(
-        label="Download the files",
-        data=open('./src/qe_input/qe_input.zip', "rb").read(),
-        file_name='qe_input.zip',
-        mime="application/octet-stream"
-    )
+            label="Download the files",
+            data=open('./src/qe_input/qe_input.zip', "rb").read(),
+            file_name='qe_input.zip',
+            mime="application/octet-stream"
+        )
+
+    
+
 ###############################################
 ### LLM part to answer questions            ###
 ###############################################
