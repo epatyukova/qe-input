@@ -8,17 +8,6 @@ from pymatgen.io.cif import CifWriter
 from utils import list_of_pseudos, cutoff_limits, generate_input_file
 from data_utils import jarvis_structure_lookup, mp_structure_lookup, mc3d_structure_lookup, oqmd_strucutre_lookup
 
-from crystal_toolkit.components.structure import StructureMoleculeComponent
-import crystal_toolkit.components as ctc
-from crystal_toolkit.settings import SETTINGS
-from jarvis.db.figshare import data
-import dash
-
-from dash import html, Dash, callback, Output, Input
-from flask import Flask
-
-import threading
-
 import shutil
 import json
 import time
