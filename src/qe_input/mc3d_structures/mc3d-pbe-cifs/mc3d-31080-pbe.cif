@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sc2CoGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.41068891
+_cell_length_b   5.41068891
+_cell_length_c   9.61961933
+_cell_angle_alpha   63.89611646
+_cell_angle_beta   116.10388354
+_cell_angle_gamma   136.32020944
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc2CoGe2
+_chemical_formula_sum   'Sc4 Co2 Ge4'
+_cell_volume   171.25472606
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.99498898  -0.99498898  0.66744468  1.0
+  Sc  Sc1  1  0.00501102  -0.00501102  0.33255532  1.0
+  Sc  Sc2  1  0.81969938  0.18030062  0.89394917  1.0
+  Sc  Sc3  1  1.18030062  -0.18030062  0.10605083  1.0
+  Co  Co4  1  0.72170601  -0.72170601  0.36987761  1.0
+  Co  Co5  1  0.27829399  -0.27829399  0.63012239  1.0
+  Ge  Ge6  1  0.64788255  0.35211745  0.57465433  1.0
+  Ge  Ge7  1  1.35211745  -0.35211745  0.42534567  1.0
+  Ge  Ge8  1  0.52082537  0.47917463  0.87397826  1.0
+  Ge  Ge9  1  1.47917463  -0.47917463  0.12602174  1.0

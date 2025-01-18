@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_CsMgH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.29175637
+_cell_length_b   8.29175637
+_cell_length_c   8.29175637
+_cell_angle_alpha   44.35662427
+_cell_angle_beta   44.35662427
+_cell_angle_gamma   44.35662427
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMgH3
+_chemical_formula_sum   'Cs3 Mg3 H9'
+_cell_volume   253.27055234
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.78602533  0.78602533  0.78602533  1.0
+  Cs  Cs1  1  1.21397467  1.21397467  0.21397467  1.0
+  Cs  Cs2  1  0.00000000  0.00000000  0.00000000  1.0
+  Mg  Mg3  1  1.62066773  0.62066773  0.62066773  1.0
+  Mg  Mg4  1  1.37933227  0.37933227  0.37933227  1.0
+  Mg  Mg5  1  1.50000000  0.50000000  0.50000000  1.0
+  H  H6  1  1.30425430  0.30425430  0.71405829  1.0
+  H  H7  1  1.30425430  0.71405829  0.30425430  1.0
+  H  H8  1  1.28594171  0.69574570  0.69574570  1.0
+  H  H9  1  1.69574570  0.28594171  0.69574570  1.0
+  H  H10  1  1.69574570  0.69574570  0.28594171  1.0
+  H  H11  1  1.71405829  0.30425430  0.30425430  1.0
+  H  H12  1  0.50000000  0.00000000  -0.50000000  1.0
+  H  H13  1  0.50000000  -0.50000000  0.00000000  1.0
+  H  H14  1  0.00000000  0.50000000  -0.50000000  1.0

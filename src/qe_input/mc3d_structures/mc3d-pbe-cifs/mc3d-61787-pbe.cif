@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaCaBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.02254458
+_cell_length_b   8.02254458
+_cell_length_c   8.02254458
+_cell_angle_alpha   55.24806471
+_cell_angle_beta   55.24806471
+_cell_angle_gamma   55.24806471
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaBr3
+_chemical_formula_sum   'Na2 Ca2 Br6'
+_cell_volume   324.78201653
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14684611  0.14684611  0.14684611  1.0
+  Na  Na1  1  0.85315389  -0.14684611  -0.14684611  1.0
+  Ca  Ca2  1  0.34300875  0.34300875  -0.65699125  1.0
+  Ca  Ca3  1  0.65699125  0.65699125  -0.34300875  1.0
+  Br  Br4  1  0.44919919  0.06194861  -0.26658236  1.0
+  Br  Br5  1  1.26658236  -0.44919919  -0.06194861  1.0
+  Br  Br6  1  0.93805139  0.26658236  -0.44919919  1.0
+  Br  Br7  1  0.55080081  -0.06194861  0.26658236  1.0
+  Br  Br8  1  0.73341764  -0.55080081  0.06194861  1.0
+  Br  Br9  1  1.06194861  -0.26658236  -0.55080081  1.0

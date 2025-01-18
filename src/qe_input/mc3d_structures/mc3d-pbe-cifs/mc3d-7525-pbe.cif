@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CuAuF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55569228
+_cell_length_b   5.24049857
+_cell_length_c   3.76957705
+_cell_angle_alpha   106.06802023
+_cell_angle_beta   97.04867872
+_cell_angle_gamma   90.88895494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAuF5
+_chemical_formula_sum   'Cu1 Au1 F5'
+_cell_volume   104.52419306
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.50000000  0.00000000  1.0
+  Au  Au1  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F2  1  0.30767431  0.83782451  -0.89002798  1.0
+  F  F3  1  0.69232569  0.16217549  -0.10997202  1.0
+  F  F4  1  0.82664261  0.73347544  -0.82912374  1.0
+  F  F5  1  0.17335739  0.26652456  -0.17087626  1.0
+  F  F6  1  0.50000000  0.50000000  -0.50000000  1.0

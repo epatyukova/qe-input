@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaMg2Ni9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.41142137
+_cell_length_b   8.41142137
+_cell_length_c   8.41142137
+_cell_angle_alpha   33.92486196
+_cell_angle_beta   33.92486196
+_cell_angle_gamma   33.92486196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaMg2Ni9
+_chemical_formula_sum   'La1 Mg2 Ni9'
+_cell_volume   165.21408952
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.66668280  0.66668280  0.66668280  1.0
+  Ni  Ni1  1  1.33331720  1.33331720  0.33331720  1.0
+  Ni  Ni2  1  1.50000000  0.50000000  0.50000000  1.0
+  Ni  Ni3  1  1.41298266  1.41298266  -0.08316856  1.0
+  Ni  Ni4  1  1.41298266  0.91683144  0.41298266  1.0
+  Ni  Ni5  1  1.08316856  0.58701734  0.58701734  1.0
+  Ni  Ni6  1  1.58701734  0.08316856  0.58701734  1.0
+  Ni  Ni7  1  1.58701734  0.58701734  0.08316856  1.0
+  Ni  Ni8  1  0.91683144  1.41298266  0.41298266  1.0
+  La  La9  1  0.00000000  0.00000000  0.00000000  1.0
+  Mg  Mg10  1  0.85502939  0.85502939  0.85502939  1.0
+  Mg  Mg11  1  1.14497061  1.14497061  0.14497061  1.0

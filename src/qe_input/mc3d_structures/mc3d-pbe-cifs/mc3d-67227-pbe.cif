@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KCo2Mo2HO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35631196
+_cell_length_b   5.35631196
+_cell_length_c   8.65171322
+_cell_angle_alpha   74.94145670
+_cell_angle_beta   105.05854330
+_cell_angle_gamma   113.63303268
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCo2Mo2HO10
+_chemical_formula_sum   'K1 Co2 Mo2 H1 O10'
+_cell_volume   216.16623207
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O1  1  1.33557515  -0.33557515  1.07379478  1.0
+  O  O2  1  0.66442485  0.33557515  -0.07379478  1.0
+  O  O3  1  0.85592402  0.14407598  0.43530486  1.0
+  O  O4  1  1.14407598  -0.14407598  0.56469514  1.0
+  O  O5  1  0.65634496  0.34365504  0.58047479  1.0
+  O  O6  1  1.34365504  -0.34365504  0.41952521  1.0
+  O  O7  1  1.66069543  -0.17220377  0.70366038  1.0
+  O  O8  1  1.17220377  -0.66069543  0.70366038  1.0
+  O  O9  1  0.82779623  0.66069543  0.29633962  1.0
+  O  O10  1  0.33930457  0.17220377  0.29633962  1.0
+  H  H11  1  -0.00000000  0.00000000  0.50000000  1.0
+  Mo  Mo12  1  0.54024179  0.45975821  0.72883537  1.0
+  Mo  Mo13  1  1.45975821  -0.45975821  0.27116463  1.0
+  Co  Co14  1  1.50000000  -0.00000000  0.50000000  1.0
+  Co  Co15  1  1.00000000  0.50000000  0.50000000  1.0

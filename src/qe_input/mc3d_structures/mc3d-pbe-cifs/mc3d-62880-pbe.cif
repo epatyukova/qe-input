@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La4AlIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.02880664
+_cell_length_b   10.02880664
+_cell_length_c   10.02880664
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4AlIr
+_chemical_formula_sum   'La16 Al4 Ir4'
+_cell_volume   713.23521253
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.34941639  0.65058361  0.65058361  1.0
+  La  La1  1  1.04824917  0.65058361  -0.34941639  1.0
+  La  La2  1  -0.34941639  0.65058361  1.04824917  1.0
+  La  La3  1  0.65058361  1.04824917  -0.34941639  1.0
+  La  La4  1  0.06199221  0.43800779  0.43800779  1.0
+  La  La5  1  0.43800779  0.43800779  0.06199221  1.0
+  La  La6  1  0.43800779  0.06199221  0.43800779  1.0
+  La  La7  1  0.06199221  0.06199221  0.43800779  1.0
+  La  La8  1  0.06199221  0.43800779  0.06199221  1.0
+  La  La9  1  0.43800779  0.06199221  0.06199221  1.0
+  La  La10  1  -0.80459647  0.80459647  0.80459647  1.0
+  La  La11  1  -0.19540353  0.80459647  0.19540353  1.0
+  La  La12  1  -0.19540353  0.19540353  0.80459647  1.0
+  La  La13  1  0.19540353  1.19540353  -0.19540353  1.0
+  La  La14  1  0.19540353  -0.19540353  0.19540353  1.0
+  La  La15  1  -0.19540353  0.19540353  0.19540353  1.0
+  Al  Al16  1  0.42678947  1.42678947  0.42678947  1.0
+  Al  Al17  1  -0.28036840  0.42678947  0.42678947  1.0
+  Al  Al18  1  0.42678947  1.42678947  -0.28036840  1.0
+  Al  Al19  1  0.42678947  -0.28036840  0.42678947  1.0
+  Ir  Ir20  1  0.85947983  0.85947983  -0.14052017  1.0
+  Ir  Ir21  1  0.42156050  0.85947983  -0.14052017  1.0
+  Ir  Ir22  1  0.85947983  0.85947983  -0.57843950  1.0
+  Ir  Ir23  1  0.85947983  0.42156050  -0.14052017  1.0

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaV2Cu3(HO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03724639
+_cell_length_b   6.03724639
+_cell_length_c   7.95769912
+_cell_angle_alpha   64.27720593
+_cell_angle_beta   115.72279407
+_cell_angle_gamma   119.05261638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaV2Cu3(HO5)2
+_chemical_formula_sum   'Ba1 V2 Cu3 H2 O10'
+_cell_volume   219.05381774
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.00000000  0.00000000  0.50000000  1.0
+  H  H1  1  0.73307104  0.26692896  0.73285100  1.0
+  H  H2  1  1.26692896  -0.26692896  0.26714900  1.0
+  Cu  Cu3  1  1.00000000  -0.50000000  0.00000000  1.0
+  Cu  Cu4  1  1.50000000  0.00000000  0.00000000  1.0
+  Cu  Cu5  1  0.00000000  0.00000000  0.00000000  1.0
+  V  V6  1  1.42438232  -0.42438232  0.72453917  1.0
+  V  V7  1  0.57561768  0.42438232  0.27546083  1.0
+  O  O8  1  0.77522484  0.70928517  0.81488061  1.0
+  O  O9  1  0.29071483  0.22477516  0.81488061  1.0
+  O  O10  1  1.22477516  -0.70928517  0.18511939  1.0
+  O  O11  1  1.70928517  -0.22477516  0.18511939  1.0
+  O  O12  1  0.28923732  -0.28923732  0.78369109  1.0
+  O  O13  1  0.71076268  -0.71076268  0.21630891  1.0
+  O  O14  1  0.65805742  0.34194258  0.52042569  1.0
+  O  O15  1  1.34194258  -0.34194258  0.47957431  1.0
+  O  O16  1  0.79001843  0.20998157  0.88564268  1.0
+  O  O17  1  1.20998157  -0.20998157  0.11435732  1.0

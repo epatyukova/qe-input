@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_BaSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.62998554
+_cell_length_b   5.67432430
+_cell_length_c   12.68737823
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSiO3
+_chemical_formula_sum   'Ba4 Si4 O12'
+_cell_volume   333.32330131
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.22949821  0.68449154  0.85806091  1.0
+  Ba  Ba1  1  0.72949821  0.81550846  0.14193909  1.0
+  Ba  Ba2  1  0.77050179  0.18449154  0.64193909  1.0
+  Ba  Ba3  1  0.27050179  0.31550846  0.35806091  1.0
+  Si  Si4  1  0.31790078  0.69577510  0.57304771  1.0
+  Si  Si5  1  0.81790078  0.80422490  0.42695229  1.0
+  Si  Si6  1  0.68209922  0.19577510  0.92695229  1.0
+  Si  Si7  1  0.18209922  0.30422490  0.07304771  1.0
+  O  O8  1  0.25881596  0.41794757  0.59313199  1.0
+  O  O9  1  0.75881596  0.08205243  0.40686801  1.0
+  O  O10  1  0.74118404  0.91794757  0.90686801  1.0
+  O  O11  1  0.24118404  0.58205243  0.09313199  1.0
+  O  O12  1  0.24908734  0.87716929  0.66806919  1.0
+  O  O13  1  0.74908734  0.62283071  0.33193081  1.0
+  O  O14  1  0.75091266  0.37716929  0.83193081  1.0
+  O  O15  1  0.25091266  0.12283071  0.16806919  1.0
+  O  O16  1  0.67073375  0.72275971  0.54282149  1.0
+  O  O17  1  0.17073375  0.77724029  0.45717851  1.0
+  O  O18  1  0.32926625  0.22275971  0.95717851  1.0
+  O  O19  1  0.82926625  0.27724029  0.04282149  1.0

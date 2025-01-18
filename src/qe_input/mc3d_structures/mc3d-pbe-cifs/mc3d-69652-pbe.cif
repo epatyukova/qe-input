@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Tl4GeI6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.40486641
+_cell_length_b   9.40486641
+_cell_length_c   10.15430775
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl4GeI6
+_chemical_formula_sum   'Tl8 Ge2 I12'
+_cell_volume   898.16387482
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.33707924  0.16292076  0.25000000  1.0
+  Tl  Tl1  1  0.33707924  0.16292076  0.75000000  1.0
+  Tl  Tl2  1  0.83707924  0.33707924  0.75000000  1.0
+  Tl  Tl3  1  0.83707924  0.33707924  0.25000000  1.0
+  Tl  Tl4  1  0.66292076  0.83707924  0.25000000  1.0
+  Tl  Tl5  1  0.66292076  0.83707924  0.75000000  1.0
+  Tl  Tl6  1  0.16292076  0.66292076  0.75000000  1.0
+  Tl  Tl7  1  0.16292076  0.66292076  0.25000000  1.0
+  Ge  Ge8  1  0.50000000  0.50000000  0.50000000  1.0
+  Ge  Ge9  1  0.00000000  0.00000000  0.00000000  1.0
+  I  I10  1  0.37665812  0.80213840  0.50000000  1.0
+  I  I11  1  0.87665812  0.69786160  0.00000000  1.0
+  I  I12  1  0.19786160  0.37665812  0.50000000  1.0
+  I  I13  1  0.69786160  0.12334188  0.00000000  1.0
+  I  I14  1  0.62334188  0.19786160  0.50000000  1.0
+  I  I15  1  0.12334188  0.30213840  0.00000000  1.0
+  I  I16  1  0.80213840  0.62334188  0.50000000  1.0
+  I  I17  1  0.30213840  0.87665812  0.00000000  1.0
+  I  I18  1  0.50000000  0.50000000  0.20386759  1.0
+  I  I19  1  0.50000000  0.50000000  0.79613241  1.0
+  I  I20  1  0.00000000  0.00000000  0.70386759  1.0
+  I  I21  1  0.00000000  0.00000000  0.29613241  1.0

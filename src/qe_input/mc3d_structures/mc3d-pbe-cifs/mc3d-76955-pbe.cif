@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn3Ga4Pd7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95059397
+_cell_length_b   6.95059397
+_cell_length_c   6.95059397
+_cell_angle_alpha   113.70122723
+_cell_angle_beta   113.70122723
+_cell_angle_gamma   113.70122723
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn3Ga4Pd7
+_chemical_formula_sum   'Zn3 Ga4 Pd7'
+_cell_volume   208.45098464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50599590  -0.05179248  -0.31193874  1.0
+  Zn  Zn1  1  0.68806126  0.50599590  -0.05179248  1.0
+  Zn  Zn2  1  0.94820752  0.68806126  0.50599590  1.0
+  Ga  Ga3  1  0.58903544  1.16262837  -0.58043351  1.0
+  Ga  Ga4  1  0.41956649  0.58903544  -0.83737163  1.0
+  Ga  Ga5  1  1.16262837  0.41956649  0.58903544  1.0
+  Ga  Ga6  1  0.03182172  0.03182172  0.03182172  1.0
+  Pd  Pd7  1  0.65950102  -0.08575420  0.08692306  1.0
+  Pd  Pd8  1  1.08692306  1.65950102  -0.08575420  1.0
+  Pd  Pd9  1  0.91424580  1.08692306  -0.34049898  1.0
+  Pd  Pd10  1  0.43072016  0.18493301  0.02186650  1.0
+  Pd  Pd11  1  1.02186650  0.43072016  0.18493301  1.0
+  Pd  Pd12  1  1.18493301  1.02186650  0.43072016  1.0
+  Pd  Pd13  1  0.55049376  0.55049376  0.55049376  1.0

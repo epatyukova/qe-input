@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Gd3Mn2Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87474623
+_cell_length_b   5.87474623
+_cell_length_c   13.82365966
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.64209290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3Mn2Si3
+_chemical_formula_sum   'Gd6 Mn4 Si6'
+_cell_volume   315.24296343
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.07573403  0.92426597  0.88422658  1.0
+  Gd  Gd1  1  0.07573403  0.92426597  0.61577342  1.0
+  Gd  Gd2  1  -0.07573403  0.07573403  0.38422658  1.0
+  Gd  Gd3  1  -0.07573403  0.07573403  0.11577342  1.0
+  Gd  Gd4  1  0.36263097  0.63736903  0.75000000  1.0
+  Gd  Gd5  1  -0.36263097  0.36263097  0.25000000  1.0
+  Mn  Mn6  1  0.21851343  0.78148657  0.42527348  1.0
+  Mn  Mn7  1  0.21851343  0.78148657  0.07472652  1.0
+  Mn  Mn8  1  -0.21851343  0.21851343  0.92527348  1.0
+  Mn  Mn9  1  -0.21851343  0.21851343  0.57472652  1.0
+  Si  Si10  1  0.39186072  0.60813928  0.96174857  1.0
+  Si  Si11  1  0.39186072  0.60813928  0.53825143  1.0
+  Si  Si12  1  -0.39186072  0.39186072  0.46174857  1.0
+  Si  Si13  1  -0.39186072  0.39186072  0.03825143  1.0
+  Si  Si14  1  -0.32605138  0.32605138  0.75000000  1.0
+  Si  Si15  1  0.32605138  0.67394862  0.25000000  1.0

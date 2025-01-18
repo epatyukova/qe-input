@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaZrCuSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.79681066
+_cell_length_b   3.85858266
+_cell_length_c   10.35260150
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZrCuSe3
+_chemical_formula_sum   'Na4 Zr4 Cu4 Se12'
+_cell_volume   551.13248419
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.22824516  0.75000000  0.54874946  1.0
+  Na  Na1  1  0.72824516  0.75000000  0.95125054  1.0
+  Na  Na2  1  0.77175484  0.25000000  0.45125054  1.0
+  Na  Na3  1  0.27175484  0.25000000  0.04874946  1.0
+  Zr  Zr4  1  0.00921388  0.75000000  0.82123321  1.0
+  Zr  Zr5  1  0.50921388  0.75000000  0.67876679  1.0
+  Zr  Zr6  1  0.99078612  0.25000000  0.17876679  1.0
+  Zr  Zr7  1  0.49078612  0.25000000  0.32123321  1.0
+  Cu  Cu8  1  0.49305638  0.75000000  0.09216350  1.0
+  Cu  Cu9  1  0.99305638  0.75000000  0.40783650  1.0
+  Cu  Cu10  1  0.50694362  0.25000000  0.90783650  1.0
+  Cu  Cu11  1  0.00694362  0.25000000  0.59216350  1.0
+  Se  Se12  1  0.39507889  0.75000000  0.88236071  1.0
+  Se  Se13  1  0.89507889  0.75000000  0.61763929  1.0
+  Se  Se14  1  0.60492111  0.25000000  0.11763929  1.0
+  Se  Se15  1  0.10492111  0.25000000  0.38236071  1.0
+  Se  Se16  1  0.36408596  0.75000000  0.25303175  1.0
+  Se  Se17  1  0.86408596  0.75000000  0.24696825  1.0
+  Se  Se18  1  0.63591404  0.25000000  0.74696825  1.0
+  Se  Se19  1  0.13591404  0.25000000  0.75303175  1.0
+  Se  Se20  1  0.10259029  0.75000000  0.06387655  1.0
+  Se  Se21  1  0.60259029  0.75000000  0.43612345  1.0
+  Se  Se22  1  0.89740971  0.25000000  0.93612345  1.0
+  Se  Se23  1  0.39740971  0.25000000  0.56387655  1.0

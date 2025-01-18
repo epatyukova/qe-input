@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cd3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32014107
+_cell_length_b   8.32014107
+_cell_length_c   8.63798101
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd3Au
+_chemical_formula_sum   'Cd18 Au6'
+_cell_volume   517.85032945
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.63203862  0.63203862  0.40072526  1.0
+  Cd  Cd1  1  0.63203862  -0.00000000  0.90072526  1.0
+  Cd  Cd2  1  -0.00000000  0.63203862  0.90072526  1.0
+  Cd  Cd3  1  0.00000000  0.36796138  0.40072526  1.0
+  Cd  Cd4  1  0.36796138  0.36796138  0.90072526  1.0
+  Cd  Cd5  1  0.36796138  -0.00000000  0.40072526  1.0
+  Cd  Cd6  1  0.29336353  0.29336353  0.24370932  1.0
+  Cd  Cd7  1  0.29336353  0.00000000  0.74370932  1.0
+  Cd  Cd8  1  0.00000000  0.29336353  0.74370932  1.0
+  Cd  Cd9  1  0.00000000  0.70663647  0.24370932  1.0
+  Cd  Cd10  1  0.70663647  0.70663647  0.74370932  1.0
+  Cd  Cd11  1  0.70663647  -0.00000000  0.24370932  1.0
+  Cd  Cd12  1  0.33333333  0.66666667  0.11778666  1.0
+  Cd  Cd13  1  0.33333333  0.66666667  0.61778666  1.0
+  Cd  Cd14  1  0.66666667  0.33333333  0.11778666  1.0
+  Cd  Cd15  1  0.66666667  0.33333333  0.61778666  1.0
+  Cd  Cd16  1  -0.00000000  -0.00000000  -0.00424500  1.0
+  Cd  Cd17  1  0.00000000  0.00000000  0.49575500  1.0
+  Au  Au18  1  0.67056990  0.67056990  0.07225598  1.0
+  Au  Au19  1  0.67056990  -0.00000000  0.57225598  1.0
+  Au  Au20  1  -0.00000000  0.67056990  0.57225598  1.0
+  Au  Au21  1  0.00000000  0.32943010  0.07225598  1.0
+  Au  Au22  1  0.32943010  0.32943010  0.57225598  1.0
+  Au  Au23  1  0.32943010  -0.00000000  0.07225598  1.0

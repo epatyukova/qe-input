@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CdGaO2F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64617790
+_cell_length_b   7.64617790
+_cell_length_c   7.64617790
+_cell_angle_alpha   82.36231310
+_cell_angle_beta   120.02969507
+_cell_angle_gamma   129.23181919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdGaO2F5
+_chemical_formula_sum   'Cd2 Ga2 O4 F10'
+_cell_volume   288.32888689
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  1.00000000  1.00000000  1.00000000  1.0
+  Ga  Ga1  1  0.50000000  0.00000000  0.50000000  1.0
+  Cd  Cd2  1  1.00000000  1.00000000  0.50000000  1.0
+  Cd  Cd3  1  1.00000000  0.50000000  1.00000000  1.0
+  F  F4  1  1.33446505  1.08446505  1.25000000  1.0
+  F  F5  1  1.66553495  0.91553495  0.75000000  1.0
+  F  F6  1  0.85589493  0.92164620  0.16971779  1.0
+  F  F7  1  0.74807159  0.31382286  0.66971779  1.0
+  F  F8  1  0.74807159  1.07835380  0.43424873  1.0
+  F  F9  1  0.85589493  0.68617714  0.93424873  1.0
+  F  F10  1  1.25192841  0.92164620  0.56575127  1.0
+  F  F11  1  1.14410507  0.31382286  1.06575127  1.0
+  F  F12  1  1.14410507  1.07835380  0.83028221  1.0
+  F  F13  1  1.25192841  0.68617714  1.33028221  1.0
+  O  O14  1  1.42279206  0.89363834  0.97084628  1.0
+  O  O15  1  1.57720794  1.54805422  1.47084628  1.0
+  O  O16  1  1.57720794  1.10636166  1.02915372  1.0
+  O  O17  1  1.42279206  1.45194578  1.52915372  1.0

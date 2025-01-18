@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba4In(ReO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.02249449
+_cell_length_b   10.02249449
+_cell_length_c   10.02249449
+_cell_angle_alpha   33.84840419
+_cell_angle_beta   33.84840419
+_cell_angle_gamma   33.84840419
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4In(ReO6)2
+_chemical_formula_sum   'Ba4 In1 Re2 O12'
+_cell_volume   278.34635197
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.86752854  0.86752854  0.86752854  1.0
+  Ba  Ba1  1  1.13247146  1.13247146  0.13247146  1.0
+  Ba  Ba2  1  0.70961419  0.70961419  0.70961419  1.0
+  Ba  Ba3  1  1.29038581  1.29038581  0.29038581  1.0
+  In  In4  1  0.00000000  -0.00000000  0.00000000  1.0
+  Re  Re5  1  1.57931651  0.57931651  0.57931651  1.0
+  Re  Re6  1  1.42068349  0.42068349  0.42068349  1.0
+  O  O7  1  1.38954079  0.38954079  0.85798924  1.0
+  O  O8  1  1.38954079  0.85798924  0.38954079  1.0
+  O  O9  1  1.14201076  0.61045921  0.61045921  1.0
+  O  O10  1  1.61045921  0.14201076  0.61045921  1.0
+  O  O11  1  1.61045921  0.61045921  0.14201076  1.0
+  O  O12  1  0.85798924  1.38954079  0.38954079  1.0
+  O  O13  1  1.22100405  0.22100405  0.68995359  1.0
+  O  O14  1  1.22100405  0.68995359  0.22100405  1.0
+  O  O15  1  1.31004641  0.77899595  0.77899595  1.0
+  O  O16  1  1.77899595  0.31004641  0.77899595  1.0
+  O  O17  1  1.77899595  0.77899595  0.31004641  1.0
+  O  O18  1  0.68995359  1.22100405  0.22100405  1.0

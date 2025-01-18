@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cu2SiHgSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12318096
+_cell_length_b   6.88294500
+_cell_length_c   6.64773102
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2SiHgSe4
+_chemical_formula_sum   'Cu4 Si2 Hg2 Se8'
+_cell_volume   371.68399946
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.24800255  0.17423057  0.00983410  1.0
+  Cu  Cu1  1  0.74800255  0.82576943  0.50983410  1.0
+  Cu  Cu2  1  0.75199745  0.17423057  0.00983410  1.0
+  Cu  Cu3  1  0.25199745  0.82576943  0.50983410  1.0
+  Si  Si4  1  0.50000000  0.32137471  0.50374381  1.0
+  Si  Si5  1  0.00000000  0.67862529  0.00374381  1.0
+  Hg  Hg6  1  0.50000000  0.64831244  0.01026698  1.0
+  Hg  Hg7  1  0.00000000  0.35168756  0.51026698  1.0
+  Se  Se8  1  0.27305864  0.15666163  0.37446309  1.0
+  Se  Se9  1  0.77305864  0.84333837  0.87446309  1.0
+  Se  Se10  1  0.72694136  0.15666163  0.37446309  1.0
+  Se  Se11  1  0.22694136  0.84333837  0.87446309  1.0
+  Se  Se12  1  0.50000000  0.28738082  0.85377912  1.0
+  Se  Se13  1  0.00000000  0.71261918  0.35377912  1.0
+  Se  Se14  1  0.50000000  0.64979919  0.41611572  1.0
+  Se  Se15  1  0.00000000  0.35020081  0.91611572  1.0

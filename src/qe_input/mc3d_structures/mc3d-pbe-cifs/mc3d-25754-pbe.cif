@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfNiSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68557510
+_cell_length_b   4.12536008
+_cell_length_c   7.72614651
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfNiSb
+_chemical_formula_sum   'Hf4 Ni4 Sb4'
+_cell_volume   213.09024721
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.99919608  0.75000000  0.68834560  1.0
+  Hf  Hf1  1  0.49919608  0.75000000  0.81165440  1.0
+  Hf  Hf2  1  0.00080392  0.25000000  0.31165440  1.0
+  Hf  Hf3  1  0.50080392  0.25000000  0.18834560  1.0
+  Ni  Ni4  1  0.81018006  0.75000000  0.09232261  1.0
+  Ni  Ni5  1  0.31018006  0.75000000  0.40767739  1.0
+  Ni  Ni6  1  0.18981994  0.25000000  0.90767739  1.0
+  Ni  Ni7  1  0.68981994  0.25000000  0.59232261  1.0
+  Sb  Sb8  1  0.70201129  0.75000000  0.40732668  1.0
+  Sb  Sb9  1  0.20201129  0.75000000  0.09267332  1.0
+  Sb  Sb10  1  0.29798871  0.25000000  0.59267332  1.0
+  Sb  Sb11  1  0.79798871  0.25000000  0.90732668  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ba3Tl2Cl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.26631803
+_cell_length_b   13.26631803
+_cell_length_c   13.26631803
+_cell_angle_alpha   160.86568054
+_cell_angle_beta   160.86568054
+_cell_angle_gamma   27.18882783
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Tl2Cl2O5
+_chemical_formula_sum   'Ba3 Tl2 Cl2 O5'
+_cell_volume   250.75581236
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66261858  0.66261858  1.00000000  1.0
+  Ba  Ba1  1  0.33738142  0.33738142  -0.00000000  1.0
+  Ba  Ba2  1  0.50000000  0.50000000  1.00000000  1.0
+  Tl  Tl3  1  0.91477388  0.91477388  1.00000000  1.0
+  Tl  Tl4  1  0.08522612  0.08522612  -0.00000000  1.0
+  Cl  Cl5  1  0.79289977  0.79289977  1.00000000  1.0
+  Cl  Cl6  1  0.20710023  0.20710023  -0.00000000  1.0
+  O  O7  1  0.40270003  0.90270003  0.50000000  1.0
+  O  O8  1  0.59729997  0.09729997  0.50000000  1.0
+  O  O9  1  0.90270003  0.40270003  0.50000000  1.0
+  O  O10  1  0.09729997  0.59729997  0.50000000  1.0
+  O  O11  1  0.00000000  0.00000000  0.00000000  1.0

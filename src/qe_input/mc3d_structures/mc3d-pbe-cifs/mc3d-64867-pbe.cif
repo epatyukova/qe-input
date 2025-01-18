@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Fe4C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.47057090
+_cell_length_b   4.47057090
+_cell_length_c   4.47057090
+_cell_angle_alpha   94.36830981
+_cell_angle_beta   94.36830981
+_cell_angle_gamma   147.95859246
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4C
+_chemical_formula_sum   'Fe4 C1'
+_cell_volume   45.56141016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  1.23630842  1.42611987  1.66242828  1.0
+  Fe  Fe1  1  0.76369158  0.57388013  0.33757172  1.0
+  Fe  Fe2  1  0.42611987  0.76369158  1.18981145  1.0
+  Fe  Fe3  1  0.57388013  0.23630842  0.81018855  1.0
+  C  C4  1  0.00000000  0.00000000  0.00000000  1.0

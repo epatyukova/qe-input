@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ag5SbS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36254631
+_cell_length_b   7.36254631
+_cell_length_c   9.10091727
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.34892495
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag5SbS4
+_chemical_formula_sum   'Ag10 Sb2 S8'
+_cell_volume   442.08062948
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  -0.23896741  1.63171335  0.14856186  1.0
+  Ag  Ag1  1  0.63171335  0.76103259  0.64856186  1.0
+  Ag  Ag2  1  -0.63171335  1.23896741  0.14856186  1.0
+  Ag  Ag3  1  0.23896741  0.36828665  0.64856186  1.0
+  Ag  Ag4  1  0.07266361  0.30275782  0.33774674  1.0
+  Ag  Ag5  1  -0.69724218  1.07266361  0.83774674  1.0
+  Ag  Ag6  1  0.69724218  0.92733639  0.33774674  1.0
+  Ag  Ag7  1  -0.07266361  1.69724218  0.83774674  1.0
+  Ag  Ag8  1  0.36218242  0.63781758  0.00831317  1.0
+  Ag  Ag9  1  -0.36218242  1.36218242  0.50831317  1.0
+  Sb  Sb10  1  0.17650388  0.82349612  0.44792528  1.0
+  Sb  Sb11  1  -0.17650388  1.17650388  0.94792528  1.0
+  S  S12  1  0.00485977  1.46651392  0.11380061  1.0
+  S  S13  1  0.46651392  1.00485977  0.61380061  1.0
+  S  S14  1  -0.46651392  0.99514023  0.11380061  1.0
+  S  S15  1  -0.00485977  0.53348608  0.61380061  1.0
+  S  S16  1  0.01695839  0.98304161  0.02624072  1.0
+  S  S17  1  -0.01695839  1.01695839  0.52624072  1.0
+  S  S18  1  0.48306636  0.51693364  0.34000240  1.0
+  S  S19  1  -0.48306636  1.48306636  0.84000240  1.0

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Gd3MnAlS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.78856010
+_cell_length_b   9.78856010
+_cell_length_c   6.19397244
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd3MnAlS7
+_chemical_formula_sum   'Gd6 Mn2 Al2 S14'
+_cell_volume   513.96970764
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.77168672  0.62109003  0.21268855  1.0
+  Gd  Gd1  1  0.62109003  0.84940331  0.71268855  1.0
+  Gd  Gd2  1  0.84940331  0.22831328  0.21268855  1.0
+  Gd  Gd3  1  0.37890997  0.15059669  0.21268855  1.0
+  Gd  Gd4  1  0.22831328  0.37890997  0.71268855  1.0
+  Gd  Gd5  1  0.15059669  0.77168672  0.71268855  1.0
+  Mn  Mn6  1  0.00000000  0.00000000  0.02278247  1.0
+  Mn  Mn7  1  0.00000000  0.00000000  0.52278247  1.0
+  Al  Al8  1  0.33333333  0.66666667  0.13581557  1.0
+  Al  Al9  1  0.66666667  0.33333333  0.63581557  1.0
+  S  S10  1  0.42617039  0.90631235  -0.01864369  1.0
+  S  S11  1  0.90631235  0.48014196  0.48135631  1.0
+  S  S12  1  0.48014196  0.57382961  -0.01864369  1.0
+  S  S13  1  0.09368765  0.51985804  -0.01864369  1.0
+  S  S14  1  0.57382961  0.09368765  0.48135631  1.0
+  S  S15  1  0.51985804  0.42617039  0.48135631  1.0
+  S  S16  1  0.10183000  0.86031774  0.29701943  1.0
+  S  S17  1  0.86031774  0.75848773  0.79701943  1.0
+  S  S18  1  0.75848773  0.89817000  0.29701943  1.0
+  S  S19  1  0.13968226  0.24151227  0.29701943  1.0
+  S  S20  1  0.89817000  0.13968226  0.79701943  1.0
+  S  S21  1  0.24151227  0.10183000  0.79701943  1.0
+  S  S22  1  0.33333333  0.66666667  0.49920910  1.0
+  S  S23  1  0.66666667  0.33333333  -0.00079090  1.0

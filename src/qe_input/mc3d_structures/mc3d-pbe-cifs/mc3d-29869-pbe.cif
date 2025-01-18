@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaAuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11140648
+_cell_length_b   8.56518738
+_cell_length_c   6.84382518
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.14810153
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAuSe2
+_chemical_formula_sum   'Na4 Au4 Se8'
+_cell_volume   402.37658806
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.27113851  0.63395099  0.98769066  1.0
+  Na  Na1  1  0.27113851  0.86604901  0.48769066  1.0
+  Na  Na2  1  0.72886149  0.13395099  0.51230934  1.0
+  Na  Na3  1  0.72886149  0.36604901  0.01230934  1.0
+  Au  Au4  1  0.78623510  0.86753628  0.99317146  1.0
+  Au  Au5  1  0.78623510  0.63246372  0.49317146  1.0
+  Au  Au6  1  0.21376490  0.36753628  0.50682854  1.0
+  Au  Au7  1  0.21376490  0.13246372  0.00682854  1.0
+  Se  Se8  1  0.98238090  0.42608188  0.71449517  1.0
+  Se  Se9  1  0.98238090  0.07391812  0.21449517  1.0
+  Se  Se10  1  0.01761910  0.92608188  0.78550483  1.0
+  Se  Se11  1  0.01761910  0.57391812  0.28550483  1.0
+  Se  Se12  1  0.59077982  0.66972610  0.75166063  1.0
+  Se  Se13  1  0.59077982  0.83027390  0.25166063  1.0
+  Se  Se14  1  0.40922018  0.16972610  0.74833937  1.0
+  Se  Se15  1  0.40922018  0.33027390  0.24833937  1.0

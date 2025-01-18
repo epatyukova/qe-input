@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Mg2BeB2Rh5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.19959341
+_cell_length_b   9.19959341
+_cell_length_c   2.87760622
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2BeB2Rh5
+_chemical_formula_sum   'Mg4 Be2 B4 Rh10'
+_cell_volume   243.53906280
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.32463857  0.17536143  0.00000000  1.0
+  Mg  Mg1  1  0.82463857  0.32463857  0.00000000  1.0
+  Mg  Mg2  1  0.67536143  0.82463857  0.00000000  1.0
+  Mg  Mg3  1  0.17536143  0.67536143  0.00000000  1.0
+  Be  Be4  1  0.50000000  0.50000000  0.00000000  1.0
+  Be  Be5  1  0.00000000  0.00000000  0.00000000  1.0
+  B  B6  1  0.86988158  0.63011842  0.00000000  1.0
+  B  B7  1  0.36988158  0.86988158  0.00000000  1.0
+  B  B8  1  0.13011842  0.36988158  0.00000000  1.0
+  B  B9  1  0.63011842  0.13011842  0.00000000  1.0
+  Rh  Rh10  1  0.50000000  0.00000000  0.50000000  1.0
+  Rh  Rh11  1  0.00000000  0.50000000  0.50000000  1.0
+  Rh  Rh12  1  0.43023341  0.70732989  0.50000000  1.0
+  Rh  Rh13  1  0.93023341  0.79267011  0.50000000  1.0
+  Rh  Rh14  1  0.29267011  0.43023341  0.50000000  1.0
+  Rh  Rh15  1  0.79267011  0.06976659  0.50000000  1.0
+  Rh  Rh16  1  0.56976659  0.29267011  0.50000000  1.0
+  Rh  Rh17  1  0.06976659  0.20732989  0.50000000  1.0
+  Rh  Rh18  1  0.70732989  0.56976659  0.50000000  1.0
+  Rh  Rh19  1  0.20732989  0.93023341  0.50000000  1.0

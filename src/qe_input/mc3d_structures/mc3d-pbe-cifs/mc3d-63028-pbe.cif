@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.48834901
+_cell_length_b   3.81131480
+_cell_length_c   7.30492637
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSiNi
+_chemical_formula_sum   'Zr4 Si4 Ni4'
+_cell_volume   180.64455121
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.98308627  0.75000000  0.68585951  1.0
+  Zr  Zr1  1  0.48308627  0.75000000  0.81414049  1.0
+  Zr  Zr2  1  0.01691373  0.25000000  0.31414049  1.0
+  Zr  Zr3  1  0.51691373  0.25000000  0.18585951  1.0
+  Si  Si4  1  0.72662999  0.75000000  0.38655250  1.0
+  Si  Si5  1  0.22662999  0.75000000  0.11344750  1.0
+  Si  Si6  1  0.27337001  0.25000000  0.61344750  1.0
+  Si  Si7  1  0.77337001  0.25000000  0.88655250  1.0
+  Ni  Ni8  1  0.85956681  0.75000000  0.06144216  1.0
+  Ni  Ni9  1  0.35956681  0.75000000  0.43855784  1.0
+  Ni  Ni10  1  0.14043319  0.25000000  0.93855784  1.0
+  Ni  Ni11  1  0.64043319  0.25000000  0.56144216  1.0

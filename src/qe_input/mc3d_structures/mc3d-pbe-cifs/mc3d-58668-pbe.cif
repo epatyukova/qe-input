@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AlCoO2F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09738649
+_cell_length_b   7.09738649
+_cell_length_c   7.09738649
+_cell_angle_alpha   90.83418794
+_cell_angle_beta   121.29615918
+_cell_angle_gamma   117.77362273
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlCoO2F5
+_chemical_formula_sum   'Al2 Co2 O4 F10'
+_cell_volume   254.25452208
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  1.00000000  1.00000000  1.00000000  1.0
+  Al  Al1  1  0.50000000  0.00000000  0.50000000  1.0
+  F  F2  1  1.32267436  1.07267436  1.25000000  1.0
+  F  F3  1  1.67732564  0.92732564  0.75000000  1.0
+  F  F4  1  0.87849243  0.95691760  0.17909815  1.0
+  F  F5  1  0.72218054  0.30060572  0.67909815  1.0
+  F  F6  1  0.72218054  1.04308240  0.42157483  1.0
+  F  F7  1  0.87849243  0.69939428  0.92157483  1.0
+  F  F8  1  1.27781946  0.95691760  0.57842517  1.0
+  F  F9  1  1.12150757  0.30060572  1.07842517  1.0
+  F  F10  1  1.12150757  1.04308240  0.82090185  1.0
+  F  F11  1  1.27781946  0.69939428  1.32090185  1.0
+  Co  Co12  1  1.00000000  1.00000000  0.50000000  1.0
+  Co  Co13  1  1.00000000  0.50000000  1.00000000  1.0
+  O  O14  1  1.21199412  0.63367661  0.92168249  1.0
+  O  O15  1  1.78800588  1.70968837  1.42168249  1.0
+  O  O16  1  1.78800588  1.36632339  1.07831751  1.0
+  O  O17  1  1.21199412  1.29031163  1.57831751  1.0

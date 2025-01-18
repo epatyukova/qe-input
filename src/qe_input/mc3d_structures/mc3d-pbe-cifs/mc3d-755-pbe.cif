@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Sr2BBrN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.26541301
+_cell_length_b   9.26541301
+_cell_length_c   9.26541301
+_cell_angle_alpha   25.78169954
+_cell_angle_beta   25.78169954
+_cell_angle_gamma   25.78169954
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2BBrN2
+_chemical_formula_sum   'Sr2 B1 Br1 N2'
+_cell_volume   132.51097491
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.74756302  0.74756302  0.74756302  1.0
+  Sr  Sr1  1  1.25243698  1.25243698  0.25243698  1.0
+  B  B2  1  0.00000000  0.00000000  0.00000000  1.0
+  Br  Br3  1  1.50000000  0.50000000  0.50000000  1.0
+  N  N4  1  0.94980896  0.94980896  0.94980896  1.0
+  N  N5  1  1.05019104  1.05019104  0.05019104  1.0

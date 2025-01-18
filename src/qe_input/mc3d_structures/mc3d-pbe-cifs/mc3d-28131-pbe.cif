@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnNiHO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45291176
+_cell_length_b   7.45291176
+_cell_length_c   5.35228767
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   157.61956573
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnNiHO3
+_chemical_formula_sum   'Mn2 Ni2 H2 O6'
+_cell_volume   113.19743991
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  -0.69343914  0.69343914  0.97057293  1.0
+  Mn  Mn1  1  -0.30656086  1.30656086  0.47057293  1.0
+  Ni  Ni2  1  -0.99757370  0.99757370  0.23684680  1.0
+  Ni  Ni3  1  -0.00242630  1.00242630  0.73684680  1.0
+  H  H4  1  -0.62205086  0.62205086  0.45400038  1.0
+  H  H5  1  -0.37794914  1.37794914  0.95400038  1.0
+  O  O6  1  -0.89532780  0.89532780  0.49617570  1.0
+  O  O7  1  -0.10467220  1.10467220  -0.00382430  1.0
+  O  O8  1  -0.72971834  0.72971834  0.35767087  1.0
+  O  O9  1  -0.27028166  1.27028166  0.85767087  1.0
+  O  O10  1  -0.55371078  0.55371078  0.48373331  1.0
+  O  O11  1  -0.44628922  1.44628922  0.98373331  1.0

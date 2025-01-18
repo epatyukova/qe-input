@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56028019
+_cell_length_b   5.56028019
+_cell_length_c   14.05223162
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   140.36000296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSb
+_chemical_formula_sum   'Hf6 Sb6'
+_cell_volume   277.16173365
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.38812472  0.61187528  0.75000000  1.0
+  Hf  Hf1  1  -0.38812472  0.38812472  0.25000000  1.0
+  Hf  Hf2  1  0.07145975  0.92854025  0.89147982  1.0
+  Hf  Hf3  1  0.07145975  0.92854025  0.60852018  1.0
+  Hf  Hf4  1  -0.07145975  0.07145975  0.39147982  1.0
+  Hf  Hf5  1  -0.07145975  0.07145975  0.10852018  1.0
+  Sb  Sb6  1  0.35764957  0.64235043  0.95058493  1.0
+  Sb  Sb7  1  0.35764957  0.64235043  0.54941507  1.0
+  Sb  Sb8  1  -0.35764957  0.35764957  0.45058493  1.0
+  Sb  Sb9  1  -0.35764957  0.35764957  0.04941507  1.0
+  Sb  Sb10  1  -0.32475463  0.32475463  0.75000000  1.0
+  Sb  Sb11  1  0.32475463  0.67524537  0.25000000  1.0

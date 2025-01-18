@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaFe2S2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93550031
+_cell_length_b   9.57928922
+_cell_length_c   6.62211675
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFe2S2O
+_chemical_formula_sum   'Ba2 Fe4 S4 O2'
+_cell_volume   249.64913743
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.00000000  0.50139015  1.0
+  Ba  Ba1  1  0.00000000  0.50000000  0.49860985  1.0
+  Fe  Fe2  1  0.50000000  0.68253936  0.11248441  1.0
+  Fe  Fe3  1  0.50000000  0.31746064  0.11248441  1.0
+  Fe  Fe4  1  0.00000000  0.18253936  0.88751559  1.0
+  Fe  Fe5  1  0.00000000  0.81746064  0.88751559  1.0
+  S  S6  1  0.50000000  0.70584341  0.75922365  1.0
+  S  S7  1  0.50000000  0.29415659  0.75922365  1.0
+  S  S8  1  0.00000000  0.20584341  0.24077635  1.0
+  S  S9  1  0.00000000  0.79415659  0.24077635  1.0
+  O  O10  1  0.50000000  0.50000000  0.23075477  1.0
+  O  O11  1  0.00000000  0.00000000  0.76924523  1.0

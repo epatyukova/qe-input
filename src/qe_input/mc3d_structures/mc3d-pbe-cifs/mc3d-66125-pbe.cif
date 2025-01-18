@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2NaGaAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.89747492
+_cell_length_b   8.89747492
+_cell_length_c   8.89747492
+_cell_angle_alpha   135.15552643
+_cell_angle_beta   64.60010732
+_cell_angle_gamma   136.04703905
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaGaAs2
+_chemical_formula_sum   'K4 Na2 Ga2 As4'
+_cell_volume   339.93753611
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.17290511  0.25484275  0.42774786  1.0
+  K  K1  1  0.32709489  0.75484275  1.08193764  1.0
+  K  K2  1  0.67290511  1.24515725  0.91806236  1.0
+  K  K3  1  0.82709489  0.74515725  0.57225214  1.0
+  Na  Na4  1  0.25000000  0.75000000  0.50000000  1.0
+  Na  Na5  1  0.75000000  1.25000000  0.50000000  1.0
+  Ga  Ga6  1  0.25000000  0.25000000  -0.00000000  1.0
+  Ga  Ga7  1  0.75000000  0.75000000  0.00000000  1.0
+  As  As8  1  0.40514240  0.29764349  0.70278589  1.0
+  As  As9  1  0.09485760  0.79764349  0.89250109  1.0
+  As  As10  1  0.90514240  1.20235651  1.10749891  1.0
+  As  As11  1  0.59485760  0.70235651  0.29721411  1.0

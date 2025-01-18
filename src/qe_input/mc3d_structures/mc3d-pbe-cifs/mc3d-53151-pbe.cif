@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgCu2GeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67811286
+_cell_length_b   6.56362945
+_cell_length_c   6.27889656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCu2GeS4
+_chemical_formula_sum   'Mg2 Cu4 Ge2 S8'
+_cell_volume   316.43307728
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.50000000  0.66046795  -0.00213722  1.0
+  Mg  Mg1  1  0.00000000  0.33953205  0.49786278  1.0
+  Cu  Cu2  1  0.24916758  0.17413672  0.00523212  1.0
+  Cu  Cu3  1  0.74916758  0.82586328  0.50523212  1.0
+  Cu  Cu4  1  0.75083242  0.17413672  0.00523212  1.0
+  Cu  Cu5  1  0.25083242  0.82586328  0.50523212  1.0
+  Ge  Ge6  1  0.50000000  0.32555957  0.49971200  1.0
+  Ge  Ge7  1  0.00000000  0.67444043  -0.00028800  1.0
+  S  S8  1  0.26356225  0.15684209  0.37173502  1.0
+  S  S9  1  0.76356225  0.84315791  0.87173502  1.0
+  S  S10  1  0.73643775  0.15684209  0.37173502  1.0
+  S  S11  1  0.23643775  0.84315791  0.87173502  1.0
+  S  S12  1  0.50000000  0.30965609  0.86216103  1.0
+  S  S13  1  0.00000000  0.69034391  0.36216103  1.0
+  S  S14  1  0.50000000  0.65635627  0.39262992  1.0
+  S  S15  1  0.00000000  0.34364373  0.89262992  1.0

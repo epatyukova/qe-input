@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ZrHg3(SeCl3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05450324
+_cell_length_b   7.78241658
+_cell_length_c   13.47346859
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.97769550
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrHg3(SeCl3)2
+_chemical_formula_sum   'Zr2 Hg6 Se4 Cl12'
+_cell_volume   739.70796078
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  0.00000000  0.00000000  1.0
+  Zr  Zr1  1  0.00000000  0.50000000  0.50000000  1.0
+  Hg  Hg2  1  0.50041597  0.75008363  0.74999389  1.0
+  Hg  Hg3  1  0.50041597  0.74991637  0.24999389  1.0
+  Hg  Hg4  1  0.49958403  0.25008363  0.75000611  1.0
+  Hg  Hg5  1  0.49958403  0.24991637  0.25000611  1.0
+  Hg  Hg6  1  0.50000000  0.00000000  0.50000000  1.0
+  Hg  Hg7  1  0.50000000  0.50000000  0.00000000  1.0
+  Se  Se8  1  0.67064027  1.00032284  0.66669281  1.0
+  Se  Se9  1  0.67064027  0.49967716  0.16669281  1.0
+  Se  Se10  1  0.32935973  0.50032284  0.83330719  1.0
+  Se  Se11  1  0.32935973  -0.00032284  0.33330719  1.0
+  Cl  Cl12  1  0.79829617  0.22673930  0.92442921  1.0
+  Cl  Cl13  1  0.79829617  0.27326070  0.42442921  1.0
+  Cl  Cl14  1  0.20170383  0.72673930  0.57557079  1.0
+  Cl  Cl15  1  0.20170383  0.77326070  0.07557079  1.0
+  Cl  Cl16  1  0.79999171  0.50001861  0.65187914  1.0
+  Cl  Cl17  1  0.79999171  -0.00001861  0.15187914  1.0
+  Cl  Cl18  1  0.20000829  1.00001861  0.84812086  1.0
+  Cl  Cl19  1  0.20000829  0.49998139  0.34812086  1.0
+  Cl  Cl20  1  0.79899516  0.77248154  0.92469149  1.0
+  Cl  Cl21  1  0.79899516  0.72751846  0.42469149  1.0
+  Cl  Cl22  1  0.20100484  0.27248154  0.57530851  1.0
+  Cl  Cl23  1  0.20100484  0.22751846  0.07530851  1.0

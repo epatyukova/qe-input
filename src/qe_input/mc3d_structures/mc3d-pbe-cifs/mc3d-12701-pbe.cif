@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GeCN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33793704
+_cell_length_b   4.33793704
+_cell_length_c   7.03213883
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeCN
+_chemical_formula_sum   'Ge4 C4 N4'
+_cell_volume   132.32866326
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.00000000  0.50000000  0.49662860  1.0
+  Ge  Ge1  1  0.50000000  0.00000000  0.99662860  1.0
+  Ge  Ge2  1  0.50000000  0.00000000  0.49662860  1.0
+  Ge  Ge3  1  0.00000000  0.50000000  0.99662860  1.0
+  C  C4  1  0.13128813  0.86871187  0.83982416  1.0
+  C  C5  1  0.86871187  0.13128813  0.83982416  1.0
+  C  C6  1  0.63128813  0.63128813  0.33982416  1.0
+  C  C7  1  0.36871187  0.36871187  0.33982416  1.0
+  N  N8  1  0.22522083  0.77477917  0.65154724  1.0
+  N  N9  1  0.77477917  0.22522083  0.65154724  1.0
+  N  N10  1  0.72522083  0.72522083  0.15154724  1.0
+  N  N11  1  0.27477917  0.27477917  0.15154724  1.0

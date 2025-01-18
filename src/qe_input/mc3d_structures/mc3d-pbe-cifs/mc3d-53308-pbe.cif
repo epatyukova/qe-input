@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Sr(AlCl4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.06199249
+_cell_length_b   7.08552835
+_cell_length_c   12.76074462
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.63066358
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(AlCl4)2
+_chemical_formula_sum   'Sr2 Al4 Cl16'
+_cell_volume   726.55870509
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50000000  0.15310029  0.75000000  1.0
+  Sr  Sr1  1  0.50000000  0.84689971  0.25000000  1.0
+  Al  Al2  1  0.32571866  0.26458896  0.07703370  1.0
+  Al  Al3  1  0.67428134  0.26458896  0.42296630  1.0
+  Al  Al4  1  0.67428134  0.73541104  0.92296630  1.0
+  Al  Al5  1  0.32571866  0.73541104  0.57703370  1.0
+  Cl  Cl6  1  0.26401135  0.29408420  0.90943476  1.0
+  Cl  Cl7  1  0.73598865  0.29408420  0.59056524  1.0
+  Cl  Cl8  1  0.73598865  0.70591580  0.09056524  1.0
+  Cl  Cl9  1  0.26401135  0.70591580  0.40943476  1.0
+  Cl  Cl10  1  0.18727260  0.03690375  0.14212684  1.0
+  Cl  Cl11  1  0.81272740  0.03690375  0.35787316  1.0
+  Cl  Cl12  1  0.81272740  0.96309625  0.85787316  1.0
+  Cl  Cl13  1  0.18727260  0.96309625  0.64212684  1.0
+  Cl  Cl14  1  0.27309846  0.53298300  0.14817580  1.0
+  Cl  Cl15  1  0.72690154  0.53298300  0.35182420  1.0
+  Cl  Cl16  1  0.72690154  0.46701700  0.85182420  1.0
+  Cl  Cl17  1  0.27309846  0.46701700  0.64817580  1.0
+  Cl  Cl18  1  0.58358170  0.18464963  0.11066744  1.0
+  Cl  Cl19  1  0.41641830  0.18464963  0.38933256  1.0
+  Cl  Cl20  1  0.41641830  0.81535037  0.88933256  1.0
+  Cl  Cl21  1  0.58358170  0.81535037  0.61066744  1.0

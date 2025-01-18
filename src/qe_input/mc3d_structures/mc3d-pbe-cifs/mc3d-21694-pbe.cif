@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ca2Pt3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29790709
+_cell_length_b   6.29790709
+_cell_length_c   6.29790709
+_cell_angle_alpha   59.93975706
+_cell_angle_beta   59.93975706
+_cell_angle_gamma   59.93975706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Pt3O8
+_chemical_formula_sum   'Ca2 Pt3 O8'
+_cell_volume   176.39242716
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  1.64445736  0.64445736  0.64445736  1.0
+  Ca  Ca1  1  1.35554264  0.35554264  0.35554264  1.0
+  Pt  Pt2  1  1.00000000  1.50000000  -0.00000000  1.0
+  Pt  Pt3  1  1.00000000  1.00000000  0.50000000  1.0
+  Pt  Pt4  1  1.50000000  1.00000000  -0.00000000  1.0
+  O  O5  1  1.38644762  1.38644762  -0.05858701  1.0
+  O  O6  1  1.38644762  0.94141299  0.38644762  1.0
+  O  O7  1  1.05858701  0.61355238  0.61355238  1.0
+  O  O8  1  1.61355238  0.05858701  0.61355238  1.0
+  O  O9  1  1.61355238  0.61355238  0.05858701  1.0
+  O  O10  1  0.94141299  1.38644762  0.38644762  1.0
+  O  O11  1  0.89511679  0.89511679  0.89511679  1.0
+  O  O12  1  1.10488321  1.10488321  0.10488321  1.0

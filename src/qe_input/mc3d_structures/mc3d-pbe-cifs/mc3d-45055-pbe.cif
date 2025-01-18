@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2SrBe2F8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61137571
+_cell_length_b   7.61137571
+_cell_length_c   7.61137571
+_cell_angle_alpha   42.41234218
+_cell_angle_beta   42.41234218
+_cell_angle_gamma   42.41234218
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrBe2F8
+_chemical_formula_sum   'K2 Sr1 Be2 F8'
+_cell_volume   181.59596273
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.79768006  -0.20231994  -0.20231994  1.0
+  K  K1  1  0.20231994  0.20231994  0.20231994  1.0
+  Sr  Sr2  1  0.00000000  0.00000000  0.00000000  1.0
+  Be  Be3  1  0.59902243  0.59902243  -0.40097757  1.0
+  Be  Be4  1  0.40097757  0.40097757  -0.59902243  1.0
+  F  F5  1  0.67381283  -0.32618717  -0.32618717  1.0
+  F  F6  1  0.32618717  0.32618717  0.32618717  1.0
+  F  F7  1  0.26200150  0.73096081  -0.26903919  1.0
+  F  F8  1  0.73096081  0.73096081  -0.73799850  1.0
+  F  F9  1  0.73096081  0.26200150  -0.26903919  1.0
+  F  F10  1  0.73799850  0.26903919  -0.73096081  1.0
+  F  F11  1  0.26903919  0.26903919  -0.26200150  1.0
+  F  F12  1  0.26903919  0.73799850  -0.73096081  1.0

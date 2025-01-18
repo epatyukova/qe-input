@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LaCrSe2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71339881
+_cell_length_b   3.87446291
+_cell_length_c   11.63711658
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCrSe2O
+_chemical_formula_sum   'La4 Cr4 Se8 O4'
+_cell_volume   392.86603586
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.95158864  0.75000000  0.14062268  1.0
+  La  La1  1  0.45158864  0.75000000  0.35937732  1.0
+  La  La2  1  0.04841136  0.25000000  0.85937732  1.0
+  La  La3  1  0.54841136  0.25000000  0.64062268  1.0
+  Cr  Cr4  1  0.82269826  0.75000000  0.47265971  1.0
+  Cr  Cr5  1  0.32269826  0.75000000  0.02734029  1.0
+  Cr  Cr6  1  0.17730174  0.25000000  0.52734029  1.0
+  Cr  Cr7  1  0.67730174  0.25000000  0.97265971  1.0
+  Se  Se8  1  0.74719831  0.75000000  0.83028836  1.0
+  Se  Se9  1  0.24719831  0.75000000  0.66971164  1.0
+  Se  Se10  1  0.25280169  0.25000000  0.16971164  1.0
+  Se  Se11  1  0.75280169  0.25000000  0.33028836  1.0
+  Se  Se12  1  0.59400850  0.75000000  0.10260619  1.0
+  Se  Se13  1  0.09400850  0.75000000  0.39739381  1.0
+  Se  Se14  1  0.40599150  0.25000000  0.89739381  1.0
+  Se  Se15  1  0.90599150  0.25000000  0.60260619  1.0
+  O  O16  1  0.61170744  0.75000000  0.53494960  1.0
+  O  O17  1  0.11170744  0.75000000  0.96505040  1.0
+  O  O18  1  0.38829256  0.25000000  0.46505040  1.0
+  O  O19  1  0.88829256  0.25000000  0.03494960  1.0

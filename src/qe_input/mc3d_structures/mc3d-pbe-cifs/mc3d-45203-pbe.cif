@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr3In11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.54377277
+_cell_length_b   9.54377277
+_cell_length_c   9.54377277
+_cell_angle_alpha   149.64227311
+_cell_angle_beta   81.75078295
+_cell_angle_gamma   106.29555878
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3In11
+_chemical_formula_sum   'Sr3 In11'
+_cell_volume   412.87308646
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1.0
+  Sr  Sr1  1  0.30935338  0.00000000  0.30935338  1.0
+  Sr  Sr2  1  0.69064662  0.00000000  0.69064662  1.0
+  In  In3  1  0.50000000  0.50000000  1.00000000  1.0
+  In  In4  1  1.30701499  0.80701499  0.50000000  1.0
+  In  In5  1  0.69298501  0.19298501  0.50000000  1.0
+  In  In6  1  0.97059119  0.62715644  1.34343475  1.0
+  In  In7  1  1.71627831  1.37284356  1.34343475  1.0
+  In  In8  1  0.28372169  0.62715644  0.65656525  1.0
+  In  In9  1  1.02940881  1.37284356  0.65656525  1.0
+  In  In10  1  0.87152220  0.72404738  1.14747482  1.0
+  In  In11  1  1.42342744  1.27595262  1.14747482  1.0
+  In  In12  1  0.57657256  0.72404738  0.85252518  1.0
+  In  In13  1  1.12847780  1.27595262  0.85252518  1.0

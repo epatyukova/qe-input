@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3CdHg10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.59235140
+_cell_length_b   9.59235140
+_cell_length_c   9.59235140
+_cell_angle_alpha   147.91285737
+_cell_angle_beta   115.97175119
+_cell_angle_gamma   73.43104296
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3CdHg10
+_chemical_formula_sum   'Ba3 Cd1 Hg10'
+_cell_volume   414.63844043
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.70535751  0.70535751  1.00000000  1.0
+  Ba  Ba1  1  1.29464249  1.29464249  1.00000000  1.0
+  Ba  Ba2  1  0.00000000  0.00000000  0.00000000  1.0
+  Cd  Cd3  1  0.50000000  0.00000000  0.50000000  1.0
+  Hg  Hg4  1  1.56765478  0.86006295  0.70759183  1.0
+  Hg  Hg5  1  0.84752887  0.13993705  0.70759183  1.0
+  Hg  Hg6  1  1.15247113  0.86006295  0.29240817  1.0
+  Hg  Hg7  1  0.43234522  0.13993705  0.29240817  1.0
+  Hg  Hg8  1  1.30324480  0.65909429  0.64415051  1.0
+  Hg  Hg9  1  0.98505623  0.34090571  0.64415051  1.0
+  Hg  Hg10  1  1.01494377  0.65909429  0.35584949  1.0
+  Hg  Hg11  1  0.69675520  0.34090571  0.35584949  1.0
+  Hg  Hg12  1  0.32442590  0.50000000  0.82442590  1.0
+  Hg  Hg13  1  0.67557410  0.50000000  1.17557410  1.0

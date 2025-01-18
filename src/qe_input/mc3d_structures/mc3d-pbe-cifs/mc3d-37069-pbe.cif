@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Cs2NaGaF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.93319183
+_cell_length_b   10.93319183
+_cell_length_c   10.93319183
+_cell_angle_alpha   33.75316011
+_cell_angle_beta   33.75316011
+_cell_angle_gamma   33.75316011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaGaF6
+_chemical_formula_sum   'Cs4 Na2 Ga2 F12'
+_cell_volume   359.47915653
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.78157904  0.78157904  0.78157904  1.0
+  Cs  Cs1  1  1.21842096  1.21842096  0.21842096  1.0
+  Cs  Cs2  1  1.62807270  0.62807270  0.62807270  1.0
+  Cs  Cs3  1  1.37192730  0.37192730  0.37192730  1.0
+  Na  Na4  1  0.90308866  0.90308866  0.90308866  1.0
+  Na  Na5  1  1.09691134  1.09691134  0.09691134  1.0
+  Ga  Ga6  1  0.00000000  0.00000000  -0.00000000  1.0
+  Ga  Ga7  1  1.50000000  0.50000000  0.50000000  1.0
+  F  F8  1  1.31874164  0.31874164  0.75488120  1.0
+  F  F9  1  1.31874164  0.75488120  0.31874164  1.0
+  F  F10  1  1.24511880  0.68125836  0.68125836  1.0
+  F  F11  1  1.68125836  0.24511880  0.68125836  1.0
+  F  F12  1  1.68125836  0.68125836  0.24511880  1.0
+  F  F13  1  1.75488120  0.31874164  0.31874164  1.0
+  F  F14  1  1.10350645  1.10350645  0.68022644  1.0
+  F  F15  1  1.10350645  1.68022644  0.10350645  1.0
+  F  F16  1  1.31977356  0.89649355  -0.10350645  1.0
+  F  F17  1  0.89649355  1.31977356  -0.10350645  1.0
+  F  F18  1  0.89649355  0.89649355  0.31977356  1.0
+  F  F19  1  1.68022644  1.10350645  0.10350645  1.0

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_CuCSN
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91824235
+_cell_length_b   5.91824235
+_cell_length_c   5.91824235
+_cell_angle_alpha   38.01478011
+_cell_angle_beta   38.01478011
+_cell_angle_gamma   38.01478011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuCSN
+_chemical_formula_sum   'Cu1 C1 S1 N1'
+_cell_volume   70.57734577
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.71168209  -0.28831791  -0.28831791  1.0
+  C  C1  1  0.89824354  -0.10175646  -0.10175646  1.0
+  S  S2  1  -0.00024000  -0.00024000  -0.00024000  1.0
+  N  N3  1  0.82691436  -0.17308564  -0.17308564  1.0

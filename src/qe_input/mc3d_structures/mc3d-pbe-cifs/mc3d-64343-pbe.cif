@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfFeP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24699621
+_cell_length_b   3.73705178
+_cell_length_c   7.03556701
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfFeP
+_chemical_formula_sum   'Hf4 Fe4 P4'
+_cell_volume   164.24776247
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.98310038  0.75000000  0.68458098  1.0
+  Hf  Hf1  1  0.48310038  0.75000000  0.81541902  1.0
+  Hf  Hf2  1  0.01689962  0.25000000  0.31541902  1.0
+  Hf  Hf3  1  0.51689962  0.25000000  0.18458098  1.0
+  Fe  Fe4  1  0.85149350  0.75000000  0.06212415  1.0
+  Fe  Fe5  1  0.35149350  0.75000000  0.43787585  1.0
+  Fe  Fe6  1  0.14850650  0.25000000  0.93787585  1.0
+  Fe  Fe7  1  0.64850650  0.25000000  0.56212415  1.0
+  P  P8  1  0.71885210  0.75000000  0.38535978  1.0
+  P  P9  1  0.21885210  0.75000000  0.11464022  1.0
+  P  P10  1  0.28114790  0.25000000  0.61464022  1.0
+  P  P11  1  0.78114790  0.25000000  0.88535978  1.0

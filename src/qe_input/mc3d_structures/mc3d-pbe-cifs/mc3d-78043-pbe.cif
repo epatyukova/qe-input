@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Zr(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02426355
+_cell_length_b   7.02426355
+_cell_length_c   7.56968166
+_cell_angle_alpha   64.03592047
+_cell_angle_beta   115.96407953
+_cell_angle_gamma   109.58309796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr(MoO4)2
+_chemical_formula_sum   'Zr2 Mo4 O16'
+_cell_volume   297.10595159
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.48013168  0.48013168  0.25000000  1.0
+  Zr  Zr1  1  0.51986832  0.51986832  0.75000000  1.0
+  Mo  Mo2  1  1.56467342  -0.00724865  0.24133300  1.0
+  Mo  Mo3  1  1.00724865  -0.56467342  0.74133300  1.0
+  Mo  Mo4  1  0.99275135  0.56467342  0.25866700  1.0
+  Mo  Mo5  1  0.43532658  0.00724865  0.75866700  1.0
+  O  O6  1  1.52062742  -0.29161717  0.42072003  1.0
+  O  O7  1  1.29161717  -0.52062742  0.92072003  1.0
+  O  O8  1  0.70838283  0.52062742  0.07927997  1.0
+  O  O9  1  0.47937258  0.29161717  0.57927997  1.0
+  O  O10  1  0.83242555  0.08237613  0.33075995  1.0
+  O  O11  1  0.91762387  0.16757445  0.83075995  1.0
+  O  O12  1  1.08237613  -0.16757445  0.16924005  1.0
+  O  O13  1  1.16757445  -0.08237613  0.66924005  1.0
+  O  O14  1  1.50598221  -0.18405062  0.06171544  1.0
+  O  O15  1  1.18405062  -0.50598221  0.56171544  1.0
+  O  O16  1  0.81594938  0.50598221  0.43828456  1.0
+  O  O17  1  0.49401779  0.18405062  0.93828456  1.0
+  O  O18  1  0.45117987  0.15405335  0.28586769  1.0
+  O  O19  1  0.84594665  0.54882013  0.78586769  1.0
+  O  O20  1  1.15405335  -0.54882013  0.21413231  1.0
+  O  O21  1  1.54882013  -0.15405335  0.71413231  1.0

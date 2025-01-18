@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KNb(CuSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.07985117
+_cell_length_b   10.07985117
+_cell_length_c   7.80771340
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   33.01954327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNb(CuSe2)2
+_chemical_formula_sum   'K2 Nb2 Cu4 Se8'
+_cell_volume   432.28373075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.55762686  1.07406279  0.25000000  1.0
+  K  K1  1  -0.07406279  1.44237314  0.75000000  1.0
+  Nb  Nb2  1  0.08720680  1.12933607  0.25000000  1.0
+  Nb  Nb3  1  0.87066393  0.91279320  0.75000000  1.0
+  Cu  Cu4  1  0.58482669  0.62716556  0.25000000  1.0
+  Cu  Cu5  1  0.37283444  1.41517331  0.75000000  1.0
+  Cu  Cu6  1  -0.00595200  0.00595200  0.50000000  1.0
+  Cu  Cu7  1  -0.00595200  0.00595200  0.00000000  1.0
+  Se  Se8  1  0.12113785  1.66668382  0.49552902  1.0
+  Se  Se9  1  0.33331618  0.87886215  0.99552902  1.0
+  Se  Se10  1  0.33331618  0.87886215  0.50447098  1.0
+  Se  Se11  1  0.12113785  1.66668382  0.00447098  1.0
+  Se  Se12  1  -0.26430508  1.27044917  0.25000000  1.0
+  Se  Se13  1  0.72955083  1.26430508  0.75000000  1.0
+  Se  Se14  1  -0.06240050  1.48114521  0.25000000  1.0
+  Se  Se15  1  0.51885479  1.06240050  0.75000000  1.0

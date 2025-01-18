@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca4TiN4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.01257326
+_cell_length_b   5.99807633
+_cell_length_c   6.02425496
+_cell_angle_alpha   68.02307295
+_cell_angle_beta   71.59959685
+_cell_angle_gamma   79.66473069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4TiN4
+_chemical_formula_sum   'Ca8 Ti2 N8'
+_cell_volume   285.85998380
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.98243459  0.74109202  0.23164044  1.0
+  Ca  Ca1  1  0.01756541  0.25890798  0.76835956  1.0
+  Ca  Ca2  1  0.57361001  0.73028983  0.47954254  1.0
+  Ca  Ca3  1  0.42638999  0.26971017  0.52045746  1.0
+  Ca  Ca4  1  0.82120756  0.23290676  0.41510415  1.0
+  Ca  Ca5  1  0.17879244  0.76709324  0.58489585  1.0
+  Ca  Ca6  1  0.60461259  0.23721741  0.95428128  1.0
+  Ca  Ca7  1  0.39538741  0.76278259  0.04571872  1.0
+  Ti  Ti8  1  0.75716084  0.71577062  0.84720523  1.0
+  Ti  Ti9  1  0.24283916  0.28422938  0.15279477  1.0
+  N  N10  1  0.61167079  0.97120322  0.70657484  1.0
+  N  N11  1  0.38832921  0.02879678  0.29342516  1.0
+  N  N12  1  0.92999180  0.87595776  0.83512460  1.0
+  N  N13  1  0.07000820  0.12404224  0.16487540  1.0
+  N  N14  1  0.80361417  0.51672477  0.63515172  1.0
+  N  N15  1  0.19638583  0.48327523  0.36484828  1.0
+  N  N16  1  0.36560110  0.48586721  0.82473334  1.0
+  N  N17  1  0.63439890  0.51413279  0.17526666  1.0

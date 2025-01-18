@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2NiSn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04124468
+_cell_length_b   6.04124468
+_cell_length_c   11.05756292
+_cell_angle_alpha   64.45957685
+_cell_angle_beta   115.54042315
+_cell_angle_gamma   135.48236953
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2NiSn2
+_chemical_formula_sum   'Ca4 Ni2 Sn4'
+_cell_volume   250.37045851
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.99923841  -0.99923841  0.66606224  1.0
+  Ca  Ca1  1  0.00076159  -0.00076159  0.33393776  1.0
+  Ca  Ca2  1  0.81410718  0.18589282  0.89026704  1.0
+  Ca  Ca3  1  1.18589282  -0.18589282  0.10973296  1.0
+  Ni  Ni4  1  0.72103477  -0.72103477  0.34960951  1.0
+  Ni  Ni5  1  0.27896523  -0.27896523  0.65039049  1.0
+  Sn  Sn6  1  0.66309953  0.33690047  0.56127572  1.0
+  Sn  Sn7  1  1.33690047  -0.33690047  0.43872428  1.0
+  Sn  Sn8  1  0.51365232  0.48634768  0.87240650  1.0
+  Sn  Sn9  1  1.48634768  -0.48634768  0.12759350  1.0

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na2GaNiF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36251544
+_cell_length_b   7.36251544
+_cell_length_c   7.36251544
+_cell_angle_alpha   121.08183411
+_cell_angle_beta   90.56814143
+_cell_angle_gamma   118.28270456
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2GaNiF7
+_chemical_formula_sum   'Na4 Ga2 Ni2 F14'
+_cell_volume   283.33555888
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  1.00000000  1.00000000  1.0
+  Na  Na1  1  0.50000000  0.50000000  0.50000000  1.0
+  Na  Na2  1  0.50000000  0.00000000  0.50000000  1.0
+  Na  Na3  1  0.00000000  0.00000000  0.00000000  1.0
+  Ni  Ni4  1  1.00000000  1.50000000  1.00000000  1.0
+  Ni  Ni5  1  1.00000000  1.00000000  0.50000000  1.0
+  Ga  Ga6  1  -0.00000000  0.50000000  0.50000000  1.0
+  Ga  Ga7  1  0.50000000  0.50000000  1.00000000  1.0
+  F  F8  1  1.32118339  1.63329878  1.08187711  1.0
+  F  F9  1  0.94857833  0.76069372  1.58187711  1.0
+  F  F10  1  0.67881661  0.76069372  1.31211539  1.0
+  F  F11  1  1.05142167  1.63329878  0.81211539  1.0
+  F  F12  1  1.32118339  1.23930628  0.68788461  1.0
+  F  F13  1  0.94857833  0.36670122  1.18788461  1.0
+  F  F14  1  0.67881661  0.36670122  0.91812289  1.0
+  F  F15  1  1.05142167  1.23930628  0.41812289  1.0
+  F  F16  1  1.63768091  0.72647678  0.91120413  1.0
+  F  F17  1  1.68472735  1.27352322  1.41120413  1.0
+  F  F18  1  0.36231909  0.27352322  0.08879587  1.0
+  F  F19  1  0.31527265  0.72647678  0.58879587  1.0
+  F  F20  1  1.10878021  0.85878021  0.25000000  1.0
+  F  F21  1  0.89121979  0.14121979  0.75000000  1.0

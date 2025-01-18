@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsZrCuSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36764496
+_cell_length_b   8.36764496
+_cell_length_c   10.26728930
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   152.76525623
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsZrCuSe3
+_chemical_formula_sum   'Cs2 Zr2 Cu2 Se6'
+_cell_volume   328.99067471
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.25377879  0.25377879  0.75000000  1.0
+  Cs  Cs1  1  0.25377879  0.74622121  0.25000000  1.0
+  Zr  Zr2  1  0.00000000  0.00000000  0.00000000  1.0
+  Zr  Zr3  1  0.00000000  0.00000000  0.50000000  1.0
+  Cu  Cu4  1  0.46906024  0.53093976  0.75000000  1.0
+  Cu  Cu5  1  -0.46906024  0.46906024  0.25000000  1.0
+  Se  Se6  1  0.38811634  0.61188366  0.94823997  1.0
+  Se  Se7  1  0.38811634  0.61188366  0.55176003  1.0
+  Se  Se8  1  -0.38811634  0.38811634  0.44823997  1.0
+  Se  Se9  1  -0.38811634  0.38811634  0.05176003  1.0
+  Se  Se10  1  0.05977026  0.94022974  0.75000000  1.0
+  Se  Se11  1  -0.05977026  0.05977026  0.25000000  1.0

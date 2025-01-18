@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K4SiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.99927870
+_cell_length_b   6.70243854
+_cell_length_c   6.54855814
+_cell_angle_alpha   60.78422402
+_cell_angle_beta   73.06195815
+_cell_angle_gamma   81.81519580
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4SiO4
+_chemical_formula_sum   'K8 Si2 O8'
+_cell_volume   329.78770931
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.94994793  0.72885140  0.25757217  1.0
+  K  K1  1  0.05005207  0.27114860  0.74242783  1.0
+  K  K2  1  0.55024729  0.72873268  0.51342523  1.0
+  K  K3  1  0.44975271  0.27126732  0.48657477  1.0
+  K  K4  1  0.86488158  0.22433271  0.35267707  1.0
+  K  K5  1  0.13511842  0.77566729  0.64732293  1.0
+  K  K6  1  0.63503987  0.22434154  0.92346537  1.0
+  K  K7  1  0.36496013  0.77565846  0.07653463  1.0
+  Si  Si8  1  0.74998550  0.75989819  0.86989634  1.0
+  Si  Si9  1  0.25001450  0.24010181  0.13010366  1.0
+  O  O10  1  0.61983086  0.93312468  0.72516592  1.0
+  O  O11  1  0.38016914  0.06687532  0.27483408  1.0
+  O  O12  1  0.88019695  0.93283625  0.84179807  1.0
+  O  O13  1  0.11980305  0.06716375  0.15820193  1.0
+  O  O14  1  0.83462840  0.59704903  0.73929869  1.0
+  O  O15  1  0.16537160  0.40295097  0.26070131  1.0
+  O  O16  1  0.33471410  0.40312993  0.83689416  1.0
+  O  O17  1  0.66528590  0.59687007  0.16310584  1.0

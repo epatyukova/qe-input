@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_KNaNdTaO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77408535
+_cell_length_b   5.77408535
+_cell_length_c   8.36233533
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNaNdTaO5
+_chemical_formula_sum   'K2 Na2 Nd2 Ta2 O10'
+_cell_volume   278.80077509
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1.0
+  K  K1  1  0.50000000  0.50000000  0.00000000  1.0
+  Na  Na2  1  0.50000000  0.00000000  0.75887055  1.0
+  Na  Na3  1  0.00000000  0.50000000  0.24112945  1.0
+  Nd  Nd4  1  0.00000000  0.00000000  0.50000000  1.0
+  Nd  Nd5  1  0.50000000  0.50000000  0.50000000  1.0
+  Ta  Ta6  1  0.50000000  0.00000000  0.25954457  1.0
+  Ta  Ta7  1  0.00000000  0.50000000  0.74045543  1.0
+  O  O8  1  0.72973802  0.22973802  0.33045551  1.0
+  O  O9  1  0.72973802  0.77026198  0.33045551  1.0
+  O  O10  1  0.22973802  0.72973802  0.66954449  1.0
+  O  O11  1  0.22973802  0.27026198  0.66954449  1.0
+  O  O12  1  0.77026198  0.72973802  0.66954449  1.0
+  O  O13  1  0.77026198  0.27026198  0.66954449  1.0
+  O  O14  1  0.27026198  0.22973802  0.33045551  1.0
+  O  O15  1  0.27026198  0.77026198  0.33045551  1.0
+  O  O16  1  0.50000000  0.00000000  0.03682174  1.0
+  O  O17  1  0.00000000  0.50000000  0.96317826  1.0

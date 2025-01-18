@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Gd5SnIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.84556107
+_cell_length_b   8.84556107
+_cell_length_c   8.84556107
+_cell_angle_alpha   127.53028544
+_cell_angle_beta   127.53028544
+_cell_angle_gamma   77.38719222
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd5SnIr2
+_chemical_formula_sum   'Gd10 Sn2 Ir4'
+_cell_volume   422.23596711
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  1.20536281  0.70536281  1.17786146  1.0
+  Gd  Gd1  1  0.47249866  0.97249866  1.17786146  1.0
+  Gd  Gd2  1  1.02750134  1.20536281  1.50000000  1.0
+  Gd  Gd3  1  0.29463719  0.47249866  0.50000000  1.0
+  Gd  Gd4  1  0.70536281  0.52750134  0.50000000  1.0
+  Gd  Gd5  1  0.97249866  0.79463719  1.50000000  1.0
+  Gd  Gd6  1  0.52750134  1.02750134  0.82213854  1.0
+  Gd  Gd7  1  0.79463719  0.29463719  0.82213854  1.0
+  Gd  Gd8  1  0.00000000  0.00000000  0.00000000  1.0
+  Gd  Gd9  1  0.50000000  0.50000000  1.00000000  1.0
+  Sn  Sn10  1  0.75000000  0.75000000  1.00000000  1.0
+  Sn  Sn11  1  0.25000000  0.25000000  -0.00000000  1.0
+  Ir  Ir12  1  0.86242618  0.36242618  1.22485236  1.0
+  Ir  Ir13  1  0.63757382  0.86242618  1.50000000  1.0
+  Ir  Ir14  1  0.36242618  0.13757382  0.50000000  1.0
+  Ir  Ir15  1  0.13757382  0.63757382  0.77514764  1.0

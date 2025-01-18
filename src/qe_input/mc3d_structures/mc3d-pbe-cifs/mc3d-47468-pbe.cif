@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba3WCl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60469634
+_cell_length_b   7.60469634
+_cell_length_c   11.62029052
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.59692641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3WCl2O5
+_chemical_formula_sum   'Ba6 W2 Cl4 O10'
+_cell_volume   478.51944920
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.15444224  0.84555776  0.45564221  1.0
+  Ba  Ba1  1  0.15444224  0.84555776  0.04435779  1.0
+  Ba  Ba2  1  -0.15444224  0.15444224  0.95564221  1.0
+  Ba  Ba3  1  -0.15444224  0.15444224  0.54435779  1.0
+  Ba  Ba4  1  -0.40858521  0.40858521  0.75000000  1.0
+  Ba  Ba5  1  0.40858521  0.59141479  0.25000000  1.0
+  W  W6  1  0.25385312  0.74614688  0.75000000  1.0
+  W  W7  1  -0.25385312  0.25385312  0.25000000  1.0
+  Cl  Cl8  1  0.00283156  0.99716844  0.75000000  1.0
+  Cl  Cl9  1  -0.00283156  0.00283156  0.25000000  1.0
+  Cl  Cl10  1  0.50000000  0.50000000  0.00000000  1.0
+  Cl  Cl11  1  0.50000000  0.50000000  0.50000000  1.0
+  O  O12  1  -0.00439017  0.55807541  0.86325505  1.0
+  O  O13  1  -0.00439017  0.55807541  0.63674495  1.0
+  O  O14  1  0.55807541  0.99560983  0.36325505  1.0
+  O  O15  1  0.55807541  0.99560983  0.13674495  1.0
+  O  O16  1  0.44192459  1.00439017  0.86325505  1.0
+  O  O17  1  0.44192459  1.00439017  0.63674495  1.0
+  O  O18  1  0.00439017  0.44192459  0.36325505  1.0
+  O  O19  1  0.00439017  0.44192459  0.13674495  1.0
+  O  O20  1  0.37950113  0.62049887  0.75000000  1.0
+  O  O21  1  -0.37950113  0.37950113  0.25000000  1.0

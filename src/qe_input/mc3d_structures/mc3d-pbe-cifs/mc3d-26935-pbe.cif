@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ca4Cl6O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.13178779
+_cell_length_b   9.13178779
+_cell_length_c   6.90437196
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4Cl6O
+_chemical_formula_sum   'Ca8 Cl12 O2'
+_cell_volume   498.61625546
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.33333333  0.66666667  0.00846773  1.0
+  Ca  Ca1  1  0.66666667  0.33333333  0.50846773  1.0
+  Ca  Ca2  1  0.60185048  0.80092524  0.43507174  1.0
+  Ca  Ca3  1  0.80092524  0.60185048  0.93507174  1.0
+  Ca  Ca4  1  0.80092524  0.19907476  0.93507174  1.0
+  Ca  Ca5  1  0.19907476  0.80092524  0.43507174  1.0
+  Ca  Ca6  1  0.19907476  0.39814952  0.43507174  1.0
+  Ca  Ca7  1  0.39814952  0.19907476  0.93507174  1.0
+  Cl  Cl8  1  0.92519174  0.46259587  0.22511306  1.0
+  Cl  Cl9  1  0.46259587  0.92519174  0.72511306  1.0
+  Cl  Cl10  1  0.46259587  0.53740413  0.72511306  1.0
+  Cl  Cl11  1  0.53740413  0.46259587  0.22511306  1.0
+  Cl  Cl12  1  0.53740413  0.07480826  0.22511306  1.0
+  Cl  Cl13  1  0.07480826  0.53740413  0.72511306  1.0
+  Cl  Cl14  1  0.72379415  0.86189708  0.05312505  1.0
+  Cl  Cl15  1  0.86189708  0.72379415  0.55312505  1.0
+  Cl  Cl16  1  0.86189708  0.13810292  0.55312505  1.0
+  Cl  Cl17  1  0.13810292  0.86189708  0.05312505  1.0
+  Cl  Cl18  1  0.13810292  0.27620585  0.05312505  1.0
+  Cl  Cl19  1  0.27620585  0.13810292  0.55312505  1.0
+  O  O20  1  0.33333333  0.66666667  0.32910274  1.0
+  O  O21  1  0.66666667  0.33333333  0.82910274  1.0

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Al8Cr5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73439999
+_cell_length_b   7.73439999
+_cell_length_c   7.73439999
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al8Cr5
+_chemical_formula_sum   'Al16 Cr10'
+_cell_volume   356.17053975
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.37437899  0.65509506  0.65509506  1.0
+  Al  Al1  1  0.65509506  0.37437899  0.65509506  1.0
+  Al  Al2  1  1.00000000  0.71928393  1.34490494  1.0
+  Al  Al3  1  0.71928393  1.00000000  1.34490494  1.0
+  Al  Al4  1  0.65509506  0.65509506  0.37437899  1.0
+  Al  Al5  1  1.28071607  1.28071607  0.62562101  1.0
+  Al  Al6  1  1.00000000  1.34490494  0.71928393  1.0
+  Al  Al7  1  1.28071607  0.62562101  1.28071607  1.0
+  Al  Al8  1  0.62562101  1.28071607  1.28071607  1.0
+  Al  Al9  1  1.34490494  1.00000000  0.71928393  1.0
+  Al  Al10  1  0.71928393  1.34490494  1.00000000  1.0
+  Al  Al11  1  1.34490494  0.71928393  1.00000000  1.0
+  Al  Al12  1  0.78293891  0.78293891  0.78293891  1.0
+  Al  Al13  1  1.00000000  1.00000000  0.21706109  1.0
+  Al  Al14  1  1.00000000  0.21706109  1.00000000  1.0
+  Al  Al15  1  0.21706109  1.00000000  1.00000000  1.0
+  Cr  Cr16  1  0.64415268  0.64415268  0.00000000  1.0
+  Cr  Cr17  1  0.64415268  0.00000000  0.64415268  1.0
+  Cr  Cr18  1  -0.00000000  0.64415268  0.64415268  1.0
+  Cr  Cr19  1  0.35584732  -0.00000000  0.35584732  1.0
+  Cr  Cr20  1  -0.00000000  0.35584732  0.35584732  1.0
+  Cr  Cr21  1  0.35584732  0.35584732  -0.00000000  1.0
+  Cr  Cr22  1  0.33700367  0.33700367  0.33700367  1.0
+  Cr  Cr23  1  1.00000000  1.00000000  0.66299633  1.0
+  Cr  Cr24  1  1.00000000  0.66299633  1.00000000  1.0
+  Cr  Cr25  1  0.66299633  1.00000000  1.00000000  1.0

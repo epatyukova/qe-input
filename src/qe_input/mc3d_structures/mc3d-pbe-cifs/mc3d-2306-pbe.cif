@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaGa(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56258358
+_cell_length_b   6.56258358
+_cell_length_c   5.34198648
+_cell_angle_alpha   76.84041803
+_cell_angle_beta   103.15958197
+_cell_angle_gamma   95.51031658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGa(SiO3)2
+_chemical_formula_sum   'Na2 Ga2 Si4 O12'
+_cell_volume   217.90440614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.79956564  0.79956564  0.25000000  1.0
+  Na  Na1  1  0.20043436  0.20043436  0.75000000  1.0
+  Ga  Ga2  1  0.39991505  0.39991505  0.25000000  1.0
+  Ga  Ga3  1  0.60008495  0.60008495  0.75000000  1.0
+  Si  Si4  1  1.30025413  -0.11878994  0.26974326  1.0
+  Si  Si5  1  1.11878994  -0.30025413  0.76974326  1.0
+  Si  Si6  1  0.88121006  0.30025413  0.23025674  1.0
+  Si  Si7  1  0.69974587  0.11878994  0.73025674  1.0
+  O  O8  1  1.46647830  -0.30969843  0.36737581  1.0
+  O  O9  1  1.30969843  -0.46647830  0.86737581  1.0
+  O  O10  1  0.69030157  0.46647830  0.13262419  1.0
+  O  O11  1  0.53352170  0.30969843  0.63262419  1.0
+  O  O12  1  0.84259880  0.13955138  0.50689698  1.0
+  O  O13  1  0.86044862  0.15740120  0.00689698  1.0
+  O  O14  1  1.13955138  -0.15740120  0.99310302  1.0
+  O  O15  1  1.15740120  -0.13955138  0.49310302  1.0
+  O  O16  1  0.39861121  0.11629699  0.19839086  1.0
+  O  O17  1  0.88370301  0.60138879  0.69839086  1.0
+  O  O18  1  1.11629699  -0.60138879  0.30160914  1.0
+  O  O19  1  1.60138879  -0.11629699  0.80160914  1.0

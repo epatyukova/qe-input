@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Gd5BiAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.84472709
+_cell_length_b   8.84472709
+_cell_length_c   8.84472709
+_cell_angle_alpha   124.59770785
+_cell_angle_beta   124.59770785
+_cell_angle_gamma   82.20543279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd5BiAu2
+_chemical_formula_sum   'Gd10 Bi2 Au4'
+_cell_volume   450.67039668
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  1.20275793  0.70275793  1.18844176  1.0
+  Gd  Gd1  1  0.48568383  0.98568383  1.18844176  1.0
+  Gd  Gd2  1  1.01431617  1.20275793  1.50000000  1.0
+  Gd  Gd3  1  0.29724207  0.48568383  0.50000000  1.0
+  Gd  Gd4  1  0.70275793  0.51431617  0.50000000  1.0
+  Gd  Gd5  1  0.98568383  0.79724207  1.50000000  1.0
+  Gd  Gd6  1  0.51431617  1.01431617  0.81155824  1.0
+  Gd  Gd7  1  0.79724207  0.29724207  0.81155824  1.0
+  Gd  Gd8  1  0.00000000  -0.00000000  -0.00000000  1.0
+  Gd  Gd9  1  0.50000000  0.50000000  1.00000000  1.0
+  Bi  Bi10  1  0.75000000  0.75000000  1.00000000  1.0
+  Bi  Bi11  1  0.25000000  0.25000000  0.00000000  1.0
+  Au  Au12  1  0.86311212  0.36311212  1.22622424  1.0
+  Au  Au13  1  0.63688788  0.86311212  1.50000000  1.0
+  Au  Au14  1  0.36311212  0.13688788  0.50000000  1.0
+  Au  Au15  1  0.13688788  0.63688788  0.77377576  1.0

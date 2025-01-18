@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Zn2NCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18382494
+_cell_length_b   7.60053629
+_cell_length_c   6.07330806
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2NCl
+_chemical_formula_sum   'Zn8 N4 Cl4'
+_cell_volume   285.44782208
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.50100326  0.50276832  0.79761909  1.0
+  Zn  Zn1  1  1.00100326  0.99723168  0.79761909  1.0
+  Zn  Zn2  1  0.49899674  0.49723168  0.29761909  1.0
+  Zn  Zn3  1  -0.00100326  0.00276832  0.29761909  1.0
+  Zn  Zn4  1  0.10854722  0.66682275  0.53304143  1.0
+  Zn  Zn5  1  0.60854722  0.83317725  0.53304143  1.0
+  Zn  Zn6  1  0.89145278  0.33317725  0.03304143  1.0
+  Zn  Zn7  1  0.39145278  0.16682275  0.03304143  1.0
+  N  N8  1  0.41948391  0.62813395  0.54643251  1.0
+  N  N9  1  0.91948391  0.87186605  0.54643251  1.0
+  N  N10  1  0.58051609  0.37186605  0.04643251  1.0
+  N  N11  1  0.08051609  0.12813395  0.04643251  1.0
+  Cl  Cl12  1  0.41479394  0.10659721  0.57290697  1.0
+  Cl  Cl13  1  0.91479394  0.39340279  0.57290697  1.0
+  Cl  Cl14  1  0.58520606  0.89340279  0.07290697  1.0
+  Cl  Cl15  1  0.08520606  0.60659721  0.07290697  1.0

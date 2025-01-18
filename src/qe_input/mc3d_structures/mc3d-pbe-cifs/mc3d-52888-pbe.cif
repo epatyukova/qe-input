@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZrTl2PbS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.85096395
+_cell_length_b   8.85096395
+_cell_length_c   6.87840371
+_cell_angle_alpha   73.49821776
+_cell_angle_beta   106.50178224
+_cell_angle_gamma   124.01298873
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrTl2PbS4
+_chemical_formula_sum   'Zr2 Tl4 Pb2 S8'
+_cell_volume   422.91862010
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.87670489  0.87670489  0.25000000  1.0
+  Zr  Zr1  1  0.12329511  0.12329511  0.75000000  1.0
+  Tl  Tl2  1  0.37669095  -0.12065416  0.26145838  1.0
+  Tl  Tl3  1  1.12065416  0.62330905  0.76145838  1.0
+  Tl  Tl4  1  0.87934584  0.37669095  0.23854162  1.0
+  Tl  Tl5  1  0.62330905  0.12065416  0.73854162  1.0
+  Pb  Pb6  1  0.37413919  0.37413919  0.25000000  1.0
+  Pb  Pb7  1  0.62586081  0.62586081  0.75000000  1.0
+  S  S8  1  0.80173328  -0.00698519  0.49800754  1.0
+  S  S9  1  1.00698519  0.19826672  0.99800754  1.0
+  S  S10  1  0.99301481  0.80173328  0.00199246  1.0
+  S  S11  1  0.19826672  0.00698519  0.50199246  1.0
+  S  S12  1  0.55587613  -0.23381812  0.03857064  1.0
+  S  S13  1  1.23381812  0.44412387  0.53857064  1.0
+  S  S14  1  0.76618188  0.55587613  0.46142936  1.0
+  S  S15  1  0.44412387  0.23381812  0.96142936  1.0

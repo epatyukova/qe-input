@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Ca2CdAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.02747681
+_cell_length_b   11.02747681
+_cell_length_c   14.47032915
+_cell_angle_alpha   70.44949412
+_cell_angle_beta   109.55050588
+_cell_angle_gamma   157.38389991
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2CdAs2
+_chemical_formula_sum   'Ca10 Cd5 As10'
+_cell_volume   636.06565918
+_cell_formula_units_Z   5
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.98099238  -0.98099238  0.38536722  1.0
+  Ca  Ca1  1  0.83857261  -0.83857261  0.49841193  1.0
+  Ca  Ca2  1  0.81005637  -0.81005637  0.23043683  1.0
+  Ca  Ca3  1  1.43660785  -0.43660785  0.78847474  1.0
+  Ca  Ca4  1  1.40406421  -0.40406421  0.06301968  1.0
+  Ca  Ca5  1  1.27664673  -0.27664673  0.80558049  1.0
+  Ca  Ca6  1  1.17427013  -0.17427013  0.42082238  1.0
+  Ca  Ca7  1  1.14753929  -0.14753929  0.14881075  1.0
+  Ca  Ca8  1  1.11590586  -0.11590586  0.87785704  1.0
+  Ca  Ca9  1  1.10548719  -0.10548719  0.63358926  1.0
+  Cd  Cd10  1  -0.00002232  0.00002232  -0.00034490  1.0
+  Cd  Cd11  1  0.76559496  -0.76559496  0.96787110  1.0
+  Cd  Cd12  1  0.71857574  -0.71857574  0.61620869  1.0
+  Cd  Cd13  1  0.56490892  -0.56490892  0.26903068  1.0
+  Cd  Cd14  1  1.47262248  -0.47262248  0.56230234  1.0
+  As  As15  1  0.99091462  -0.99091462  0.18898630  1.0
+  As  As16  1  0.98273912  -0.98273912  0.67815159  1.0
+  As  As17  1  0.87274585  -0.87274585  0.89227685  1.0
+  As  As18  1  0.69641101  -0.69641101  0.29876318  1.0
+  As  As19  1  0.67323339  -0.67323339  0.77820063  1.0
+  As  As20  1  0.58563772  -0.58563772  0.48079297  1.0
+  As  As21  1  0.56984734  -0.56984734  0.97929394  1.0
+  As  As22  1  1.38089037  -0.38089037  0.37846658  1.0
+  As  As23  1  1.29105721  -0.29105721  0.60957697  1.0
+  As  As24  1  1.26390096  -0.26390096  0.07365277  1.0

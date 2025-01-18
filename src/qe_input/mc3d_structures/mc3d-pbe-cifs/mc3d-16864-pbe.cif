@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cu2AgH(SeO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36393426
+_cell_length_b   5.36393426
+_cell_length_c   8.57420367
+_cell_angle_alpha   66.83622199
+_cell_angle_beta   113.16377801
+_cell_angle_gamma   109.42995611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2AgH(SeO5)2
+_chemical_formula_sum   'Cu2 Ag1 H1 Se2 O10'
+_cell_volume   203.85156229
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  -0.00000000  0.50000000  1.0
+  Cu  Cu1  1  1.00000000  0.50000000  0.50000000  1.0
+  Ag  Ag2  1  -0.00000000  -0.00000000  0.00000000  1.0
+  H  H3  1  -0.00000000  0.00000000  0.50000000  1.0
+  Se  Se4  1  0.57619592  -0.57619592  0.77837422  1.0
+  Se  Se5  1  1.42380408  -0.42380408  0.22162578  1.0
+  O  O6  1  0.67387024  -0.22353530  0.73676852  1.0
+  O  O7  1  1.22353530  0.32612976  0.73676852  1.0
+  O  O8  1  0.77646470  0.67387024  0.26323148  1.0
+  O  O9  1  0.32612976  0.22353530  0.26323148  1.0
+  O  O10  1  0.84557243  0.15442757  0.45788766  1.0
+  O  O11  1  0.15442757  -0.15442757  0.54211234  1.0
+  O  O12  1  0.66820003  0.33179997  0.64971487  1.0
+  O  O13  1  0.33179997  -0.33179997  0.35028513  1.0
+  O  O14  1  0.27529644  -0.27529644  1.00963096  1.0
+  O  O15  1  0.72470356  0.27529644  -0.00963096  1.0

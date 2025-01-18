@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba5Al5Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12325739
+_cell_length_b   6.12325739
+_cell_length_c   11.18512525
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Al5Pb
+_chemical_formula_sum   'Ba5 Al5 Pb1'
+_cell_volume   363.19220096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666667  0.33333333  0.79720522  1.0
+  Ba  Ba1  1  0.66666667  0.33333333  0.20279478  1.0
+  Ba  Ba2  1  0.00000000  0.00000000  0.66957382  1.0
+  Ba  Ba3  1  0.00000000  0.00000000  0.33042618  1.0
+  Ba  Ba4  1  0.33333333  0.66666667  0.00000000  1.0
+  Al  Al5  1  0.97301545  0.48650772  0.50000000  1.0
+  Al  Al6  1  0.51349228  0.48650772  0.50000000  1.0
+  Al  Al7  1  0.51349228  0.02698455  0.50000000  1.0
+  Al  Al8  1  0.33333333  0.66666667  0.67449276  1.0
+  Al  Al9  1  0.33333333  0.66666667  0.32550724  1.0
+  Pb  Pb10  1  0.00000000  0.00000000  0.00000000  1.0

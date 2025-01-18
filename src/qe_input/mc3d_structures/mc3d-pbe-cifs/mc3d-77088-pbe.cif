@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mn2Cu3Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91721539
+_cell_length_b   4.91721539
+_cell_length_c   7.78506650
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2Cu3Ge
+_chemical_formula_sum   'Mn4 Cu6 Ge2'
+_cell_volume   163.01644648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.33333333  0.66666667  0.94313036  1.0
+  Mn  Mn1  1  0.33333333  0.66666667  0.55686964  1.0
+  Mn  Mn2  1  0.66666667  0.33333333  0.44313036  1.0
+  Mn  Mn3  1  0.66666667  0.33333333  0.05686964  1.0
+  Cu  Cu4  1  0.17195952  0.82804048  0.25000000  1.0
+  Cu  Cu5  1  0.17195952  0.34391904  0.25000000  1.0
+  Cu  Cu6  1  0.82804048  0.17195952  0.75000000  1.0
+  Cu  Cu7  1  0.82804048  0.65608096  0.75000000  1.0
+  Cu  Cu8  1  0.65608096  0.82804048  0.25000000  1.0
+  Cu  Cu9  1  0.34391904  0.17195952  0.75000000  1.0
+  Ge  Ge10  1  0.00000000  0.00000000  0.50000000  1.0
+  Ge  Ge11  1  0.00000000  0.00000000  0.00000000  1.0

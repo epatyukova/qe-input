@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na3VS3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.74790698
+_cell_length_b   7.74790698
+_cell_length_c   5.94964534
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   101.96877375
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3VS3O
+_chemical_formula_sum   'Na6 V2 S6 O2'
+_cell_volume   349.39325025
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.17383119  0.41361715  0.01890045  1.0
+  Na  Na1  1  -0.58638285  1.17383119  0.51890045  1.0
+  Na  Na2  1  0.58638285  0.82616881  0.01890045  1.0
+  Na  Na3  1  -0.17383119  1.58638285  0.51890045  1.0
+  Na  Na4  1  0.11770046  0.88229954  0.00022372  1.0
+  Na  Na5  1  -0.11770046  1.11770046  0.50022372  1.0
+  V  V6  1  0.29636262  0.70363738  0.41995888  1.0
+  V  V7  1  -0.29636262  1.29636262  0.91995888  1.0
+  S  S8  1  -0.18849324  1.56362033  0.03504075  1.0
+  S  S9  1  0.56362033  0.81150676  0.53504075  1.0
+  S  S10  1  -0.56362033  1.18849324  0.03504075  1.0
+  S  S11  1  0.18849324  0.43637967  0.53504075  1.0
+  S  S12  1  0.12010135  0.87989865  0.51902779  1.0
+  S  S13  1  -0.12010135  1.12010135  0.01902779  1.0
+  O  O14  1  0.30065454  0.69934546  0.13990722  1.0
+  O  O15  1  -0.30065454  1.30065454  0.63990722  1.0

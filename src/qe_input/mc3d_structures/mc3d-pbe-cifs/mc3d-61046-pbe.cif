@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu3Ga8Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13454271
+_cell_length_b   8.13454271
+_cell_length_c   8.13454271
+_cell_angle_alpha   150.34846942
+_cell_angle_beta   106.04863166
+_cell_angle_gamma   81.63356340
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Ga8Ir3
+_chemical_formula_sum   'Lu3 Ga8 Ir3'
+_cell_volume   250.78303673
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.50000000  1.00000000  1.0
+  Lu  Lu1  1  0.83298475  0.83298475  1.00000000  1.0
+  Lu  Lu2  1  1.16701525  1.16701525  1.00000000  1.0
+  Ga  Ga3  1  0.33916370  0.62419299  0.71497070  1.0
+  Ga  Ga4  1  1.66083630  1.37580701  1.28502930  1.0
+  Ga  Ga5  1  0.90922229  0.62419299  1.28502930  1.0
+  Ga  Ga6  1  1.09077771  1.37580701  0.71497070  1.0
+  Ga  Ga7  1  1.45711987  0.82880768  0.62831220  1.0
+  Ga  Ga8  1  0.54288013  0.17119232  0.37168780  1.0
+  Ga  Ga9  1  1.20049548  0.82880768  0.37168780  1.0
+  Ga  Ga10  1  0.79950452  0.17119232  0.62831220  1.0
+  Ir  Ir11  1  -0.00000000  0.50000000  0.50000000  1.0
+  Ir  Ir12  1  0.77741309  0.00000000  0.77741309  1.0
+  Ir  Ir13  1  0.22258691  0.00000000  0.22258691  1.0

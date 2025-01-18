@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba4LiCu(CO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75218488
+_cell_length_b   8.75218488
+_cell_length_c   8.75218488
+_cell_angle_alpha   141.16201824
+_cell_angle_beta   141.16201824
+_cell_angle_gamma   56.09311614
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba4LiCu(CO5)2
+_chemical_formula_sum   'Ba4 Li1 Cu1 C2 O10'
+_cell_volume   261.62019172
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.11735778  0.61735778  0.50000000  1.0
+  Ba  Ba1  1  0.88264222  0.38264222  0.50000000  1.0
+  Ba  Ba2  1  0.61735778  0.11735778  0.50000000  1.0
+  Ba  Ba3  1  0.38264222  0.88264222  0.50000000  1.0
+  Li  Li4  1  0.50000000  0.50000000  1.00000000  1.0
+  Cu  Cu5  1  0.00000000  0.00000000  0.00000000  1.0
+  C  C6  1  0.27199316  0.27199316  0.00000000  1.0
+  C  C7  1  0.72800684  0.72800684  1.00000000  1.0
+  O  O8  1  0.22600432  0.77019448  1.00000000  1.0
+  O  O9  1  1.22980552  1.22980552  1.45580984  1.0
+  O  O10  1  0.77399568  0.77399568  0.54419016  1.0
+  O  O11  1  0.77019448  0.22600432  1.00000000  1.0
+  O  O12  1  0.35708837  0.35708837  0.00000000  1.0
+  O  O13  1  0.64291163  0.64291163  1.00000000  1.0
+  O  O14  1  0.36956767  1.09400347  1.00000000  1.0
+  O  O15  1  0.90599653  0.90599653  1.27556421  1.0
+  O  O16  1  0.63043233  0.63043233  0.72443579  1.0
+  O  O17  1  1.09400347  0.36956767  1.00000000  1.0

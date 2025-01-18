@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaCr(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55395074
+_cell_length_b   6.55395074
+_cell_length_c   5.33950707
+_cell_angle_alpha   76.95824182
+_cell_angle_beta   103.04175818
+_cell_angle_gamma   95.60347080
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCr(SiO3)2
+_chemical_formula_sum   'Na2 Cr2 Si4 O12'
+_cell_volume   217.41131004
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.79847402  0.79847402  0.25000000  1.0
+  Na  Na1  1  0.20152598  0.20152598  0.75000000  1.0
+  Cr  Cr2  1  0.40671352  0.40671352  0.25000000  1.0
+  Cr  Cr3  1  0.59328648  0.59328648  0.75000000  1.0
+  Si  Si4  1  1.29955089  -0.11680025  0.26861522  1.0
+  Si  Si5  1  1.11680025  -0.29955089  0.76861522  1.0
+  Si  Si6  1  0.88319975  0.29955089  0.23138478  1.0
+  Si  Si7  1  0.70044911  0.11680025  0.73138478  1.0
+  O  O8  1  1.46607543  -0.30764956  0.36427469  1.0
+  O  O9  1  1.30764956  -0.46607543  0.86427469  1.0
+  O  O10  1  0.69235044  0.46607543  0.13572531  1.0
+  O  O11  1  0.53392457  0.30764956  0.63572531  1.0
+  O  O12  1  0.84455408  0.13976676  0.50853149  1.0
+  O  O13  1  0.86023324  0.15544592  0.00853149  1.0
+  O  O14  1  1.13976676  -0.15544592  0.99146851  1.0
+  O  O15  1  1.15544592  -0.13976676  0.49146851  1.0
+  O  O16  1  0.39764378  0.11926455  0.19928293  1.0
+  O  O17  1  0.88073545  0.60235622  0.69928293  1.0
+  O  O18  1  1.11926455  -0.60235622  0.30071707  1.0
+  O  O19  1  1.60235622  -0.11926455  0.80071707  1.0

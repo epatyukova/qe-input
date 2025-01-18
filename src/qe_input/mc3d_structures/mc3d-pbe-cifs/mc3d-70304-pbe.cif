@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaSi6N8O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83013789
+_cell_length_b   6.83013789
+_cell_length_c   6.83013789
+_cell_angle_alpha   106.32242505
+_cell_angle_beta   88.49427392
+_cell_angle_gamma   138.17924521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSi6N8O
+_chemical_formula_sum   'Ba1 Si6 N8 O1'
+_cell_volume   195.36989278
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.12859428  0.62859428  0.50000000  1.0
+  Si  Si1  1  0.74901048  0.78557457  0.35501586  1.0
+  Si  Si2  1  1.43055870  0.78557457  1.03656409  1.0
+  Si  Si3  1  0.74901048  1.39399461  0.96343591  1.0
+  Si  Si4  1  1.43055870  1.39399461  1.64498414  1.0
+  Si  Si5  1  0.92469837  1.08606280  0.83863557  1.0
+  Si  Si6  1  1.24742723  1.08606280  1.16136443  1.0
+  N  N7  1  1.15081443  1.10261931  1.39730344  1.0
+  N  N8  1  0.70531587  1.10261931  0.95180488  1.0
+  N  N9  1  1.15081443  0.75351099  1.04819512  1.0
+  N  N10  1  0.70531587  0.75351099  0.60269656  1.0
+  N  N11  1  1.24720776  1.43575555  0.81145221  1.0
+  N  N12  1  1.62430333  1.43575555  1.18854779  1.0
+  N  N13  1  0.55919927  1.28695126  0.72775199  1.0
+  N  N14  1  0.55919927  0.83144728  0.27224801  1.0
+  O  O15  1  0.00167152  0.00167152  -0.00000000  1.0

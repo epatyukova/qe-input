@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_SrIn2(GeIr)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63527350
+_cell_length_b   6.63527350
+_cell_length_c   6.63527350
+_cell_angle_alpha   116.14250915
+_cell_angle_beta   116.14250915
+_cell_angle_gamma   96.82223855
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrIn2(GeIr)4
+_chemical_formula_sum   'Sr1 In2 Ge4 Ir4'
+_cell_volume   216.94501858
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In1  1  0.50000000  0.00000000  0.50000000  1.0
+  In  In2  1  0.00000000  0.50000000  0.50000000  1.0
+  Ge  Ge3  1  0.87689833  0.87689833  0.36679962  1.0
+  Ge  Ge4  1  0.51009871  0.51009871  0.63320038  1.0
+  Ge  Ge5  1  0.48990129  1.12310167  1.00000000  1.0
+  Ge  Ge6  1  1.12310167  0.48990129  1.00000000  1.0
+  Ir  Ir7  1  1.44608898  0.75984461  1.00000000  1.0
+  Ir  Ir8  1  0.75984461  1.44608898  1.00000000  1.0
+  Ir  Ir9  1  1.24015539  1.24015539  0.68624437  1.0
+  Ir  Ir10  1  0.55391102  0.55391102  0.31375563  1.0

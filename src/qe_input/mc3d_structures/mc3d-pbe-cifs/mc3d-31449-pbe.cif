@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NbIO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   22.36230949
+_cell_length_b   3.78836476
+_cell_length_c   3.97053343
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbIO2
+_chemical_formula_sum   'Nb4 I4 O8'
+_cell_volume   336.37003380
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.43742253  0.75000000  0.54882195  1.0
+  Nb  Nb1  1  0.93742253  0.75000000  0.95117805  1.0
+  Nb  Nb2  1  0.56257747  0.25000000  0.45117805  1.0
+  Nb  Nb3  1  0.06257747  0.25000000  0.04882195  1.0
+  I  I4  1  0.16514488  0.75000000  0.99579786  1.0
+  I  I5  1  0.66514488  0.75000000  0.50420214  1.0
+  I  I6  1  0.83485512  0.25000000  0.00420214  1.0
+  I  I7  1  0.33485512  0.25000000  0.49579786  1.0
+  O  O8  1  0.03040533  0.75000000  0.99368424  1.0
+  O  O9  1  0.53040533  0.75000000  0.50631576  1.0
+  O  O10  1  0.96959467  0.25000000  0.00631576  1.0
+  O  O11  1  0.46959467  0.25000000  0.49368424  1.0
+  O  O12  1  0.43123919  0.75000000  -0.00007396  1.0
+  O  O13  1  0.93123919  0.75000000  0.50007396  1.0
+  O  O14  1  0.56876081  0.25000000  1.00007396  1.0
+  O  O15  1  0.06876081  0.25000000  0.49992604  1.0

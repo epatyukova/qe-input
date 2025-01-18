@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr5Cr5O14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.01410749
+_cell_length_b   12.01410749
+_cell_length_c   12.01410749
+_cell_angle_alpha   26.69628404
+_cell_angle_beta   26.69628404
+_cell_angle_gamma   26.69628404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5Cr5O14
+_chemical_formula_sum   'Sr5 Cr5 O14'
+_cell_volume   308.59051888
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.90911195  0.90911195  0.90911195  1.0
+  Sr  Sr1  1  1.09088805  1.09088805  0.09088805  1.0
+  Sr  Sr2  1  0.69301754  0.69301754  0.69301754  1.0
+  Sr  Sr3  1  1.30698246  1.30698246  0.30698246  1.0
+  Sr  Sr4  1  1.50000000  0.50000000  0.50000000  1.0
+  Cr  Cr5  1  0.78979095  0.78979095  0.78979095  1.0
+  Cr  Cr6  1  1.21020905  1.21020905  0.21020905  1.0
+  Cr  Cr7  1  1.60170650  0.60170650  0.60170650  1.0
+  Cr  Cr8  1  1.39829350  0.39829350  0.39829350  1.0
+  Cr  Cr9  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O10  1  1.40045921  0.40045921  0.88845538  1.0
+  O  O11  1  1.40045921  0.88845538  0.40045921  1.0
+  O  O12  1  1.11154462  0.59954079  0.59954079  1.0
+  O  O13  1  1.59954079  0.11154462  0.59954079  1.0
+  O  O14  1  1.59954079  0.59954079  0.11154462  1.0
+  O  O15  1  1.88845538  0.40045921  0.40045921  1.0
+  O  O16  1  1.20136119  0.20136119  0.69904367  1.0
+  O  O17  1  1.20136119  0.69904367  0.20136119  1.0
+  O  O18  1  1.30095633  0.79863881  0.79863881  1.0
+  O  O19  1  1.79863881  0.30095633  0.79863881  1.0
+  O  O20  1  1.79863881  0.79863881  0.30095633  1.0
+  O  O21  1  1.69904367  0.20136119  0.20136119  1.0
+  O  O22  1  0.83853397  0.83853397  0.83853397  1.0
+  O  O23  1  1.16146603  1.16146603  0.16146603  1.0

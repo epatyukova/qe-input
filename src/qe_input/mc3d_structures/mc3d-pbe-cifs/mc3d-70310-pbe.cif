@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Ca2MgPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.71798605
+_cell_length_b   5.71798605
+_cell_length_c   5.71798605
+_cell_angle_alpha   135.42277213
+_cell_angle_beta   118.30545252
+_cell_angle_gamma   79.25273979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2MgPt2
+_chemical_formula_sum   'Ca2 Mg1 Pt2'
+_cell_volume   112.01131906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.70026645  0.20026645  0.50000000  1.0
+  Ca  Ca1  1  1.29973355  0.79973355  0.50000000  1.0
+  Mg  Mg2  1  0.00000000  0.00000000  0.00000000  1.0
+  Pt  Pt3  1  0.26785865  0.50000000  0.76785865  1.0
+  Pt  Pt4  1  0.73214135  0.50000000  1.23214135  1.0

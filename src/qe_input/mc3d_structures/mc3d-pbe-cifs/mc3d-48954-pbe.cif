@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Y4GaCo4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43127685
+_cell_length_b   5.43127685
+_cell_length_c   8.89705601
+_cell_angle_alpha   71.50692060
+_cell_angle_beta   108.49307940
+_cell_angle_gamma   135.45912695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y4GaCo4
+_chemical_formula_sum   'Y4 Ga1 Co4'
+_cell_volume   172.93726106
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.24703510  -0.24703510  0.84129690  1.0
+  Y  Y1  1  0.75296490  0.24703510  0.15870310  1.0
+  Y  Y2  1  0.89016279  0.10983721  0.61653290  1.0
+  Y  Y3  1  0.10983721  -0.10983721  0.38346710  1.0
+  Ga  Ga4  1  0.00000000  0.00000000  0.00000000  1.0
+  Co  Co5  1  0.58654987  0.41345013  0.62115129  1.0
+  Co  Co6  1  0.41345013  -0.41345013  0.37884871  1.0
+  Co  Co7  1  0.53840564  0.46159436  0.85323574  1.0
+  Co  Co8  1  0.46159436  -0.46159436  0.14676426  1.0

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Y6InCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.41504910
+_cell_length_b   8.41504910
+_cell_length_c   8.41504910
+_cell_angle_alpha   111.53287009
+_cell_angle_beta   110.08095738
+_cell_angle_gamma   106.83505767
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y6InCo2
+_chemical_formula_sum   'Y12 In2 Co4'
+_cell_volume   457.91907825
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.68595662  0.38304108  0.69708445  1.0
+  Y  Y1  1  1.31404338  1.01112783  0.69708445  1.0
+  Y  Y2  1  0.68595662  0.98887217  0.30291555  1.0
+  Y  Y3  1  0.31404338  0.61695892  0.30291555  1.0
+  Y  Y4  1  0.55920715  0.77015209  0.78905506  1.0
+  Y  Y5  1  1.01890297  1.22984791  0.78905506  1.0
+  Y  Y6  1  0.98109703  0.77015209  0.21094494  1.0
+  Y  Y7  1  0.44079285  0.22984791  0.21094494  1.0
+  Y  Y8  1  0.81263122  0.71136864  0.52399986  1.0
+  Y  Y9  1  0.18736878  0.71136864  0.89873741  1.0
+  Y  Y10  1  0.81263122  1.28863136  1.10126259  1.0
+  Y  Y11  1  0.18736878  0.28863136  0.47600014  1.0
+  In  In12  1  0.50000000  0.50000000  -0.00000000  1.0
+  In  In13  1  0.00000000  0.00000000  0.00000000  1.0
+  Co  Co14  1  0.88954225  1.38954225  0.50000000  1.0
+  Co  Co15  1  1.11045775  0.61045775  0.50000000  1.0
+  Co  Co16  1  0.61827925  -0.00000000  0.61827925  1.0
+  Co  Co17  1  0.38172075  -0.00000000  0.38172075  1.0

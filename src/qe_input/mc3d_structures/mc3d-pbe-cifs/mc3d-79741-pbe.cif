@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sc3IrC4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75282110
+_cell_length_b   6.75282110
+_cell_length_c   5.61978712
+_cell_angle_alpha   83.90660092
+_cell_angle_beta   96.09339908
+_cell_angle_gamma   49.17784425
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3IrC4
+_chemical_formula_sum   'Sc6 Ir2 C8'
+_cell_volume   187.51076629
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.26197282  -0.26197282  0.73679443  1.0
+  Sc  Sc1  1  0.73802718  -0.73802718  0.26320557  1.0
+  Sc  Sc2  1  0.68965813  -0.31034187  0.50000000  1.0
+  Sc  Sc3  1  0.31034187  0.31034187  0.50000000  1.0
+  Sc  Sc4  1  0.80854023  -0.19145977  -0.00000000  1.0
+  Sc  Sc5  1  0.19145977  0.19145977  0.00000000  1.0
+  Ir  Ir6  1  0.77102813  -0.77102813  0.77142572  1.0
+  Ir  Ir7  1  0.22897187  -0.22897187  0.22857428  1.0
+  C  C8  1  0.79066408  -0.04730519  0.58128478  1.0
+  C  C9  1  1.04730519  -0.79066408  0.58128478  1.0
+  C  C10  1  0.95269481  -0.20933592  0.41871522  1.0
+  C  C11  1  0.20933592  0.04730519  0.41871522  1.0
+  C  C12  1  0.45415141  0.29130310  0.91887148  1.0
+  C  C13  1  0.70869690  -0.45415141  0.91887148  1.0
+  C  C14  1  1.29130310  -0.54584859  0.08112852  1.0
+  C  C15  1  0.54584859  -0.29130310  0.08112852  1.0

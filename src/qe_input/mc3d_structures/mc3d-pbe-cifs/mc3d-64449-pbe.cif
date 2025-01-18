@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na2Cd(GeS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41703429
+_cell_length_b   7.41703429
+_cell_length_c   11.80725097
+_cell_angle_alpha   85.33062061
+_cell_angle_beta   94.66937939
+_cell_angle_gamma   60.44501808
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Cd(GeS3)2
+_chemical_formula_sum   'Na4 Cd2 Ge4 S12'
+_cell_volume   557.59003949
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.64669894  -0.61801312  0.51008273  1.0
+  Na  Na1  1  0.61801312  0.35330106  0.01008273  1.0
+  Na  Na2  1  1.03290815  -0.43751030  0.15176650  1.0
+  Na  Na3  1  0.43751030  -0.03290815  0.65176650  1.0
+  Cd  Cd4  1  1.04210215  -0.54517265  0.80380533  1.0
+  Cd  Cd5  1  0.54517265  -0.04210215  0.30380533  1.0
+  Ge  Ge6  1  0.96169655  -0.00838289  0.77834311  1.0
+  Ge  Ge7  1  1.00838289  -0.96169655  0.27834311  1.0
+  Ge  Ge8  1  1.02817286  -0.30399338  0.52808560  1.0
+  Ge  Ge9  1  0.30399338  -0.02817286  0.02808560  1.0
+  S  S10  1  0.71360353  -0.27045733  0.50004339  1.0
+  S  S11  1  0.27045733  0.28639647  0.00004339  1.0
+  S  S12  1  0.79290542  -0.16566413  0.83068919  1.0
+  S  S13  1  1.16566413  -0.79290542  0.33068919  1.0
+  S  S14  1  1.02207181  -0.01637882  0.59069194  1.0
+  S  S15  1  0.01637882  -0.02207181  0.09069194  1.0
+  S  S16  1  0.77731907  -0.67015067  0.78696962  1.0
+  S  S17  1  0.67015067  0.22268093  0.28696962  1.0
+  S  S18  1  1.16891130  -0.30630176  0.36336067  1.0
+  S  S19  1  0.30630176  -0.16891130  0.86336067  1.0
+  S  S20  1  1.26758828  -0.58619688  0.64356193  1.0
+  S  S21  1  0.58619688  -0.26758828  0.14356193  1.0

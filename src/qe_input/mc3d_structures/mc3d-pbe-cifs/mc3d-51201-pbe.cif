@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_BaCrF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94407815
+_cell_length_b   4.94407815
+_cell_length_c   4.94407815
+_cell_angle_alpha   98.33753919
+_cell_angle_beta   98.33753919
+_cell_angle_gamma   98.33753919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCrF6
+_chemical_formula_sum   'Ba1 Cr1 F6'
+_cell_volume   116.59759660
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.50000000  1.0
+  Cr  Cr1  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F2  1  1.26667378  0.26667378  -0.07635653  1.0
+  F  F3  1  1.26667378  -0.07635653  0.26667378  1.0
+  F  F4  1  1.07635653  0.73332622  -0.26667378  1.0
+  F  F5  1  0.73332622  1.07635653  -0.26667378  1.0
+  F  F6  1  0.73332622  0.73332622  0.07635653  1.0
+  F  F7  1  0.92364347  0.26667378  0.26667378  1.0

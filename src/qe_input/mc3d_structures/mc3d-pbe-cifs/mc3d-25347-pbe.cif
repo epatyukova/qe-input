@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na3Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.06050156
+_cell_length_b   4.99861108
+_cell_length_c   8.64943868
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Rh
+_chemical_formula_sum   'Na12 Rh4'
+_cell_volume   391.73241615
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.07354248  0.25000000  0.40191611  1.0
+  Na  Na1  1  0.57354248  0.25000000  0.09808389  1.0
+  Na  Na2  1  0.92645752  0.75000000  0.59808389  1.0
+  Na  Na3  1  0.42645752  0.75000000  0.90191611  1.0
+  Na  Na4  1  0.41767895  0.25000000  0.43391736  1.0
+  Na  Na5  1  0.91767895  0.25000000  0.06608264  1.0
+  Na  Na6  1  0.58232105  0.75000000  0.56608264  1.0
+  Na  Na7  1  0.08232105  0.75000000  0.93391736  1.0
+  Na  Na8  1  0.22549934  0.25000000  0.75023091  1.0
+  Na  Na9  1  0.72549934  0.25000000  0.74976909  1.0
+  Na  Na10  1  0.77450066  0.75000000  0.24976909  1.0
+  Na  Na11  1  0.27450066  0.75000000  0.25023091  1.0
+  Rh  Rh12  1  0.24747543  0.25000000  0.08366256  1.0
+  Rh  Rh13  1  0.74747543  0.25000000  0.41633744  1.0
+  Rh  Rh14  1  0.75252457  0.75000000  0.91633744  1.0
+  Rh  Rh15  1  0.25252457  0.75000000  0.58366256  1.0

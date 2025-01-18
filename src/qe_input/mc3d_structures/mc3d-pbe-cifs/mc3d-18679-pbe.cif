@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba(SiIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96687317
+_cell_length_b   6.75525876
+_cell_length_c   7.77312068
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.88093920
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(SiIr)2
+_chemical_formula_sum   'Ba4 Si8 Ir8'
+_cell_volume   418.11065759
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.73531064  0.38096850  0.99837275  1.0
+  Ba  Ba1  1  0.73531064  0.11903150  0.49837275  1.0
+  Ba  Ba2  1  0.26468936  0.88096850  0.50162725  1.0
+  Ba  Ba3  1  0.26468936  0.61903150  0.00162725  1.0
+  Si  Si4  1  0.93687778  0.64779193  0.68734998  1.0
+  Si  Si5  1  0.93687778  0.85220807  0.18734998  1.0
+  Si  Si6  1  0.06312222  0.14779193  0.81265002  1.0
+  Si  Si7  1  0.06312222  0.35220807  0.31265002  1.0
+  Si  Si8  1  0.57305825  0.91934674  0.87081298  1.0
+  Si  Si9  1  0.57305825  0.58065326  0.37081298  1.0
+  Si  Si10  1  0.42694175  0.41934674  0.62918702  1.0
+  Si  Si11  1  0.42694175  0.08065326  0.12918702  1.0
+  Ir  Ir12  1  0.87835951  0.89489550  0.88637296  1.0
+  Ir  Ir13  1  0.87835951  0.60510450  0.38637296  1.0
+  Ir  Ir14  1  0.12164049  0.39489550  0.61362704  1.0
+  Ir  Ir15  1  0.12164049  0.10510450  0.11362704  1.0
+  Ir  Ir16  1  0.63765753  0.66672558  0.67003644  1.0
+  Ir  Ir17  1  0.63765753  0.83327442  0.17003644  1.0
+  Ir  Ir18  1  0.36234247  0.16672558  0.82996356  1.0
+  Ir  Ir19  1  0.36234247  0.33327442  0.32996356  1.0

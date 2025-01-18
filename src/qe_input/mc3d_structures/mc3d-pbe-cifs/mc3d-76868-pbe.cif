@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CuAsPtS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17670560
+_cell_length_b   8.17670560
+_cell_length_c   5.91658108
+_cell_angle_alpha   90.00005453
+_cell_angle_beta   89.99994547
+_cell_angle_gamma   26.97036124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAsPtS2
+_chemical_formula_sum   'Cu2 As2 Pt2 S4'
+_cell_volume   179.40440814
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.60340307  0.50069901  0.23283623  1.0
+  Cu  Cu1  1  1.49930099  0.39659693  0.73283623  1.0
+  As  As2  1  0.81813253  0.71529272  0.63431733  1.0
+  As  As3  1  1.28470728  0.18186747  0.13431733  1.0
+  Pt  Pt4  1  0.87593775  0.77309586  0.24370661  1.0
+  Pt  Pt5  1  1.22690414  0.12406225  0.74370661  1.0
+  S  S6  1  0.63385698  0.53101818  0.85674235  1.0
+  S  S7  1  1.46898182  0.36614302  0.35674235  1.0
+  S  S8  1  0.93483987  0.83206443  0.86639748  1.0
+  S  S9  1  1.16793557  0.06516013  0.36639748  1.0

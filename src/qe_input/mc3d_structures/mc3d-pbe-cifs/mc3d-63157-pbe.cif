@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeCu2GeTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.54039700
+_cell_length_b   7.36526039
+_cell_length_c   7.06339135
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCu2GeTe4
+_chemical_formula_sum   'Fe2 Cu4 Ge2 Te8'
+_cell_volume   444.30319266
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.66445624  0.00411273  1.0
+  Fe  Fe1  1  0.00000000  0.33554376  0.50411273  1.0
+  Cu  Cu2  1  0.24870713  0.17122312  0.01010381  1.0
+  Cu  Cu3  1  0.74870713  0.82877688  0.51010381  1.0
+  Cu  Cu4  1  0.75129287  0.17122312  0.01010381  1.0
+  Cu  Cu5  1  0.25129287  0.82877688  0.51010381  1.0
+  Ge  Ge6  1  0.50000000  0.33350426  0.50730532  1.0
+  Ge  Ge7  1  0.00000000  0.66649574  0.00730532  1.0
+  Te  Te8  1  0.50000000  0.67606528  0.37355317  1.0
+  Te  Te9  1  0.00000000  0.32393472  0.87355317  1.0
+  Te  Te10  1  0.50000000  0.33091675  0.89184241  1.0
+  Te  Te11  1  0.00000000  0.66908325  0.39184241  1.0
+  Te  Te12  1  0.24223407  0.15862710  0.37773937  1.0
+  Te  Te13  1  0.74223407  0.84137290  0.87773937  1.0
+  Te  Te14  1  0.75776593  0.15862710  0.37773937  1.0
+  Te  Te15  1  0.25776593  0.84137290  0.87773937  1.0

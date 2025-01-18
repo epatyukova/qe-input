@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2LiAlP2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.96297011
+_cell_length_b   8.96297011
+_cell_length_c   5.79841311
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   99.31386545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2LiAlP2
+_chemical_formula_sum   'Na8 Li4 Al4 P8'
+_cell_volume   459.67352105
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.32168292  1.32168292  0.28595874  1.0
+  Na  Na1  1  0.17831708  0.82168292  0.21404126  1.0
+  Na  Na2  1  0.32168292  0.67831708  0.71404126  1.0
+  Na  Na3  1  -0.17831708  1.17831708  0.78595874  1.0
+  Na  Na4  1  -0.43167367  0.93167367  0.25000000  1.0
+  Na  Na5  1  0.06832633  1.43167367  0.25000000  1.0
+  Na  Na6  1  -0.06832633  0.56832633  0.75000000  1.0
+  Na  Na7  1  0.43167367  1.06832633  0.75000000  1.0
+  Li  Li8  1  0.38114869  1.38114869  0.50000000  1.0
+  Li  Li9  1  -0.11885131  0.88114869  0.00000000  1.0
+  Li  Li10  1  -0.38114869  0.61885131  0.50000000  1.0
+  Li  Li11  1  0.11885131  1.11885131  0.00000000  1.0
+  Al  Al12  1  0.12965646  1.12965646  0.50000000  1.0
+  Al  Al13  1  -0.37034354  0.62965646  0.00000000  1.0
+  Al  Al14  1  -0.12965646  0.87034354  0.50000000  1.0
+  Al  Al15  1  0.37034354  1.37034354  0.00000000  1.0
+  P  P16  1  -0.10405556  1.10405556  0.28584819  1.0
+  P  P17  1  0.39594444  0.60405556  0.21415181  1.0
+  P  P18  1  0.10405556  0.89594444  0.71415181  1.0
+  P  P19  1  -0.39594444  1.39594444  0.78584819  1.0
+  P  P20  1  0.35128403  1.14871597  0.25000000  1.0
+  P  P21  1  -0.14871597  0.64871597  0.25000000  1.0
+  P  P22  1  0.14871597  1.35128403  0.75000000  1.0
+  P  P23  1  -0.35128403  0.85128403  0.75000000  1.0

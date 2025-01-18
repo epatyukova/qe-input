@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CaCuSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.99394715
+_cell_length_b   11.99394715
+_cell_length_c   11.99394715
+_cell_angle_alpha   157.79854233
+_cell_angle_beta   45.08580063
+_cell_angle_gamma   141.27761972
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaCuSn
+_chemical_formula_sum   'Ca6 Cu6 Sn6'
+_cell_volume   406.86271814
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  1.75293016  0.92228573  0.83064443  1.0
+  Ca  Ca1  1  1.09164130  0.92228573  1.16935557  1.0
+  Ca  Ca2  1  0.66644164  0.00132823  0.66511341  1.0
+  Ca  Ca3  1  1.33621481  1.00132823  1.33488659  1.0
+  Ca  Ca4  1  0.41975942  0.91975942  0.50000000  1.0
+  Ca  Ca5  1  0.00260479  0.00260479  0.00000000  1.0
+  Cu  Cu6  1  1.19250863  0.29592184  0.89658679  1.0
+  Cu  Cu7  1  1.39933505  1.29592184  1.10341321  1.0
+  Cu  Cu8  1  1.35940889  0.62825966  0.73114923  1.0
+  Cu  Cu9  1  0.89711042  0.62825966  1.26885077  1.0
+  Cu  Cu10  1  0.86881392  0.29725774  0.57155617  1.0
+  Cu  Cu11  1  1.72570157  1.29725774  1.42844383  1.0
+  Sn  Sn12  1  1.55796613  0.62618109  0.93178505  1.0
+  Sn  Sn13  1  0.69439604  0.62618109  1.06821495  1.0
+  Sn  Sn14  1  1.06626119  0.29954808  0.76671311  1.0
+  Sn  Sn15  1  1.53283497  1.29954808  1.23328689  1.0
+  Sn  Sn16  1  1.22459229  0.62503553  0.59955675  1.0
+  Sn  Sn17  1  1.02547878  0.62503553  1.40044325  1.0

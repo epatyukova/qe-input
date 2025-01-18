@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24077893
+_cell_length_b   3.68924345
+_cell_length_c   7.10403753
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbSiNi
+_chemical_formula_sum   'Nb4 Si4 Ni4'
+_cell_volume   163.56160396
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.97997546  0.75000000  0.67554726  1.0
+  Nb  Nb1  1  0.47997546  0.75000000  0.82445274  1.0
+  Nb  Nb2  1  0.02002454  0.25000000  0.32445274  1.0
+  Nb  Nb3  1  0.52002454  0.25000000  0.17554726  1.0
+  Si  Si4  1  0.72086052  0.75000000  0.38166046  1.0
+  Si  Si5  1  0.22086052  0.75000000  0.11833954  1.0
+  Si  Si6  1  0.27913948  0.25000000  0.61833954  1.0
+  Si  Si7  1  0.77913948  0.25000000  0.88166046  1.0
+  Ni  Ni8  1  0.84829624  0.75000000  0.06619633  1.0
+  Ni  Ni9  1  0.34829624  0.75000000  0.43380367  1.0
+  Ni  Ni10  1  0.15170376  0.25000000  0.93380367  1.0
+  Ni  Ni11  1  0.65170376  0.25000000  0.56619633  1.0

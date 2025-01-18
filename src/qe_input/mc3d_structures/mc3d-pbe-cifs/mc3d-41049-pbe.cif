@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaAl(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45775406
+_cell_length_b   6.45775406
+_cell_length_c   5.29551554
+_cell_angle_alpha   76.92465741
+_cell_angle_beta   103.07534259
+_cell_angle_gamma   95.62759845
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAl(SiO3)2
+_chemical_formula_sum   'Na2 Al2 Si4 O12'
+_cell_volume   209.27813090
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.80004692  0.80004692  0.25000000  1.0
+  Na  Na1  1  0.19995308  0.19995308  0.75000000  1.0
+  Al  Al2  1  0.40491144  0.40491144  0.25000000  1.0
+  Al  Al3  1  0.59508856  0.59508856  0.75000000  1.0
+  Si  Si4  1  1.30353037  -0.11712473  0.27472271  1.0
+  Si  Si5  1  1.11712473  -0.30353037  0.77472271  1.0
+  Si  Si6  1  0.88287527  0.30353037  0.22527729  1.0
+  Si  Si7  1  0.69646963  0.11712473  0.72527729  1.0
+  O  O8  1  1.46703255  -0.31566291  0.37328832  1.0
+  O  O9  1  1.31566291  -0.46703255  0.87328832  1.0
+  O  O10  1  0.68433709  0.46703255  0.12671168  1.0
+  O  O11  1  0.53296745  0.31566291  0.62671168  1.0
+  O  O12  1  0.84669208  0.14194490  0.50546855  1.0
+  O  O13  1  0.85805510  0.15330792  0.00546855  1.0
+  O  O14  1  1.14194490  -0.15330792  0.99453145  1.0
+  O  O15  1  1.15330792  -0.14194490  0.49453145  1.0
+  O  O16  1  0.40099950  0.12359046  0.20935371  1.0
+  O  O17  1  0.87640954  0.59900050  0.70935371  1.0
+  O  O18  1  1.12359046  -0.59900050  0.29064629  1.0
+  O  O19  1  1.59900050  -0.12359046  0.79064629  1.0

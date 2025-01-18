@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ti(CuS)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57224831
+_cell_length_b   6.57224831
+_cell_length_c   6.57224831
+_cell_angle_alpha   131.01350582
+_cell_angle_beta   131.01350582
+_cell_angle_gamma   71.79162201
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(CuS)4
+_chemical_formula_sum   'Ti1 Cu4 S4'
+_cell_volume   158.11077069
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1.0
+  Cu  Cu1  1  0.25705162  0.25705162  -0.00000000  1.0
+  Cu  Cu2  1  0.74294838  0.74294838  1.00000000  1.0
+  Cu  Cu3  1  0.00000000  0.50000000  0.50000000  1.0
+  Cu  Cu4  1  0.50000000  -0.00000000  0.50000000  1.0
+  S  S5  1  0.36931985  0.88084159  1.00000000  1.0
+  S  S6  1  1.11915841  1.11915841  1.48847826  1.0
+  S  S7  1  0.63068015  0.63068015  0.51152174  1.0
+  S  S8  1  0.88084159  0.36931985  1.00000000  1.0

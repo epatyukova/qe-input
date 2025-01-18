@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Na5Sn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17509272
+_cell_length_b   8.17509272
+_cell_length_c   8.17509272
+_cell_angle_alpha   39.08094003
+_cell_angle_beta   39.08094003
+_cell_angle_gamma   39.08094003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5Sn2
+_chemical_formula_sum   'Na5 Sn2'
+_cell_volume   195.30486597
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.85600662  0.85600662  0.85600662  1.0
+  Na  Na1  1  1.14399338  1.14399338  0.14399338  1.0
+  Na  Na2  1  1.71328713  0.71328713  0.71328713  1.0
+  Na  Na3  1  1.28671287  0.28671287  0.28671287  1.0
+  Na  Na4  1  0.00000000  0.00000000  0.00000000  1.0
+  Sn  Sn5  1  1.56692397  0.56692397  0.56692397  1.0
+  Sn  Sn6  1  1.43307603  0.43307603  0.43307603  1.0

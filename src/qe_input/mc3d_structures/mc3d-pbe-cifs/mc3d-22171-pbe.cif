@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na5Zr2F13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53685831
+_cell_length_b   6.53685831
+_cell_length_c   8.57631172
+_cell_angle_alpha   83.29165239
+_cell_angle_beta   96.70834761
+_cell_angle_gamma   129.29449125
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5Zr2F13
+_chemical_formula_sum   'Na5 Zr2 F13'
+_cell_volume   281.23223230
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.77752685  0.22247315  0.34630936  1.0
+  Na  Na1  1  0.22247315  -0.22247315  0.65369064  1.0
+  Na  Na2  1  0.66365844  0.33634156  0.92825007  1.0
+  Na  Na3  1  0.33634156  -0.33634156  0.07174993  1.0
+  Na  Na4  1  0.50000000  0.50000000  0.50000000  1.0
+  Zr  Zr5  1  0.92702567  0.07297433  0.75715855  1.0
+  Zr  Zr6  1  0.07297433  -0.07297433  0.24284145  1.0
+  F  F7  1  0.64339578  -0.09071386  0.57243733  1.0
+  F  F8  1  1.09071386  0.35660422  0.57243733  1.0
+  F  F9  1  0.90928614  0.64339578  0.42756267  1.0
+  F  F10  1  0.35660422  0.09071386  0.42756267  1.0
+  F  F11  1  0.58417223  -0.05479091  0.85645541  1.0
+  F  F12  1  1.05479091  0.41582777  0.85645541  1.0
+  F  F13  1  0.94520909  0.58417223  0.14354459  1.0
+  F  F14  1  0.41582777  0.05479091  0.14354459  1.0
+  F  F15  1  0.29639438  0.17563462  0.75128376  1.0
+  F  F16  1  0.82436538  0.70360562  0.75128376  1.0
+  F  F17  1  1.17563462  0.29639438  0.24871624  1.0
+  F  F18  1  0.70360562  -0.17563462  0.24871624  1.0
+  F  F19  1  0.00000000  0.00000000  0.00000000  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64657881
+_cell_length_b   4.07657874
+_cell_length_c   7.01666048
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCoSi
+_chemical_formula_sum   'Lu4 Co4 Si4'
+_cell_volume   190.11853387
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  1.00782159  0.75000000  0.69267732  1.0
+  Lu  Lu1  1  0.50782159  0.75000000  0.80732268  1.0
+  Lu  Lu2  1  -0.00782159  0.25000000  0.30732268  1.0
+  Lu  Lu3  1  0.49217841  0.25000000  0.19267732  1.0
+  Co  Co4  1  0.84773511  0.75000000  0.06454563  1.0
+  Co  Co5  1  0.34773511  0.75000000  0.43545437  1.0
+  Co  Co6  1  0.15226489  0.25000000  0.93545437  1.0
+  Co  Co7  1  0.65226489  0.25000000  0.56454563  1.0
+  Si  Si8  1  0.70042594  0.75000000  0.39630720  1.0
+  Si  Si9  1  0.20042594  0.75000000  0.10369280  1.0
+  Si  Si10  1  0.29957406  0.25000000  0.60369280  1.0
+  Si  Si11  1  0.79957406  0.25000000  0.89630720  1.0

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na3Ca3InP4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.42290479
+_cell_length_b   9.42290479
+_cell_length_c   7.11278260
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Ca3InP4
+_chemical_formula_sum   'Na6 Ca6 In2 P8'
+_cell_volume   546.94010807
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.86292399  0.72584798  0.57267317  1.0
+  Na  Na1  1  0.27415202  0.13707601  0.57267317  1.0
+  Na  Na2  1  0.86292399  0.13707601  0.57267317  1.0
+  Na  Na3  1  0.13707601  0.27415202  0.07267317  1.0
+  Na  Na4  1  0.72584798  0.86292399  0.07267317  1.0
+  Na  Na5  1  0.13707601  0.86292399  0.07267317  1.0
+  Ca  Ca6  1  0.47129706  0.94259412  0.73643125  1.0
+  Ca  Ca7  1  0.05740588  0.52870294  0.73643125  1.0
+  Ca  Ca8  1  0.47129706  0.52870294  0.73643125  1.0
+  Ca  Ca9  1  0.52870294  0.05740588  0.23643125  1.0
+  Ca  Ca10  1  0.94259412  0.47129706  0.23643125  1.0
+  Ca  Ca11  1  0.52870294  0.47129706  0.23643125  1.0
+  In  In12  1  0.66666667  0.33333333  0.85704912  1.0
+  In  In13  1  0.33333333  0.66666667  0.35704912  1.0
+  P  P14  1  0.81381866  0.62763731  0.97735758  1.0
+  P  P15  1  0.37236269  0.18618134  0.97735758  1.0
+  P  P16  1  0.81381866  0.18618134  0.97735758  1.0
+  P  P17  1  0.18618134  0.37236269  0.47735758  1.0
+  P  P18  1  0.62763731  0.81381866  0.47735758  1.0
+  P  P19  1  0.18618134  0.81381866  0.47735758  1.0
+  P  P20  1  0.66666667  0.33333333  0.49218488  1.0
+  P  P21  1  0.33333333  0.66666667  -0.00781512  1.0

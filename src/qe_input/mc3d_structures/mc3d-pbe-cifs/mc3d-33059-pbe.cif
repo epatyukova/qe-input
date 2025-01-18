@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca3(AlAs2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27603693
+_cell_length_b   8.27603693
+_cell_length_c   6.66212278
+_cell_angle_alpha   89.19441516
+_cell_angle_beta   90.80558484
+_cell_angle_gamma   104.17334546
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(AlAs2)2
+_chemical_formula_sum   'Ca6 Al4 As8'
+_cell_volume   442.34681453
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  1.24948022  0.00494294  0.47588105  1.0
+  Ca  Ca1  1  0.99505706  -0.24948022  0.97588105  1.0
+  Ca  Ca2  1  1.00494294  0.24948022  0.02411895  1.0
+  Ca  Ca3  1  0.75051978  -0.00494294  0.52411895  1.0
+  Ca  Ca4  1  0.59888021  -0.40111979  0.25000000  1.0
+  Ca  Ca5  1  1.40111979  0.40111979  0.75000000  1.0
+  Al  Al6  1  1.57963517  0.17142710  0.08860006  1.0
+  Al  Al7  1  0.82857290  -0.57963517  0.58860006  1.0
+  Al  Al8  1  1.17142710  0.57963517  0.41139994  1.0
+  Al  Al9  1  0.42036483  -0.17142710  0.91139994  1.0
+  As  As10  1  0.71923588  -0.05981588  0.02408243  1.0
+  As  As11  1  1.05981588  0.28076412  0.52408243  1.0
+  As  As12  1  0.94018412  -0.28076412  0.47591757  1.0
+  As  As13  1  1.28076412  0.05981588  0.97591757  1.0
+  As  As14  1  1.56511979  0.25716809  0.43893335  1.0
+  As  As15  1  0.74283191  -0.56511979  0.93893335  1.0
+  As  As16  1  1.25716809  0.56511979  0.06106665  1.0
+  As  As17  1  0.43488021  -0.25716809  0.56106665  1.0

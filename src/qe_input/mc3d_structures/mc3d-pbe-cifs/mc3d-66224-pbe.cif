@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sm2MgPtO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51386020
+_cell_length_b   5.68109911
+_cell_length_c   9.57335188
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.08051355
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2MgPtO6
+_chemical_formula_sum   'Sm4 Mg2 Pt2 O12'
+_cell_volume   245.40798767
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.24035396  0.44688218  0.25104984  1.0
+  Sm  Sm1  1  0.24035396  0.05311782  0.75104984  1.0
+  Sm  Sm2  1  0.75964604  0.94688218  0.24895016  1.0
+  Sm  Sm3  1  0.75964604  0.55311782  0.74895016  1.0
+  Mg  Mg4  1  0.50000000  0.00000000  0.50000000  1.0
+  Mg  Mg5  1  0.50000000  0.50000000  0.00000000  1.0
+  Pt  Pt6  1  0.00000000  0.00000000  0.00000000  1.0
+  Pt  Pt7  1  -0.00000000  0.50000000  0.50000000  1.0
+  O  O8  1  0.34535605  0.03392278  0.24799914  1.0
+  O  O9  1  0.34535605  0.46607722  0.74799914  1.0
+  O  O10  1  0.65464395  0.53392278  0.25200086  1.0
+  O  O11  1  0.65464395  0.96607722  0.75200086  1.0
+  O  O12  1  0.85857769  0.70009763  0.04906673  1.0
+  O  O13  1  0.85857769  0.79990237  0.54906673  1.0
+  O  O14  1  0.14142231  0.20009763  0.45093327  1.0
+  O  O15  1  0.14142231  0.29990237  0.95093327  1.0
+  O  O16  1  0.74418665  0.19344385  0.04757871  1.0
+  O  O17  1  0.74418665  0.30655615  0.54757871  1.0
+  O  O18  1  0.25581335  0.69344385  0.45242129  1.0
+  O  O19  1  0.25581335  0.80655615  0.95242129  1.0

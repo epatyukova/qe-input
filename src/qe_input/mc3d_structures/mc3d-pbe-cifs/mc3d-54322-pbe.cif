@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_InAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.10742063
+_cell_length_b   7.10742063
+_cell_length_c   7.10742063
+_cell_angle_alpha   130.65970984
+_cell_angle_beta   130.65970984
+_cell_angle_gamma   72.35428934
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAgS2
+_chemical_formula_sum   'In2 Ag2 S4'
+_cell_volume   201.96056792
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.75000000  0.25000000  0.50000000  1.0
+  In  In1  1  1.00000000  1.00000000  1.00000000  1.0
+  Ag  Ag2  1  0.25000000  0.75000000  0.50000000  1.0
+  Ag  Ag3  1  0.50000000  0.50000000  0.00000000  1.0
+  S  S4  1  1.11574999  1.12500000  1.49074999  1.0
+  S  S5  1  1.37500000  0.88425001  1.00925001  1.0
+  S  S6  1  0.87500000  1.36574999  0.99074999  1.0
+  S  S7  1  0.63425001  0.62500000  0.50925001  1.0

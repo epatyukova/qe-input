@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Hf5AlPb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39209592
+_cell_length_b   8.39209592
+_cell_length_c   8.39209592
+_cell_angle_alpha   96.33254424
+_cell_angle_beta   96.33254424
+_cell_angle_gamma   141.20587994
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf5AlPb2
+_chemical_formula_sum   'Hf10 Al2 Pb4'
+_cell_volume   349.27780011
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.28699071  0.42601173  0.71300244  1.0
+  Hf  Hf1  1  1.21300929  0.92601173  1.13902101  1.0
+  Hf  Hf2  1  0.92601173  0.78699071  1.71300244  1.0
+  Hf  Hf3  1  0.57398827  1.28699071  0.86097899  1.0
+  Hf  Hf4  1  0.78699071  1.07398827  0.86097899  1.0
+  Hf  Hf5  1  0.71300929  0.57398827  1.28699756  1.0
+  Hf  Hf6  1  1.42601173  0.71300929  1.13902101  1.0
+  Hf  Hf7  1  0.07398827  0.21300929  0.28699756  1.0
+  Hf  Hf8  1  0.75000000  1.25000000  0.50000000  1.0
+  Hf  Hf9  1  0.25000000  0.75000000  0.50000000  1.0
+  Al  Al10  1  0.25000000  0.25000000  -0.00000000  1.0
+  Al  Al11  1  0.75000000  0.75000000  -0.00000000  1.0
+  Pb  Pb12  1  0.83396784  0.33396784  1.16793567  1.0
+  Pb  Pb13  1  0.66603216  0.83396784  0.50000000  1.0
+  Pb  Pb14  1  1.33396784  1.16603216  1.50000000  1.0
+  Pb  Pb15  1  0.16603216  0.66603216  0.83206433  1.0

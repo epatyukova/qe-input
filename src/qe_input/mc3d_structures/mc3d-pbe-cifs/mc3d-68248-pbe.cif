@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Y2Si5Ir3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14239659
+_cell_length_b   8.14239659
+_cell_length_c   8.14239659
+_cell_angle_alpha   104.36323050
+_cell_angle_beta   90.51613837
+_cell_angle_gamma   137.98105705
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Si5Ir3
+_chemical_formula_sum   'Y4 Si10 Ir6'
+_cell_volume   334.13897461
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.63056822  0.72931919  0.35988741  1.0
+  Y  Y1  1  0.86943178  0.22931919  1.09875096  1.0
+  Y  Y2  1  0.13056822  0.77068081  0.90124904  1.0
+  Y  Y3  1  1.36943178  1.27068081  1.64011259  1.0
+  Si  Si4  1  0.89400949  0.65569331  1.54970280  1.0
+  Si  Si5  1  0.60599051  1.15569331  0.76168382  1.0
+  Si  Si6  1  1.39400949  0.84430669  1.23831618  1.0
+  Si  Si7  1  0.10599051  0.34430669  0.45029720  1.0
+  Si  Si8  1  0.47580706  0.75000000  0.72580706  1.0
+  Si  Si9  1  0.97580706  1.25000000  0.72580706  1.0
+  Si  Si10  1  1.52419294  1.25000000  1.27419294  1.0
+  Si  Si11  1  1.02419294  0.75000000  1.27419294  1.0
+  Si  Si12  1  0.75000000  0.75000000  -0.00000000  1.0
+  Si  Si13  1  0.25000000  0.25000000  -0.00000000  1.0
+  Ir  Ir14  1  0.86025417  0.88621441  0.74646858  1.0
+  Ir  Ir15  1  0.63974583  0.38621441  1.02596024  1.0
+  Ir  Ir16  1  0.36025417  0.61378559  0.97403976  1.0
+  Ir  Ir17  1  1.13974583  1.11378559  1.25353142  1.0
+  Ir  Ir18  1  0.75000000  1.25000000  0.50000000  1.0
+  Ir  Ir19  1  0.25000000  0.75000000  0.50000000  1.0

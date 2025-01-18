@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Lu6InCo2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.18509591
+_cell_length_b   8.18509591
+_cell_length_c   8.18509591
+_cell_angle_alpha   111.30429511
+_cell_angle_beta   110.46920481
+_cell_angle_gamma   106.67694227
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu6InCo2
+_chemical_formula_sum   'Lu12 In2 Co4'
+_cell_volume   421.36115857
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.81101760  0.71257878  0.52359638  1.0
+  Lu  Lu1  1  0.18898240  0.71257878  0.90156118  1.0
+  Lu  Lu2  1  0.81101760  1.28742122  1.09843882  1.0
+  Lu  Lu3  1  0.18898240  0.28742122  0.47640362  1.0
+  Lu  Lu4  1  0.68573417  0.38603598  0.70030181  1.0
+  Lu  Lu5  1  1.31426583  1.01456763  0.70030181  1.0
+  Lu  Lu6  1  0.68573417  0.98543237  0.29969819  1.0
+  Lu  Lu7  1  0.31426583  0.61396402  0.29969819  1.0
+  Lu  Lu8  1  0.55216590  0.76682304  0.78534286  1.0
+  Lu  Lu9  1  1.01851982  1.23317696  0.78534286  1.0
+  Lu  Lu10  1  0.98148018  0.76682304  0.21465714  1.0
+  Lu  Lu11  1  0.44783410  0.23317696  0.21465714  1.0
+  In  In12  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In13  1  0.50000000  0.50000000  -0.00000000  1.0
+  Co  Co14  1  0.88642815  1.38642815  0.50000000  1.0
+  Co  Co15  1  1.11357185  0.61357185  0.50000000  1.0
+  Co  Co16  1  0.62170560  0.00000000  0.62170560  1.0
+  Co  Co17  1  0.37829440  0.00000000  0.37829440  1.0

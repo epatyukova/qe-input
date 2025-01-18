@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K2SrCdSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98636598
+_cell_length_b   9.99997806
+_cell_length_c   8.33350565
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrCdSb2
+_chemical_formula_sum   'K4 Sr2 Cd2 Sb4'
+_cell_volume   415.53817908
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.58386386  0.47254700  1.0
+  K  K1  1  0.50000000  0.41613614  0.97254700  1.0
+  K  K2  1  -0.00000000  0.66377584  0.15210828  1.0
+  K  K3  1  0.00000000  0.33622416  0.65210828  1.0
+  Sr  Sr4  1  0.00000000  0.95352327  0.50304976  1.0
+  Sr  Sr5  1  0.00000000  0.04647673  0.00304976  1.0
+  Cd  Cd6  1  0.50000000  0.82412402  0.84601461  1.0
+  Cd  Cd7  1  0.50000000  0.17587598  0.34601461  1.0
+  Sb  Sb8  1  0.50000000  0.89165784  0.21566565  1.0
+  Sb  Sb9  1  0.50000000  0.10834216  0.71566565  1.0
+  Sb  Sb10  1  0.00000000  0.31576867  0.24711470  1.0
+  Sb  Sb11  1  0.00000000  0.68423133  0.74711470  1.0

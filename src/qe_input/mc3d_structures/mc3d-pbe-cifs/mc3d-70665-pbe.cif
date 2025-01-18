@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_WCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.14491353
+_cell_length_b   11.14491353
+_cell_length_c   6.03879346
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   WCl6
+_chemical_formula_sum   'W3 Cl18'
+_cell_volume   649.58234709
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  W  W0  1  0.33333333  0.66666667  0.52771846  1.0
+  W  W1  1  0.66666667  0.33333333  0.47228154  1.0
+  W  W2  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl3  1  0.52839444  0.76419722  0.30718407  1.0
+  Cl  Cl4  1  0.76419722  0.52839444  0.69281593  1.0
+  Cl  Cl5  1  0.76419722  0.23580278  0.69281593  1.0
+  Cl  Cl6  1  0.23580278  0.76419722  0.30718407  1.0
+  Cl  Cl7  1  0.23580278  0.47160556  0.30718407  1.0
+  Cl  Cl8  1  0.47160556  0.23580278  0.69281593  1.0
+  Cl  Cl9  1  0.86172310  0.43086155  0.25168558  1.0
+  Cl  Cl10  1  0.43086155  0.86172310  0.74831442  1.0
+  Cl  Cl11  1  0.43086155  0.56913845  0.74831442  1.0
+  Cl  Cl12  1  0.56913845  0.43086155  0.25168558  1.0
+  Cl  Cl13  1  0.56913845  0.13827690  0.25168558  1.0
+  Cl  Cl14  1  0.13827690  0.56913845  0.74831442  1.0
+  Cl  Cl15  1  0.19508355  0.09754177  0.22043529  1.0
+  Cl  Cl16  1  0.09754177  0.19508355  0.77956471  1.0
+  Cl  Cl17  1  0.09754177  0.90245823  0.77956471  1.0
+  Cl  Cl18  1  0.90245823  0.09754177  0.22043529  1.0
+  Cl  Cl19  1  0.90245823  0.80491645  0.22043529  1.0
+  Cl  Cl20  1  0.80491645  0.90245823  0.77956471  1.0

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Gd2Zn14Co3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67041636
+_cell_length_b   6.67041636
+_cell_length_c   6.67041636
+_cell_angle_alpha   82.59588171
+_cell_angle_beta   82.59588171
+_cell_angle_gamma   82.59588171
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Zn14Co3
+_chemical_formula_sum   'Gd2 Zn14 Co3'
+_cell_volume   289.95974806
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.66439669  0.66439669  -0.33560331  1.0
+  Gd  Gd1  1  0.33560331  0.33560331  -0.66439669  1.0
+  Zn  Zn2  1  0.34700647  0.34700647  -0.14645709  1.0
+  Zn  Zn3  1  0.34700647  0.85354291  -0.65299353  1.0
+  Zn  Zn4  1  1.14645709  -0.34700647  -0.34700647  1.0
+  Zn  Zn5  1  0.65299353  0.14645709  -0.34700647  1.0
+  Zn  Zn6  1  0.65299353  -0.34700647  0.14645709  1.0
+  Zn  Zn7  1  0.85354291  0.34700647  -0.65299353  1.0
+  Zn  Zn8  1  0.70814789  0.00000000  0.29185211  1.0
+  Zn  Zn9  1  0.70814789  -0.70814789  0.00000000  1.0
+  Zn  Zn10  1  0.00000000  0.70814789  -0.70814789  1.0
+  Zn  Zn11  1  -0.00000000  0.29185211  -0.29185211  1.0
+  Zn  Zn12  1  1.29185211  -0.00000000  -0.29185211  1.0
+  Zn  Zn13  1  0.29185211  -0.29185211  0.00000000  1.0
+  Zn  Zn14  1  0.89376824  0.89376824  -0.10623176  1.0
+  Zn  Zn15  1  1.10623176  1.10623176  0.10623176  1.0
+  Co  Co16  1  1.00000000  1.50000000  -0.00000000  1.0
+  Co  Co17  1  1.00000000  0.00000000  -0.50000000  1.0
+  Co  Co18  1  0.50000000  0.00000000  -0.00000000  1.0

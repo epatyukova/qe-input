@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ca5(AlBi3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55410988
+_cell_length_b   23.48032186
+_cell_length_c   4.58311160
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5(AlBi3)2
+_chemical_formula_sum   'Ca10 Al4 Bi12'
+_cell_volume   812.91993910
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.23229909  0.75527672  0.00000000  1.0
+  Ca  Ca1  1  0.73229909  0.74472328  0.00000000  1.0
+  Ca  Ca2  1  0.76770091  0.24472328  0.00000000  1.0
+  Ca  Ca3  1  0.26770091  0.25527672  0.00000000  1.0
+  Ca  Ca4  1  0.03336802  0.58827388  0.00000000  1.0
+  Ca  Ca5  1  0.53336802  0.91172612  0.00000000  1.0
+  Ca  Ca6  1  0.96663198  0.41172612  0.00000000  1.0
+  Ca  Ca7  1  0.46663198  0.08827388  0.00000000  1.0
+  Ca  Ca8  1  0.50000000  0.50000000  0.00000000  1.0
+  Ca  Ca9  1  0.00000000  0.00000000  0.00000000  1.0
+  Al  Al10  1  0.18352381  0.87905241  0.50000000  1.0
+  Al  Al11  1  0.68352381  0.62094759  0.50000000  1.0
+  Al  Al12  1  0.81647619  0.12094759  0.50000000  1.0
+  Al  Al13  1  0.31647619  0.37905241  0.50000000  1.0
+  Bi  Bi14  1  0.49191737  0.81191100  0.50000000  1.0
+  Bi  Bi15  1  0.99191737  0.68808900  0.50000000  1.0
+  Bi  Bi16  1  0.50808263  0.18808900  0.50000000  1.0
+  Bi  Bi17  1  0.00808263  0.31191100  0.50000000  1.0
+  Bi  Bi18  1  0.29342106  0.99770319  0.50000000  1.0
+  Bi  Bi19  1  0.79342106  0.50229681  0.50000000  1.0
+  Bi  Bi20  1  0.70657894  0.00229681  0.50000000  1.0
+  Bi  Bi21  1  0.20657894  0.49770319  0.50000000  1.0
+  Bi  Bi22  1  0.46552277  0.63625109  0.00000000  1.0
+  Bi  Bi23  1  0.96552277  0.86374891  0.00000000  1.0
+  Bi  Bi24  1  0.53447723  0.36374891  0.00000000  1.0
+  Bi  Bi25  1  0.03447723  0.13625109  0.00000000  1.0

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Gd2Al4CoGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.25101476
+_cell_length_b   10.25101476
+_cell_length_c   10.25101476
+_cell_angle_alpha   156.62677001
+_cell_angle_beta   156.62677001
+_cell_angle_gamma   33.29240140
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Al4CoGe2
+_chemical_formula_sum   'Gd2 Al4 Co1 Ge2'
+_cell_volume   169.38260707
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.81662381  0.81662381  1.00000000  1.0
+  Gd  Gd1  1  0.18337619  0.18337619  0.00000000  1.0
+  Al  Al2  1  0.43464840  0.93464840  0.50000000  1.0
+  Al  Al3  1  0.56535160  0.06535160  0.50000000  1.0
+  Al  Al4  1  0.93464840  0.43464840  0.50000000  1.0
+  Al  Al5  1  0.06535160  0.56535160  0.50000000  1.0
+  Co  Co6  1  -0.00000000  -0.00000000  -0.00000000  1.0
+  Ge  Ge7  1  0.66220823  0.66220823  1.00000000  1.0
+  Ge  Ge8  1  0.33779177  0.33779177  -0.00000000  1.0

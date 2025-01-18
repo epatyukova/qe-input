@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ba2BiIrO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10634931
+_cell_length_b   6.08745885
+_cell_length_c   6.04958275
+_cell_angle_alpha   59.44390691
+_cell_angle_beta   59.26197396
+_cell_angle_gamma   59.48320372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2BiIrO6
+_chemical_formula_sum   'Ba2 Bi1 Ir1 O6'
+_cell_volume   156.82565707
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.75097746  -0.75036114  -0.75396482  1.0
+  Ba  Ba1  1  -0.24902254  -0.24963886  -0.24603518  1.0
+  O  O2  1  -0.67476547  -0.27206826  -0.26704896  1.0
+  O  O3  1  -0.32523453  -0.72793174  -0.73295104  1.0
+  O  O4  1  -0.25104479  -0.77158151  -0.28696103  1.0
+  O  O5  1  -0.74895521  -0.22841849  -0.71303897  1.0
+  O  O6  1  -0.76831891  -0.69385158  -0.24497821  1.0
+  O  O7  1  -0.23168109  -0.30614842  -0.75502179  1.0
+  Bi  Bi8  1  0.00000000  0.00000000  0.00000000  1.0
+  Ir  Ir9  1  -0.50000000  -0.50000000  -0.50000000  1.0

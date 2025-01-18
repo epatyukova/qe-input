@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_K3Ni2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.05718203
+_cell_length_b   11.05718203
+_cell_length_c   11.05718203
+_cell_angle_alpha   158.69801608
+_cell_angle_beta   158.69801608
+_cell_angle_gamma   30.30434379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Ni2F7
+_chemical_formula_sum   'K3 Ni2 F7'
+_cell_volume   178.30063492
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.68416422  0.68416422  1.00000000  1.0
+  K  K1  1  0.31583578  0.31583578  0.00000000  1.0
+  K  K2  1  0.50000000  0.50000000  1.00000000  1.0
+  Ni  Ni3  1  0.90362988  0.90362988  1.00000000  1.0
+  Ni  Ni4  1  0.09637012  0.09637012  0.00000000  1.0
+  F  F5  1  0.40474445  0.90474445  0.50000000  1.0
+  F  F6  1  0.59525555  0.09525555  0.50000000  1.0
+  F  F7  1  0.90474445  0.40474445  0.50000000  1.0
+  F  F8  1  0.09525555  0.59525555  0.50000000  1.0
+  F  F9  1  0.80937954  0.80937954  1.00000000  1.0
+  F  F10  1  0.19062046  0.19062046  -0.00000000  1.0
+  F  F11  1  0.00000000  0.00000000  0.00000000  1.0

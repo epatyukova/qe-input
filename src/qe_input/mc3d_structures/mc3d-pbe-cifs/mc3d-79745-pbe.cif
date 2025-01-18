@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_SrGe3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.01118663
+_cell_length_b   6.01118663
+_cell_length_c   6.01118663
+_cell_angle_alpha   135.93369028
+_cell_angle_beta   135.93369028
+_cell_angle_gamma   64.08286775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrGe3Ir
+_chemical_formula_sum   'Sr1 Ge3 Ir1'
+_cell_volume   103.64742759
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.58799810  0.58799810  1.00000000  1.0
+  Ge  Ge1  1  0.84159065  0.34159065  0.50000000  1.0
+  Ge  Ge2  1  0.34159065  0.84159065  0.50000000  1.0
+  Ge  Ge3  1  -0.00067724  -0.00067724  0.00000000  1.0
+  Ir  Ir4  1  0.23699785  0.23699785  -0.00000000  1.0

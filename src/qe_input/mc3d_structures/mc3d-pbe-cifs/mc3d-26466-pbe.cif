@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ReO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53996587
+_cell_length_b   6.53996587
+_cell_length_c   6.53996587
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReO3
+_chemical_formula_sum   'Re4 O12'
+_cell_volume   215.33000714
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.50000000  1.00000000  1.00000000  1.0
+  Re  Re1  1  0.50000000  0.50000000  0.50000000  1.0
+  Re  Re2  1  1.00000000  1.00000000  0.50000000  1.0
+  Re  Re3  1  1.00000000  0.50000000  1.00000000  1.0
+  O  O4  1  0.74996705  1.24996033  0.99992738  1.0
+  O  O5  1  0.74996705  0.75003967  0.50000672  1.0
+  O  O6  1  0.25003295  0.24996033  0.49999328  1.0
+  O  O7  1  0.25003295  0.75003967  1.00007262  1.0
+  O  O8  1  0.50000672  0.74996705  0.75003967  1.0
+  O  O9  1  0.99992738  0.74996705  1.24996033  1.0
+  O  O10  1  0.75003967  1.00007262  0.25003295  1.0
+  O  O11  1  0.75003967  0.50000672  0.74996705  1.0
+  O  O12  1  1.00007262  0.25003295  0.75003967  1.0
+  O  O13  1  0.49999328  0.25003295  0.24996033  1.0
+  O  O14  1  0.24996033  0.49999328  0.25003295  1.0
+  O  O15  1  1.24996033  0.99992738  0.74996705  1.0

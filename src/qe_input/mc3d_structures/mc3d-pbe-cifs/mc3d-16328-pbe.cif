@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaGdAl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74422006
+_cell_length_b   5.20538303
+_cell_length_c   9.96736880
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaGdAl
+_chemical_formula_sum   'La4 Gd4 Al4'
+_cell_volume   349.91692813
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.95679670  0.75000000  0.70124511  1.0
+  La  La1  1  0.45679670  0.75000000  0.79875489  1.0
+  La  La2  1  0.04320330  0.25000000  0.29875489  1.0
+  La  La3  1  0.54320330  0.25000000  0.20124511  1.0
+  Gd  Gd4  1  0.82470347  0.75000000  0.06914453  1.0
+  Gd  Gd5  1  0.32470347  0.75000000  0.43085547  1.0
+  Gd  Gd6  1  0.17529653  0.25000000  0.93085547  1.0
+  Gd  Gd7  1  0.67529653  0.25000000  0.56914453  1.0
+  Al  Al8  1  0.78893521  0.75000000  0.39104203  1.0
+  Al  Al9  1  0.28893521  0.75000000  0.10895797  1.0
+  Al  Al10  1  0.21106479  0.25000000  0.60895797  1.0
+  Al  Al11  1  0.71106479  0.25000000  0.89104203  1.0

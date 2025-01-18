@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SrTl2(SO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.42785841
+_cell_length_b   8.42785841
+_cell_length_c   8.42785841
+_cell_angle_alpha   39.05669639
+_cell_angle_beta   39.05669639
+_cell_angle_gamma   39.05669639
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTl2(SO4)2
+_chemical_formula_sum   'Sr1 Tl2 S2 O8'
+_cell_volume   213.75393620
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.00000000  0.00000000  -0.00000000  1.0
+  Tl  Tl1  1  0.78991562  0.78991562  0.78991562  1.0
+  Tl  Tl2  1  1.21008438  1.21008438  0.21008438  1.0
+  S  S3  1  1.60803192  0.60803192  0.60803192  1.0
+  S  S4  1  1.39196808  0.39196808  0.39196808  1.0
+  O  O5  1  1.26840539  0.26840539  0.70418949  1.0
+  O  O6  1  1.26840539  0.70418949  0.26840539  1.0
+  O  O7  1  1.29581051  0.73159461  0.73159461  1.0
+  O  O8  1  1.73159461  0.29581051  0.73159461  1.0
+  O  O9  1  1.73159461  0.73159461  0.29581051  1.0
+  O  O10  1  1.70418949  0.26840539  0.26840539  1.0
+  O  O11  1  0.67199309  0.67199309  0.67199309  1.0
+  O  O12  1  1.32800691  1.32800691  0.32800691  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfCoGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47792025
+_cell_length_b   3.91551347
+_cell_length_c   7.20070471
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCoGe
+_chemical_formula_sum   'Hf4 Co4 Ge4'
+_cell_volume   182.64143942
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.99065071  0.75000000  0.69879555  1.0
+  Hf  Hf1  1  0.49065071  0.75000000  0.80120445  1.0
+  Hf  Hf2  1  0.00934929  0.25000000  0.30120445  1.0
+  Hf  Hf3  1  0.50934929  0.25000000  0.19879555  1.0
+  Co  Co4  1  0.85627067  0.75000000  0.06953270  1.0
+  Co  Co5  1  0.35627067  0.75000000  0.43046730  1.0
+  Co  Co6  1  0.14372933  0.25000000  0.93046730  1.0
+  Co  Co7  1  0.64372933  0.25000000  0.56953270  1.0
+  Ge  Ge8  1  0.72664493  0.75000000  0.39376651  1.0
+  Ge  Ge9  1  0.22664493  0.75000000  0.10623349  1.0
+  Ge  Ge10  1  0.27335507  0.25000000  0.60623349  1.0
+  Ge  Ge11  1  0.77335507  0.25000000  0.89376651  1.0

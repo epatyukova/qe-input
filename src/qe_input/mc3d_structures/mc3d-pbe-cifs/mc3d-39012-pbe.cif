@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CoGeTe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21239141
+_cell_length_b   6.25400729
+_cell_length_c   11.20349427
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoGeTe
+_chemical_formula_sum   'Co8 Ge8 Te8'
+_cell_volume   435.28198159
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.50035531  0.89171201  0.61034251  1.0
+  Co  Co1  1  0.50035531  0.60828799  0.11034251  1.0
+  Co  Co2  1  0.00035531  0.89171201  0.88965749  1.0
+  Co  Co3  1  0.00035531  0.60828799  0.38965749  1.0
+  Co  Co4  1  0.49964469  0.39171201  0.88965749  1.0
+  Co  Co5  1  0.49964469  0.10828799  0.38965749  1.0
+  Co  Co6  1  0.99964469  0.39171201  0.61034251  1.0
+  Co  Co7  1  0.99964469  0.10828799  0.11034251  1.0
+  Ge  Ge8  1  0.16684837  0.72572372  0.56785630  1.0
+  Ge  Ge9  1  0.16684837  0.77427628  0.06785630  1.0
+  Ge  Ge10  1  0.66684837  0.72572372  0.93214370  1.0
+  Ge  Ge11  1  0.66684837  0.77427628  0.43214370  1.0
+  Ge  Ge12  1  0.83315163  0.22572372  0.93214370  1.0
+  Ge  Ge13  1  0.83315163  0.27427628  0.43214370  1.0
+  Ge  Ge14  1  0.33315163  0.22572372  0.56785630  1.0
+  Ge  Ge15  1  0.33315163  0.27427628  0.06785630  1.0
+  Te  Te16  1  0.38153060  0.01040138  0.82425720  1.0
+  Te  Te17  1  0.38153060  0.48959862  0.32425720  1.0
+  Te  Te18  1  0.88153060  0.01040138  0.67574280  1.0
+  Te  Te19  1  0.88153060  0.48959862  0.17574280  1.0
+  Te  Te20  1  0.61846940  0.51040138  0.67574280  1.0
+  Te  Te21  1  0.61846940  0.98959862  0.17574280  1.0
+  Te  Te22  1  0.11846940  0.51040138  0.82425720  1.0
+  Te  Te23  1  0.11846940  0.98959862  0.32425720  1.0

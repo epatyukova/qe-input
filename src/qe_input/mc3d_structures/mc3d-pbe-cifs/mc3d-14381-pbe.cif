@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mg2BBrN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66849414
+_cell_length_b   5.66849414
+_cell_length_c   6.56386460
+_cell_angle_alpha   74.52149700
+_cell_angle_beta   105.47850300
+_cell_angle_gamma   108.22753384
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2BBrN2
+_chemical_formula_sum   'Mg4 B2 Br2 N4'
+_cell_volume   189.14560357
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.35981820  -0.15651278  0.33830114  1.0
+  Mg  Mg1  1  1.15651278  0.64018180  0.83830114  1.0
+  Mg  Mg2  1  0.84348722  -0.64018180  0.16169886  1.0
+  Mg  Mg3  1  1.64018180  0.15651278  0.66169886  1.0
+  B  B4  1  1.38656683  0.38656683  0.25000000  1.0
+  B  B5  1  0.61343317  -0.38656683  0.75000000  1.0
+  Br  Br6  1  0.86918162  -0.13081838  0.25000000  1.0
+  Br  Br7  1  1.13081838  0.13081838  0.75000000  1.0
+  N  N8  1  1.54195816  0.23225910  0.32170618  1.0
+  N  N9  1  0.76774090  -0.54195816  0.82170618  1.0
+  N  N10  1  1.23225910  0.54195816  0.17829382  1.0
+  N  N11  1  0.45804184  -0.23225910  0.67829382  1.0

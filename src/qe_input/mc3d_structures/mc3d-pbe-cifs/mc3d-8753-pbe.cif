@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GdSi5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81614698
+_cell_length_b   5.81614698
+_cell_length_c   5.81614698
+_cell_angle_alpha   142.14015191
+_cell_angle_beta   117.31110622
+_cell_angle_gamma   75.62092305
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdSi5
+_chemical_formula_sum   'Gd1 Si5'
+_cell_volume   104.92241201
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si1  1  0.47335843  0.67050015  0.80285828  1.0
+  Si  Si2  1  1.13235813  1.32949985  0.80285828  1.0
+  Si  Si3  1  0.86764187  0.67050015  1.19714172  1.0
+  Si  Si4  1  1.52664157  1.32949985  1.19714172  1.0
+  Si  Si5  1  0.50000000  -0.00000000  0.50000000  1.0

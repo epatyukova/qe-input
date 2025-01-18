@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66655329
+_cell_length_b   6.66655329
+_cell_length_c   6.66655329
+_cell_angle_alpha   33.16847521
+_cell_angle_beta   33.16847521
+_cell_angle_gamma   33.16847521
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbOF
+_chemical_formula_sum   'Yb2 O2 F2'
+_cell_volume   78.94207731
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.75863543  0.75863543  0.75863543  1.0
+  Yb  Yb1  1  1.24136457  1.24136457  0.24136457  1.0
+  O  O2  1  0.87782844  0.87782844  0.87782844  1.0
+  O  O3  1  1.12217156  1.12217156  0.12217156  1.0
+  F  F4  1  1.62963336  0.62963336  0.62963336  1.0
+  F  F5  1  1.37036664  0.37036664  0.37036664  1.0

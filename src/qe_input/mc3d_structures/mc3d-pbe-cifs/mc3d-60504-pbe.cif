@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_NiC2(SN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.90500502
+_cell_length_b   5.90500502
+_cell_length_c   5.62764315
+_cell_angle_alpha   88.29872265
+_cell_angle_beta   91.70127735
+_cell_angle_gamma   90.10354288
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiC2(SN3)2
+_chemical_formula_sum   'Ni1 C2 S2 N6'
+_cell_volume   196.05771945
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.00000000  0.00000000  0.00000000  1.0
+  C  C1  1  0.74177638  -0.74177638  0.61285921  1.0
+  C  C2  1  0.25822362  -0.25822362  0.38714079  1.0
+  S  S3  1  0.39208417  -0.39208417  0.61203361  1.0
+  S  S4  1  0.60791583  -0.60791583  0.38796639  1.0
+  N  N5  1  1.26904927  0.05446962  0.83001043  1.0
+  N  N6  1  0.94553038  -0.26904927  0.83001043  1.0
+  N  N7  1  1.05446962  0.26904927  0.16998957  1.0
+  N  N8  1  0.73095073  -0.05446962  0.16998957  1.0
+  N  N9  1  0.83977033  -0.83977033  0.76673455  1.0
+  N  N10  1  0.16022967  -0.16022967  0.23326545  1.0

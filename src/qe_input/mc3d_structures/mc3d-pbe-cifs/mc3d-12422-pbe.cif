@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrLi2SiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06981630
+_cell_length_b   5.06981630
+_cell_length_c   12.53927692
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLi2SiO4
+_chemical_formula_sum   'Sr3 Li6 Si3 O12'
+_cell_volume   279.11782538
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.58032211  0.58032211  0.00000000  1.0
+  Sr  Sr1  1  0.00000000  0.41967789  0.66666667  1.0
+  Sr  Sr2  1  0.41967789  0.00000000  0.33333333  1.0
+  Li  Li3  1  0.33648966  0.92712598  0.08745894  1.0
+  Li  Li4  1  0.92712598  0.33648966  0.91254106  1.0
+  Li  Li5  1  0.59063632  0.66351034  0.75412561  1.0
+  Li  Li6  1  0.07287402  0.40936368  0.42079227  1.0
+  Li  Li7  1  0.66351034  0.59063632  0.24587439  1.0
+  Li  Li8  1  0.40936368  0.07287402  0.57920773  1.0
+  Si  Si9  1  0.72358830  0.72358830  0.50000000  1.0
+  Si  Si10  1  0.00000000  0.27641170  0.16666667  1.0
+  Si  Si11  1  0.27641170  0.00000000  0.83333333  1.0
+  O  O12  1  0.44828820  0.96319929  0.72676496  1.0
+  O  O13  1  0.96319929  0.44828820  0.27323504  1.0
+  O  O14  1  0.51491108  0.55171180  0.39343163  1.0
+  O  O15  1  0.03680071  0.48508892  0.06009829  1.0
+  O  O16  1  0.55171180  0.51491108  0.60656837  1.0
+  O  O17  1  0.48508892  0.03680071  0.93990171  1.0
+  O  O18  1  0.93074648  0.69356275  0.83750232  1.0
+  O  O19  1  0.69356275  0.93074648  0.16249768  1.0
+  O  O20  1  0.76281627  0.06925352  0.50416899  1.0
+  O  O21  1  0.30643725  0.23718373  0.17083566  1.0
+  O  O22  1  0.06925352  0.76281627  0.49583101  1.0
+  O  O23  1  0.23718373  0.30643725  0.82916434  1.0

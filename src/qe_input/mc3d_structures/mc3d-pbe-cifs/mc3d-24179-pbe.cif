@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaPRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31433410
+_cell_length_b   3.76890890
+_cell_length_c   7.19683186
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaPRh
+_chemical_formula_sum   'Ta4 P4 Rh4'
+_cell_volume   171.27128418
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.96962633  0.75000000  0.66716015  1.0
+  Ta  Ta1  1  0.46962633  0.75000000  0.83283985  1.0
+  Ta  Ta2  1  0.03037367  0.25000000  0.33283985  1.0
+  Ta  Ta3  1  0.53037367  0.25000000  0.16716015  1.0
+  P  P4  1  0.73670698  0.75000000  0.37397627  1.0
+  P  P5  1  0.23670698  0.75000000  0.12602373  1.0
+  P  P6  1  0.26329302  0.25000000  0.62602373  1.0
+  P  P7  1  0.76329302  0.25000000  0.87397627  1.0
+  Rh  Rh8  1  0.85088198  0.75000000  0.06306413  1.0
+  Rh  Rh9  1  0.35088198  0.75000000  0.43693587  1.0
+  Rh  Rh10  1  0.14911802  0.25000000  0.93693587  1.0
+  Rh  Rh11  1  0.64911802  0.25000000  0.56306413  1.0

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca3(AlN2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72720718
+_cell_length_b   6.72720718
+_cell_length_c   5.53793173
+_cell_angle_alpha   88.35146066
+_cell_angle_beta   91.64853934
+_cell_angle_gamma   103.95561093
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3(AlN2)2
+_chemical_formula_sum   'Ca6 Al4 N8'
+_cell_volume   243.06100403
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.74614996  -0.02234880  0.95217767  1.0
+  Ca  Ca1  1  1.02234880  0.25385004  0.45217767  1.0
+  Ca  Ca2  1  0.97765120  -0.25385004  0.54782233  1.0
+  Ca  Ca3  1  1.25385004  0.02234880  0.04782233  1.0
+  Ca  Ca4  1  1.39933659  0.39933659  0.75000000  1.0
+  Ca  Ca5  1  0.60066341  -0.39933659  0.25000000  1.0
+  Al  Al6  1  0.41390212  -0.17636122  0.58847706  1.0
+  Al  Al7  1  1.17636122  0.58609788  0.08847706  1.0
+  Al  Al8  1  0.82363878  -0.58609788  0.91152294  1.0
+  Al  Al9  1  1.58609788  0.17636122  0.41152294  1.0
+  N  N10  1  1.30231631  0.05937755  0.51814392  1.0
+  N  N11  1  0.94062245  -0.30231631  0.01814392  1.0
+  N  N12  1  1.05937755  0.30231631  0.98185608  1.0
+  N  N13  1  0.69768369  -0.05937755  0.48185608  1.0
+  N  N14  1  0.41122810  -0.26299538  0.91943597  1.0
+  N  N15  1  1.26299538  0.58877190  0.41943597  1.0
+  N  N16  1  0.73700462  -0.58877190  0.58056403  1.0
+  N  N17  1  1.58877190  0.26299538  0.08056403  1.0

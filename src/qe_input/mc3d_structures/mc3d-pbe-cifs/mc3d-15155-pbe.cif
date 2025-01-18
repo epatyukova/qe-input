@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaCa2IO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62722815
+_cell_length_b   5.92267514
+_cell_length_c   9.80077522
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   123.59005854
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCa2IO6
+_chemical_formula_sum   'Na2 Ca4 I2 O12'
+_cell_volume   272.09894551
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  0.50000000  0.00000000  1.0
+  Na  Na1  1  0.50000000  0.00000000  0.50000000  1.0
+  Ca  Ca2  1  0.71800994  0.05558762  0.23773418  1.0
+  Ca  Ca3  1  0.71800994  0.44441238  0.73773418  1.0
+  Ca  Ca4  1  0.28199006  0.55558762  0.26226582  1.0
+  Ca  Ca5  1  0.28199006  0.94441238  0.76226582  1.0
+  I  I6  1  0.00000000  0.50000000  0.50000000  1.0
+  I  I7  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O8  1  0.90513751  0.42628442  0.28059207  1.0
+  O  O9  1  0.90513751  0.07371558  0.78059207  1.0
+  O  O10  1  0.09486249  0.92628442  0.21940793  1.0
+  O  O11  1  0.09486249  0.57371558  0.71940793  1.0
+  O  O12  1  0.74882348  0.76501553  0.41427132  1.0
+  O  O13  1  0.74882348  0.73498447  0.91427132  1.0
+  O  O14  1  0.25117652  0.26501553  0.08572868  1.0
+  O  O15  1  0.25117652  0.23498447  0.58572868  1.0
+  O  O16  1  0.67333922  0.32269427  0.45634277  1.0
+  O  O17  1  0.67333922  0.17730573  0.95634277  1.0
+  O  O18  1  0.32666078  0.82269427  0.04365723  1.0
+  O  O19  1  0.32666078  0.67730573  0.54365723  1.0

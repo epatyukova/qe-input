@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2Zn(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80562673
+_cell_length_b   5.80562673
+_cell_length_c   10.54804305
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.83346119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Zn(SiO3)2
+_chemical_formula_sum   'K4 Zn2 Si4 O12'
+_cell_volume   327.66485671
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  -0.22260043  1.42825236  0.07577769  1.0
+  K  K1  1  0.42825236  0.77739957  0.92422231  1.0
+  K  K2  1  -0.42825236  1.22260043  0.42422231  1.0
+  K  K3  1  0.22260043  0.57174764  0.57577769  1.0
+  Zn  Zn4  1  0.30499605  0.69500395  0.25000000  1.0
+  Zn  Zn5  1  -0.30499605  1.30499605  0.75000000  1.0
+  Si  Si6  1  -0.13603002  1.83118646  0.36260296  1.0
+  Si  Si7  1  0.83118646  0.86396998  0.63739704  1.0
+  Si  Si8  1  -0.83118646  1.13603002  0.13739704  1.0
+  Si  Si9  1  0.13603002  0.16881354  0.86260296  1.0
+  O  O10  1  0.01745201  0.01745201  0.00000000  1.0
+  O  O11  1  0.98254799  0.98254799  0.50000000  1.0
+  O  O12  1  0.27948807  0.43871537  0.12471230  1.0
+  O  O13  1  -0.56128463  1.27948807  0.87528770  1.0
+  O  O14  1  0.56128463  0.72051193  0.37528770  1.0
+  O  O15  1  -0.27948807  1.56128463  0.62471230  1.0
+  O  O16  1  -0.02192625  1.62094624  0.33527316  1.0
+  O  O17  1  0.62094624  0.97807375  0.66472684  1.0
+  O  O18  1  -0.62094624  1.02192625  0.16472684  1.0
+  O  O19  1  0.02192625  0.37905376  0.83527316  1.0
+  O  O20  1  -0.04882570  1.04882570  0.25000000  1.0
+  O  O21  1  0.04882570  0.95117430  0.75000000  1.0

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_ZrCo3B2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70649251
+_cell_length_b   5.70649251
+_cell_length_c   5.70649251
+_cell_angle_alpha   94.74676866
+_cell_angle_beta   94.74676866
+_cell_angle_gamma   94.74676866
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCo3B2
+_chemical_formula_sum   'Zr3 Co9 B6'
+_cell_volume   183.80142721
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.66996434  0.66996434  0.66996434  1.0
+  Zr  Zr1  1  0.33003566  0.33003566  0.33003566  1.0
+  Zr  Zr2  1  0.00000000  0.00000000  0.00000000  1.0
+  Co  Co3  1  0.69430243  0.69427946  0.19654301  1.0
+  Co  Co4  1  1.30572054  -0.19654301  0.30569757  1.0
+  Co  Co5  1  0.80345699  0.30569757  0.30572054  1.0
+  Co  Co6  1  1.30569757  0.30572054  -0.19654301  1.0
+  Co  Co7  1  0.69427946  1.19654301  -0.30569757  1.0
+  Co  Co8  1  1.19654301  0.69430243  -0.30572054  1.0
+  Co  Co9  1  1.00000000  0.00000000  -0.50000000  1.0
+  Co  Co10  1  1.00000000  -0.50000000  0.00000000  1.0
+  Co  Co11  1  0.50000000  -0.00000000  0.00000000  1.0
+  B  B12  1  1.00002287  0.62337230  0.37660550  1.0
+  B  B13  1  0.37662770  0.62339450  -0.00002287  1.0
+  B  B14  1  0.62339450  0.99997713  -0.62337230  1.0
+  B  B15  1  0.99997713  0.37662770  -0.37660550  1.0
+  B  B16  1  1.62337230  0.37660550  0.00002287  1.0
+  B  B17  1  1.37660550  0.00002287  0.62337230  1.0

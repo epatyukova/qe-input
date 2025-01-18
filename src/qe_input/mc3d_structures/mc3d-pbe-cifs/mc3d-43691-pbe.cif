@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba5Cd2(Sb2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.07775701
+_cell_length_b   9.07775701
+_cell_length_c   12.40145651
+_cell_angle_alpha   49.82533153
+_cell_angle_beta   130.17466847
+_cell_angle_gamma   148.26624170
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba5Cd2(Sb2O)2
+_chemical_formula_sum   'Ba5 Cd2 Sb4 O2'
+_cell_volume   398.70582490
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.97568271  -0.97568271  0.29736458  1.0
+  Ba  Ba1  1  0.02431729  -0.02431729  0.70263542  1.0
+  Ba  Ba2  1  0.69817985  -0.69817985  0.34541748  1.0
+  Ba  Ba3  1  0.30182015  -0.30182015  0.65458252  1.0
+  Ba  Ba4  1  0.00000000  0.00000000  0.00000000  1.0
+  Cd  Cd5  1  0.73839277  0.26160723  0.87588594  1.0
+  Cd  Cd6  1  1.26160723  -0.26160723  0.12411406  1.0
+  Sb  Sb7  1  0.63493978  0.36506022  0.99034760  1.0
+  Sb  Sb8  1  1.36506022  -0.36506022  0.00965240  1.0
+  Sb  Sb9  1  0.60696014  0.39303986  0.56569306  1.0
+  Sb  Sb10  1  1.39303986  -0.39303986  0.43430694  1.0
+  O  O11  1  0.87489891  -0.87489891  0.69716897  1.0
+  O  O12  1  0.12510109  -0.12510109  0.30283103  1.0

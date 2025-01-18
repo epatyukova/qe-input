@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Cs3Te22
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.43412728
+_cell_length_b   12.43412728
+_cell_length_c   12.43412728
+_cell_angle_alpha   134.23418573
+_cell_angle_beta   134.23418573
+_cell_angle_gamma   66.72245928
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Te22
+_chemical_formula_sum   'Cs3 Te22'
+_cell_volume   971.11156721
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.67815844  0.67815844  1.00000000  1.0
+  Cs  Cs1  1  0.32184156  0.32184156  -0.00000000  1.0
+  Cs  Cs2  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te3  1  0.50916084  0.70679094  0.59866116  1.0
+  Te  Te4  1  0.89187023  1.08950032  1.59866116  1.0
+  Te  Te5  1  0.91049968  0.50916084  0.80236991  1.0
+  Te  Te6  1  0.29320906  0.89187023  0.80236991  1.0
+  Te  Te7  1  1.10812977  0.91049968  1.40133884  1.0
+  Te  Te8  1  0.49083916  0.29320906  0.40133884  1.0
+  Te  Te9  1  0.70679094  1.10812977  1.19763009  1.0
+  Te  Te10  1  1.08950032  0.49083916  1.19763009  1.0
+  Te  Te11  1  0.74442135  0.59627901  0.57122126  1.0
+  Te  Te12  1  0.97494225  0.82679991  1.57122126  1.0
+  Te  Te13  1  1.17320009  0.74442135  1.14814234  1.0
+  Te  Te14  1  0.40372099  0.97494225  1.14814234  1.0
+  Te  Te15  1  1.02505775  1.17320009  1.42877874  1.0
+  Te  Te16  1  0.25557865  0.40372099  0.42877874  1.0
+  Te  Te17  1  0.59627901  1.02505775  0.85185766  1.0
+  Te  Te18  1  0.82679991  0.25557865  0.85185766  1.0
+  Te  Te19  1  0.60379227  0.69245064  1.29624292  1.0
+  Te  Te20  1  0.30754936  0.60379227  0.91134163  1.0
+  Te  Te21  1  0.39620772  0.30754936  0.70375708  1.0
+  Te  Te22  1  0.69245064  0.39620772  1.08865837  1.0
+  Te  Te23  1  0.50000000  0.00000000  0.50000000  1.0
+  Te  Te24  1  0.00000000  0.50000000  0.50000000  1.0

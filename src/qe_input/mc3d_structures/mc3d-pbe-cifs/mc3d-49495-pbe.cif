@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr5(SnAs3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.68386262
+_cell_length_b   14.13834374
+_cell_length_c   4.31185358
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(SnAs3)2
+_chemical_formula_sum   'Sr10 Sn4 As12'
+_cell_volume   773.23956978
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.13379097  0.56884839  0.00000000  1.0
+  Sr  Sr1  1  0.63379097  0.93115161  0.00000000  1.0
+  Sr  Sr2  1  0.86620903  0.43115161  0.00000000  1.0
+  Sr  Sr3  1  0.36620903  0.06884839  0.00000000  1.0
+  Sr  Sr4  1  0.50000000  0.50000000  0.00000000  1.0
+  Sr  Sr5  1  0.00000000  0.00000000  0.00000000  1.0
+  Sr  Sr6  1  0.37916630  0.74566056  0.00000000  1.0
+  Sr  Sr7  1  0.87916630  0.75433944  0.00000000  1.0
+  Sr  Sr8  1  0.62083370  0.25433944  0.00000000  1.0
+  Sr  Sr9  1  0.12083370  0.24566056  0.00000000  1.0
+  Sn  Sn10  1  0.21295923  0.89569253  0.50000000  1.0
+  Sn  Sn11  1  0.71295923  0.60430747  0.50000000  1.0
+  Sn  Sn12  1  0.78704077  0.10430747  0.50000000  1.0
+  Sn  Sn13  1  0.28704077  0.39569253  0.50000000  1.0
+  As  As14  1  0.42256773  0.90318006  0.50000000  1.0
+  As  As15  1  0.92256773  0.59681994  0.50000000  1.0
+  As  As16  1  0.57743227  0.09681994  0.50000000  1.0
+  As  As17  1  0.07743227  0.40318006  0.50000000  1.0
+  As  As18  1  0.13077039  0.80307120  0.00000000  1.0
+  As  As19  1  0.63077039  0.69692880  0.00000000  1.0
+  As  As20  1  0.86922961  0.19692880  0.00000000  1.0
+  As  As21  1  0.36922961  0.30307120  0.00000000  1.0
+  As  As22  1  0.33230839  0.57974475  0.50000000  1.0
+  As  As23  1  0.83230839  0.92025525  0.50000000  1.0
+  As  As24  1  0.66769161  0.42025525  0.50000000  1.0
+  As  As25  1  0.16769161  0.07974475  0.50000000  1.0

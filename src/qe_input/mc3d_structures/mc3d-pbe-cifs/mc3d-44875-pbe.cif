@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2LiSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.74736148
+_cell_length_b   10.06284033
+_cell_length_c   8.55037928
+_cell_angle_alpha   77.79863637
+_cell_angle_beta   56.85131111
+_cell_angle_gamma   45.35005252
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiSi3
+_chemical_formula_sum   'Sr8 Li4 Si12'
+_cell_volume   576.10650309
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.37575339  1.37575339  -0.37575339  1.0
+  Sr  Sr1  1  -0.37575339  0.62424661  0.37575339  1.0
+  Sr  Sr2  1  0.87424661  0.87424661  0.62575339  1.0
+  Sr  Sr3  1  0.62575339  0.62575339  0.87424661  1.0
+  Sr  Sr4  1  0.87601641  0.87601641  -0.87601641  1.0
+  Sr  Sr5  1  0.12398359  0.12398359  -0.12398359  1.0
+  Sr  Sr6  1  1.37398359  0.37398359  0.12601641  1.0
+  Sr  Sr7  1  1.12601641  0.12601641  0.37398359  1.0
+  Li  Li8  1  0.83282160  -0.83282160  0.83282160  1.0
+  Li  Li9  1  0.16717840  -0.16717840  1.16717840  1.0
+  Li  Li10  1  1.41717840  0.08282160  0.41717840  1.0
+  Li  Li11  1  0.08282160  1.41717840  0.08282160  1.0
+  Si  Si12  1  0.66152869  -0.66152869  0.66152869  1.0
+  Si  Si13  1  0.33847131  -0.33847131  1.33847131  1.0
+  Si  Si14  1  0.58847131  0.91152869  -0.41152869  1.0
+  Si  Si15  1  0.91152869  0.58847131  0.91152869  1.0
+  Si  Si16  1  0.33637807  1.65793824  -0.17538243  1.0
+  Si  Si17  1  0.18106611  -0.17538243  1.65793824  1.0
+  Si  Si18  1  -0.17538243  0.18106611  0.33637807  1.0
+  Si  Si19  1  1.65793824  0.33637807  0.18106611  1.0
+  Si  Si20  1  0.91362193  0.59206176  0.42538243  1.0
+  Si  Si21  1  1.06893389  0.42538243  0.59206176  1.0
+  Si  Si22  1  0.42538243  1.06893389  0.91362193  1.0
+  Si  Si23  1  0.59206176  0.91362193  1.06893389  1.0

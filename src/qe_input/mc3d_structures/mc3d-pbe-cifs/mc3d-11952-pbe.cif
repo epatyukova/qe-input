@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CaAlSiO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39007689
+_cell_length_b   5.39007689
+_cell_length_c   7.04516370
+_cell_angle_alpha   75.06907028
+_cell_angle_beta   104.93092972
+_cell_angle_gamma   74.56052781
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaAlSiO4F
+_chemical_formula_sum   'Ca2 Al2 Si2 O8 F2'
+_cell_volume   178.55656244
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.66427771  -0.33572229  0.25000000  1.0
+  Ca  Ca1  1  1.33572229  0.33572229  0.75000000  1.0
+  Al  Al2  1  0.00000000  -0.00000000  0.50000000  1.0
+  Al  Al3  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si4  1  1.31462307  0.31462307  0.25000000  1.0
+  Si  Si5  1  0.68537693  -0.31462307  0.75000000  1.0
+  O  O6  1  1.63182954  0.23983503  0.40507829  1.0
+  O  O7  1  0.76016497  -0.63182954  0.90507829  1.0
+  O  O8  1  1.23983503  0.63182954  0.09492171  1.0
+  O  O9  1  0.36817046  -0.23983503  0.59492171  1.0
+  O  O10  1  1.30294854  0.10863328  0.11144164  1.0
+  O  O11  1  0.89136672  -0.30294854  0.61144164  1.0
+  O  O12  1  1.10863328  0.30294854  0.38855836  1.0
+  O  O13  1  0.69705146  -0.10863328  0.88855836  1.0
+  F  F14  1  0.93172684  -0.06827316  0.25000000  1.0
+  F  F15  1  1.06827316  0.06827316  0.75000000  1.0

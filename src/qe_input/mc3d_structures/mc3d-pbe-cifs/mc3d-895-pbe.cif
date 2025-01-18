@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Y2Ni2Sn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46568063
+_cell_length_b   5.46568063
+_cell_length_c   5.46568063
+_cell_angle_alpha   133.91108947
+_cell_angle_beta   117.43942072
+_cell_angle_gamma   81.12079597
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Ni2Sn
+_chemical_formula_sum   'Y2 Ni2 Sn1'
+_cell_volume   100.84945251
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.70348091  0.20348091  0.50000000  1.0
+  Y  Y1  1  1.29651909  0.79651909  0.50000000  1.0
+  Ni  Ni2  1  0.28971746  0.50000000  0.78971746  1.0
+  Ni  Ni3  1  0.71028254  0.50000000  1.21028254  1.0
+  Sn  Sn4  1  0.00000000  0.00000000  0.00000000  1.0

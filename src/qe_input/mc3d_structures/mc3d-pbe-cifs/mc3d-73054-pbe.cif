@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaZr2CuF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88136151
+_cell_length_b   5.57972654
+_cell_length_c   7.90157521
+_cell_angle_alpha   72.05626415
+_cell_angle_beta   66.59873630
+_cell_angle_gamma   74.15988158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZr2CuF11
+_chemical_formula_sum   'Na1 Zr2 Cu1 F11'
+_cell_volume   223.00446270
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  -0.00000000  0.00000000  1.0
+  Zr  Zr1  1  0.00504955  -0.48430738  0.76273705  1.0
+  Zr  Zr2  1  -0.00504955  -0.51569262  0.23726295  1.0
+  Cu  Cu3  1  -0.50000000  0.00000000  0.50000000  1.0
+  F  F4  1  0.26611790  -0.80964718  0.28461469  1.0
+  F  F5  1  -0.26611790  -0.19035282  0.71538531  1.0
+  F  F6  1  0.31799416  -0.76465372  0.66231865  1.0
+  F  F7  1  -0.31799416  -0.23534628  0.33768135  1.0
+  F  F8  1  -0.21407478  -0.74116501  0.88520878  1.0
+  F  F9  1  0.21407478  -0.25883499  0.11479122  1.0
+  F  F10  1  -0.82128684  -0.65731571  0.97868559  1.0
+  F  F11  1  0.82128684  -0.34268429  0.02131441  1.0
+  F  F12  1  0.25538984  -0.23157182  0.64902130  1.0
+  F  F13  1  -0.25538984  -0.76842818  0.35097870  1.0
+  F  F14  1  -0.00000000  -0.50000000  0.50000000  1.0

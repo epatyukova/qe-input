@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_AgMoH4S4N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52491586
+_cell_length_b   6.52491586
+_cell_length_c   6.52491586
+_cell_angle_alpha   101.62008710
+_cell_angle_beta   101.62008710
+_cell_angle_gamma   126.66657667
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgMoH4S4N
+_chemical_formula_sum   'Ag1 Mo1 H4 S4 N1'
+_cell_volume   199.12472142
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.50000000  0.50000000  -0.00000000  1.0
+  Mo  Mo1  1  0.00000000  0.00000000  0.00000000  1.0
+  H  H2  1  0.81298160  0.44659070  0.56133292  1.0
+  H  H3  1  0.74835132  0.18701840  0.63360910  1.0
+  H  H4  1  0.88525778  1.25164868  1.43866708  1.0
+  H  H5  1  0.55340930  1.11474222  1.36639090  1.0
+  S  S6  1  1.60646639  1.66664017  1.68573650  1.0
+  S  S7  1  1.07927011  1.39353361  1.06017378  1.0
+  S  S8  1  0.98090367  0.92072989  0.31426350  1.0
+  S  S9  1  1.33335983  1.01909633  0.93982622  1.0
+  N  N10  1  0.75000000  0.25000000  0.50000000  1.0

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_MgTe(ClO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89889128
+_cell_length_b   6.89889128
+_cell_length_c   6.89889128
+_cell_angle_alpha   97.82453351
+_cell_angle_beta   97.82453351
+_cell_angle_gamma   97.82453351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe(ClO)6
+_chemical_formula_sum   'Mg1 Te1 Cl6 O6'
+_cell_volume   318.23793981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te1  1  0.50000000  0.50000000  0.50000000  1.0
+  Cl  Cl2  1  1.44064437  0.69813715  -0.17507219  1.0
+  Cl  Cl3  1  1.30186285  0.17507219  -0.44064437  1.0
+  Cl  Cl4  1  1.17507219  -0.44064437  0.30186285  1.0
+  Cl  Cl5  1  0.55935563  0.30186285  0.17507219  1.0
+  Cl  Cl6  1  0.69813715  0.82492781  0.44064437  1.0
+  Cl  Cl7  1  0.82492781  1.44064437  -0.30186285  1.0
+  O  O8  1  0.81258802  0.83662557  0.14078476  1.0
+  O  O9  1  1.16337443  -0.14078476  0.18741198  1.0
+  O  O10  1  0.85921524  0.18741198  0.16337443  1.0
+  O  O11  1  1.18741198  0.16337443  -0.14078476  1.0
+  O  O12  1  0.83662557  1.14078476  -0.18741198  1.0
+  O  O13  1  1.14078476  0.81258802  -0.16337443  1.0

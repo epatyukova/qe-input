@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cs2TaAgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   20.80283111
+_cell_length_b   20.07919073
+_cell_length_c   6.96686552
+_cell_angle_alpha   86.11556953
+_cell_angle_beta   74.36475666
+_cell_angle_gamma   19.51967380
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2TaAgS2
+_chemical_formula_sum   'Cs8 Ta4 Ag4 S8'
+_cell_volume   763.49843323
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  1.07998124  0.50495453  0.64965088  1.0
+  Cs  Cs1  1  0.76541334  0.64965088  0.50495453  1.0
+  Cs  Cs2  1  0.74504547  1.17001876  0.48458666  1.0
+  Cs  Cs3  1  0.60034912  0.48458666  1.17001876  1.0
+  Cs  Cs4  1  1.64965088  -0.23458666  0.07998124  1.0
+  Cs  Cs5  1  1.50495453  0.07998124  -0.23458666  1.0
+  Cs  Cs6  1  0.48458666  0.60034912  0.74504547  1.0
+  Cs  Cs7  1  1.17001876  0.74504547  0.60034912  1.0
+  Ta  Ta8  1  1.12500000  0.12500000  0.62500000  1.0
+  Ta  Ta9  1  1.12500000  0.62500000  0.12500000  1.0
+  Ta  Ta10  1  1.12500000  0.12500000  0.12500000  1.0
+  Ta  Ta11  1  1.62500000  0.12500000  0.12500000  1.0
+  Ag  Ag12  1  0.62500000  0.62500000  1.12500000  1.0
+  Ag  Ag13  1  0.62500000  1.12500000  0.62500000  1.0
+  Ag  Ag14  1  0.62500000  0.62500000  0.62500000  1.0
+  Ag  Ag15  1  1.12500000  0.62500000  0.62500000  1.0
+  S  S16  1  1.10329469  0.03060598  0.64925986  1.0
+  S  S17  1  1.21683948  0.64925986  0.03060598  1.0
+  S  S18  1  0.21939402  1.14670531  1.03316052  1.0
+  S  S19  1  0.60074014  1.03316052  1.14670531  1.0
+  S  S20  1  1.64925986  0.21683948  0.10329469  1.0
+  S  S21  1  1.03060598  0.10329469  0.21683948  1.0
+  S  S22  1  1.03316052  0.60074014  0.21939402  1.0
+  S  S23  1  1.14670531  0.21939402  0.60074014  1.0

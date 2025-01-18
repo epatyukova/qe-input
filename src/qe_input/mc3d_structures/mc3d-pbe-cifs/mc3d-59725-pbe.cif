@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ta(ICl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89598900
+_cell_length_b   7.89598900
+_cell_length_c   7.89598900
+_cell_angle_alpha   122.47991160
+_cell_angle_beta   112.47637771
+_cell_angle_gamma   94.62843662
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta(ICl)2
+_chemical_formula_sum   'Ta2 I4 Cl4'
+_cell_volume   356.97790564
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.00000000  0.79189193  0.79189193  1.0
+  Ta  Ta1  1  0.00000000  0.20810807  0.20810807  1.0
+  I  I2  1  0.82323257  1.32323257  0.50000000  1.0
+  I  I3  1  1.17676743  0.67676743  0.50000000  1.0
+  I  I4  1  0.78601372  0.78601372  -0.00000000  1.0
+  I  I5  1  0.21398628  0.21398628  0.00000000  1.0
+  Cl  Cl6  1  0.73578119  0.77118707  0.50696826  1.0
+  Cl  Cl7  1  1.26421881  0.77118707  1.03540588  1.0
+  Cl  Cl8  1  0.73578119  0.22881293  0.96459412  1.0
+  Cl  Cl9  1  0.26421881  0.22881293  0.49303174  1.0

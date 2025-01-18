@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HfCdO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70521192
+_cell_length_b   8.04827860
+_cell_length_c   5.55314948
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCdO3
+_chemical_formula_sum   'Hf4 Cd4 O12'
+_cell_volume   254.98471474
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.50000000  0.00000000  0.50000000  1.0
+  Hf  Hf1  1  0.50000000  0.50000000  0.50000000  1.0
+  Hf  Hf2  1  0.00000000  0.00000000  0.00000000  1.0
+  Hf  Hf3  1  0.00000000  0.50000000  0.00000000  1.0
+  Cd  Cd4  1  0.04141858  0.75000000  0.50855155  1.0
+  Cd  Cd5  1  0.54141858  0.75000000  0.99144845  1.0
+  Cd  Cd6  1  0.95858142  0.25000000  0.49144845  1.0
+  Cd  Cd7  1  0.45858142  0.25000000  0.00855155  1.0
+  O  O8  1  0.30587901  0.94315068  0.80933340  1.0
+  O  O9  1  0.30587901  0.55684932  0.80933340  1.0
+  O  O10  1  0.80587901  0.94315068  0.69066660  1.0
+  O  O11  1  0.80587901  0.55684932  0.69066660  1.0
+  O  O12  1  0.69412099  0.44315068  0.19066660  1.0
+  O  O13  1  0.69412099  0.05684932  0.19066660  1.0
+  O  O14  1  0.19412099  0.44315068  0.30933340  1.0
+  O  O15  1  0.19412099  0.05684932  0.30933340  1.0
+  O  O16  1  0.95361605  0.75000000  0.10677928  1.0
+  O  O17  1  0.45361605  0.75000000  0.39322072  1.0
+  O  O18  1  0.04638395  0.25000000  0.89322072  1.0
+  O  O19  1  0.54638395  0.25000000  0.60677928  1.0

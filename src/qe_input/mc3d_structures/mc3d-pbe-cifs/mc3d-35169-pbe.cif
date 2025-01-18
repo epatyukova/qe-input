@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbCoGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33729360
+_cell_length_b   3.75123759
+_cell_length_c   7.15616141
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCoGe
+_chemical_formula_sum   'Nb4 Co4 Ge4'
+_cell_volume   170.12123517
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.97841309  0.75000000  0.68393845  1.0
+  Nb  Nb1  1  0.47841309  0.75000000  0.81606155  1.0
+  Nb  Nb2  1  0.02158691  0.25000000  0.31606155  1.0
+  Nb  Nb3  1  0.52158691  0.25000000  0.18393845  1.0
+  Co  Co4  1  0.86069293  0.75000000  0.06210478  1.0
+  Co  Co5  1  0.36069293  0.75000000  0.43789522  1.0
+  Co  Co6  1  0.13930707  0.25000000  0.93789522  1.0
+  Co  Co7  1  0.63930707  0.25000000  0.56210478  1.0
+  Ge  Ge8  1  0.73164596  0.75000000  0.38151361  1.0
+  Ge  Ge9  1  0.23164596  0.75000000  0.11848639  1.0
+  Ge  Ge10  1  0.26835404  0.25000000  0.61848639  1.0
+  Ge  Ge11  1  0.76835404  0.25000000  0.88151361  1.0

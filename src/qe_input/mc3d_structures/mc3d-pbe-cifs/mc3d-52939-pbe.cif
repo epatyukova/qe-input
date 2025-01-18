@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BaCu2SnS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44360446
+_cell_length_b   6.44360446
+_cell_length_c   15.84717985
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCu2SnS4
+_chemical_formula_sum   'Ba3 Cu6 Sn3 S12'
+_cell_volume   569.82351232
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.33333373  0.24046933  0.83340207  1.0
+  Ba  Ba1  1  0.90713559  0.66666627  0.50006874  1.0
+  Ba  Ba2  1  0.75953067  0.09286441  0.16673541  1.0
+  Cu  Cu3  1  0.96251979  0.73073236  0.25495225  1.0
+  Cu  Cu4  1  0.76821256  0.03748021  0.92161892  1.0
+  Cu  Cu5  1  0.26926764  0.23178744  0.58828558  1.0
+  Cu  Cu6  1  0.89852232  0.60267901  0.74522472  1.0
+  Cu  Cu7  1  0.70415669  0.10147768  0.41189138  1.0
+  Cu  Cu8  1  0.39732099  0.29584331  0.07855805  1.0
+  Sn  Sn9  1  0.03773718  0.66664201  1.00005621  1.0
+  Sn  Sn10  1  0.62890483  0.96226282  0.66672288  1.0
+  Sn  Sn11  1  0.33335799  0.37109517  0.33338955  1.0
+  S  S12  1  0.21959331  0.90176981  0.66936785  1.0
+  S  S13  1  0.68217650  0.78040669  0.33603451  1.0
+  S  S14  1  0.09823019  0.31782350  0.00270118  1.0
+  S  S15  1  0.83401333  0.72820320  0.87960267  1.0
+  S  S16  1  0.89418987  0.16598667  0.54626934  1.0
+  S  S17  1  0.27179680  0.10581013  0.21293600  1.0
+  S  S18  1  0.77248939  0.60513925  0.12052967  1.0
+  S  S19  1  0.83264986  0.22751061  0.78719634  1.0
+  S  S20  1  0.39486075  0.16735014  0.45386301  1.0
+  S  S21  1  0.56847925  0.55295927  0.66409789  1.0
+  S  S22  1  0.98448001  0.43152075  0.33076456  1.0
+  S  S23  1  0.44704073  0.01551999  -0.00256878  1.0

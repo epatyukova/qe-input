@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs4CO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75400125
+_cell_length_b   8.75400125
+_cell_length_c   8.75400125
+_cell_angle_alpha   94.96992329
+_cell_angle_beta   94.96992329
+_cell_angle_gamma   145.76473071
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs4CO4
+_chemical_formula_sum   'Cs4 C1 O4'
+_cell_volume   360.69188990
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.30694152  0.30694152  0.29090279  1.0
+  Cs  Cs1  1  1.01603874  1.01603874  0.70909721  1.0
+  Cs  Cs2  1  0.69305848  0.98396126  1.00000000  1.0
+  Cs  Cs3  1  0.98396126  1.69305848  1.00000000  1.0
+  C  C4  1  0.50000000  0.50000000  -0.00000000  1.0
+  O  O5  1  0.59057041  0.59057041  0.86006654  1.0
+  O  O6  1  0.73050387  0.73050387  0.13993346  1.0
+  O  O7  1  0.40942959  1.26949613  1.00000000  1.0
+  O  O8  1  1.26949613  1.40942959  1.00000000  1.0

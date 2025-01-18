@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CrCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74671194
+_cell_length_b   3.60199224
+_cell_length_c   6.71382542
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCoSi
+_chemical_formula_sum   'Cr4 Co4 Si4'
+_cell_volume   138.97357977
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.97359914  0.75000000  0.67946061  1.0
+  Cr  Cr1  1  0.47359914  0.75000000  0.82053939  1.0
+  Cr  Cr2  1  0.02640086  0.25000000  0.32053939  1.0
+  Cr  Cr3  1  0.52640086  0.25000000  0.17946061  1.0
+  Co  Co4  1  0.85499897  0.75000000  0.05780589  1.0
+  Co  Co5  1  0.35499897  0.75000000  0.44219411  1.0
+  Co  Co6  1  0.14500103  0.25000000  0.94219411  1.0
+  Co  Co7  1  0.64500103  0.25000000  0.55780589  1.0
+  Si  Si8  1  0.74055036  0.75000000  0.37579745  1.0
+  Si  Si9  1  0.24055036  0.75000000  0.12420255  1.0
+  Si  Si10  1  0.25944964  0.25000000  0.62420255  1.0
+  Si  Si11  1  0.75944964  0.25000000  0.87579745  1.0

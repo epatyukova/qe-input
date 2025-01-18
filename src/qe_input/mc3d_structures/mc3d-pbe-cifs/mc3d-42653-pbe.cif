@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr(InTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97320351
+_cell_length_b   6.97320351
+_cell_length_c   12.02945231
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.44322582
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(InTe2)2
+_chemical_formula_sum   'Sr2 In4 Te8'
+_cell_volume   519.11455966
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.75000000  1.0
+  Sr  Sr1  1  0.00000000  0.00000000  0.25000000  1.0
+  In  In2  1  -0.27084264  1.26501668  0.00000000  1.0
+  In  In3  1  0.26501668  0.72915736  0.50000000  1.0
+  In  In4  1  -0.26501668  1.27084264  0.50000000  1.0
+  In  In5  1  0.27084264  0.73498332  0.00000000  1.0
+  Te  Te6  1  -0.15336239  1.71127160  0.00000000  1.0
+  Te  Te7  1  0.71127160  0.84663761  0.50000000  1.0
+  Te  Te8  1  -0.71127160  1.15336239  0.50000000  1.0
+  Te  Te9  1  0.15336239  0.28872840  0.00000000  1.0
+  Te  Te10  1  0.00000000  1.50000000  0.68374070  1.0
+  Te  Te11  1  0.00000000  1.50000000  0.31625930  1.0
+  Te  Te12  1  0.50000000  1.00000000  0.18374070  1.0
+  Te  Te13  1  0.50000000  1.00000000  0.81625930  1.0

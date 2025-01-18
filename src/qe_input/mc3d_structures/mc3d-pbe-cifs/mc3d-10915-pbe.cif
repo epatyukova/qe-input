@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MoS2N2Cl5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.61867073
+_cell_length_b   7.97112299
+_cell_length_c   10.51247976
+_cell_angle_alpha   75.59016110
+_cell_angle_beta   75.47915199
+_cell_angle_gamma   79.33301881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoS2N2Cl5
+_chemical_formula_sum   'Mo2 S4 N4 Cl10'
+_cell_volume   593.43211539
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  -0.65709245  -0.66418334  -0.73185250  1.0
+  Mo  Mo1  1  -0.34290755  -0.33581666  -0.26814750  1.0
+  S  S2  1  -0.30483846  -0.84291377  -0.94023686  1.0
+  S  S3  1  -0.69516154  -0.15708623  -0.05976314  1.0
+  S  S4  1  -0.90161420  -0.54736639  -0.41921918  1.0
+  S  S5  1  -0.09838580  -0.45263361  -0.58078082  1.0
+  N  N6  1  -0.47238271  -0.75640166  -0.84570322  1.0
+  N  N7  1  -0.52761729  -0.24359834  -0.15429678  1.0
+  N  N8  1  -0.88662848  -0.55150843  -0.57841168  1.0
+  N  N9  1  -0.11337152  -0.44849157  -0.42158832  1.0
+  Cl  Cl10  1  -0.79114275  -0.92352884  -0.64973156  1.0
+  Cl  Cl11  1  -0.20885725  -0.07647116  -0.35026844  1.0
+  Cl  Cl12  1  -0.88405023  -1.05262480  -0.17988366  1.0
+  Cl  Cl13  1  -0.11594977  0.05262480  -0.82011634  1.0
+  Cl  Cl14  1  -0.52808772  -0.72456276  -0.54377121  1.0
+  Cl  Cl15  1  -0.47191228  -0.27543724  -0.45622879  1.0
+  Cl  Cl16  1  -0.87799229  -0.54940259  -0.85853895  1.0
+  Cl  Cl17  1  -0.12200771  -0.45059741  -0.14146105  1.0
+  Cl  Cl18  1  -0.55531026  -0.38395368  -0.79413202  1.0
+  Cl  Cl19  1  -0.44468974  -0.61604632  -0.20586798  1.0

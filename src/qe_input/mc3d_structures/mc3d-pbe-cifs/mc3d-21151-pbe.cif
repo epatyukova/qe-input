@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CrReO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46053998
+_cell_length_b   5.46053998
+_cell_length_c   4.69616044
+_cell_angle_alpha   88.19642811
+_cell_angle_beta   91.80357189
+_cell_angle_gamma   116.79820037
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrReO4
+_chemical_formula_sum   'Cr2 Re2 O8'
+_cell_volume   124.90340213
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.76230238  -0.76230238  -0.00719983  1.0
+  Cr  Cr1  1  0.23769762  -0.23769762  1.00719983  1.0
+  Re  Re2  1  0.72246935  -0.27753065  0.50000000  1.0
+  Re  Re3  1  1.27753065  0.27753065  0.50000000  1.0
+  O  O4  1  1.40703502  0.11362324  0.80209050  1.0
+  O  O5  1  0.88637676  -0.40703502  0.80209050  1.0
+  O  O6  1  1.11362324  0.40703502  0.19790950  1.0
+  O  O7  1  0.59296498  -0.11362324  0.19790950  1.0
+  O  O8  1  0.90665650  -0.90665650  0.68664604  1.0
+  O  O9  1  0.09334350  -0.09334350  0.31335396  1.0
+  O  O10  1  0.38213371  -0.38213371  0.71410830  1.0
+  O  O11  1  0.61786629  -0.61786629  0.28589170  1.0

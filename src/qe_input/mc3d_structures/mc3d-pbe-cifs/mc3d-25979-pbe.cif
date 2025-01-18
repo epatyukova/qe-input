@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Al2VO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16425209
+_cell_length_b   8.16425209
+_cell_length_c   5.62455578
+_cell_angle_alpha   70.57928013
+_cell_angle_beta   109.42071987
+_cell_angle_gamma   116.60588812
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al2VO7
+_chemical_formula_sum   'Al4 V2 O14'
+_cell_volume   308.54937333
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.70498658  -0.70498658  0.98240629  1.0
+  Al  Al1  1  0.29501342  -0.29501342  0.01759371  1.0
+  Al  Al2  1  0.69762946  -0.30237054  0.00000000  1.0
+  Al  Al3  1  1.30237054  0.30237054  0.00000000  1.0
+  V  V4  1  0.85846718  -0.85846718  0.63108636  1.0
+  V  V5  1  0.14153282  -0.14153282  0.36891364  1.0
+  O  O6  1  0.77365554  -0.09601204  0.74081932  1.0
+  O  O7  1  1.09601204  0.22634446  0.74081932  1.0
+  O  O8  1  0.90398796  -0.22634446  0.25918068  1.0
+  O  O9  1  1.22634446  0.09601204  0.25918068  1.0
+  O  O10  1  1.45826649  0.22209699  0.93597281  1.0
+  O  O11  1  0.77790301  -0.45826649  0.93597281  1.0
+  O  O12  1  1.22209699  0.45826649  0.06402719  1.0
+  O  O13  1  0.54173351  -0.22209699  0.06402719  1.0
+  O  O14  1  0.80229205  -0.80229205  0.29796251  1.0
+  O  O15  1  0.19770795  -0.19770795  0.70203749  1.0
+  O  O16  1  0.76374351  -0.76374351  0.75528742  1.0
+  O  O17  1  0.23625649  -0.23625649  0.24471258  1.0
+  O  O18  1  0.47118400  -0.47118400  0.79509458  1.0
+  O  O19  1  0.52881600  -0.52881600  0.20490543  1.0

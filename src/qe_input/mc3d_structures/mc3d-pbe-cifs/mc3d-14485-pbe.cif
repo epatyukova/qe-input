@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K3NaP2(O3F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84506287
+_cell_length_b   5.84506287
+_cell_length_c   7.51618051
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3NaP2(O3F)2
+_chemical_formula_sum   'K3 Na1 P2 O6 F2'
+_cell_volume   222.38536726
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33333333  0.66666667  0.67349474  1.0
+  K  K1  1  0.66666667  0.33333333  0.32650526  1.0
+  K  K2  1  0.00000000  0.00000000  0.00000000  1.0
+  Na  Na3  1  0.00000000  0.00000000  0.50000000  1.0
+  P  P4  1  0.33333333  0.66666667  0.24694503  1.0
+  P  P5  1  0.66666667  0.33333333  0.75305497  1.0
+  O  O6  1  0.62684288  0.81342144  0.29442650  1.0
+  O  O7  1  0.81342144  0.62684288  0.70557350  1.0
+  O  O8  1  0.81342144  0.18657856  0.70557350  1.0
+  O  O9  1  0.18657856  0.81342144  0.29442650  1.0
+  O  O10  1  0.18657856  0.37315712  0.29442650  1.0
+  O  O11  1  0.37315712  0.18657856  0.70557350  1.0
+  F  F12  1  0.33333333  0.66666667  0.02545482  1.0
+  F  F13  1  0.66666667  0.33333333  0.97454518  1.0

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cr(FeSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56909748
+_cell_length_b   6.56909748
+_cell_length_c   6.18577081
+_cell_angle_alpha   64.52567431
+_cell_angle_beta   115.47432569
+_cell_angle_gamma   150.57561522
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(FeSe2)2
+_chemical_formula_sum   'Cr1 Fe2 Se4'
+_cell_volume   117.45876983
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.00000000  1.0
+  Fe  Fe1  1  0.74118422  -0.74118422  0.68757354  1.0
+  Fe  Fe2  1  1.25881578  -0.25881578  0.31242646  1.0
+  Se  Se3  1  0.89323997  -0.89323997  0.56083392  1.0
+  Se  Se4  1  1.10676003  -0.10676003  0.43916608  1.0
+  Se  Se5  1  0.63848813  -0.63848813  0.97657284  1.0
+  Se  Se6  1  1.36151187  -0.36151187  0.02342716  1.0

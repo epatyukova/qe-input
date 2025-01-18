@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na(IrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30057511
+_cell_length_b   5.30057511
+_cell_length_c   5.04963588
+_cell_angle_alpha   90.02521405
+_cell_angle_beta   89.97478595
+_cell_angle_gamma   60.00747672
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na(IrO3)2
+_chemical_formula_sum   'Na1 Ir2 O6'
+_cell_volume   122.87661190
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.00000000  0.00000000  0.50000000  1.0
+  Ir  Ir1  1  0.66668271  -0.33331729  -0.00000000  1.0
+  Ir  Ir2  1  1.33331729  0.33331729  -0.00000000  1.0
+  O  O3  1  0.99980521  0.38432184  0.20581081  1.0
+  O  O4  1  0.61567816  0.00019479  0.20581081  1.0
+  O  O5  1  1.00019479  -0.38432184  0.79418919  1.0
+  O  O6  1  1.38432184  -0.00019479  0.79418919  1.0
+  O  O7  1  0.38388977  -0.38388977  0.20574876  1.0
+  O  O8  1  0.61611023  -0.61611023  0.79425124  1.0

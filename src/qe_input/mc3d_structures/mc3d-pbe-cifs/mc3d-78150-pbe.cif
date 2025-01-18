@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GeRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.70680071
+_cell_length_b   3.33692358
+_cell_length_c   6.48100979
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeRh
+_chemical_formula_sum   'Ge4 Rh4'
+_cell_volume   123.41889243
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.80675427  0.75000000  0.56540587  1.0
+  Ge  Ge1  1  0.30675427  0.75000000  0.93459413  1.0
+  Ge  Ge2  1  0.19324573  0.25000000  0.43459413  1.0
+  Ge  Ge3  1  0.69324573  0.25000000  0.06540587  1.0
+  Rh  Rh4  1  0.99499749  0.75000000  0.20332195  1.0
+  Rh  Rh5  1  0.49499749  0.75000000  0.29667805  1.0
+  Rh  Rh6  1  0.00500251  0.25000000  0.79667805  1.0
+  Rh  Rh7  1  0.50500251  0.25000000  0.70332195  1.0

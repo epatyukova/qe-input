@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Sr10Al4Si6O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.65231884
+_cell_length_b   11.65231884
+_cell_length_c   11.65231884
+_cell_angle_alpha   156.08967295
+_cell_angle_beta   110.05752684
+_cell_angle_gamma   75.09931360
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr10Al4Si6O
+_chemical_formula_sum   'Sr10 Al4 Si6 O1'
+_cell_volume   595.70514649
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.81281376  0.00000000  0.81281376  1.0
+  Sr  Sr1  1  0.18718624  -0.00000000  0.18718624  1.0
+  Sr  Sr2  1  0.84429855  0.84429855  1.00000000  1.0
+  Sr  Sr3  1  1.15570145  1.15570145  1.00000000  1.0
+  Sr  Sr4  1  1.46853157  0.80625789  0.66227369  1.0
+  Sr  Sr5  1  0.85601580  0.19374211  0.66227369  1.0
+  Sr  Sr6  1  1.14398420  0.80625789  0.33772631  1.0
+  Sr  Sr7  1  0.53146843  0.19374211  0.33772631  1.0
+  Sr  Sr8  1  0.00000000  0.50000000  0.50000000  1.0
+  Sr  Sr9  1  0.50000000  0.00000000  0.50000000  1.0
+  Al  Al10  1  0.41393431  0.57093609  0.84299822  1.0
+  Al  Al11  1  1.27206213  1.42906391  0.84299822  1.0
+  Al  Al12  1  0.72793787  0.57093609  1.15700178  1.0
+  Al  Al13  1  1.58606569  1.42906391  1.15700178  1.0
+  Si  Si14  1  0.64658931  0.64658931  1.00000000  1.0
+  Si  Si15  1  1.35341069  1.35341069  1.00000000  1.0
+  Si  Si16  1  0.30977641  0.63142523  0.67835119  1.0
+  Si  Si17  1  1.04692596  1.36857477  0.67835119  1.0
+  Si  Si18  1  0.95307404  0.63142523  1.32164881  1.0
+  Si  Si19  1  1.69022359  1.36857477  1.32164881  1.0
+  O  O20  1  0.00000000  0.00000000  0.00000000  1.0

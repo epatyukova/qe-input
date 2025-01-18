@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2CaMoO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.78389410
+_cell_length_b   5.92853983
+_cell_length_c   10.08481665
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.20745417
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CaMoO6
+_chemical_formula_sum   'Sr4 Ca2 Mo2 O12'
+_cell_volume   282.54998733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.73778461  0.04565431  0.24822044  1.0
+  Sr  Sr1  1  0.73778461  0.45434569  0.74822044  1.0
+  Sr  Sr2  1  0.26221539  0.54565431  0.25177956  1.0
+  Sr  Sr3  1  0.26221539  0.95434569  0.75177956  1.0
+  Ca  Ca4  1  0.50000000  0.50000000  -0.00000000  1.0
+  Ca  Ca5  1  0.50000000  0.00000000  0.50000000  1.0
+  Mo  Mo6  1  0.00000000  0.50000000  0.50000000  1.0
+  Mo  Mo7  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O8  1  0.76783824  0.76786841  0.45003087  1.0
+  O  O9  1  0.76783824  0.73213159  0.95003087  1.0
+  O  O10  1  0.23216176  0.26786841  0.04996913  1.0
+  O  O11  1  0.23216176  0.23213159  0.54996913  1.0
+  O  O12  1  0.85898142  0.47038424  0.27361815  1.0
+  O  O13  1  0.85898142  0.02961576  0.77361815  1.0
+  O  O14  1  0.14101858  0.97038424  0.22638185  1.0
+  O  O15  1  0.14101858  0.52961576  0.72638185  1.0
+  O  O16  1  0.68972539  0.31367223  0.45910808  1.0
+  O  O17  1  0.68972539  0.18632777  0.95910808  1.0
+  O  O18  1  0.31027461  0.81367223  0.04089192  1.0
+  O  O19  1  0.31027461  0.68632777  0.54089192  1.0

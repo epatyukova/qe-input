@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrCuSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67922150
+_cell_length_b   4.38769000
+_cell_length_c   7.76139579
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCuSn
+_chemical_formula_sum   'Zr4 Cu4 Sn4'
+_cell_volume   227.45820790
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00016968  0.75000000  0.78275056  1.0
+  Zr  Zr1  1  0.50016968  0.75000000  0.71724944  1.0
+  Zr  Zr2  1  0.99983032  0.25000000  0.21724944  1.0
+  Zr  Zr3  1  0.49983032  0.25000000  0.28275056  1.0
+  Cu  Cu4  1  0.80361656  0.75000000  0.41388384  1.0
+  Cu  Cu5  1  0.30361656  0.75000000  0.08611616  1.0
+  Cu  Cu6  1  0.19638344  0.25000000  0.58611616  1.0
+  Cu  Cu7  1  0.69638344  0.25000000  0.91388384  1.0
+  Sn  Sn8  1  0.72304179  0.75000000  0.08661736  1.0
+  Sn  Sn9  1  0.22304179  0.75000000  0.41338264  1.0
+  Sn  Sn10  1  0.27695821  0.25000000  0.91338264  1.0
+  Sn  Sn11  1  0.77695821  0.25000000  0.58661736  1.0

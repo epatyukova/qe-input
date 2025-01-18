@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiCoAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.23184157
+_cell_length_b   3.70877947
+_cell_length_c   7.06380552
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCoAs
+_chemical_formula_sum   'Ti4 Co4 As4'
+_cell_volume   163.26238908
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.97451803  0.75000000  0.68401321  1.0
+  Ti  Ti1  1  0.47451803  0.75000000  0.81598679  1.0
+  Ti  Ti2  1  0.02548197  0.25000000  0.31598679  1.0
+  Ti  Ti3  1  0.52548197  0.25000000  0.18401321  1.0
+  Co  Co4  1  0.86294746  0.75000000  0.06166749  1.0
+  Co  Co5  1  0.36294746  0.75000000  0.43833251  1.0
+  Co  Co6  1  0.13705254  0.25000000  0.93833251  1.0
+  Co  Co7  1  0.63705254  0.25000000  0.56166749  1.0
+  As  As8  1  0.73969035  0.75000000  0.37927972  1.0
+  As  As9  1  0.23969035  0.75000000  0.12072028  1.0
+  As  As10  1  0.26030965  0.25000000  0.62072028  1.0
+  As  As11  1  0.76030965  0.25000000  0.87927972  1.0

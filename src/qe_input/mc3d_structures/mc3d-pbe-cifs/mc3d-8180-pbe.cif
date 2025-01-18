@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_CeNF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.06865431
+_cell_length_b   7.06865431
+_cell_length_c   7.06865431
+_cell_angle_alpha   32.07087274
+_cell_angle_beta   32.07087274
+_cell_angle_gamma   32.07087274
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNF
+_chemical_formula_sum   'Ce2 N2 F2'
+_cell_volume   88.48091899
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.73843487  -0.26156513  -0.26156513  1.0
+  Ce  Ce1  1  0.26156513  0.26156513  0.26156513  1.0
+  N  N2  1  0.62505099  0.62505099  -0.37494901  1.0
+  N  N3  1  0.37494901  0.37494901  -0.62505099  1.0
+  F  F4  1  0.87058907  -0.12941093  -0.12941093  1.0
+  F  F5  1  0.12941093  0.12941093  0.12941093  1.0

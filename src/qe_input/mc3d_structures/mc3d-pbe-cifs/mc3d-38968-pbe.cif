@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2AlPt2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73416551
+_cell_length_b   5.73416551
+_cell_length_c   7.76957508
+_cell_angle_alpha   79.61213908
+_cell_angle_beta   100.38786092
+_cell_angle_gamma   119.71247677
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2AlPt2
+_chemical_formula_sum   'Ca4 Al2 Pt4'
+_cell_volume   217.00383335
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  1.51683421  0.21799447  0.14816753  1.0
+  Ca  Ca1  1  0.78200553  -0.51683421  0.64816753  1.0
+  Ca  Ca2  1  1.21799447  0.51683421  0.35183247  1.0
+  Ca  Ca3  1  0.48316579  -0.21799447  0.85183247  1.0
+  Al  Al4  1  0.88884818  -0.11115182  0.25000000  1.0
+  Al  Al5  1  1.11115182  0.11115182  0.75000000  1.0
+  Pt  Pt6  1  0.73592863  -0.00414703  0.49607249  1.0
+  Pt  Pt7  1  1.00414703  0.26407137  0.99607249  1.0
+  Pt  Pt8  1  0.99585297  -0.26407137  0.00392751  1.0
+  Pt  Pt9  1  1.26407137  0.00414703  0.50392751  1.0

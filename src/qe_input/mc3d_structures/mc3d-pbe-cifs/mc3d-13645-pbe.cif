@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb2TaCuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   19.63890751
+_cell_length_b   18.83836194
+_cell_length_c   7.01374044
+_cell_angle_alpha   86.00950531
+_cell_angle_beta   73.11924852
+_cell_angle_gamma   20.87124616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2TaCuSe2
+_chemical_formula_sum   'Rb8 Ta4 Cu4 Se8'
+_cell_volume   713.12074569
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  1.10328859  0.47394547  0.63938319  1.0
+  Rb  Rb1  1  0.78338275  0.63938319  0.47394547  1.0
+  Rb  Rb2  1  0.77605453  1.14671141  0.46661725  1.0
+  Rb  Rb3  1  0.61061681  0.46661725  1.14671141  1.0
+  Rb  Rb4  1  1.63938319  -0.21661725  0.10328859  1.0
+  Rb  Rb5  1  1.47394547  0.10328859  -0.21661725  1.0
+  Rb  Rb6  1  0.46661725  0.61061681  0.77605453  1.0
+  Rb  Rb7  1  1.14671141  0.77605453  0.61061681  1.0
+  Ta  Ta8  1  1.12500000  0.12500000  0.62500000  1.0
+  Ta  Ta9  1  1.12500000  0.62500000  0.12500000  1.0
+  Ta  Ta10  1  1.12500000  0.12500000  0.12500000  1.0
+  Ta  Ta11  1  1.62500000  0.12500000  0.12500000  1.0
+  Cu  Cu12  1  0.62500000  0.62500000  1.12500000  1.0
+  Cu  Cu13  1  0.62500000  1.12500000  0.62500000  1.0
+  Cu  Cu14  1  0.62500000  0.62500000  0.62500000  1.0
+  Cu  Cu15  1  1.12500000  0.62500000  0.62500000  1.0
+  Se  Se16  1  1.13000887  -0.00939359  0.63210145  1.0
+  Se  Se17  1  1.24728327  0.63210145  -0.00939359  1.0
+  Se  Se18  1  0.25939359  1.11999113  1.00271673  1.0
+  Se  Se19  1  0.61789855  1.00271673  1.11999113  1.0
+  Se  Se20  1  1.63210145  0.24728327  0.13000887  1.0
+  Se  Se21  1  0.99060641  0.13000887  0.24728327  1.0
+  Se  Se22  1  1.00271673  0.61789855  0.25939359  1.0
+  Se  Se23  1  1.11999113  0.25939359  0.61789855  1.0

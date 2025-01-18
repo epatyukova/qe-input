@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MoPbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09186061
+_cell_length_b   6.05474449
+_cell_length_c   6.05384843
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   89.99529678
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MoPbO4
+_chemical_formula_sum   'Mo2 Pb2 O8'
+_cell_volume   186.63963181
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mo  Mo0  1  0.50000000  0.25000873  0.25000000  1.0
+  Mo  Mo1  1  0.50000000  0.74999127  0.75000000  1.0
+  Pb  Pb2  1  0.00000000  0.75000691  0.25000000  1.0
+  Pb  Pb3  1  0.00000000  0.24999309  0.75000000  1.0
+  O  O4  1  0.71996052  0.91324084  0.91330694  1.0
+  O  O5  1  0.71996052  0.08675916  0.41330694  1.0
+  O  O6  1  0.28003948  0.91324084  0.58669306  1.0
+  O  O7  1  0.28003948  0.08675916  0.08669306  1.0
+  O  O8  1  0.72000761  0.58674685  0.58668608  1.0
+  O  O9  1  0.72000761  0.41325315  1.08668608  1.0
+  O  O10  1  0.27999239  0.58674685  -0.08668608  1.0
+  O  O11  1  0.27999239  0.41325315  0.41331392  1.0

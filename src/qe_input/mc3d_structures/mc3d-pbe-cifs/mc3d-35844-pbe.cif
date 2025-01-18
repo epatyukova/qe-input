@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Lu4InRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.45700748
+_cell_length_b   9.45700748
+_cell_length_c   9.45700748
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu4InRh
+_chemical_formula_sum   'Lu16 In4 Rh4'
+_cell_volume   598.06198831
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.06168099  0.43831901  0.43831901  1.0
+  Lu  Lu1  1  0.43831901  0.43831901  0.06168099  1.0
+  Lu  Lu2  1  0.43831901  0.06168099  0.43831901  1.0
+  Lu  Lu3  1  0.06168099  0.06168099  0.43831901  1.0
+  Lu  Lu4  1  0.06168099  0.43831901  0.06168099  1.0
+  Lu  Lu5  1  0.43831901  0.06168099  0.06168099  1.0
+  Lu  Lu6  1  -0.81001978  0.81001978  0.81001978  1.0
+  Lu  Lu7  1  -0.18998022  0.81001978  0.18998022  1.0
+  Lu  Lu8  1  -0.18998022  0.18998022  0.81001978  1.0
+  Lu  Lu9  1  0.18998022  1.18998022  -0.18998022  1.0
+  Lu  Lu10  1  0.18998022  -0.18998022  0.18998022  1.0
+  Lu  Lu11  1  -0.18998022  0.18998022  0.18998022  1.0
+  Lu  Lu12  1  -0.35014048  0.64985952  0.64985952  1.0
+  Lu  Lu13  1  1.05042144  0.64985952  -0.35014048  1.0
+  Lu  Lu14  1  -0.35014048  0.64985952  1.05042144  1.0
+  Lu  Lu15  1  0.64985952  1.05042144  -0.35014048  1.0
+  In  In16  1  0.41644443  1.41644443  0.41644443  1.0
+  In  In17  1  -0.24933329  0.41644443  0.41644443  1.0
+  In  In18  1  0.41644443  1.41644443  -0.24933329  1.0
+  In  In19  1  0.41644443  -0.24933329  0.41644443  1.0
+  Rh  Rh20  1  0.85760862  0.85760862  -0.14239138  1.0
+  Rh  Rh21  1  0.42717414  0.85760862  -0.14239138  1.0
+  Rh  Rh22  1  0.85760862  0.85760862  -0.57282586  1.0
+  Rh  Rh23  1  0.85760862  0.42717414  -0.14239138  1.0

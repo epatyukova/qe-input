@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Pb5(SI3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80141254
+_cell_length_b   7.80141254
+_cell_length_c   15.04627456
+_cell_angle_alpha   81.64837153
+_cell_angle_beta   98.35162847
+_cell_angle_gamma   146.48864478
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pb5(SI3)2
+_chemical_formula_sum   'Pb5 S2 I6'
+_cell_volume   499.73550103
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.86885345  0.13114655  0.53476020  1.0
+  Pb  Pb1  1  0.13114655  -0.13114655  0.46523980  1.0
+  Pb  Pb2  1  0.78662701  0.21337299  0.24443756  1.0
+  Pb  Pb3  1  0.21337299  -0.21337299  0.75556244  1.0
+  Pb  Pb4  1  0.00000000  0.00000000  0.00000000  1.0
+  S  S5  1  0.71882001  0.28117999  0.40432567  1.0
+  S  S6  1  0.28117999  -0.28117999  0.59567433  1.0
+  I  I7  1  0.87033562  0.12966438  0.80199957  1.0
+  I  I8  1  0.12966438  -0.12966438  0.19800043  1.0
+  I  I9  1  0.62700848  0.37299152  0.92788911  1.0
+  I  I10  1  0.37299152  -0.37299152  0.07211089  1.0
+  I  I11  1  0.57438249  0.42561751  0.63798810  1.0
+  I  I12  1  0.42561751  -0.42561751  0.36201190  1.0

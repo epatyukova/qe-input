@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Zn22Ni3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60274319
+_cell_length_b   7.60274319
+_cell_length_c   7.65825857
+_cell_angle_alpha   72.06994304
+_cell_angle_beta   107.93005696
+_cell_angle_gamma   121.32919403
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn22Ni3
+_chemical_formula_sum   'Zn22 Ni3'
+_cell_volume   353.75589576
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  1.66256542  -0.02340130  0.53686383  1.0
+  Zn  Zn1  1  1.02340130  -0.66256542  0.53686383  1.0
+  Zn  Zn2  1  0.97659870  -0.33743458  0.46313617  1.0
+  Zn  Zn3  1  1.33743458  0.02340130  0.46313617  1.0
+  Zn  Zn4  1  1.61752374  0.00179395  0.90124260  1.0
+  Zn  Zn5  1  0.99820605  -0.61752374  0.90124260  1.0
+  Zn  Zn6  1  1.00179395  -0.38247626  0.09875740  1.0
+  Zn  Zn7  1  1.38247626  -0.00179395  0.09875740  1.0
+  Zn  Zn8  1  1.34516339  0.26065852  0.68881073  1.0
+  Zn  Zn9  1  0.73934148  -0.34516339  0.68881073  1.0
+  Zn  Zn10  1  1.26065852  -0.65483661  0.31118927  1.0
+  Zn  Zn11  1  1.65483661  -0.26065852  0.31118927  1.0
+  Zn  Zn12  1  0.97614217  -0.97614217  0.82442049  1.0
+  Zn  Zn13  1  1.02385783  -0.02385783  0.17557951  1.0
+  Zn  Zn14  1  0.83051489  -0.83051489  0.21606318  1.0
+  Zn  Zn15  1  1.16948511  -0.16948511  0.78393682  1.0
+  Zn  Zn16  1  0.68640150  -0.68640150  0.62327278  1.0
+  Zn  Zn17  1  1.31359850  -0.31359850  0.37672722  1.0
+  Zn  Zn18  1  1.35358553  -0.35358553  0.72713140  1.0
+  Zn  Zn19  1  0.64641447  -0.64641447  0.27286860  1.0
+  Zn  Zn20  1  0.67740840  0.67740840  -0.00000000  1.0
+  Zn  Zn21  1  0.32259160  0.32259160  0.00000000  1.0
+  Ni  Ni22  1  0.65727791  -0.65727791  0.94638193  1.0
+  Ni  Ni23  1  1.34272209  -0.34272209  0.05361807  1.0
+  Ni  Ni24  1  -0.00000000  0.00000000  0.50000000  1.0

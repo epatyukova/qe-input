@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Hf3ZnCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36129497
+_cell_length_b   8.36129497
+_cell_length_c   8.36129497
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3ZnCu2
+_chemical_formula_sum   'Hf12 Zn4 Cu8'
+_cell_volume   413.33828839
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.80400663  0.80400663  -0.80400663  1.0
+  Hf  Hf1  1  0.19599337  1.19599337  -0.19599337  1.0
+  Hf  Hf2  1  0.80400663  -0.80400663  0.80400663  1.0
+  Hf  Hf3  1  0.19599337  -0.19599337  0.19599337  1.0
+  Hf  Hf4  1  -0.80400663  0.80400663  0.80400663  1.0
+  Hf  Hf5  1  -0.19599337  0.19599337  0.19599337  1.0
+  Hf  Hf6  1  0.44599337  1.44599337  0.05400663  1.0
+  Hf  Hf7  1  0.05400663  0.05400663  0.44599337  1.0
+  Hf  Hf8  1  0.44599337  1.05400663  0.44599337  1.0
+  Hf  Hf9  1  0.05400663  1.44599337  0.05400663  1.0
+  Hf  Hf10  1  0.05400663  1.44599337  0.44599337  1.0
+  Hf  Hf11  1  0.44599337  1.05400663  0.05400663  1.0
+  Zn  Zn12  1  1.12500000  0.62500000  0.62500000  1.0
+  Zn  Zn13  1  0.62500000  1.12500000  -0.37500000  1.0
+  Zn  Zn14  1  -0.37500000  0.62500000  1.12500000  1.0
+  Zn  Zn15  1  -0.37500000  0.62500000  0.62500000  1.0
+  Cu  Cu16  1  -0.25141410  0.41713803  0.41713803  1.0
+  Cu  Cu17  1  0.41713803  -0.25141410  0.41713803  1.0
+  Cu  Cu18  1  0.41713803  1.41713803  -0.25141410  1.0
+  Cu  Cu19  1  0.41713803  1.41713803  0.41713803  1.0
+  Cu  Cu20  1  0.50141410  0.83286197  -0.16713803  1.0
+  Cu  Cu21  1  0.83286197  0.50141410  0.83286197  1.0
+  Cu  Cu22  1  0.83286197  0.83286197  -0.49858590  1.0
+  Cu  Cu23  1  0.83286197  0.83286197  0.83286197  1.0

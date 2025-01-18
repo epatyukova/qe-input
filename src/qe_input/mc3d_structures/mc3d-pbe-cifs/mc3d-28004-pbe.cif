@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ti(AlBr4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.70480441
+_cell_length_b   10.70480441
+_cell_length_c   12.58960536
+_cell_angle_alpha   56.67974636
+_cell_angle_beta   123.32025364
+_cell_angle_gamma   129.76844758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(AlBr4)2
+_chemical_formula_sum   'Ti2 Al4 Br16'
+_cell_volume   881.51274714
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  1.00876411  1.00876411  0.75000000  1.0
+  Ti  Ti1  1  -0.00876411  -0.00876411  0.25000000  1.0
+  Al  Al2  1  0.68769852  -0.14868648  0.97130274  1.0
+  Al  Al3  1  1.14868648  -0.68769852  0.47130274  1.0
+  Al  Al4  1  0.85131352  0.68769852  0.52869726  1.0
+  Al  Al5  1  1.31230148  0.14868648  0.02869726  1.0
+  Br  Br6  1  1.70988358  -0.12969983  0.78473497  1.0
+  Br  Br7  1  1.12969983  -0.70988358  0.28473497  1.0
+  Br  Br8  1  0.87030017  0.70988358  0.71526503  1.0
+  Br  Br9  1  0.29011642  0.12969983  0.21526503  1.0
+  Br  Br10  1  0.84158961  0.12601993  0.99100889  1.0
+  Br  Br11  1  0.87398007  -0.84158961  0.49100889  1.0
+  Br  Br12  1  1.12601993  0.84158961  0.50899111  1.0
+  Br  Br13  1  1.15841039  -0.12601993  0.00899111  1.0
+  Br  Br14  1  0.40564312  -0.28495606  0.94566829  1.0
+  Br  Br15  1  1.28495606  -0.40564312  0.44566829  1.0
+  Br  Br16  1  0.71504394  0.40564312  0.55433171  1.0
+  Br  Br17  1  1.59435688  0.28495606  0.05433171  1.0
+  Br  Br18  1  0.28276300  0.16304185  0.67476529  1.0
+  Br  Br19  1  0.83695815  0.71723700  0.17476529  1.0
+  Br  Br20  1  1.16304185  -0.71723700  0.82523471  1.0
+  Br  Br21  1  1.71723700  -0.16304185  0.32523471  1.0

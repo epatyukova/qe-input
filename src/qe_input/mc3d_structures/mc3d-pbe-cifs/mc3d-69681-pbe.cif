@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Ta2PdS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.78069999
+_cell_length_b   6.78069999
+_cell_length_c   10.49105572
+_cell_angle_alpha   60.81214740
+_cell_angle_beta   119.18785260
+_cell_angle_gamma   151.95946477
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2PdS6
+_chemical_formula_sum   'Ta2 Pd1 S6'
+_cell_volume   196.02675267
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.31888470  -0.31888470  0.70591208  1.0
+  Ta  Ta1  1  0.68111530  -0.68111530  0.29408792  1.0
+  Pd  Pd2  1  0.00000000  0.00000000  0.00000000  1.0
+  S  S3  1  0.66909248  0.33090752  0.53570437  1.0
+  S  S4  1  1.33090752  -0.33090752  0.46429563  1.0
+  S  S5  1  0.79314821  0.20685179  0.86590126  1.0
+  S  S6  1  1.20685179  -0.20685179  0.13409874  1.0
+  S  S7  1  0.97966619  -0.97966619  0.76365943  1.0
+  S  S8  1  0.02033381  -0.02033381  0.23634057  1.0

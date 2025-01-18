@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_AlPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.69035406
+_cell_length_b   5.69035406
+_cell_length_c   5.69035406
+_cell_angle_alpha   132.73756399
+_cell_angle_beta   132.73756399
+_cell_angle_gamma   69.06658977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlPO4
+_chemical_formula_sum   'Al1 P1 O4'
+_cell_volume   97.55690709
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.00000000  -0.00000000  -0.00000000  1.0
+  P  P1  1  0.25000000  0.75000000  0.50000000  1.0
+  O  O2  1  0.82982683  1.00125916  1.17143233  1.0
+  O  O3  1  0.82982683  0.65839450  0.82856767  1.0
+  O  O4  1  0.99874084  0.17017317  0.82856767  1.0
+  O  O5  1  0.34160550  0.17017317  0.17143233  1.0

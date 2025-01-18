@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2SrCr2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.82599979
+_cell_length_b   7.82599979
+_cell_length_c   7.82599979
+_cell_angle_alpha   43.15386610
+_cell_angle_beta   43.15386610
+_cell_angle_gamma   43.15386611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2SrCr2O8
+_chemical_formula_sum   'K2 Sr1 Cr2 O8'
+_cell_volume   203.30031419
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.80144961  0.80144961  0.80144961  1.0
+  K  K1  1  1.19855039  1.19855039  0.19855039  1.0
+  Sr  Sr2  1  0.00000000  -0.00000000  0.00000000  1.0
+  Cr  Cr3  1  1.60005655  0.60005655  0.60005655  1.0
+  Cr  Cr4  1  1.39994345  0.39994345  0.39994345  1.0
+  O  O5  1  1.26732213  0.26732213  0.74057659  1.0
+  O  O6  1  1.26732213  0.74057659  0.26732213  1.0
+  O  O7  1  1.25942341  0.73267787  0.73267787  1.0
+  O  O8  1  1.73267787  0.25942341  0.73267787  1.0
+  O  O9  1  1.73267787  0.73267787  0.25942341  1.0
+  O  O10  1  1.74057659  0.26732213  0.26732213  1.0
+  O  O11  1  0.67701074  0.67701074  0.67701074  1.0
+  O  O12  1  1.32298926  1.32298926  0.32298926  1.0

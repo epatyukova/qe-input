@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Cs6Si2NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97473564
+_cell_length_b   8.08135007
+_cell_length_c   7.22875807
+_cell_angle_alpha   86.39351951
+_cell_angle_beta   68.95388139
+_cell_angle_gamma   87.53649865
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs6Si2NiO8
+_chemical_formula_sum   'Cs6 Si2 Ni1 O8'
+_cell_volume   379.42654682
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  -0.79896001  -0.48081597  -0.79782656  1.0
+  Cs  Cs1  1  -0.20103999  -0.51918403  -0.20217344  1.0
+  Cs  Cs2  1  -0.72502143  -0.96563774  -0.70673861  1.0
+  Cs  Cs3  1  -0.27497857  -0.03436226  -0.29326139  1.0
+  Cs  Cs4  1  -0.65471938  -0.66992460  -0.32962827  1.0
+  Cs  Cs5  1  -0.34528062  -0.33007540  -0.67037173  1.0
+  Si  Si6  1  -0.21590334  -0.77748755  -0.76125298  1.0
+  Si  Si7  1  -0.78409666  -0.22251245  -0.23874702  1.0
+  Ni  Ni8  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O9  1  -0.00110259  -0.76522302  -0.96731934  1.0
+  O  O10  1  -0.99889741  -0.23477698  -0.03268066  1.0
+  O  O11  1  -0.82267388  -0.28827746  -0.43296864  1.0
+  O  O12  1  -0.17732612  -0.71172254  -0.56703136  1.0
+  O  O13  1  -0.41633180  -0.68358348  -0.79330584  1.0
+  O  O14  1  -0.58366820  -0.31641652  -0.20669416  1.0
+  O  O15  1  -0.22923653  -0.98630505  -0.75440552  1.0
+  O  O16  1  -0.77076347  -0.01369495  -0.24559448  1.0

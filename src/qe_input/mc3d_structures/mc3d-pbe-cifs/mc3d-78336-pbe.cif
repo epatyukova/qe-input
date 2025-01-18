@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ba3Zn3Te(PO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61462386
+_cell_length_b   8.61462386
+_cell_length_c   5.37551703
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Zn3Te(PO7)2
+_chemical_formula_sum   'Ba3 Zn3 Te1 P2 O14'
+_cell_volume   345.48047931
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.43717528  0.00000000  1.0
+  Ba  Ba1  1  0.43717528  0.00000000  0.00000000  1.0
+  Ba  Ba2  1  0.56282472  0.56282472  0.00000000  1.0
+  Zn  Zn3  1  0.76407480  0.00000000  0.50000000  1.0
+  Zn  Zn4  1  0.23592520  0.23592520  0.50000000  1.0
+  Zn  Zn5  1  0.00000000  0.76407480  0.50000000  1.0
+  Te  Te6  1  0.00000000  0.00000000  0.00000000  1.0
+  P  P7  1  0.66666667  0.33333333  0.46244808  1.0
+  P  P8  1  0.33333333  0.66666667  0.53755192  1.0
+  O  O9  1  0.66666667  0.33333333  0.75018183  1.0
+  O  O10  1  0.33333333  0.66666667  0.24981817  1.0
+  O  O11  1  0.77830102  0.87816033  0.21050302  1.0
+  O  O12  1  0.09985931  0.22169898  0.21050302  1.0
+  O  O13  1  0.12183967  0.90014069  0.21050302  1.0
+  O  O14  1  0.22169898  0.09985931  0.78949698  1.0
+  O  O15  1  0.87816033  0.77830102  0.78949698  1.0
+  O  O16  1  0.90014069  0.12183967  0.78949698  1.0
+  O  O17  1  0.70200153  0.18521163  0.35140756  1.0
+  O  O18  1  0.48321010  0.29799847  0.35140756  1.0
+  O  O19  1  0.81478837  0.51678990  0.35140756  1.0
+  O  O20  1  0.29799847  0.48321010  0.64859244  1.0
+  O  O21  1  0.18521163  0.70200153  0.64859244  1.0
+  O  O22  1  0.51678990  0.81478837  0.64859244  1.0

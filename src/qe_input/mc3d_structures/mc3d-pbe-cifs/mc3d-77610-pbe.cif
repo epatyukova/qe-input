@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca4In2N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.96325200
+_cell_length_b   14.96325200
+_cell_length_c   14.96325200
+_cell_angle_alpha   161.04863546
+_cell_angle_beta   161.04863546
+_cell_angle_gamma   26.92637240
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4In2N
+_chemical_formula_sum   'Ca8 In4 N2'
+_cell_volume   353.22301126
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  1.25076817  1.25076817  1.00000000  1.0
+  Ca  Ca1  1  0.00076817  0.50076817  0.50000000  1.0
+  Ca  Ca2  1  1.49923183  0.99923183  0.50000000  1.0
+  Ca  Ca3  1  0.74923183  0.74923183  -0.00000000  1.0
+  Ca  Ca4  1  0.58111785  0.58111785  1.00000000  1.0
+  Ca  Ca5  1  1.33111785  0.83111785  0.50000000  1.0
+  Ca  Ca6  1  1.16888215  0.66888215  0.50000000  1.0
+  Ca  Ca7  1  1.41888215  1.41888215  1.00000000  1.0
+  In  In8  1  0.90995232  0.90995232  -0.00000000  1.0
+  In  In9  1  0.65995232  1.15995232  0.50000000  1.0
+  In  In10  1  0.84004768  1.34004768  0.50000000  1.0
+  In  In11  1  0.09004768  0.09004768  -0.00000000  1.0
+  N  N12  1  1.25000000  0.75000000  0.50000000  1.0
+  N  N13  1  0.50000000  0.50000000  1.00000000  1.0

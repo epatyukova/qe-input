@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_YbSeF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.62622117
+_cell_length_b   10.62622117
+_cell_length_c   10.62622117
+_cell_angle_alpha   21.37763676
+_cell_angle_beta   21.37763676
+_cell_angle_gamma   21.37763676
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YbSeF
+_chemical_formula_sum   'Yb2 Se2 F2'
+_cell_volume   139.66946927
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.72088306  0.72088306  0.72088306  1.0
+  Yb  Yb1  1  1.27911694  1.27911694  0.27911694  1.0
+  Se  Se2  1  0.89360352  0.89360352  0.89360352  1.0
+  Se  Se3  1  1.10639648  1.10639648  0.10639648  1.0
+  F  F4  1  1.64356156  0.64356156  0.64356156  1.0
+  F  F5  1  1.35643844  0.35643844  0.35643844  1.0

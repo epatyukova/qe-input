@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ca4Al6O13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.68574358
+_cell_length_b   7.68574358
+_cell_length_c   7.68574358
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4Al6O13
+_chemical_formula_sum   'Ca4 Al6 O13'
+_cell_volume   349.49082805
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.69271295  0.69271295  0.69271295  1.0
+  Ca  Ca1  1  1.00000000  1.00000000  0.30728705  1.0
+  Ca  Ca2  1  1.00000000  0.30728705  1.00000000  1.0
+  Ca  Ca3  1  0.30728705  1.00000000  1.00000000  1.0
+  Al  Al4  1  0.25000000  0.75000000  0.50000000  1.0
+  Al  Al5  1  0.75000000  0.25000000  0.50000000  1.0
+  Al  Al6  1  0.25000000  0.50000000  0.75000000  1.0
+  Al  Al7  1  0.50000000  0.25000000  0.75000000  1.0
+  Al  Al8  1  0.75000000  0.50000000  0.25000000  1.0
+  Al  Al9  1  0.50000000  0.75000000  0.25000000  1.0
+  O  O10  1  0.72148043  0.45194975  0.45194975  1.0
+  O  O11  1  0.45194975  0.72148043  0.45194975  1.0
+  O  O12  1  1.00000000  1.26953067  0.54805025  1.0
+  O  O13  1  1.26953067  1.00000000  0.54805025  1.0
+  O  O14  1  0.45194975  0.45194975  0.72148043  1.0
+  O  O15  1  0.73046933  0.73046933  0.27851957  1.0
+  O  O16  1  1.00000000  0.54805025  1.26953067  1.0
+  O  O17  1  0.73046933  0.27851957  0.73046933  1.0
+  O  O18  1  0.27851957  0.73046933  0.73046933  1.0
+  O  O19  1  0.54805025  1.00000000  1.26953067  1.0
+  O  O20  1  1.26953067  0.54805025  1.00000000  1.0
+  O  O21  1  0.54805025  1.26953067  1.00000000  1.0
+  O  O22  1  0.00000000  0.00000000  0.00000000  1.0

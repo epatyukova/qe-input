@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ge4Te7As2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   23.89164588
+_cell_length_b   23.89164588
+_cell_length_c   23.89164588
+_cell_angle_alpha   10.06066970
+_cell_angle_beta   10.06066970
+_cell_angle_gamma   10.06066970
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge4Te7As2
+_chemical_formula_sum   'Ge4 Te7 As2'
+_cell_volume   361.34638571
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.92572406  0.92572406  0.92572406  1.0
+  Ge  Ge1  1  1.07427594  1.07427594  0.07427594  1.0
+  Ge  Ge2  1  0.69138512  0.69138512  0.69138512  1.0
+  Ge  Ge3  1  1.30861488  1.30861488  0.30861488  1.0
+  Te  Te4  1  0.85408200  0.85408200  0.85408200  1.0
+  Te  Te5  1  1.14591800  1.14591800  0.14591800  1.0
+  Te  Te6  1  0.76507112  0.76507112  0.76507112  1.0
+  Te  Te7  1  1.23492888  1.23492888  0.23492888  1.0
+  Te  Te8  1  1.61739923  0.61739923  0.61739923  1.0
+  Te  Te9  1  1.38260077  0.38260077  0.38260077  1.0
+  Te  Te10  1  0.00000000  0.00000000  0.00000000  1.0
+  As  As11  1  1.54228282  0.54228282  0.54228282  1.0
+  As  As12  1  1.45771718  0.45771718  0.45771718  1.0

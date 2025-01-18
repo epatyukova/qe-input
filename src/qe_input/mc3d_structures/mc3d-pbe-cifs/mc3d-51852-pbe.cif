@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na4NiTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51706259
+_cell_length_b   9.79305693
+_cell_length_c   5.76105533
+_cell_angle_alpha   72.50230846
+_cell_angle_beta   80.62352061
+_cell_angle_gamma   84.70864527
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na4NiTeO6
+_chemical_formula_sum   'Na8 Ni2 Te2 O12'
+_cell_volume   292.58542079
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1.0
+  Na  Na1  1  0.49521636  -0.84374609  1.34837052  1.0
+  Na  Na2  1  0.50478364  -0.15625391  0.65162948  1.0
+  Na  Na3  1  0.01854215  -0.67200303  1.17438067  1.0
+  Na  Na4  1  0.98145785  -0.32799697  0.82561933  1.0
+  Na  Na5  1  0.50000000  -0.50000000  1.00000000  1.0
+  Na  Na6  1  0.74851881  -0.41903203  1.41531995  1.0
+  Na  Na7  1  0.25148119  -0.58096797  0.58468005  1.0
+  Te  Te8  1  0.75147456  -0.75646014  0.76237359  1.0
+  Te  Te9  1  0.24852544  -0.24353986  1.23762641  1.0
+  Ni  Ni10  1  0.75023135  -0.08168613  1.07942606  1.0
+  Ni  Ni11  1  0.24976865  -0.91831387  0.92057394  1.0
+  O  O12  1  0.65192836  -0.65506171  1.43698258  1.0
+  O  O13  1  0.34807164  -0.34493829  0.56301742  1.0
+  O  O14  1  0.85432840  -0.57755995  0.80751067  1.0
+  O  O15  1  0.14567160  -0.42244005  1.19248933  1.0
+  O  O16  1  0.88132973  -0.88413726  1.07986617  1.0
+  O  O17  1  0.11867027  -0.11586274  0.92013383  1.0
+  O  O18  1  0.62097499  -0.94810021  1.75446744  1.0
+  O  O19  1  0.37902501  -0.05189979  0.24553256  1.0
+  O  O20  1  0.09411258  -0.80282442  1.60140960  1.0
+  O  O21  1  0.90588742  -0.19717558  0.39859040  1.0
+  O  O22  1  0.40998945  -0.73433845  0.94781644  1.0
+  O  O23  1  0.59001055  -0.26566155  1.05218356  1.0

@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_Re3Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21229379
+_cell_length_b   5.21229379
+_cell_length_c   5.21229379
+_cell_angle_alpha   149.38748387
+_cell_angle_beta   64.15505628
+_cell_angle_gamma   125.12109116
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Re3Ru
+_chemical_formula_sum   'Re3 Ru1'
+_cell_volume   58.38356889
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.24989773  -0.00136795  0.25126567  1.0
+  Re  Re1  1  0.74736638  0.99863205  0.74873433  1.0
+  Re  Re2  1  0.17143529  0.67143529  0.50000000  1.0
+  Ru  Ru3  1  0.66470060  0.66470060  -0.00000000  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2TiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.99454917
+_cell_length_b   5.99454917
+_cell_length_c   5.58561656
+_cell_angle_alpha   68.77506240
+_cell_angle_beta   111.22493760
+_cell_angle_gamma   113.92611802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TiO3
+_chemical_formula_sum   'Na4 Ti2 O6'
+_cell_volume   165.47900897
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.41757453  -0.25207611  0.93544093  1.0
+  Na  Na1  1  1.25207611  0.58242547  0.43544093  1.0
+  Na  Na2  1  0.74792389  -0.58242547  0.56455907  1.0
+  Na  Na3  1  1.58242547  0.25207611  0.06455907  1.0
+  Ti  Ti4  1  0.91700076  -0.08299924  0.75000000  1.0
+  Ti  Ti5  1  1.08299924  0.08299924  0.25000000  1.0
+  O  O6  1  1.81397780  0.08418499  0.93650657  1.0
+  O  O7  1  0.91581501  -0.81397780  0.43650657  1.0
+  O  O8  1  1.08418499  0.81397780  0.56349343  1.0
+  O  O9  1  0.18602220  -0.08418499  0.06349343  1.0
+  O  O10  1  0.64451953  -0.35548047  0.75000000  1.0
+  O  O11  1  1.35548047  0.35548047  0.25000000  1.0

@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sr(Ag2Sb)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.88508998
+_cell_length_b   8.88508998
+_cell_length_c   8.88508998
+_cell_angle_alpha   31.25594291
+_cell_angle_beta   31.25594291
+_cell_angle_gamma   31.25594291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(Ag2Sb)2
+_chemical_formula_sum   'Sr1 Ag4 Sb2'
+_cell_volume   167.58699722
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  -0.00000000  1.0
+  Ag  Ag1  1  0.85753793  0.85753793  0.85753793  1.0
+  Ag  Ag2  1  1.14246207  1.14246207  0.14246207  1.0
+  Ag  Ag3  1  1.56556660  0.56556660  0.56556660  1.0
+  Ag  Ag4  1  1.43443340  0.43443340  0.43443340  1.0
+  Sb  Sb5  1  0.74484144  0.74484144  0.74484144  1.0
+  Sb  Sb6  1  1.25515856  1.25515856  0.25515856  1.0

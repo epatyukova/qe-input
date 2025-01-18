@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Na2Pd3O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43023244
+_cell_length_b   7.43023244
+_cell_length_c   7.43023244
+_cell_angle_alpha   155.97155265
+_cell_angle_beta   136.39127952
+_cell_angle_gamma   50.40101852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Pd3O4
+_chemical_formula_sum   'Na2 Pd3 O4'
+_cell_volume   114.78990147
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.79853240  0.29853240  0.50000000  1.0
+  Na  Na1  1  0.20146760  0.70146760  0.50000000  1.0
+  Pd  Pd2  1  0.60534589  0.60534589  1.00000000  1.0
+  Pd  Pd3  1  0.39465411  0.39465411  0.00000000  1.0
+  Pd  Pd4  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O5  1  0.63138919  0.88564131  0.74574788  1.0
+  O  O6  1  0.86010657  0.11435869  0.74574788  1.0
+  O  O7  1  1.13989343  0.88564131  1.25425212  1.0
+  O  O8  1  0.36861081  0.11435869  0.25425212  1.0

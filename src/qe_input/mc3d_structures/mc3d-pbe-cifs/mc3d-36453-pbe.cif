@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ti(GaO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39961711
+_cell_length_b   6.39961711
+_cell_length_c   9.60381720
+_cell_angle_alpha   56.68366454
+_cell_angle_beta   123.31633546
+_cell_angle_gamma   152.38598548
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti(GaO2)4
+_chemical_formula_sum   'Ti1 Ga4 O8'
+_cell_volume   150.34790994
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.00000000  0.00000000  0.00000000  1.0
+  Ga  Ga1  1  0.75975193  -0.75975193  0.36279449  1.0
+  Ga  Ga2  1  0.24024807  -0.24024807  0.63720551  1.0
+  Ga  Ga3  1  0.53535484  0.46464516  0.71268170  1.0
+  Ga  Ga4  1  1.46464516  -0.46464516  0.28731830  1.0
+  O  O5  1  0.89202326  -0.89202326  0.30902696  1.0
+  O  O6  1  0.10797674  -0.10797674  0.69097304  1.0
+  O  O7  1  0.83449383  0.16550617  0.78130085  1.0
+  O  O8  1  1.16550617  -0.16550617  0.21869915  1.0
+  O  O9  1  0.64569538  0.35430462  0.45984983  1.0
+  O  O10  1  1.35430462  -0.35430462  0.54015017  1.0
+  O  O11  1  0.55576050  0.44423950  0.92061623  1.0
+  O  O12  1  1.44423950  -0.44423950  0.07938377  1.0

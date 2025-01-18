@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Zn2As2PbO10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.89440618
+_cell_length_b   5.27618376
+_cell_length_c   5.27601516
+_cell_angle_alpha   70.71813728
+_cell_angle_beta   74.82013203
+_cell_angle_gamma   74.82421365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn2As2PbO10
+_chemical_formula_sum   'Zn2 As2 Pb1 O10'
+_cell_volume   196.45139266
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.00000000  0.00000000  0.00000000  1.0
+  As  As1  1  -0.80024215  -0.41684934  -0.41682826  1.0
+  As  As2  1  -0.19975785  -0.58315066  -0.58317174  1.0
+  O  O3  1  -0.37741077  -0.65961584  -0.65966910  1.0
+  O  O4  1  -0.62258923  -0.34038416  -0.34033090  1.0
+  O  O5  1  -0.55297788  -0.87137291  -0.87136793  1.0
+  O  O6  1  -0.44702212  -0.12862709  -0.12863207  1.0
+  O  O7  1  -0.99935088  -0.74672504  -0.74669141  1.0
+  O  O8  1  -0.00064912  -0.25327496  -0.25330859  1.0
+  O  O9  1  -0.78732260  -0.31429551  -0.77226080  1.0
+  O  O10  1  -0.21267740  -0.68570449  -0.22773920  1.0
+  O  O11  1  -0.78731182  -0.77227508  -0.31431570  1.0
+  O  O12  1  -0.21268818  -0.22772492  -0.68568430  1.0
+  Zn  Zn13  1  -0.50000000  -0.50000000  0.00000000  1.0
+  Zn  Zn14  1  -0.50000000  -0.00000000  -0.50000000  1.0

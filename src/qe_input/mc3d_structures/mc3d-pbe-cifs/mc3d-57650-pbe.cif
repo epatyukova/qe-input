@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ag2GeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72163673
+_cell_length_b   7.09466234
+_cell_length_c   10.68087003
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2GeO3
+_chemical_formula_sum   'Ag8 Ge4 O12'
+_cell_volume   357.79225143
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.90713083  0.62891105  0.62412197  1.0
+  Ag  Ag1  1  0.40713083  0.87108895  0.37587803  1.0
+  Ag  Ag2  1  0.09286917  0.12891105  0.87587803  1.0
+  Ag  Ag3  1  0.59286917  0.37108895  0.12412197  1.0
+  Ag  Ag4  1  0.48186049  0.89690315  0.72783840  1.0
+  Ag  Ag5  1  0.98186049  0.60309685  0.27216160  1.0
+  Ag  Ag6  1  0.51813951  0.39690315  0.77216160  1.0
+  Ag  Ag7  1  0.01813951  0.10309685  0.22783840  1.0
+  Ge  Ge8  1  0.01673740  0.63227268  0.93504169  1.0
+  Ge  Ge9  1  0.51673740  0.86772732  0.06495831  1.0
+  Ge  Ge10  1  0.98326260  0.13227268  0.56495831  1.0
+  Ge  Ge11  1  0.48326260  0.36772732  0.43504169  1.0
+  O  O12  1  0.15237188  0.91547952  0.54124546  1.0
+  O  O13  1  0.65237188  0.58452048  0.45875454  1.0
+  O  O14  1  0.84762812  0.41547952  0.95875454  1.0
+  O  O15  1  0.34762812  0.08452048  0.04124546  1.0
+  O  O16  1  0.19113321  0.64329001  0.78795472  1.0
+  O  O17  1  0.69113321  0.85670999  0.21204528  1.0
+  O  O18  1  0.80886679  0.14329001  0.71204528  1.0
+  O  O19  1  0.30886679  0.35670999  0.28795472  1.0
+  O  O20  1  0.27098618  0.67095872  0.05944198  1.0
+  O  O21  1  0.77098618  0.82904128  0.94055802  1.0
+  O  O22  1  0.72901382  0.17095872  0.44055802  1.0
+  O  O23  1  0.22901382  0.32904128  0.55944198  1.0

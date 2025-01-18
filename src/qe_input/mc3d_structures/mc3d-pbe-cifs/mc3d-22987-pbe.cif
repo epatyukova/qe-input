@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CdBrO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48532806
+_cell_length_b   7.43441023
+_cell_length_c   6.74928468
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.75132661
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdBrO
+_chemical_formula_sum   'Cd4 Br4 O4'
+_cell_volume   251.92505368
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  -0.02017406  0.63064487  0.70478467  1.0
+  Cd  Cd1  1  1.02017406  0.13064487  0.79521533  1.0
+  Cd  Cd2  1  1.02017406  0.36935513  0.29521533  1.0
+  Cd  Cd3  1  -0.02017406  0.86935513  0.20478467  1.0
+  Br  Br4  1  0.36426570  0.89345885  0.68686333  1.0
+  Br  Br5  1  0.63573430  0.39345885  0.81313667  1.0
+  Br  Br6  1  0.63573430  0.10654115  0.31313667  1.0
+  Br  Br7  1  0.36426570  0.60654115  0.18686333  1.0
+  O  O8  1  0.85604477  0.86553242  0.83871322  1.0
+  O  O9  1  0.14395523  0.36553242  0.66128678  1.0
+  O  O10  1  0.14395523  0.13446758  0.16128678  1.0
+  O  O11  1  0.85604477  0.63446758  0.33871322  1.0

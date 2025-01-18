@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KIn(GeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.12921971
+_cell_length_b   7.12921971
+_cell_length_c   5.71581741
+_cell_angle_alpha   78.81074574
+_cell_angle_beta   101.18925426
+_cell_angle_gamma   94.96696029
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KIn(GeO3)2
+_chemical_formula_sum   'K2 In2 Ge4 O12'
+_cell_volume   279.20995668
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.81190870  0.81190870  0.75000000  1.0
+  K  K1  1  0.18809130  0.18809130  0.25000000  1.0
+  In  In2  1  0.39595832  0.39595832  0.75000000  1.0
+  In  In3  1  0.60404168  0.60404168  0.25000000  1.0
+  Ge  Ge4  1  1.30450701  -0.12651383  0.79130198  1.0
+  Ge  Ge5  1  1.12651383  -0.30450701  0.29130198  1.0
+  Ge  Ge6  1  0.87348617  0.30450701  0.70869802  1.0
+  Ge  Ge7  1  0.69549299  0.12651383  0.20869802  1.0
+  O  O8  1  1.46238037  -0.31827717  0.87058547  1.0
+  O  O9  1  1.31827717  -0.46238037  0.37058547  1.0
+  O  O10  1  0.68172283  0.46238037  0.62941453  1.0
+  O  O11  1  0.53761963  0.31827717  0.12941453  1.0
+  O  O12  1  0.83403422  0.13302660  0.97603503  1.0
+  O  O13  1  0.86697340  0.16596578  0.47603503  1.0
+  O  O14  1  1.13302660  -0.16596578  0.52396497  1.0
+  O  O15  1  1.16596578  -0.13302660  0.02396497  1.0
+  O  O16  1  0.40534507  0.10286173  0.71284970  1.0
+  O  O17  1  0.89713827  0.59465493  0.21284970  1.0
+  O  O18  1  1.10286173  -0.59465493  0.78715030  1.0
+  O  O19  1  1.59465493  -0.10286173  0.28715030  1.0

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiFe6Ge5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.00593124
+_cell_length_b   5.00593124
+_cell_length_c   14.77628983
+_cell_angle_alpha   80.24494890
+_cell_angle_beta   99.75505110
+_cell_angle_gamma   120.00208857
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFe6Ge5
+_chemical_formula_sum   'Li2 Fe12 Ge10'
+_cell_volume   314.47168873
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.91221974  -0.91221974  0.73684081  1.0
+  Li  Li1  1  0.08778026  -0.08778026  0.26315919  1.0
+  Fe  Fe2  1  0.45344434  0.04597530  0.86092901  1.0
+  Fe  Fe3  1  0.95402470  0.54655566  0.86092901  1.0
+  Fe  Fe4  1  1.04597530  -0.54655566  0.13907099  1.0
+  Fe  Fe5  1  1.54655566  -0.04597530  0.13907099  1.0
+  Fe  Fe6  1  0.36420822  0.14572380  0.58258153  1.0
+  Fe  Fe7  1  0.85427620  0.63579178  0.58258153  1.0
+  Fe  Fe8  1  1.14572380  -0.63579178  0.41741847  1.0
+  Fe  Fe9  1  1.63579178  -0.14572380  0.41741847  1.0
+  Fe  Fe10  1  0.63579391  0.36420609  0.41745852  1.0
+  Fe  Fe11  1  1.36420609  -0.36420609  0.58254148  1.0
+  Fe  Fe12  1  1.45342151  -0.45342151  0.86091160  1.0
+  Fe  Fe13  1  0.54657849  0.45342151  0.13908840  1.0
+  Ge  Ge14  1  0.97043389  -0.97043389  0.91128974  1.0
+  Ge  Ge15  1  0.02956611  -0.02956611  0.08871026  1.0
+  Ge  Ge16  1  0.85250022  -0.85250022  0.55734932  1.0
+  Ge  Ge17  1  0.14749978  -0.14749978  0.44265068  1.0
+  Ge  Ge18  1  0.75935336  -0.75935336  0.27803852  1.0
+  Ge  Ge19  1  0.24064664  -0.24064664  0.72196148  1.0
+  Ge  Ge20  1  0.66660136  0.33339864  -0.00013110  1.0
+  Ge  Ge21  1  0.33339864  -0.33339864  0.00013110  1.0
+  Ge  Ge22  1  0.57441258  0.42558742  0.72335558  1.0
+  Ge  Ge23  1  1.42558742  -0.42558742  0.27664442  1.0

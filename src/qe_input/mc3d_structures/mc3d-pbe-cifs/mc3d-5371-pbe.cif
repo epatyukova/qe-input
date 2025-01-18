@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Fe2NiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05697374
+_cell_length_b   6.76026755
+_cell_length_c   4.41051384
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2NiC
+_chemical_formula_sum   'Fe8 Ni4 C4'
+_cell_volume   150.78001158
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.67688761  0.06950858  0.17201103  1.0
+  Fe  Fe1  1  0.17688761  0.43049142  0.32798897  1.0
+  Fe  Fe2  1  0.32311239  0.56950858  0.82798897  1.0
+  Fe  Fe3  1  0.82311239  0.93049142  0.67201103  1.0
+  Fe  Fe4  1  0.32311239  0.93049142  0.82798897  1.0
+  Fe  Fe5  1  0.82311239  0.56950858  0.67201103  1.0
+  Fe  Fe6  1  0.67688761  0.43049142  0.17201103  1.0
+  Fe  Fe7  1  0.17688761  0.06950858  0.32798897  1.0
+  Ni  Ni8  1  0.53890927  0.25000000  0.66089490  1.0
+  Ni  Ni9  1  0.03890927  0.25000000  0.83910510  1.0
+  Ni  Ni10  1  0.46109073  0.75000000  0.33910510  1.0
+  Ni  Ni11  1  0.96109073  0.75000000  0.16089490  1.0
+  C  C12  1  0.87989423  0.25000000  0.43831855  1.0
+  C  C13  1  0.37989423  0.25000000  0.06168145  1.0
+  C  C14  1  0.12010577  0.75000000  0.56168145  1.0
+  C  C15  1  0.62010577  0.75000000  0.93831855  1.0

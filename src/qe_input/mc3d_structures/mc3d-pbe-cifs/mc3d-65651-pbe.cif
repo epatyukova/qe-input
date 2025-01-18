@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CeGaPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60320832
+_cell_length_b   7.04633112
+_cell_length_c   5.78155809
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeGaPd2
+_chemical_formula_sum   'Ce4 Ga4 Pd8'
+_cell_volume   309.74537566
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.96270089  0.25000000  0.65663248  1.0
+  Ce  Ce1  1  0.46270089  0.25000000  0.84336752  1.0
+  Ce  Ce2  1  0.03729911  0.75000000  0.34336752  1.0
+  Ce  Ce3  1  0.53729911  0.75000000  0.15663248  1.0
+  Ga  Ga4  1  0.61463027  0.25000000  0.34274153  1.0
+  Ga  Ga5  1  0.11463027  0.25000000  0.15725847  1.0
+  Ga  Ga6  1  0.38536973  0.75000000  0.65725847  1.0
+  Ga  Ga7  1  0.88536973  0.75000000  0.84274153  1.0
+  Pd  Pd8  1  0.81832704  0.44931204  0.08394710  1.0
+  Pd  Pd9  1  0.81832704  0.05068796  0.08394710  1.0
+  Pd  Pd10  1  0.31832704  0.44931204  0.41605290  1.0
+  Pd  Pd11  1  0.31832704  0.05068796  0.41605290  1.0
+  Pd  Pd12  1  0.18167296  0.94931204  0.91605290  1.0
+  Pd  Pd13  1  0.18167296  0.55068796  0.91605290  1.0
+  Pd  Pd14  1  0.68167296  0.94931204  0.58394710  1.0
+  Pd  Pd15  1  0.68167296  0.55068796  0.58394710  1.0

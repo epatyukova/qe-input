@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgMoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73674725
+_cell_length_b   5.77046452
+_cell_length_c   4.92994228
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.10922195
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgMoO4
+_chemical_formula_sum   'Mg2 Mo2 O8'
+_cell_volume   134.75101099
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.00000000  0.82164509  0.25000000  1.0
+  Mg  Mg1  1  -0.00000000  0.17835491  0.75000000  1.0
+  Mo  Mo2  1  0.50000000  0.31167547  0.25000000  1.0
+  Mo  Mo3  1  0.50000000  0.68832453  0.75000000  1.0
+  O  O4  1  0.75627874  0.87662865  0.90150616  1.0
+  O  O5  1  0.75627874  0.12337135  0.40150616  1.0
+  O  O6  1  0.24372126  0.87662865  0.59849384  1.0
+  O  O7  1  0.24372126  0.12337135  0.09849384  1.0
+  O  O8  1  0.71531655  0.60725027  0.44080985  1.0
+  O  O9  1  0.71531655  0.39274973  0.94080985  1.0
+  O  O10  1  0.28468345  0.60725027  0.05919015  1.0
+  O  O11  1  0.28468345  0.39274973  0.55919015  1.0

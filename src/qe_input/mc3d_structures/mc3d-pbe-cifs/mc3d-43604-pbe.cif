@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Gd2Mo2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18087150
+_cell_length_b   6.18087150
+_cell_length_c   5.77861708
+_cell_angle_alpha   67.53418922
+_cell_angle_beta   112.46581078
+_cell_angle_gamma   148.38070138
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Mo2C3
+_chemical_formula_sum   'Gd2 Mo2 C3'
+_cell_volume   106.21983864
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.60865741  -0.60865741  0.82015198  1.0
+  Gd  Gd1  1  1.39134259  -0.39134259  0.17984802  1.0
+  Mo  Mo2  1  0.84158474  -0.84158474  0.67554852  1.0
+  Mo  Mo3  1  1.15841526  -0.15841526  0.32445148  1.0
+  C  C4  1  0.75039989  -0.75039989  0.26939213  1.0
+  C  C5  1  1.24960011  -0.24960011  0.73060787  1.0
+  C  C6  1  0.00000000  0.00000000  0.00000000  1.0

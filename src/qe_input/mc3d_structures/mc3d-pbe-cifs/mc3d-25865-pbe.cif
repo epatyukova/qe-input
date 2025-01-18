@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Y3(AgSn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.80773123
+_cell_length_b   8.80773123
+_cell_length_c   8.80773123
+_cell_angle_alpha   149.82802960
+_cell_angle_beta   130.34619718
+_cell_angle_gamma   59.20784279
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3(AgSn)4
+_chemical_formula_sum   'Y3 Ag4 Sn4'
+_cell_volume   259.68510925
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.62731123  0.12731123  0.50000000  1.0
+  Y  Y1  1  0.37268877  0.87268877  0.50000000  1.0
+  Y  Y2  1  0.00000000  0.00000000  0.00000000  1.0
+  Ag  Ag3  1  0.36972330  0.67178722  0.69793607  1.0
+  Ag  Ag4  1  1.02614885  0.32821278  0.69793607  1.0
+  Ag  Ag5  1  0.97385115  0.67178722  1.30206393  1.0
+  Ag  Ag6  1  0.63027670  0.32821278  0.30206393  1.0
+  Sn  Sn7  1  0.78491295  0.78491295  1.00000000  1.0
+  Sn  Sn8  1  0.21508705  0.21508705  0.00000000  1.0
+  Sn  Sn9  1  0.30354849  0.50000000  0.80354849  1.0
+  Sn  Sn10  1  0.69645151  0.50000000  1.19645151  1.0

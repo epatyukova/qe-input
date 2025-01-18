@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaCrP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24023962
+_cell_length_b   3.53481056
+_cell_length_c   7.35228790
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaCrP
+_chemical_formula_sum   'Ta4 Cr4 P4'
+_cell_volume   162.17724379
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.97008057  0.75000000  0.67186926  1.0
+  Ta  Ta1  1  0.47008057  0.75000000  0.82813074  1.0
+  Ta  Ta2  1  0.02991943  0.25000000  0.32813074  1.0
+  Ta  Ta3  1  0.52991943  0.25000000  0.17186926  1.0
+  Cr  Cr4  1  0.85505089  0.75000000  0.05954840  1.0
+  Cr  Cr5  1  0.35505089  0.75000000  0.44045160  1.0
+  Cr  Cr6  1  0.14494911  0.25000000  0.94045160  1.0
+  Cr  Cr7  1  0.64494911  0.25000000  0.55954840  1.0
+  P  P8  1  0.72914442  0.75000000  0.36752083  1.0
+  P  P9  1  0.22914442  0.75000000  0.13247917  1.0
+  P  P10  1  0.27085558  0.25000000  0.63247917  1.0
+  P  P11  1  0.77085558  0.25000000  0.86752083  1.0

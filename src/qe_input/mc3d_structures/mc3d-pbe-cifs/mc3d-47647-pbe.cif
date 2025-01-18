@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LaIn2Cu9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57251341
+_cell_length_b   8.57251341
+_cell_length_c   5.03231824
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaIn2Cu9
+_chemical_formula_sum   'La2 In4 Cu18'
+_cell_volume   369.81493313
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.50000000  0.50000000  0.00000000  1.0
+  La  La1  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In2  1  0.87749317  0.62250683  0.00000000  1.0
+  In  In3  1  0.37749317  0.87749317  0.00000000  1.0
+  In  In4  1  0.12250683  0.37749317  0.00000000  1.0
+  In  In5  1  0.62250683  0.12250683  0.00000000  1.0
+  Cu  Cu6  1  0.32365232  0.17634768  0.75150002  1.0
+  Cu  Cu7  1  0.32365232  0.17634768  0.24849998  1.0
+  Cu  Cu8  1  0.82365232  0.32365232  0.75150002  1.0
+  Cu  Cu9  1  0.82365232  0.32365232  0.24849998  1.0
+  Cu  Cu10  1  0.67634768  0.82365232  0.75150002  1.0
+  Cu  Cu11  1  0.67634768  0.82365232  0.24849998  1.0
+  Cu  Cu12  1  0.17634768  0.67634768  0.75150002  1.0
+  Cu  Cu13  1  0.17634768  0.67634768  0.24849998  1.0
+  Cu  Cu14  1  0.43452820  0.70704525  0.50000000  1.0
+  Cu  Cu15  1  0.93452820  0.79295475  0.50000000  1.0
+  Cu  Cu16  1  0.29295475  0.43452820  0.50000000  1.0
+  Cu  Cu17  1  0.79295475  0.06547180  0.50000000  1.0
+  Cu  Cu18  1  0.56547180  0.29295475  0.50000000  1.0
+  Cu  Cu19  1  0.06547180  0.20704525  0.50000000  1.0
+  Cu  Cu20  1  0.70704525  0.56547180  0.50000000  1.0
+  Cu  Cu21  1  0.20704525  0.93452820  0.50000000  1.0
+  Cu  Cu22  1  0.50000000  0.00000000  0.50000000  1.0
+  Cu  Cu23  1  0.00000000  0.50000000  0.50000000  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mg2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28704713
+_cell_length_b   4.65303681
+_cell_length_c   8.84350209
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg2Hg
+_chemical_formula_sum   'Mg8 Hg4'
+_cell_volume   258.70658741
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.95530597  0.75000000  0.70868631  1.0
+  Mg  Mg1  1  0.45530597  0.75000000  0.79131369  1.0
+  Mg  Mg2  1  0.04469403  0.25000000  0.29131369  1.0
+  Mg  Mg3  1  0.54469403  0.25000000  0.20868631  1.0
+  Mg  Mg4  1  0.82466084  0.75000000  0.05926498  1.0
+  Mg  Mg5  1  0.32466084  0.75000000  0.44073502  1.0
+  Mg  Mg6  1  0.17533916  0.25000000  0.94073502  1.0
+  Mg  Mg7  1  0.67533916  0.25000000  0.55926498  1.0
+  Hg  Hg8  1  0.78404245  0.75000000  0.38264031  1.0
+  Hg  Hg9  1  0.28404245  0.75000000  0.11735969  1.0
+  Hg  Hg10  1  0.21595755  0.25000000  0.61735969  1.0
+  Hg  Hg11  1  0.71595755  0.25000000  0.88264031  1.0

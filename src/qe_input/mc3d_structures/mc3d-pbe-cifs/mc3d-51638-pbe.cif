@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La11In9Pd4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.73276390
+_cell_length_b   13.73276390
+_cell_length_c   3.92124334
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.49078487
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La11In9Pd4
+_chemical_formula_sum   'La11 In9 Pd4'
+_cell_volume   683.25681603
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.06878180  1.58519963  0.00000000  1.0
+  La  La1  1  0.58519963  0.93121820  -0.00000000  1.0
+  La  La2  1  -0.58519963  1.06878180  -0.00000000  1.0
+  La  La3  1  0.06878180  0.41480037  0.00000000  1.0
+  La  La4  1  0.16244958  0.83755042  0.00000000  1.0
+  La  La5  1  -0.16244958  1.16244958  0.00000000  1.0
+  La  La6  1  0.37282720  0.62717280  -0.00000000  1.0
+  La  La7  1  -0.37282720  1.37282720  -0.00000000  1.0
+  La  La8  1  0.69027569  0.69027569  -0.00000000  1.0
+  La  La9  1  0.30972431  0.30972431  -0.00000000  1.0
+  La  La10  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In11  1  0.16323591  0.63299845  0.50000000  1.0
+  In  In12  1  -0.36700155  1.16323591  0.50000000  1.0
+  In  In13  1  0.36700155  0.83676409  0.50000000  1.0
+  In  In14  1  -0.16323591  1.36700155  0.50000000  1.0
+  In  In15  1  -0.07844576  1.78145256  0.50000000  1.0
+  In  In16  1  0.78145256  0.92155424  0.50000000  1.0
+  In  In17  1  -0.78145256  1.07844576  0.50000000  1.0
+  In  In18  1  0.07844576  0.21854744  0.50000000  1.0
+  In  In19  1  0.50000000  0.50000000  0.50000000  1.0
+  Pd  Pd20  1  -0.24483658  1.55300921  0.50000000  1.0
+  Pd  Pd21  1  0.55300921  0.75516342  0.50000000  1.0
+  Pd  Pd22  1  -0.55300921  1.24483658  0.50000000  1.0
+  Pd  Pd23  1  0.24483658  0.44699079  0.50000000  1.0

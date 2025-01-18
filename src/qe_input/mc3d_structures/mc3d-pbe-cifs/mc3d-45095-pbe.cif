@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr5Pb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.33175218
+_cell_length_b   10.33175218
+_cell_length_c   10.33175218
+_cell_angle_alpha   129.97266864
+_cell_angle_beta   129.97266864
+_cell_angle_gamma   73.45046214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5Pb3
+_chemical_formula_sum   'Sr10 Pb6'
+_cell_volume   632.16846681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  1.18338954  0.68338954  1.15161076  1.0
+  Sr  Sr1  1  0.46822122  0.96822122  1.15161076  1.0
+  Sr  Sr2  1  1.03177878  1.18338954  1.50000000  1.0
+  Sr  Sr3  1  0.31661046  0.46822122  0.50000000  1.0
+  Sr  Sr4  1  0.68338954  0.53177878  0.50000000  1.0
+  Sr  Sr5  1  0.96822122  0.81661046  1.50000000  1.0
+  Sr  Sr6  1  0.53177878  1.03177878  0.84838924  1.0
+  Sr  Sr7  1  0.81661046  0.31661046  0.84838924  1.0
+  Sr  Sr8  1  0.00000000  0.00000000  -0.00000000  1.0
+  Sr  Sr9  1  0.50000000  0.50000000  1.00000000  1.0
+  Pb  Pb10  1  0.87447427  0.37447427  1.24894854  1.0
+  Pb  Pb11  1  0.62552573  0.87447427  1.50000000  1.0
+  Pb  Pb12  1  0.37447427  0.12552573  0.50000000  1.0
+  Pb  Pb13  1  0.12552573  0.62552573  0.75105146  1.0
+  Pb  Pb14  1  0.75000000  0.75000000  1.00000000  1.0
+  Pb  Pb15  1  0.25000000  0.25000000  -0.00000000  1.0

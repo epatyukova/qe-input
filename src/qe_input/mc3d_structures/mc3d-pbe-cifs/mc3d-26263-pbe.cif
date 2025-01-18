@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb2NbCuSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   24.06929121
+_cell_length_b   23.87820433
+_cell_length_c   6.13295815
+_cell_angle_alpha   84.42551853
+_cell_angle_beta   80.88388214
+_cell_angle_gamma   14.69059933
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NbCuSe2
+_chemical_formula_sum   'Rb8 Nb4 Cu4 Se8'
+_cell_volume   860.14682824
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  1.47289633  0.13259370  0.42011224  1.0
+  Rb  Rb1  1  0.97439773  0.42011224  0.13259370  1.0
+  Rb  Rb2  1  1.11740630  0.77710367  0.27560227  1.0
+  Rb  Rb3  1  0.82988776  0.27560227  0.77710367  1.0
+  Rb  Rb4  1  1.42011224  -0.02560227  0.47289633  1.0
+  Rb  Rb5  1  1.13259370  0.47289633  -0.02560227  1.0
+  Rb  Rb6  1  0.27560227  0.82988776  1.11740630  1.0
+  Rb  Rb7  1  0.77710367  1.11740630  0.82988776  1.0
+  Nb  Nb8  1  0.62500000  0.62500000  1.12500000  1.0
+  Nb  Nb9  1  0.62500000  1.12500000  0.62500000  1.0
+  Nb  Nb10  1  0.62500000  0.62500000  0.62500000  1.0
+  Nb  Nb11  1  1.12500000  0.62500000  0.62500000  1.0
+  Cu  Cu12  1  1.12500000  0.12500000  0.62500000  1.0
+  Cu  Cu13  1  1.12500000  0.62500000  0.12500000  1.0
+  Cu  Cu14  1  1.12500000  0.12500000  0.12500000  1.0
+  Cu  Cu15  1  1.62500000  0.12500000  0.12500000  1.0
+  Se  Se16  1  1.33362640  -0.15508416  0.52812679  1.0
+  Se  Se17  1  1.29333096  0.52812679  -0.15508416  1.0
+  Se  Se18  1  0.40508416  0.91637360  0.95666904  1.0
+  Se  Se19  1  0.72187321  0.95666904  0.91637360  1.0
+  Se  Se20  1  1.52812679  0.29333096  0.33362640  1.0
+  Se  Se21  1  0.84491584  0.33362640  0.29333096  1.0
+  Se  Se22  1  0.95666904  0.72187321  0.40508416  1.0
+  Se  Se23  1  0.91637360  0.40508416  0.72187321  1.0

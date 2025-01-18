@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu(BiO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.91096421
+_cell_length_b   6.91096421
+_cell_length_c   6.91096421
+_cell_angle_alpha   99.64605250
+_cell_angle_beta   99.64605250
+_cell_angle_gamma   131.67293518
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu(BiO2)2
+_chemical_formula_sum   'Cu2 Bi4 O8'
+_cell_volume   224.94947136
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.01075559  0.01075559  0.00000000  1.0
+  Cu  Cu1  1  0.51061404  0.51061404  0.00000000  1.0
+  Bi  Bi2  1  1.47902314  1.63802336  1.50015417  1.0
+  Bi  Bi3  1  0.63802336  1.13786919  1.15900022  1.0
+  Bi  Bi4  1  1.13786919  0.97886898  0.49984583  1.0
+  Bi  Bi5  1  0.97886898  0.47902314  0.84099978  1.0
+  O  O6  1  0.88613178  0.80623546  0.70284517  1.0
+  O  O7  1  1.80623546  1.10339029  0.92010368  1.0
+  O  O8  1  1.10339029  1.18328661  1.29715483  1.0
+  O  O9  1  1.18328661  1.88613178  1.07989632  1.0
+  O  O10  1  0.68320123  0.60351941  0.29716986  1.0
+  O  O11  1  1.60351941  1.30634955  0.92031818  1.0
+  O  O12  1  1.30634955  1.38603138  1.70283014  1.0
+  O  O13  1  1.38603138  1.68320123  1.07968182  1.0

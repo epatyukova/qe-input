@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tl2Cr2PbO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.11112257
+_cell_length_b   8.11112257
+_cell_length_c   8.11112257
+_cell_angle_alpha   42.50896259
+_cell_angle_beta   42.50896259
+_cell_angle_gamma   42.50896259
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Cr2PbO8
+_chemical_formula_sum   'Tl2 Cr2 Pb1 O8'
+_cell_volume   220.62010261
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.79733155  0.79733155  0.79733155  1.0
+  Tl  Tl1  1  1.20266845  1.20266845  0.20266845  1.0
+  Cr  Cr2  1  1.60579703  0.60579703  0.60579703  1.0
+  Cr  Cr3  1  1.39420297  0.39420297  0.39420297  1.0
+  Pb  Pb4  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O5  1  1.26345223  0.26345223  0.72862970  1.0
+  O  O6  1  1.26345223  0.72862970  0.26345223  1.0
+  O  O7  1  1.27137030  0.73654777  0.73654777  1.0
+  O  O8  1  1.73654777  0.27137030  0.73654777  1.0
+  O  O9  1  1.73654777  0.73654777  0.27137030  1.0
+  O  O10  1  1.72862970  0.26345223  0.26345223  1.0
+  O  O11  1  0.67967427  0.67967427  0.67967427  1.0
+  O  O12  1  1.32032573  1.32032573  0.32032573  1.0

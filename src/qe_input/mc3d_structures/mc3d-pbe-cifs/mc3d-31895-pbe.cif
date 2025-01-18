@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaHgS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.27749547
+_cell_length_b   14.59522691
+_cell_length_c   7.43568045
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHgS2
+_chemical_formula_sum   'Ba4 Hg4 S8'
+_cell_volume   464.21709234
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.88973755  0.21084295  1.0
+  Ba  Ba1  1  0.50000000  0.11026245  0.71084295  1.0
+  Ba  Ba2  1  0.50000000  0.39883846  0.38363908  1.0
+  Ba  Ba3  1  0.50000000  0.60116154  0.88363908  1.0
+  Hg  Hg4  1  0.00000000  0.85381108  0.72643161  1.0
+  Hg  Hg5  1  0.00000000  0.14618892  0.22643161  1.0
+  Hg  Hg6  1  0.00000000  0.64154290  0.38847467  1.0
+  Hg  Hg7  1  0.00000000  0.35845710  0.88847467  1.0
+  S  S8  1  0.50000000  0.72146051  0.49730212  1.0
+  S  S9  1  0.50000000  0.27853949  0.99730212  1.0
+  S  S10  1  0.00000000  0.96865839  0.50183244  1.0
+  S  S11  1  0.00000000  0.03134161  0.00183244  1.0
+  S  S12  1  0.00000000  0.76303429  0.98970420  1.0
+  S  S13  1  0.00000000  0.23696571  0.48970420  1.0
+  S  S14  1  0.00000000  0.51664210  0.15957293  1.0
+  S  S15  1  0.00000000  0.48335790  0.65957293  1.0

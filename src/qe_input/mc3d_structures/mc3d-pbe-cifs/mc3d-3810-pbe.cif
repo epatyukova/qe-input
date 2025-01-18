@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ba2Dy2Co4O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.76074126
+_cell_length_b   7.48851026
+_cell_length_c   8.02892662
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Dy2Co4O11
+_chemical_formula_sum   'Ba2 Dy2 Co4 O11'
+_cell_volume   226.11343782
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.00000000  0.74553258  1.0
+  Ba  Ba1  1  0.50000000  0.00000000  0.25446742  1.0
+  Dy  Dy2  1  0.50000000  0.50000000  0.76913180  1.0
+  Dy  Dy3  1  0.50000000  0.50000000  0.23086820  1.0
+  Co  Co4  1  0.00000000  0.74945045  -0.00000000  1.0
+  Co  Co5  1  0.00000000  0.25054955  -0.00000000  1.0
+  Co  Co6  1  0.00000000  0.73977567  0.50000000  1.0
+  Co  Co7  1  0.00000000  0.26022433  0.50000000  1.0
+  O  O8  1  0.50000000  0.68916310  0.50000000  1.0
+  O  O9  1  0.50000000  0.31083690  0.50000000  1.0
+  O  O10  1  0.50000000  0.72891558  0.00000000  1.0
+  O  O11  1  0.50000000  0.27108442  0.00000000  1.0
+  O  O12  1  0.00000000  0.50000000  0.00000000  1.0
+  O  O13  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O14  1  0.00000000  0.00000000  0.50000000  1.0
+  O  O15  1  0.00000000  0.70255166  0.73267604  1.0
+  O  O16  1  0.00000000  0.70255166  0.26732396  1.0
+  O  O17  1  0.00000000  0.29744834  0.73267604  1.0
+  O  O18  1  0.00000000  0.29744834  0.26732396  1.0

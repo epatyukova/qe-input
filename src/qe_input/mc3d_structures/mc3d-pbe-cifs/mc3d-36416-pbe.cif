@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li17(AgSn2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03887637
+_cell_length_b   8.03887637
+_cell_length_c   8.54534139
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li17(AgSn2)3
+_chemical_formula_sum   'Li17 Ag3 Sn6'
+_cell_volume   478.24534152
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.70139602  0.70139602  0.53512125  1.0
+  Li  Li1  1  0.00000000  0.29860398  0.53512125  1.0
+  Li  Li2  1  0.29860398  0.00000000  0.53512125  1.0
+  Li  Li3  1  0.68850856  0.68850856  0.21409673  1.0
+  Li  Li4  1  0.00000000  0.31149144  0.21409673  1.0
+  Li  Li5  1  0.31149144  0.00000000  0.21409673  1.0
+  Li  Li6  1  0.35436884  0.35436884  0.03485152  1.0
+  Li  Li7  1  0.00000000  0.64563116  0.03485152  1.0
+  Li  Li8  1  0.64563116  0.00000000  0.03485152  1.0
+  Li  Li9  1  0.34365779  0.34365779  0.71130750  1.0
+  Li  Li10  1  0.00000000  0.65634221  0.71130750  1.0
+  Li  Li11  1  0.65634221  0.00000000  0.71130750  1.0
+  Li  Li12  1  0.33333333  0.66666667  0.20546087  1.0
+  Li  Li13  1  0.66666667  0.33333333  0.20546087  1.0
+  Li  Li14  1  0.33333333  0.66666667  0.53580198  1.0
+  Li  Li15  1  0.66666667  0.33333333  0.53580198  1.0
+  Li  Li16  1  0.00000000  -0.00000000  0.02305521  1.0
+  Ag  Ag17  1  0.33333333  0.66666667  0.87155434  1.0
+  Ag  Ag18  1  0.66666667  0.33333333  0.87155434  1.0
+  Ag  Ag19  1  0.00000000  0.00000000  0.36202212  1.0
+  Sn  Sn20  1  0.68856554  0.68856554  0.87293090  1.0
+  Sn  Sn21  1  -0.00000000  0.31143446  0.87293090  1.0
+  Sn  Sn22  1  0.31143446  0.00000000  0.87293090  1.0
+  Sn  Sn23  1  0.35428458  0.35428458  0.37138820  1.0
+  Sn  Sn24  1  0.00000000  0.64571542  0.37138820  1.0
+  Sn  Sn25  1  0.64571542  0.00000000  0.37138820  1.0

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Rb(In3Au2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23730730
+_cell_length_b   8.23730730
+_cell_length_c   4.61215269
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb(In3Au2)2
+_chemical_formula_sum   'Rb1 In6 Au4'
+_cell_volume   271.02218618
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.00000000  -0.00000000  0.00000000  1.0
+  In  In1  1  0.60505462  0.80252731  0.50000000  1.0
+  In  In2  1  0.19747269  0.80252731  0.50000000  1.0
+  In  In3  1  0.19747269  0.39494538  0.50000000  1.0
+  In  In4  1  0.92987283  0.46493641  -0.00000000  1.0
+  In  In5  1  0.53506359  0.46493641  0.00000000  1.0
+  In  In6  1  0.53506359  0.07012717  0.00000000  1.0
+  Au  Au7  1  0.41293601  0.20646800  0.50000000  1.0
+  Au  Au8  1  0.79353200  0.20646800  0.50000000  1.0
+  Au  Au9  1  0.79353200  0.58706399  0.50000000  1.0
+  Au  Au10  1  0.33333333  0.66666667  -0.00000000  1.0

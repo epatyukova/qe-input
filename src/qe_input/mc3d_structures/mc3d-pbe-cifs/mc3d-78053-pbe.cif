@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cd8Au5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75215820
+_cell_length_b   8.75215820
+_cell_length_c   8.75215820
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd8Au5
+_chemical_formula_sum   'Cd16 Au10'
+_cell_volume   516.08779352
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.37311703  0.65116923  0.65116923  1.0
+  Cd  Cd1  1  0.65116923  0.37311703  0.65116923  1.0
+  Cd  Cd2  1  1.00000000  0.72194780  1.34883077  1.0
+  Cd  Cd3  1  0.72194780  1.00000000  1.34883077  1.0
+  Cd  Cd4  1  0.65116923  0.65116923  0.37311703  1.0
+  Cd  Cd5  1  1.27805220  1.27805220  0.62688297  1.0
+  Cd  Cd6  1  1.00000000  1.34883077  0.72194780  1.0
+  Cd  Cd7  1  1.27805220  0.62688297  1.27805220  1.0
+  Cd  Cd8  1  0.62688297  1.27805220  1.27805220  1.0
+  Cd  Cd9  1  1.34883077  1.00000000  0.72194780  1.0
+  Cd  Cd10  1  0.72194780  1.34883077  1.00000000  1.0
+  Cd  Cd11  1  1.34883077  0.72194780  1.00000000  1.0
+  Cd  Cd12  1  0.78188708  0.78188708  0.78188708  1.0
+  Cd  Cd13  1  1.00000000  1.00000000  0.21811292  1.0
+  Cd  Cd14  1  1.00000000  0.21811292  1.00000000  1.0
+  Cd  Cd15  1  0.21811292  1.00000000  1.00000000  1.0
+  Au  Au16  1  0.64134904  0.64134904  0.00000000  1.0
+  Au  Au17  1  0.64134904  -0.00000000  0.64134904  1.0
+  Au  Au18  1  0.00000000  0.64134904  0.64134904  1.0
+  Au  Au19  1  0.35865096  -0.00000000  0.35865096  1.0
+  Au  Au20  1  -0.00000000  0.35865096  0.35865096  1.0
+  Au  Au21  1  0.35865096  0.35865096  -0.00000000  1.0
+  Au  Au22  1  0.35147093  0.35147093  0.35147093  1.0
+  Au  Au23  1  1.00000000  1.00000000  0.64852907  1.0
+  Au  Au24  1  1.00000000  0.64852907  1.00000000  1.0
+  Au  Au25  1  0.64852907  1.00000000  1.00000000  1.0

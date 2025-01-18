@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Gd2Mg3Ni2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.73132568
+_cell_length_b   10.73132568
+_cell_length_c   3.63119374
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   158.34664289
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Mg3Ni2
+_chemical_formula_sum   'Gd2 Mg3 Ni2'
+_cell_volume   154.30182658
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.17667564  0.82332436  0.00000000  1.0
+  Gd  Gd1  1  -0.17667564  0.17667564  0.00000000  1.0
+  Mg  Mg2  1  0.42043773  0.57956227  0.50000000  1.0
+  Mg  Mg3  1  -0.42043773  0.42043773  0.50000000  1.0
+  Mg  Mg4  1  0.00000000  0.00000000  0.00000000  1.0
+  Ni  Ni5  1  0.28726380  0.71273620  0.50000000  1.0
+  Ni  Ni6  1  -0.28726380  0.28726380  0.50000000  1.0

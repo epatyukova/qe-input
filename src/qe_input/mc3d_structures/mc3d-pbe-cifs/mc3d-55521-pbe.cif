@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_B2Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.88394804
+_cell_length_b   4.69491087
+_cell_length_c   4.08888049
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   B2Os
+_chemical_formula_sum   'B4 Os2'
+_cell_volume   55.36294721
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  B  B0  1  0.50000000  0.69388398  0.13776238  1.0
+  B  B1  1  0.50000000  0.30611602  0.13776238  1.0
+  B  B2  1  0.00000000  0.19388398  0.86223762  1.0
+  B  B3  1  0.00000000  0.80611602  0.86223762  1.0
+  Os  Os4  1  0.50000000  0.50000000  0.65484602  1.0
+  Os  Os5  1  0.00000000  0.00000000  0.34515398  1.0

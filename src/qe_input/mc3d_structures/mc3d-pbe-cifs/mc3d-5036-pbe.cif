@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Ho(Al5Fe)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75588062
+_cell_length_b   6.75588062
+_cell_length_c   8.96035817
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   97.31755270
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho(Al5Fe)2
+_chemical_formula_sum   'Ho2 Al20 Fe4'
+_cell_volume   405.63712563
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.12341507  0.87658493  0.25000000  1.0
+  Ho  Ho1  1  -0.12341507  1.12341507  0.75000000  1.0
+  Al  Al2  1  0.13341266  0.41466325  0.25000000  1.0
+  Al  Al3  1  -0.58533675  1.13341266  0.75000000  1.0
+  Al  Al4  1  0.58533675  0.86658734  0.25000000  1.0
+  Al  Al5  1  -0.13341266  1.58533675  0.75000000  1.0
+  Al  Al6  1  -0.21947729  1.52346129  0.25000000  1.0
+  Al  Al7  1  0.52346129  0.78052271  0.75000000  1.0
+  Al  Al8  1  -0.52346129  1.21947729  0.25000000  1.0
+  Al  Al9  1  0.21947729  0.47653871  0.75000000  1.0
+  Al  Al10  1  0.15785396  0.84214604  0.90351036  1.0
+  Al  Al11  1  0.15785396  0.84214604  0.59648964  1.0
+  Al  Al12  1  -0.15785396  1.15785396  0.40351036  1.0
+  Al  Al13  1  -0.15785396  1.15785396  0.09648964  1.0
+  Al  Al14  1  0.37451467  0.62548533  0.45127638  1.0
+  Al  Al15  1  0.37451467  0.62548533  0.04872362  1.0
+  Al  Al16  1  -0.37451467  1.37451467  0.95127638  1.0
+  Al  Al17  1  -0.37451467  1.37451467  0.54872362  1.0
+  Al  Al18  1  0.77313002  0.77313002  0.50000000  1.0
+  Al  Al19  1  0.77313002  0.77313002  0.00000000  1.0
+  Al  Al20  1  0.22686998  0.22686998  0.50000000  1.0
+  Al  Al21  1  0.22686998  0.22686998  0.00000000  1.0
+  Fe  Fe22  1  0.00000000  1.50000000  0.50000000  1.0
+  Fe  Fe23  1  0.00000000  1.50000000  0.00000000  1.0
+  Fe  Fe24  1  0.50000000  1.00000000  0.00000000  1.0
+  Fe  Fe25  1  0.50000000  1.00000000  0.50000000  1.0

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb5SiHO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66394765
+_cell_length_b   6.66394765
+_cell_length_c   12.16041840
+_cell_angle_alpha   80.48325521
+_cell_angle_beta   99.51674479
+_cell_angle_gamma   68.47086186
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb5SiHO5
+_chemical_formula_sum   'Rb10 Si2 H2 O10'
+_cell_volume   480.16294217
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  1.38305125  0.09403553  0.80226592  1.0
+  Rb  Rb1  1  0.90596447  -0.38305125  0.80226592  1.0
+  Rb  Rb2  1  1.09403553  0.38305125  0.19773408  1.0
+  Rb  Rb3  1  0.61694875  -0.09403553  0.19773408  1.0
+  Rb  Rb4  1  0.78613729  -0.78613729  0.39716579  1.0
+  Rb  Rb5  1  0.21386271  -0.21386271  0.60283421  1.0
+  Rb  Rb6  1  0.73208485  -0.73208485  0.96662273  1.0
+  Rb  Rb7  1  0.26791515  -0.26791515  0.03337727  1.0
+  Rb  Rb8  1  0.69334637  -0.30665363  0.50000000  1.0
+  Rb  Rb9  1  1.30665363  0.30665363  0.50000000  1.0
+  Si  Si10  1  0.83017877  -0.83017877  0.69482833  1.0
+  Si  Si11  1  0.16982123  -0.16982123  0.30517167  1.0
+  H  H12  1  0.78174422  -0.21825578  -0.00000000  1.0
+  H  H13  1  1.21825578  0.21825578  0.00000000  1.0
+  O  O14  1  0.69354652  -0.30645348  -0.00000000  1.0
+  O  O15  1  1.30645348  0.30645348  0.00000000  1.0
+  O  O16  1  1.74706585  0.00634955  0.62444083  1.0
+  O  O17  1  0.99365045  -0.74706585  0.62444083  1.0
+  O  O18  1  1.00634955  0.74706585  0.37555917  1.0
+  O  O19  1  0.25293415  -0.00634955  0.37555917  1.0
+  O  O20  1  0.97994555  -0.97994555  0.82726782  1.0
+  O  O21  1  0.02005445  -0.02005445  0.17273218  1.0
+  O  O22  1  0.60975783  -0.60975783  0.69974596  1.0
+  O  O23  1  0.39024217  -0.39024217  0.30025404  1.0

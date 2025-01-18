@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3GaCoSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.52146913
+_cell_length_b   10.52146913
+_cell_length_c   6.43293276
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3GaCoSe7
+_chemical_formula_sum   'La6 Ga2 Co2 Se14'
+_cell_volume   616.72622243
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.78001877  0.62783316  0.21537769  1.0
+  La  La1  1  0.62783316  0.84781439  0.71537769  1.0
+  La  La2  1  0.84781439  0.21998123  0.21537769  1.0
+  La  La3  1  0.37216684  0.15218561  0.21537769  1.0
+  La  La4  1  0.21998123  0.37216684  0.71537769  1.0
+  La  La5  1  0.15218561  0.78001877  0.71537769  1.0
+  Ga  Ga6  1  0.33333333  0.66666667  0.13142152  1.0
+  Ga  Ga7  1  0.66666667  0.33333333  0.63142152  1.0
+  Co  Co8  1  0.00000000  0.00000000  0.03133242  1.0
+  Co  Co9  1  0.00000000  0.00000000  0.53133242  1.0
+  Se  Se10  1  0.43148165  0.91178969  -0.01156301  1.0
+  Se  Se11  1  0.91178969  0.48030803  0.48843699  1.0
+  Se  Se12  1  0.48030803  0.56851835  -0.01156301  1.0
+  Se  Se13  1  0.08821031  0.51969197  -0.01156301  1.0
+  Se  Se14  1  0.56851835  0.08821031  0.48843699  1.0
+  Se  Se15  1  0.51969197  0.43148165  0.48843699  1.0
+  Se  Se16  1  0.09295714  0.86909160  0.28428163  1.0
+  Se  Se17  1  0.86909160  0.77613445  0.78428163  1.0
+  Se  Se18  1  0.77613445  0.90704286  0.28428163  1.0
+  Se  Se19  1  0.13090840  0.22386555  0.28428163  1.0
+  Se  Se20  1  0.90704286  0.13090840  0.78428163  1.0
+  Se  Se21  1  0.22386555  0.09295714  0.78428163  1.0
+  Se  Se22  1  0.33333333  0.66666667  0.50395709  1.0
+  Se  Se23  1  0.66666667  0.33333333  0.00395709  1.0

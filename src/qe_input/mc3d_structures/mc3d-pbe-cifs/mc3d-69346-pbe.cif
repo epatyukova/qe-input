@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaFeF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87739999
+_cell_length_b   7.87739999
+_cell_length_c   5.83527489
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.10017087
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFeF4
+_chemical_formula_sum   'Ba2 Fe2 F8'
+_cell_volume   191.34598362
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  -0.65213520  0.65213520  0.12056351  1.0
+  Ba  Ba1  1  -0.34786480  1.34786480  0.62056351  1.0
+  Fe  Fe2  1  -0.91341674  0.91341674  0.15886013  1.0
+  Fe  Fe3  1  -0.08658326  1.08658326  0.65886013  1.0
+  F  F4  1  -0.96805548  0.96805548  0.51727528  1.0
+  F  F5  1  -0.03194452  1.03194452  0.01727528  1.0
+  F  F6  1  -0.82768171  0.82768171  0.88586158  1.0
+  F  F7  1  -0.17231829  1.17231829  0.38586158  1.0
+  F  F8  1  -0.80350868  0.80350868  0.35748554  1.0
+  F  F9  1  -0.19649132  1.19649132  0.85748554  1.0
+  F  F10  1  -0.41636955  1.41636955  0.17365395  1.0
+  F  F11  1  -0.58363045  0.58363045  0.67365395  1.0

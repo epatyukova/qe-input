@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba2Ni5Ge4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58488327
+_cell_length_b   6.58488327
+_cell_length_c   9.63865786
+_cell_angle_alpha   62.83976292
+_cell_angle_beta   117.16023708
+_cell_angle_gamma   144.16203461
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ni5Ge4
+_chemical_formula_sum   'Ba2 Ni5 Ge4'
+_cell_volume   214.70172719
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.82199839  -0.82199839  0.35508955  1.0
+  Ba  Ba1  1  0.17800161  -0.17800161  0.64491045  1.0
+  Ni  Ni2  1  0.96610044  -0.96610044  0.80437357  1.0
+  Ni  Ni3  1  0.03389956  -0.03389956  0.19562643  1.0
+  Ni  Ni4  1  0.66284558  0.33715442  0.92272647  1.0
+  Ni  Ni5  1  1.33715442  -0.33715442  0.07727353  1.0
+  Ni  Ni6  1  0.50000000  0.50000000  0.00000000  1.0
+  Ge  Ge7  1  0.85686330  0.14313670  0.94764996  1.0
+  Ge  Ge8  1  1.14313670  -0.14313670  0.05235004  1.0
+  Ge  Ge9  1  1.46717314  -0.46717314  0.69113407  1.0
+  Ge  Ge10  1  0.53282686  0.46717314  0.30886593  1.0

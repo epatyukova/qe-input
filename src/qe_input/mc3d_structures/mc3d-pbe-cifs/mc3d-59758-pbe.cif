@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2GaCuO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.00945648
+_cell_length_b   9.00945648
+_cell_length_c   9.00945648
+_cell_angle_alpha   51.22959464
+_cell_angle_beta   143.39900052
+_cell_angle_gamma   145.42601451
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2GaCuO5
+_chemical_formula_sum   'Sr4 Ga2 Cu2 O10'
+_cell_volume   246.11958317
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  1.47753507  1.38731760  1.87048114  1.0
+  Sr  Sr1  1  1.51683646  1.88731760  1.40978253  1.0
+  Sr  Sr2  1  1.47753507  1.10705392  1.59021747  1.0
+  Sr  Sr3  1  1.51683646  1.60705392  1.12951886  1.0
+  Ga  Ga4  1  0.88119208  1.20530445  1.17588763  1.0
+  Ga  Ga5  1  1.02941682  1.70530445  0.82411237  1.0
+  Cu  Cu6  1  0.00176277  0.00176277  0.00000000  1.0
+  Cu  Cu7  1  1.00176277  0.50176277  0.50000000  1.0
+  O  O8  1  0.99436500  1.25626616  1.75489925  1.0
+  O  O9  1  1.50136691  1.75626616  1.76190116  1.0
+  O  O10  1  0.99436500  0.73946575  1.23809884  1.0
+  O  O11  1  1.50136691  1.23946575  1.24510075  1.0
+  O  O12  1  0.96770818  0.87444049  1.79935832  1.0
+  O  O13  1  1.07508217  1.37444049  1.40673232  1.0
+  O  O14  1  0.96770818  0.66834985  1.59326768  1.0
+  O  O15  1  1.07508217  1.16834985  1.20064168  1.0
+  O  O16  1  0.48093050  0.85303900  1.12789150  1.0
+  O  O17  1  0.72514750  1.35303900  0.87210850  1.0

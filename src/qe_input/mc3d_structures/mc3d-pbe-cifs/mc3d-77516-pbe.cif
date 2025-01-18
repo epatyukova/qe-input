@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_RbLiCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.58017831
+_cell_length_b   7.58017831
+_cell_length_c   7.31791459
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.99495750
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbLiCl2
+_chemical_formula_sum   'Rb2 Li2 Cl4'
+_cell_volume   222.85226322
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.62981177  0.62981177  0.25000000  1.0
+  Rb  Rb1  1  -0.37018823  1.37018823  0.75000000  1.0
+  Li  Li2  1  -0.89731817  0.89731817  0.25000000  1.0
+  Li  Li3  1  -0.10268183  1.10268183  0.75000000  1.0
+  Cl  Cl4  1  -0.31150953  1.31150953  0.25000000  1.0
+  Cl  Cl5  1  -0.68849047  0.68849047  0.75000000  1.0
+  Cl  Cl6  1  0.00000000  0.00000000  0.50000000  1.0
+  Cl  Cl7  1  0.00000000  0.00000000  0.00000000  1.0

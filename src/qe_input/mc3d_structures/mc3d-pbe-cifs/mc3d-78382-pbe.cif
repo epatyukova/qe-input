@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La2Al(Ni3H4)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.66901210
+_cell_length_b   5.66901210
+_cell_length_c   7.58099144
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   115.14170007
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Al(Ni3H4)3
+_chemical_formula_sum   'La2 Al1 Ni9 H12'
+_cell_volume   220.55353401
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.00000000  0.00000000  0.25224276  1.0
+  La  La1  1  0.00000000  0.00000000  0.74775724  1.0
+  Al  Al2  1  0.50000000  0.50000000  0.00000000  1.0
+  Ni  Ni3  1  -0.33994584  1.33994584  0.24560442  1.0
+  Ni  Ni4  1  0.33994584  0.66005416  0.24560442  1.0
+  Ni  Ni5  1  -0.33994584  1.33994584  0.75439558  1.0
+  Ni  Ni6  1  0.33994584  0.66005416  0.75439558  1.0
+  Ni  Ni7  1  -0.50000000  1.00000000  0.50000000  1.0
+  Ni  Ni8  1  -0.00000000  0.50000000  0.50000000  1.0
+  Ni  Ni9  1  0.50000000  0.50000000  0.50000000  1.0
+  Ni  Ni10  1  -0.50000000  1.00000000  0.00000000  1.0
+  Ni  Ni11  1  -0.00000000  0.50000000  0.00000000  1.0
+  H  H12  1  0.18806189  0.36404881  0.50000000  1.0
+  H  H13  1  0.63595119  0.81193811  0.50000000  1.0
+  H  H14  1  0.19287992  0.80712008  0.50000000  1.0
+  H  H15  1  -0.18806189  1.63595119  0.50000000  1.0
+  H  H16  1  -0.63595119  1.18806189  0.50000000  1.0
+  H  H17  1  -0.19287992  1.19287992  0.50000000  1.0
+  H  H18  1  0.09792302  0.28000446  -0.00000000  1.0
+  H  H19  1  0.71999554  0.90207698  0.00000000  1.0
+  H  H20  1  0.29088272  0.70911728  0.00000000  1.0
+  H  H21  1  -0.09792302  1.71999554  -0.00000000  1.0
+  H  H22  1  -0.71999554  1.09792302  0.00000000  1.0
+  H  H23  1  -0.29088272  1.29088272  0.00000000  1.0

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_GaTe4(MoSe)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62292709
+_cell_length_b   7.62292709
+_cell_length_c   7.62292709
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GaTe4(MoSe)4
+_chemical_formula_sum   'Ga1 Te4 Mo4 Se4'
+_cell_volume   313.22058755
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ga  Ga0  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te1  1  0.86167875  0.86167875  -0.13832125  1.0
+  Te  Te2  1  0.41496374  0.86167875  -0.13832125  1.0
+  Te  Te3  1  0.86167875  0.86167875  -0.58503626  1.0
+  Te  Te4  1  0.86167875  0.41496374  -0.13832125  1.0
+  Mo  Mo5  1  -0.40466295  0.59533705  0.59533705  1.0
+  Mo  Mo6  1  1.21398885  0.59533705  -0.40466295  1.0
+  Mo  Mo7  1  -0.40466295  0.59533705  1.21398885  1.0
+  Mo  Mo8  1  0.59533705  1.21398885  -0.40466295  1.0
+  Se  Se9  1  0.36951653  1.36951653  0.36951653  1.0
+  Se  Se10  1  -0.10854960  0.36951653  0.36951653  1.0
+  Se  Se11  1  0.36951653  1.36951653  -0.10854960  1.0
+  Se  Se12  1  0.36951653  -0.10854960  0.36951653  1.0

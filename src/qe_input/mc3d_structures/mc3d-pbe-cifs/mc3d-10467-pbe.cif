@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KCuO
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19652359
+_cell_length_b   7.19652359
+_cell_length_c   7.19652359
+_cell_angle_alpha   98.59194887
+_cell_angle_beta   98.59194887
+_cell_angle_gamma   134.52393774
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCuO
+_chemical_formula_sum   'K4 Cu4 O4'
+_cell_volume   245.07304178
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.81013634  0.31013634  1.0
+  K  K1  1  0.81013634  0.50000000  1.31013634  1.0
+  K  K2  1  0.18986366  0.50000000  0.68986366  1.0
+  K  K3  1  0.50000000  1.18986366  0.68986366  1.0
+  Cu  Cu4  1  0.86114772  0.86114772  0.72229543  1.0
+  Cu  Cu5  1  1.13885228  0.86114772  1.00000000  1.0
+  Cu  Cu6  1  0.86114772  0.13885228  1.00000000  1.0
+  Cu  Cu7  1  0.13885228  0.13885228  0.27770457  1.0
+  O  O8  1  -0.00000000  0.72227515  0.72227515  1.0
+  O  O9  1  0.72227515  1.00000000  0.72227515  1.0
+  O  O10  1  1.27772485  1.00000000  1.27772485  1.0
+  O  O11  1  -0.00000000  0.27772485  0.27772485  1.0

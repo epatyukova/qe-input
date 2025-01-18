@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sm2Fe2Si2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74632350
+_cell_length_b   5.74632350
+_cell_length_c   7.00001574
+_cell_angle_alpha   53.54236975
+_cell_angle_beta   126.45763025
+_cell_angle_gamma   139.53248215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sm2Fe2Si2C
+_chemical_formula_sum   'Sm2 Fe2 Si2 C1'
+_cell_volume   116.09644583
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  1.43829699  -0.43829699  0.69803287  1.0
+  Sm  Sm1  1  0.56170301  0.43829699  0.30196713  1.0
+  Fe  Fe2  1  0.80552787  0.19447213  0.91627869  1.0
+  Fe  Fe3  1  1.19447213  -0.19447213  0.08372131  1.0
+  Si  Si4  1  0.82367861  -0.82367861  0.26041860  1.0
+  Si  Si5  1  0.17632139  -0.17632139  0.73958140  1.0
+  C  C6  1  0.00000000  0.00000000  0.00000000  1.0

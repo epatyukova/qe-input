@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BeSiN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.99999339
+_cell_length_b   5.77394283
+_cell_length_c   4.70041607
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSiN2
+_chemical_formula_sum   'Be4 Si4 N8'
+_cell_volume   135.69948910
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.08305368  0.62522625  0.50018182  1.0
+  Be  Be1  1  0.58305368  0.87477375  0.50018182  1.0
+  Be  Be2  1  0.91694632  0.37477375  0.00018182  1.0
+  Be  Be3  1  0.41694632  0.12522625  0.00018182  1.0
+  Si  Si4  1  0.41478010  0.62508314  0.00070448  1.0
+  Si  Si5  1  0.91478010  0.87491686  0.00070448  1.0
+  Si  Si6  1  0.58521990  0.37491686  0.50070448  1.0
+  Si  Si7  1  0.08521990  0.12508314  0.50070448  1.0
+  N  N8  1  0.42045840  0.62284303  0.62552356  1.0
+  N  N9  1  0.92045840  0.87715697  0.62552356  1.0
+  N  N10  1  0.57954160  0.37715697  0.12552356  1.0
+  N  N11  1  0.07954160  0.12284303  0.12552356  1.0
+  N  N12  1  0.41588215  0.12734273  0.62159014  1.0
+  N  N13  1  0.91588215  0.37265727  0.62159014  1.0
+  N  N14  1  0.58411785  0.87265727  0.12159014  1.0
+  N  N15  1  0.08411785  0.62734273  0.12159014  1.0

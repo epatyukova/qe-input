@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2GeAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.32196207
+_cell_length_b   8.32196207
+_cell_length_c   8.32196207
+_cell_angle_alpha   129.54747529
+_cell_angle_beta   71.59954907
+_cell_angle_gamma   132.76079881
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2GeAs2
+_chemical_formula_sum   'K4 Ge2 As4'
+_cell_volume   319.28569065
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.14182163  0.33450330  0.47632493  1.0
+  K  K1  1  0.35817837  0.83450330  1.19268168  1.0
+  K  K2  1  0.64182163  1.16549670  0.80731832  1.0
+  K  K3  1  0.85817837  0.66549670  0.52367507  1.0
+  Ge  Ge4  1  0.25000000  0.25000000  -0.00000000  1.0
+  Ge  Ge5  1  0.75000000  0.75000000  -0.00000000  1.0
+  As  As6  1  0.39585497  0.32965469  0.72550966  1.0
+  As  As7  1  0.10414503  0.82965469  0.93379971  1.0
+  As  As8  1  0.89585497  1.17034531  1.06620029  1.0
+  As  As9  1  0.60414503  0.67034531  0.27449034  1.0

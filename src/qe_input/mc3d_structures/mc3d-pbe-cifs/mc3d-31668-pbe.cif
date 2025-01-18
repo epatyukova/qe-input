@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuCu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59624951
+_cell_length_b   5.59624951
+_cell_length_c   5.59624951
+_cell_angle_alpha   133.76981881
+_cell_angle_beta   101.16680316
+_cell_angle_gamma   96.57889075
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuCu2
+_chemical_formula_sum   'Eu2 Cu4'
+_cell_volume   116.27410425
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  1.70290968  1.45290968  1.25000000  1.0
+  Eu  Eu1  1  0.29709032  0.54709032  0.75000000  1.0
+  Cu  Cu2  1  1.27699017  0.83643888  1.44055129  1.0
+  Cu  Cu3  1  1.10411241  0.16356112  0.94055129  1.0
+  Cu  Cu4  1  0.72300983  1.16356112  0.55944871  1.0
+  Cu  Cu5  1  0.89588759  0.83643888  0.05944871  1.0

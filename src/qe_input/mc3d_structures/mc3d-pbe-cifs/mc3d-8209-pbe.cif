@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu5SbPd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59826161
+_cell_length_b   8.59826161
+_cell_length_c   8.59826161
+_cell_angle_alpha   127.72182066
+_cell_angle_beta   127.72182066
+_cell_angle_gamma   77.07610281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu5SbPd2
+_chemical_formula_sum   'Lu10 Sb2 Pd4'
+_cell_volume   386.01180713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  1.20036079  0.70036079  1.18875896  1.0
+  Lu  Lu1  1  0.48839817  0.98839817  1.18875896  1.0
+  Lu  Lu2  1  1.01160183  1.20036079  1.50000000  1.0
+  Lu  Lu3  1  0.29963921  0.48839817  0.50000000  1.0
+  Lu  Lu4  1  0.70036079  0.51160183  0.50000000  1.0
+  Lu  Lu5  1  0.98839817  0.79963921  1.50000000  1.0
+  Lu  Lu6  1  0.51160183  1.01160183  0.81124104  1.0
+  Lu  Lu7  1  0.79963921  0.29963921  0.81124104  1.0
+  Lu  Lu8  1  0.00000000  0.00000000  0.00000000  1.0
+  Lu  Lu9  1  0.50000000  0.50000000  1.00000000  1.0
+  Sb  Sb10  1  0.75000000  0.75000000  1.00000000  1.0
+  Sb  Sb11  1  0.25000000  0.25000000  -0.00000000  1.0
+  Pd  Pd12  1  0.86274100  0.36274100  1.22548200  1.0
+  Pd  Pd13  1  0.63725900  0.86274100  1.50000000  1.0
+  Pd  Pd14  1  0.36274100  0.13725900  0.50000000  1.0
+  Pd  Pd15  1  0.13725900  0.63725900  0.77451800  1.0

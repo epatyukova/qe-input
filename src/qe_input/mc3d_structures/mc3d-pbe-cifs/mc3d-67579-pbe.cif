@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuCo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.50372132
+_cell_length_b   8.50372132
+_cell_length_c   8.50372132
+_cell_angle_alpha   33.68764577
+_cell_angle_beta   33.68764577
+_cell_angle_gamma   33.68764577
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuCo3
+_chemical_formula_sum   'Lu3 Co9'
+_cell_volume   168.54846672
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.85998561  0.85998561  0.85998561  1.0
+  Lu  Lu1  1  1.14001439  1.14001439  0.14001439  1.0
+  Lu  Lu2  1  0.00000000  0.00000000  0.00000000  1.0
+  Co  Co3  1  1.41557935  1.41557935  -0.07739361  1.0
+  Co  Co4  1  1.41557935  0.92260639  0.41557935  1.0
+  Co  Co5  1  1.07739361  0.58442065  0.58442065  1.0
+  Co  Co6  1  1.58442065  0.07739361  0.58442065  1.0
+  Co  Co7  1  1.58442065  0.58442065  0.07739361  1.0
+  Co  Co8  1  0.92260639  1.41557935  0.41557935  1.0
+  Co  Co9  1  1.66461479  0.66461479  0.66461479  1.0
+  Co  Co10  1  1.33538521  0.33538521  0.33538521  1.0
+  Co  Co11  1  1.50000000  0.50000000  0.50000000  1.0

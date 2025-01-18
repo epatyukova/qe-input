@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_GeCI3N
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.16239956
+_cell_length_b   6.16239956
+_cell_length_c   6.16239956
+_cell_angle_alpha   88.01881823
+_cell_angle_beta   88.01881823
+_cell_angle_gamma   88.01881823
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GeCI3N
+_chemical_formula_sum   'Ge1 C1 I3 N1'
+_cell_volume   233.60793218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.56439809  0.56439809  -0.43560191  1.0
+  C  C1  1  1.05590542  1.05590542  0.05590542  1.0
+  I  I2  1  0.35263375  0.85388177  -0.64736625  1.0
+  I  I3  1  0.35263375  0.35263375  -0.14611823  1.0
+  I  I4  1  0.85388177  0.35263375  -0.64736625  1.0
+  N  N5  1  0.94904722  0.94904722  -0.05095278  1.0

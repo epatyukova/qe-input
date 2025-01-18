@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca2Hg
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.88382948
+_cell_length_b   4.88031238
+_cell_length_c   9.95213210
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Hg
+_chemical_formula_sum   'Ca8 Hg4'
+_cell_volume   382.91376255
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.97228885  0.75000000  0.67551883  1.0
+  Ca  Ca1  1  0.47228885  0.75000000  0.82448117  1.0
+  Ca  Ca2  1  0.02771115  0.25000000  0.32448117  1.0
+  Ca  Ca3  1  0.52771115  0.25000000  0.17551883  1.0
+  Ca  Ca4  1  0.85012381  0.75000000  0.06734914  1.0
+  Ca  Ca5  1  0.35012381  0.75000000  0.43265086  1.0
+  Ca  Ca6  1  0.14987619  0.25000000  0.93265086  1.0
+  Ca  Ca7  1  0.64987619  0.25000000  0.56734914  1.0
+  Hg  Hg8  1  0.75248511  0.75000000  0.37720862  1.0
+  Hg  Hg9  1  0.25248511  0.75000000  0.12279138  1.0
+  Hg  Hg10  1  0.24751489  0.25000000  0.62279138  1.0
+  Hg  Hg11  1  0.74751489  0.25000000  0.87720862  1.0

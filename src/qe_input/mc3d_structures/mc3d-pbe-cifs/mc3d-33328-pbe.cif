@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_GdTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68880869
+_cell_length_b   7.74796250
+_cell_length_c   5.41603641
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdTiO3
+_chemical_formula_sum   'Gd4 Ti4 O12'
+_cell_volume   238.72088455
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.06714428  0.75000000  0.51763678  1.0
+  Gd  Gd1  1  0.56714428  0.75000000  0.98236322  1.0
+  Gd  Gd2  1  0.93285572  0.25000000  0.48236322  1.0
+  Gd  Gd3  1  0.43285572  0.25000000  0.01763678  1.0
+  Ti  Ti4  1  0.50000000  0.00000000  0.50000000  1.0
+  Ti  Ti5  1  0.50000000  0.50000000  0.50000000  1.0
+  Ti  Ti6  1  0.00000000  0.00000000  0.00000000  1.0
+  Ti  Ti7  1  0.00000000  0.50000000  0.00000000  1.0
+  O  O8  1  0.29860449  0.94821116  0.80347328  1.0
+  O  O9  1  0.29860449  0.55178884  0.80347328  1.0
+  O  O10  1  0.79860449  0.94821116  0.69652672  1.0
+  O  O11  1  0.79860449  0.55178884  0.69652672  1.0
+  O  O12  1  0.70139551  0.44821116  0.19652672  1.0
+  O  O13  1  0.70139551  0.05178884  0.19652672  1.0
+  O  O14  1  0.20139551  0.44821116  0.30347328  1.0
+  O  O15  1  0.20139551  0.05178884  0.30347328  1.0
+  O  O16  1  0.96936377  0.75000000  0.10242615  1.0
+  O  O17  1  0.46936377  0.75000000  0.39757385  1.0
+  O  O18  1  0.03063623  0.25000000  0.89757385  1.0
+  O  O19  1  0.53063623  0.25000000  0.60242615  1.0

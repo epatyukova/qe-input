@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_SrTl2Cr2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.15510150
+_cell_length_b   8.15510150
+_cell_length_c   8.15510150
+_cell_angle_alpha   41.81030982
+_cell_angle_beta   41.81030982
+_cell_angle_gamma   41.81030982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTl2Cr2O8
+_chemical_formula_sum   'Sr1 Tl2 Cr2 O8'
+_cell_volume   217.96323140
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1.0
+  Tl  Tl1  1  0.79697481  0.79697481  0.79697481  1.0
+  Tl  Tl2  1  1.20302519  1.20302519  0.20302519  1.0
+  Cr  Cr3  1  1.60503701  0.60503701  0.60503701  1.0
+  Cr  Cr4  1  1.39496299  0.39496299  0.39496299  1.0
+  O  O5  1  1.26304572  0.26304572  0.73117235  1.0
+  O  O6  1  1.26304572  0.73117235  0.26304572  1.0
+  O  O7  1  1.26882765  0.73695428  0.73695428  1.0
+  O  O8  1  1.73695428  0.26882765  0.73695428  1.0
+  O  O9  1  1.73695428  0.73695428  0.26882765  1.0
+  O  O10  1  1.73117235  0.26304572  0.26304572  1.0
+  O  O11  1  0.67861842  0.67861842  0.67861842  1.0
+  O  O12  1  1.32138158  1.32138158  0.32138158  1.0

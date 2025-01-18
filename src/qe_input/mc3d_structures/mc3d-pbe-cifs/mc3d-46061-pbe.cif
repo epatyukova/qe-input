@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_NaSrCrOsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44989944
+_cell_length_b   5.44989944
+_cell_length_c   5.44989944
+_cell_angle_alpha   60.06878157
+_cell_angle_beta   60.06878157
+_cell_angle_gamma   60.06878157
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSrCrOsO6
+_chemical_formula_sum   'Na1 Sr1 Cr1 Os1 O6'
+_cell_volume   114.63755295
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  1.24999974  1.24999974  0.24999974  1.0
+  Sr  Sr1  1  0.75009306  0.75009306  -0.24990694  1.0
+  Cr  Cr2  1  1.00005468  1.00005468  0.00005468  1.0
+  Os  Os3  1  0.49998608  0.49998608  -0.50001392  1.0
+  O  O4  1  0.27364352  0.22624815  -0.25015629  1.0
+  O  O5  1  0.22624815  0.74984371  -0.72635648  1.0
+  O  O6  1  0.74984371  0.27364352  -0.77375185  1.0
+  O  O7  1  0.77958772  0.25003150  -0.27978815  1.0
+  O  O8  1  1.25003150  -0.27978815  -0.22041228  1.0
+  O  O9  1  0.72021185  -0.22041228  0.25003150  1.0

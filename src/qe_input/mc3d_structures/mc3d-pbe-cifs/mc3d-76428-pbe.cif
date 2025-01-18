@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KAlH2CO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76697131
+_cell_length_b   6.76697131
+_cell_length_c   5.71564731
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   122.28679817
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlH2CO5
+_chemical_formula_sum   'K2 Al2 H4 C2 O10'
+_cell_volume   221.26289815
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  -0.34595483  0.34595483  0.75000000  1.0
+  K  K1  1  0.34595483  0.65404517  0.25000000  1.0
+  Al  Al2  1  0.00000000  0.00000000  0.00000000  1.0
+  Al  Al3  1  0.00000000  0.00000000  0.50000000  1.0
+  H  H4  1  0.20192020  0.36294276  0.75000000  1.0
+  H  H5  1  0.36294276  1.20192020  0.25000000  1.0
+  H  H6  1  0.63705724  0.79807980  0.75000000  1.0
+  H  H7  1  -0.20192020  0.63705724  0.25000000  1.0
+  C  C8  1  0.21562528  0.78437472  0.75000000  1.0
+  C  C9  1  -0.21562528  0.21562528  0.25000000  1.0
+  O  O10  1  0.18024058  0.20707995  0.75000000  1.0
+  O  O11  1  0.20707995  1.18024058  0.25000000  1.0
+  O  O12  1  0.79292005  0.81975942  0.75000000  1.0
+  O  O13  1  -0.18024058  0.79292005  0.25000000  1.0
+  O  O14  1  0.16144915  0.83855085  0.94861692  1.0
+  O  O15  1  0.16144915  0.83855085  0.55138308  1.0
+  O  O16  1  -0.16144915  0.16144915  0.44861692  1.0
+  O  O17  1  -0.16144915  0.16144915  0.05138308  1.0
+  O  O18  1  0.32383007  0.67616993  0.75000000  1.0
+  O  O19  1  -0.32383007  0.32383007  0.25000000  1.0

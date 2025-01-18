@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sc7CoI12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43771494
+_cell_length_b   9.43771494
+_cell_length_c   9.43771494
+_cell_angle_alpha   107.36214326
+_cell_angle_beta   107.36214326
+_cell_angle_gamma   107.36214327
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc7CoI12
+_chemical_formula_sum   'Sc7 Co1 I12'
+_cell_volume   693.04547664
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  1.72084717  0.91159081  -0.02320933  1.0
+  Sc  Sc1  1  1.08840919  0.02320933  -0.72084717  1.0
+  Sc  Sc2  1  1.02320933  -0.72084717  0.08840919  1.0
+  Sc  Sc3  1  0.27915283  0.08840919  0.02320933  1.0
+  Sc  Sc4  1  0.91159081  0.97679067  0.72084717  1.0
+  Sc  Sc5  1  0.97679067  1.72084717  -0.08840919  1.0
+  Sc  Sc6  1  0.50000000  0.50000000  0.50000000  1.0
+  Co  Co7  1  0.00000000  0.00000000  0.00000000  1.0
+  I  I8  1  0.68905489  0.22212975  0.07360000  1.0
+  I  I9  1  0.77787025  0.92640000  0.31094511  1.0
+  I  I10  1  0.92640000  1.31094511  -0.22212975  1.0
+  I  I11  1  1.31094511  0.77787025  -0.07360000  1.0
+  I  I12  1  1.22212975  0.07360000  -0.31094511  1.0
+  I  I13  1  1.07360000  -0.31094511  0.22212975  1.0
+  I  I14  1  1.61635720  0.54373552  -0.16099402  1.0
+  I  I15  1  0.45626448  1.16099402  -0.61635720  1.0
+  I  I16  1  1.16099402  0.38364280  -0.54373552  1.0
+  I  I17  1  0.38364280  0.45626448  0.16099402  1.0
+  I  I18  1  1.54373552  -0.16099402  0.61635720  1.0
+  I  I19  1  0.83900598  0.61635720  0.54373552  1.0

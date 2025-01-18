@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaFeAsO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.62290514
+_cell_length_b   5.62290514
+_cell_length_c   7.54236423
+_cell_angle_alpha   74.37372322
+_cell_angle_beta   105.62627678
+_cell_angle_gamma   75.30186704
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFeAsO4F
+_chemical_formula_sum   'Na2 Fe2 As2 O8 F2'
+_cell_volume   207.02666277
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.66773403  -0.33226597  0.25000000  1.0
+  Na  Na1  1  1.33226597  0.33226597  0.75000000  1.0
+  Fe  Fe2  1  -0.00000000  0.00000000  0.50000000  1.0
+  Fe  Fe3  1  -0.00000000  0.00000000  -0.00000000  1.0
+  As  As4  1  1.31294242  0.31294242  0.25000000  1.0
+  As  As5  1  0.68705758  -0.31294242  0.75000000  1.0
+  O  O6  1  1.62780403  0.24125601  0.41628704  1.0
+  O  O7  1  0.75874399  -0.62780403  0.91628704  1.0
+  O  O8  1  1.24125601  0.62780403  0.08371296  1.0
+  O  O9  1  0.37219597  -0.24125601  0.58371296  1.0
+  O  O10  1  1.31403901  0.09404318  0.12452434  1.0
+  O  O11  1  0.90595682  -0.31403901  0.62452434  1.0
+  O  O12  1  1.09404318  0.31403901  0.37547566  1.0
+  O  O13  1  0.68596099  -0.09404318  0.87547566  1.0
+  F  F14  1  0.92125729  -0.07874271  0.25000000  1.0
+  F  F15  1  1.07874271  0.07874271  0.75000000  1.0

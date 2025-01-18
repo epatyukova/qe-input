@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cs6Fe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24181882
+_cell_length_b   7.24181882
+_cell_length_c   7.47226985
+_cell_angle_alpha   86.94146022
+_cell_angle_beta   93.05853978
+_cell_angle_gamma   63.16193694
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs6Fe2O5
+_chemical_formula_sum   'Cs6 Fe2 O5'
+_cell_volume   347.84534659
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.35950067  -0.35950067  0.69156399  1.0
+  Cs  Cs1  1  0.64049933  -0.64049933  0.30843601  1.0
+  Cs  Cs2  1  0.78999031  -0.21000969  0.50000000  1.0
+  Cs  Cs3  1  1.21000969  0.21000969  0.50000000  1.0
+  Cs  Cs4  1  0.76042690  -0.23957310  -0.00000000  1.0
+  Cs  Cs5  1  1.23957310  0.23957310  -0.00000000  1.0
+  Fe  Fe6  1  0.80403355  -0.80403355  0.81396065  1.0
+  Fe  Fe7  1  0.19596645  -0.19596645  0.18603935  1.0
+  O  O8  1  1.57446893  0.16796360  0.72601751  1.0
+  O  O9  1  0.83203640  -0.57446893  0.72601751  1.0
+  O  O10  1  1.16796360  0.57446893  0.27398249  1.0
+  O  O11  1  0.42553107  -0.16796360  0.27398249  1.0
+  O  O12  1  0.00000000  0.00000000  0.00000000  1.0

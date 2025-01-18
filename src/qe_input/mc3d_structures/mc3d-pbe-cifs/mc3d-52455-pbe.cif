@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Fe3Pb4ClO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.95396206
+_cell_length_b   3.95396206
+_cell_length_c   15.29284421
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe3Pb4ClO8
+_chemical_formula_sum   'Fe3 Pb4 Cl1 O8'
+_cell_volume   239.08551157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cl  Cl0  1  0.00000000  0.00000000  0.50000000  1.0
+  Pb  Pb1  1  0.50000000  0.50000000  0.88424290  1.0
+  Pb  Pb2  1  0.50000000  0.50000000  0.11575710  1.0
+  Pb  Pb3  1  0.50000000  0.50000000  0.62570595  1.0
+  Pb  Pb4  1  0.50000000  0.50000000  0.37429405  1.0
+  Fe  Fe5  1  0.00000000  0.00000000  0.74893461  1.0
+  Fe  Fe6  1  0.00000000  0.00000000  0.25106539  1.0
+  Fe  Fe7  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O8  1  0.00000000  0.50000000  0.00000000  1.0
+  O  O9  1  0.50000000  0.00000000  0.00000000  1.0
+  O  O10  1  0.00000000  0.00000000  0.87194559  1.0
+  O  O11  1  0.00000000  0.00000000  0.12805441  1.0
+  O  O12  1  0.00000000  0.50000000  0.71928276  1.0
+  O  O13  1  0.00000000  0.50000000  0.28071724  1.0
+  O  O14  1  0.50000000  0.00000000  0.71928276  1.0
+  O  O15  1  0.50000000  0.00000000  0.28071724  1.0

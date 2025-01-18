@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_La4SiI5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.21823655
+_cell_length_b   10.21823655
+_cell_length_c   9.25400704
+_cell_angle_alpha   77.63200973
+_cell_angle_beta   102.36799027
+_cell_angle_gamma   155.03696689
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4SiI5
+_chemical_formula_sum   'La4 Si1 I5'
+_cell_volume   397.84922387
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.85116561  -0.85116561  0.92521933  1.0
+  La  La1  1  1.14883439  -0.14883439  0.07478067  1.0
+  La  La2  1  0.50045958  -0.50045958  0.78411326  1.0
+  La  La3  1  1.49954042  -0.49954042  0.21588674  1.0
+  Si  Si4  1  0.00000000  0.00000000  0.00000000  1.0
+  I  I5  1  0.67147136  -0.67147136  0.82543513  1.0
+  I  I6  1  1.32852864  -0.32852864  0.17456487  1.0
+  I  I7  1  0.66688809  -0.66688809  0.33751226  1.0
+  I  I8  1  1.33311191  -0.33311191  0.66248774  1.0
+  I  I9  1  -0.00000000  0.00000000  0.50000000  1.0

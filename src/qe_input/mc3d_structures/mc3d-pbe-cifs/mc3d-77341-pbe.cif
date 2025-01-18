@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CaBiClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51670330
+_cell_length_b   4.15863892
+_cell_length_c   7.81508380
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.70316244
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBiClO2
+_chemical_formula_sum   'Ca2 Bi2 Cl2 O4'
+_cell_volume   204.85813791
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.32853763  0.25000000  0.57899554  1.0
+  Ca  Ca1  1  0.67146237  0.75000000  0.42100446  1.0
+  Bi  Bi2  1  0.32565308  0.25000000  0.09461845  1.0
+  Bi  Bi3  1  0.67434692  0.75000000  0.90538155  1.0
+  Cl  Cl4  1  0.94608311  0.25000000  0.68655811  1.0
+  Cl  Cl5  1  0.05391689  0.75000000  0.31344189  1.0
+  O  O6  1  0.52685365  0.25000000  0.90076745  1.0
+  O  O7  1  0.47314635  0.75000000  0.09923255  1.0
+  O  O8  1  0.51167938  0.25000000  0.35764235  1.0
+  O  O9  1  0.48832062  0.75000000  0.64235765  1.0

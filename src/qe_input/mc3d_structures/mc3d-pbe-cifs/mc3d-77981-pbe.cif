@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_CaNi5H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05439546
+_cell_length_b   5.05439546
+_cell_length_c   3.98700640
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNi5H
+_chemical_formula_sum   'Ca1 Ni5 H1'
+_cell_volume   88.20963026
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00000000  0.00000000  0.00120996  1.0
+  Ni  Ni1  1  0.33333333  0.66666667  0.97817647  1.0
+  Ni  Ni2  1  0.66666667  0.33333333  0.99881436  1.0
+  Ni  Ni3  1  0.50888427  0.01776855  0.50349710  1.0
+  Ni  Ni4  1  0.98223145  0.49111573  0.50349710  1.0
+  Ni  Ni5  1  0.50888427  0.49111573  0.50349710  1.0
+  H  H6  1  0.33333333  0.66666667  0.38040791  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Mg4Zn5Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36966463
+_cell_length_b   5.36966463
+_cell_length_c   8.15109540
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg4Zn5Pd3
+_chemical_formula_sum   'Mg4 Zn5 Pd3'
+_cell_volume   203.53585762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.33333333  0.66666667  0.32664628  1.0
+  Mg  Mg1  1  0.33333333  0.66666667  0.67335372  1.0
+  Mg  Mg2  1  0.66666667  0.33333333  0.79521989  1.0
+  Mg  Mg3  1  0.66666667  0.33333333  0.20478011  1.0
+  Zn  Zn4  1  -0.00000000  -0.00000000  0.25243440  1.0
+  Zn  Zn5  1  -0.00000000  -0.00000000  0.74756560  1.0
+  Zn  Zn6  1  0.17232581  0.34465163  -0.00000000  1.0
+  Zn  Zn7  1  0.65534837  0.82767419  0.00000000  1.0
+  Zn  Zn8  1  0.17232581  0.82767419  -0.00000000  1.0
+  Pd  Pd9  1  0.83026677  0.66053353  0.50000000  1.0
+  Pd  Pd10  1  0.33946647  0.16973323  0.50000000  1.0
+  Pd  Pd11  1  0.83026677  0.16973323  0.50000000  1.0

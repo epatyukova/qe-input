@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YGaRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09861860
+_cell_length_b   4.50549870
+_cell_length_c   7.22933930
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YGaRh
+_chemical_formula_sum   'Y4 Ga4 Rh4'
+_cell_volume   231.21463518
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  1.01585667  0.75000000  0.69514080  1.0
+  Y  Y1  1  0.51585667  0.75000000  0.80485920  1.0
+  Y  Y2  1  -0.01585667  0.25000000  0.30485920  1.0
+  Y  Y3  1  0.48414333  0.25000000  0.19514080  1.0
+  Ga  Ga4  1  0.69915001  0.75000000  0.39690156  1.0
+  Ga  Ga5  1  0.19915001  0.75000000  0.10309844  1.0
+  Ga  Ga6  1  0.30084999  0.25000000  0.60309844  1.0
+  Ga  Ga7  1  0.80084999  0.25000000  0.89690156  1.0
+  Rh  Rh8  1  0.83828807  0.75000000  0.06636722  1.0
+  Rh  Rh9  1  0.33828807  0.75000000  0.43363278  1.0
+  Rh  Rh10  1  0.16171193  0.25000000  0.93363278  1.0
+  Rh  Rh11  1  0.66171193  0.25000000  0.56636722  1.0

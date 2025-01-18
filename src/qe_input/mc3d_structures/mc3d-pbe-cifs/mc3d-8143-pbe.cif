@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2SiIr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68566078
+_cell_length_b   5.68566078
+_cell_length_c   7.31477994
+_cell_angle_alpha   81.06124073
+_cell_angle_beta   98.93875927
+_cell_angle_gamma   118.13721051
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2SiIr2
+_chemical_formula_sum   'Ca4 Si2 Ir4'
+_cell_volume   205.06853198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  1.51484098  0.22311657  0.13896619  1.0
+  Ca  Ca1  1  0.77688343  -0.51484098  0.63896619  1.0
+  Ca  Ca2  1  1.22311657  0.51484098  0.36103381  1.0
+  Ca  Ca3  1  0.48515902  -0.22311657  0.86103381  1.0
+  Si  Si4  1  0.93494142  -0.06505858  0.25000000  1.0
+  Si  Si5  1  1.06505858  0.06505858  0.75000000  1.0
+  Ir  Ir6  1  0.72522912  -0.00984248  0.48995178  1.0
+  Ir  Ir7  1  1.00984248  0.27477088  0.98995178  1.0
+  Ir  Ir8  1  0.99015752  -0.27477088  0.01004822  1.0
+  Ir  Ir9  1  1.27477088  0.00984248  0.51004822  1.0

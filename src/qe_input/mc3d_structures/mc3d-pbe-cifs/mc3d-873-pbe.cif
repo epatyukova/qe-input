@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CoAsRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96314206
+_cell_length_b   3.79358128
+_cell_length_c   7.01602973
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoAsRh
+_chemical_formula_sum   'Co4 As4 Rh4'
+_cell_volume   158.71426772
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.85765493  0.75000000  0.06125050  1.0
+  Co  Co1  1  0.35765493  0.75000000  0.43874950  1.0
+  Co  Co2  1  0.14234507  0.25000000  0.93874950  1.0
+  Co  Co3  1  0.64234507  0.25000000  0.56125050  1.0
+  As  As4  1  0.73827214  0.75000000  0.37392781  1.0
+  As  As5  1  0.23827214  0.75000000  0.12607219  1.0
+  As  As6  1  0.26172786  0.25000000  0.62607219  1.0
+  As  As7  1  0.76172786  0.25000000  0.87392781  1.0
+  Rh  Rh8  1  0.96462279  0.75000000  0.66989101  1.0
+  Rh  Rh9  1  0.46462279  0.75000000  0.83010899  1.0
+  Rh  Rh10  1  0.03537721  0.25000000  0.33010899  1.0
+  Rh  Rh11  1  0.53537721  0.25000000  0.16989101  1.0

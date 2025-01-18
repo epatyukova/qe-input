@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Zn8Cu5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67593132
+_cell_length_b   7.67593132
+_cell_length_c   7.67593132
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn8Cu5
+_chemical_formula_sum   'Zn16 Cu10'
+_cell_volume   348.15396883
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.37252792  0.65251953  0.65251953  1.0
+  Zn  Zn1  1  0.65251953  0.37252792  0.65251953  1.0
+  Zn  Zn2  1  1.00000000  0.72000838  1.34748047  1.0
+  Zn  Zn3  1  0.72000838  1.00000000  1.34748047  1.0
+  Zn  Zn4  1  0.65251953  0.65251953  0.37252792  1.0
+  Zn  Zn5  1  1.27999162  1.27999162  0.62747208  1.0
+  Zn  Zn6  1  1.00000000  1.34748047  0.72000838  1.0
+  Zn  Zn7  1  1.27999162  0.62747208  1.27999162  1.0
+  Zn  Zn8  1  0.62747208  1.27999162  1.27999162  1.0
+  Zn  Zn9  1  1.34748047  1.00000000  0.72000838  1.0
+  Zn  Zn10  1  0.72000838  1.34748047  1.00000000  1.0
+  Zn  Zn11  1  1.34748047  0.72000838  1.00000000  1.0
+  Zn  Zn12  1  0.78054850  0.78054850  0.78054850  1.0
+  Zn  Zn13  1  1.00000000  1.00000000  0.21945150  1.0
+  Zn  Zn14  1  1.00000000  0.21945150  1.00000000  1.0
+  Zn  Zn15  1  0.21945150  1.00000000  1.00000000  1.0
+  Cu  Cu16  1  0.64389843  0.64389843  -0.00000000  1.0
+  Cu  Cu17  1  0.64389843  -0.00000000  0.64389843  1.0
+  Cu  Cu18  1  -0.00000000  0.64389843  0.64389843  1.0
+  Cu  Cu19  1  0.35610157  -0.00000000  0.35610157  1.0
+  Cu  Cu20  1  0.00000000  0.35610157  0.35610157  1.0
+  Cu  Cu21  1  0.35610157  0.35610157  0.00000000  1.0
+  Cu  Cu22  1  0.34467585  0.34467585  0.34467585  1.0
+  Cu  Cu23  1  1.00000000  1.00000000  0.65532415  1.0
+  Cu  Cu24  1  1.00000000  0.65532415  1.00000000  1.0
+  Cu  Cu25  1  0.65532415  1.00000000  1.00000000  1.0

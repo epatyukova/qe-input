@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_LuZrSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.66826400
+_cell_length_b   8.66826400
+_cell_length_c   8.66826400
+_cell_angle_alpha   151.61421690
+_cell_angle_beta   151.61421690
+_cell_angle_gamma   40.57694338
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuZrSb
+_chemical_formula_sum   'Lu2 Zr2 Sb2'
+_cell_volume   146.90459215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.67458438  0.67458438  1.00000000  1.0
+  Lu  Lu1  1  0.32541562  0.32541562  -0.00000000  1.0
+  Zr  Zr2  1  0.50000000  0.00000000  0.50000000  1.0
+  Zr  Zr3  1  -0.00000000  0.50000000  0.50000000  1.0
+  Sb  Sb4  1  0.86354743  0.86354743  1.00000000  1.0
+  Sb  Sb5  1  0.13645257  0.13645257  -0.00000000  1.0

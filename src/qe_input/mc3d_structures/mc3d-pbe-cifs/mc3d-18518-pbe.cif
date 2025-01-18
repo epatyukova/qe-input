@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_EuMgGa
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.72351837
+_cell_length_b   4.60423097
+_cell_length_c   8.48572911
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuMgGa
+_chemical_formula_sum   'Eu4 Mg4 Ga4'
+_cell_volume   301.75984608
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.98425468  0.75000000  0.67835180  1.0
+  Eu  Eu1  1  0.48425468  0.75000000  0.82164820  1.0
+  Eu  Eu2  1  0.01574532  0.25000000  0.32164820  1.0
+  Eu  Eu3  1  0.51574532  0.25000000  0.17835180  1.0
+  Mg  Mg4  1  0.85371294  0.75000000  0.06040955  1.0
+  Mg  Mg5  1  0.35371294  0.75000000  0.43959045  1.0
+  Mg  Mg6  1  0.14628706  0.25000000  0.93959045  1.0
+  Mg  Mg7  1  0.64628706  0.25000000  0.56040955  1.0
+  Ga  Ga8  1  0.72235851  0.75000000  0.37913459  1.0
+  Ga  Ga9  1  0.22235851  0.75000000  0.12086541  1.0
+  Ga  Ga10  1  0.27764149  0.25000000  0.62086541  1.0
+  Ga  Ga11  1  0.77764149  0.25000000  0.87913459  1.0

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr5Al9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.38521754
+_cell_length_b   12.38521754
+_cell_length_c   12.38521754
+_cell_angle_alpha   27.37581232
+_cell_angle_beta   27.37581232
+_cell_angle_gamma   27.37581232
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5Al9
+_chemical_formula_sum   'Sr5 Al9'
+_cell_volume   354.48920533
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.78329283  0.78329283  0.78329283  1.0
+  Sr  Sr1  1  1.21670717  1.21670717  0.21670717  1.0
+  Sr  Sr2  1  0.68330403  0.68330403  0.68330403  1.0
+  Sr  Sr3  1  1.31669597  1.31669597  0.31669597  1.0
+  Sr  Sr4  1  1.50000000  0.50000000  0.50000000  1.0
+  Al  Al5  1  1.23611338  0.23611338  0.72499138  1.0
+  Al  Al6  1  1.23611338  0.72499138  0.23611338  1.0
+  Al  Al7  1  1.27500862  0.76388662  0.76388662  1.0
+  Al  Al8  1  1.76388662  0.27500862  0.76388662  1.0
+  Al  Al9  1  1.76388662  0.76388662  0.27500862  1.0
+  Al  Al10  1  1.72499138  0.23611338  0.23611338  1.0
+  Al  Al11  1  0.87566184  0.87566184  0.87566184  1.0
+  Al  Al12  1  1.12433816  1.12433816  0.12433816  1.0
+  Al  Al13  1  0.00000000  0.00000000  0.00000000  1.0

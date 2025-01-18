@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2CaHfF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.44372689
+_cell_length_b   6.44372689
+_cell_length_c   6.44372689
+_cell_angle_alpha   132.79042096
+_cell_angle_beta   132.79042096
+_cell_angle_gamma   68.98347148
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CaHfF8
+_chemical_formula_sum   'Li2 Ca1 Hf1 F8'
+_cell_volume   141.43336329
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75000000  0.25000000  0.50000000  1.0
+  Li  Li1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ca  Ca2  1  0.50000000  0.50000000  1.00000000  1.0
+  Hf  Hf3  1  0.25000000  0.75000000  0.50000000  1.0
+  F  F4  1  0.23624609  0.79917922  0.85804865  1.0
+  F  F5  1  1.20082078  1.05886943  1.43706687  1.0
+  F  F6  1  0.94113057  0.37819744  1.14195135  1.0
+  F  F7  1  0.62180256  0.76375391  0.56293313  1.0
+  F  F8  1  0.53310537  1.13206283  1.02620751  1.0
+  F  F9  1  0.86793717  0.89414468  1.40104254  1.0
+  F  F10  1  1.10585532  0.50689786  0.97379249  1.0
+  F  F11  1  0.49310214  0.46689463  0.59895746  1.0

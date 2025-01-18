@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Bi2Pt3Se2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.50026533
+_cell_length_b   7.50026533
+_cell_length_c   7.50026533
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2Pt3Se2
+_chemical_formula_sum   'Bi4 Pt6 Se4'
+_cell_volume   324.79399462
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  1.46698051  1.46698051  1.46698051  1.0
+  Bi  Bi1  1  1.50000000  1.00000000  1.03301949  1.0
+  Bi  Bi2  1  1.00000000  1.03301949  1.50000000  1.0
+  Bi  Bi3  1  1.03301949  0.50000000  1.00000000  1.0
+  Pt  Pt4  1  1.20500722  0.95500722  1.25000000  1.0
+  Pt  Pt5  1  0.25000000  1.20500722  0.95500722  1.0
+  Pt  Pt6  1  0.75000000  1.29499278  0.54499278  1.0
+  Pt  Pt7  1  0.95500722  0.25000000  1.20500722  1.0
+  Pt  Pt8  1  0.54499278  0.75000000  0.29499278  1.0
+  Pt  Pt9  1  0.29499278  0.54499278  0.75000000  1.0
+  Se  Se10  1  0.93584570  0.93584570  0.93584570  1.0
+  Se  Se11  1  0.50000000  1.00000000  0.56415430  1.0
+  Se  Se12  1  1.00000000  0.56415430  1.50000000  1.0
+  Se  Se13  1  0.56415430  1.50000000  1.00000000  1.0

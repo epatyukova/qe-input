@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuGa2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84576537
+_cell_length_b   5.84576537
+_cell_length_c   5.84576537
+_cell_angle_alpha   133.82773056
+_cell_angle_beta   100.29570254
+_cell_angle_gamma   97.39905060
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGa2
+_chemical_formula_sum   'Eu2 Ga4'
+_cell_volume   132.51790973
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  1.70667599  1.45667599  1.25000000  1.0
+  Eu  Eu1  1  0.29332401  0.54332401  0.75000000  1.0
+  Ga  Ga2  1  1.27937553  0.83794029  1.44143524  1.0
+  Ga  Ga3  1  1.10349495  0.16205971  0.94143524  1.0
+  Ga  Ga4  1  0.72062447  1.16205971  0.55856476  1.0
+  Ga  Ga5  1  0.89650505  0.83794029  0.05856476  1.0

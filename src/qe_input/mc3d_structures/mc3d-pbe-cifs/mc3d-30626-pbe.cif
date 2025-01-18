@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Rb3GePSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.41268879
+_cell_length_b   12.29150543
+_cell_length_c   10.20534416
+_cell_angle_alpha   102.35116004
+_cell_angle_beta   110.84379357
+_cell_angle_gamma   89.04740014
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb3GePSe7
+_chemical_formula_sum   'Rb6 Ge2 P2 Se14'
+_cell_volume   847.06951871
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.95481409  0.21567134  -0.50934479  1.0
+  Rb  Rb1  1  0.04518591  0.78432866  -0.49065521  1.0
+  Rb  Rb2  1  0.38392606  0.99777270  -0.81631126  1.0
+  Rb  Rb3  1  0.61607394  0.00222730  -0.18368874  1.0
+  Rb  Rb4  1  0.32586623  0.60573131  -0.86666520  1.0
+  Rb  Rb5  1  0.67413377  0.39426869  -0.13333480  1.0
+  Ge  Ge6  1  0.59952928  0.62712180  -0.43505716  1.0
+  Ge  Ge7  1  0.40047072  0.37287820  -0.56494284  1.0
+  P  P8  1  0.77023617  0.77590598  -0.92961016  1.0
+  P  P9  1  0.22976383  0.22409402  -0.07038984  1.0
+  Se  Se10  1  0.95434148  0.79798414  -0.06670282  1.0
+  Se  Se11  1  0.04565852  0.20201586  -0.93329718  1.0
+  Se  Se12  1  0.91282623  0.62936266  -0.24349790  1.0
+  Se  Se13  1  0.08717377  0.37063734  -0.75650210  1.0
+  Se  Se14  1  0.89621143  0.93799067  -0.77969987  1.0
+  Se  Se15  1  0.10378857  0.06200933  -0.22030013  1.0
+  Se  Se16  1  0.84578322  0.62803445  -0.83923241  1.0
+  Se  Se17  1  0.15421678  0.37196555  -0.16076759  1.0
+  Se  Se18  1  0.65184612  0.46920573  -0.60696318  1.0
+  Se  Se19  1  0.34815388  0.53079427  -0.39303682  1.0
+  Se  Se20  1  0.53569936  0.22655394  -0.93777578  1.0
+  Se  Se21  1  0.46430064  0.77344606  -0.06222422  1.0
+  Se  Se22  1  0.52711237  0.79225108  -0.50834970  1.0
+  Se  Se23  1  0.47288763  0.20774892  -0.49165030  1.0

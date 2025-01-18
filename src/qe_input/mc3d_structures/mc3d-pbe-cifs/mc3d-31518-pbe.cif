@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaMgGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52218353
+_cell_length_b   4.45791366
+_cell_length_c   8.40978680
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgGe
+_chemical_formula_sum   'Ca4 Mg4 Ge4'
+_cell_volume   282.00743845
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.97955726  0.75000000  0.67977197  1.0
+  Ca  Ca1  1  0.47955726  0.75000000  0.82022803  1.0
+  Ca  Ca2  1  0.02044274  0.25000000  0.32022803  1.0
+  Ca  Ca3  1  0.52044274  0.25000000  0.17977197  1.0
+  Mg  Mg4  1  0.85713860  0.75000000  0.06204342  1.0
+  Mg  Mg5  1  0.35713860  0.75000000  0.43795658  1.0
+  Mg  Mg6  1  0.14286140  0.25000000  0.93795658  1.0
+  Mg  Mg7  1  0.64286140  0.25000000  0.56204342  1.0
+  Ge  Ge8  1  0.73226503  0.75000000  0.38334875  1.0
+  Ge  Ge9  1  0.23226503  0.75000000  0.11665125  1.0
+  Ge  Ge10  1  0.26773497  0.25000000  0.61665125  1.0
+  Ge  Ge11  1  0.76773497  0.25000000  0.88334875  1.0
