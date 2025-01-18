@@ -2,6 +2,7 @@ import os
 import shutil
 import re
 import json
+import time
 import pandas as pd
 import numpy as np
 from pymatgen.core.composition import Composition
@@ -15,6 +16,7 @@ from bs4 import BeautifulSoup
 @st.cache_data
 def jarvis_structure_lookup(formula):
     dft_3d = data('dft_3d')
+    time.sleep(10)
     df=pd.DataFrame(dft_3d)
     da=df.loc[df['formula']==formula]
     da.reset_index(inplace=True,drop=True)
