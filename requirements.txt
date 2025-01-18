@@ -10,3 +10,7 @@ pydantic==2.10.3
 pytest
 python-dotenv
 ruff
+jarvis-tools
+mp-api
+requests
+bs4
