@@ -87,7 +87,7 @@ elif  structure_file:
                                            list_of_element_files, 
                                            cutoffs['max_ecutwfc'], 
                                            cutoffs['max_ecutrho'], 
-                                           kspacing=0.01)
+                                           kspacing=0.023)
     if input_file_content:
         st.session_state['input_file'] = input_file_content
         st.session_state['input_file_path'] = './src/qe_input/temp/qe.in'
@@ -100,7 +100,7 @@ elif  structure_file:
     st.write('Pseudo family used: ', pseudo_family)
     st.write('energy cutoff (Ry): ', cutoffs['max_ecutwfc'])
     st.write('density cutoff (Ry): ', cutoffs['max_ecutrho'])
-    st.write('k spacing (1/A): ', 0.01)
+    st.write('k spacing (1/A): ', 0.023)
 
     st.download_button(
             label="Download the files",
