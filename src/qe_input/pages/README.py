@@ -4,7 +4,7 @@ import streamlit as st
 st.header("About this app")
 
 st.markdown("""
-            This application is a product of the STFC Goldilocks project. The purpose if this 
+            This application is a product of the STFC **Goldilocks** project. The purpose if this 
             app is to help unexperienced user to setup single point SCF energy calculation with 
             Quantum Espresso package [1,2] and SSSP library of pseudo-potentials [3]. 
             
