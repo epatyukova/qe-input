@@ -72,7 +72,7 @@ def cutoff_limits(pseudo_potentials_cutoffs_folder: str,
         max_rhocutoff=np.nan
     return { 'max_ecutwfc': max_ecutoff, 'max_ecutrho': max_rhocutoff}
 
-def generate_input_file(save_directory, structure_file, pseudo_path, dict_pseudo_file_names, max_ecutwfc, max_ecutrho, kspacing):
+def generate_input_file(save_directory, structure_file, pseudo_path_temp, dict_pseudo_file_names, max_ecutwfc, max_ecutrho, kspacing):
     """
     This function generates the input file for Quantum Espresso for single point energy scf calculations.
     It save the file on disk and prints it out.
@@ -111,7 +111,14 @@ def generate_input_file(save_directory, structure_file, pseudo_path, dict_pseudo
     input_file_content=''
     with open(str(filename),'r') as file:
         for line in file:
-            input_file_content+=line+'\n'
+            input_file_content+=line
+            if('&CONTROL' in line):
+                indent=3
+                key='pseudo_dir'
+                value=pseudo_path_temp
+                input_file_content+=f"{' ' * indent}{key:16} = '{value}'\n"
+    with open(str(filename),'w') as file:
+        file.write(input_file_content)
     input_file_content=input_file_content[:-1]
     return input_file_content
 
