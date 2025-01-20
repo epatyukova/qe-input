@@ -2,7 +2,7 @@
 
 A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qe-input-gtgjedbxhfzmx6jhyyyefg.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qe-input-uz9q3ttmkku766bnzkvygr.streamlit.app/)
 
 This application is a product of the STFC **Goldilocks** project. The purpose if this 
 app is to help unexperienced user to setup single point SCF energy calculation with 
