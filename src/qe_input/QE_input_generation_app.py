@@ -100,7 +100,7 @@ elif  structure_file:
     st.write('Pseudo family used: ', pseudo_family)
     st.write('energy cutoff (Ry): ', cutoffs['max_ecutwfc'])
     st.write('density cutoff (Ry): ', cutoffs['max_ecutrho'])
-    st.write('k spacing (1/A): ', 0.01)
+    st.write('k spacing (1/A): ', 0.023)
 
     st.download_button(
             label="Download the files",
