@@ -4,7 +4,7 @@ import streamlit as st
 st.header("About this app")
 
 st.markdown("""
-            This application is a product of the STFC Goldilocks project. The purpose if this 
+            This application is a product of the STFC **Goldilocks** project. The purpose if this 
             app is to help unexperienced user to setup single point SCF energy calculation with 
             Quantum Espresso package [1,2] and SSSP library of pseudo-potentials [3]. 
             
@@ -68,6 +68,7 @@ st.markdown("""
 
             [7] *The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design* 
             Choudhary, K., Garrity, K.F., Reid, A.C.E. et al. npj Computational Materials 6, 173 (2020) https://doi.org/10.1038/s41524-020-00440-1
+            We use the partial copy of dft3d dataset to query the structures by formula.
 
             [8] *Materials Cloud three-dimensional crystals database (MC3D)* Sebastiaan Huber, Marnik Bercx, 
             Nicolas Hörmann, Martin Uhrin, Giovanni Pizzi, Nicola Marzari, 
