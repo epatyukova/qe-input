@@ -45,7 +45,7 @@ st.title("💬 Chatbot for QE input")
 
 st.write(
     """To generate input file, provide structure CIF file.
-    The Chatbot will generate an input file for QE single point scf calculations and answer your questions."""
+    The App will generate an input file for QE single point scf calculations and the Chatbot can answer your questions."""
 )
 structure_file = st.file_uploader("Upload the structure file", type=("cif"))
 
