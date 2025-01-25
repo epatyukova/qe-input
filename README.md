@@ -1,6 +1,4 @@
-# 💬 Chatbot for QE input generation
-
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+# 💬 QE input generation
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qe-input-gtgjedbxhfzmx6jhyyyefg.streamlit.app/)
 
