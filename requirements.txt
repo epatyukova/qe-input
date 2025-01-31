@@ -14,4 +14,5 @@ jarvis-tools
 mp-api
 requests
 bs4
-torch==2.3.0.post101
+pytorch==2.3.0.post101
+torchvision
