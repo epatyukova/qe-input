@@ -10,7 +10,7 @@ from data_utils import jarvis_structure_lookup, mp_structure_lookup, mc3d_struct
 from kspacing_model import predict_kspacing
 import langgraph
 
-st.title("Generate QE input with an LLM ReAct Agent")
+st.title("Generate QE input with an LLM Agent")
 
 if 'all_info' not in st.session_state.keys():
     st.session_state['all_info']=False
