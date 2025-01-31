@@ -7,6 +7,7 @@ from pymatgen.core.composition import Composition
 from pymatgen.io.cif import CifWriter
 from utils import list_of_pseudos, cutoff_limits, generate_input_file
 from data_utils import jarvis_structure_lookup, mp_structure_lookup, mc3d_structure_lookup, oqmd_strucutre_lookup
+from kspacing_model import predict_kspacing
 
 import shutil
 import json
@@ -145,14 +146,14 @@ if structure:
                                                          st.session_state['mode'], composition,save_directory)
     cutoffs=cutoff_limits('./src/qe_input/pseudo_cutoffs/', st.session_state['functional'],
                           st.session_state['mode'], composition)
-    
+    kspacing=predict_kspacing(structure)
     input_file_content=generate_input_file(save_directory, 
                                            file_path, 
                                            './', 
                                            list_of_element_files, 
                                            cutoffs['max_ecutwfc'], 
                                            cutoffs['max_ecutrho'], 
-                                           kspacing=0.01)
+                                           kspacing=kspacing)
     if input_file_content:
         st.session_state['input_file'] = input_file_content
         st.session_state['input_file_path'] = './src/qe_input/temp/qe.in'
@@ -164,7 +165,7 @@ if structure:
     st.write('Pseudo family used: ', pseudo_family)
     st.write('energy cutoff (Ry): ', cutoffs['max_ecutwfc'])
     st.write('density cutoff (Ry): ', cutoffs['max_ecutrho'])
-    st.write('k spacing (1/A): ', 0.023)
+    st.write('k spacing (1/A): ', kspacing)
 
     st.download_button(
             label="Download the files",
