@@ -1,6 +1,19 @@
 # 💬 QE input generation
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qe-input-uz9q3ttmkku766bnzkvygr.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qe-input-gtgjedbxhfzmx6jhyyyefg.streamlit.app/)
+
+This application is a product of the STFC **Goldilocks** project. The purpose if this 
+app is to help unexperienced user to setup single point SCF energy calculation with 
+Quantum Espresso package [1,2] and SSSP library of pseudo-potentials [3]. 
+            
+DFT calculations contain numerical approximations that need to be
+converged according to the accuracy required for each study. Here to save compute time 
+(and by this make computations more sustainable) we predict these parameters with 
+ML models trained on a database of converged SCF calculations performed before [7,8]. 
+            
+To facilitate understanding of the content of the input file we provide an integration 
+of the LLMs [9] helping to answer users questions about the content of the input file, 
+or provide user-requested changes to parameters.
 
 This application is a product of the STFC **Goldilocks** project. The purpose if this 
 app is to help unexperienced user to setup single point SCF energy calculation with 
