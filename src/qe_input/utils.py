@@ -7,6 +7,7 @@ import numpy as np
 from typing import Dict
 import streamlit as st
 from pathlib import Path
+import math
 
 def list_of_pseudos(pseudo_potentials_folder: str, 
                     functional: str,
@@ -131,3 +132,15 @@ def update_input_file(file_path: str, new_content: str) -> None:
        file.write(new_content)
     st.write('qe.in file was updated')
     return
+
+def atomic_positions_list(structure):
+    string=""
+    for site in structure.sites:
+        string+=site.as_dict()['species'][0]['element']+' '+str(site.coords[0])+\
+        ' '+str(site.coords[1])+' '+str(site.coords[2])+'\n'
+    return string
+
+def generate_kpoints_grid(structure, kspacing):
+    kpoints = [math.ceil(1/x/kspacing) for x in structure.lattice.abc]
+    kpoints.extend([0,0,0])
+    return kpoints

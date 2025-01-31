@@ -2,13 +2,9 @@ import os
 import streamlit as st
 import pandas as pd
 from openai import OpenAI
-from pymatgen.core.structure import Structure
-from pymatgen.core.composition import Composition
-from pymatgen.io.cif import CifWriter
-from utils import list_of_pseudos, cutoff_limits, generate_input_file
-from data_utils import jarvis_structure_lookup, mp_structure_lookup, mc3d_structure_lookup, oqmd_strucutre_lookup
-from kspacing_model import predict_kspacing
-import langgraph
+from utils import atomic_positions_list, generate_kpoints_grid
+
+
 
 st.title("Generate QE input with an LLM Agent")
 
@@ -41,11 +37,33 @@ if not (st.session_state['all_info']):
 if openai_api_key and st.session_state['all_info']:
     # Create an OpenAI client.
     client = OpenAI(api_key=openai_api_key)
-    st.markdown('**You can ask agent to correct any input parameters, ask about their meaning, or generate aiida code to run calculations!**')
+    st.markdown('** Ask the agent to generate an input QE SCF file for the compound you uploaded**')
     # Create a session state variable to store the chat messages. This ensures that the
     # messages persist across reruns.
+
+    cell_params=st.session_state['structure'].lattice.matrix
+
+    atomic_positions=atomic_positions_list(st.session_state['structure'])
+    kpoints=generate_kpoints_grid(st.session_state['structure'], st.session_state['kspacing'])
+
+    task=f"You are the assitant for generation input file for single point \
+              energy calculations with Quantum Espresso. If the user asks to generate an input file, \
+              the following information is availible to you: \
+              the formula of the compound {st.session_state['composition']},\
+              the list of pseudo potential files {st.session_state['list_of_element_files']},\
+              the path to pseudo potential files './',\
+              the cell parameters in angstroms {cell_params},\
+              the atomic positions in angstroms {atomic_positions},\
+              the energy cutoff is {st.session_state['cutoffs'][ 'max_ecutwfc']} in Ry,\
+              the density cutoff is {st.session_state['cutoffs'][ 'max_ecutrho']} in Ry,\
+              kpoints automatic are {kpoints}. \
+              Please calculate forces, and do gaussian smearing for dielectrics and semiconductors \
+              smearing for metals. Try to assess whether the provided compound is \
+              metal, dielectric or semiconductor before generation"
+
+
     if "messages" not in st.session_state:
-        st.session_state.messages = []
+        st.session_state.messages=[{"role": "system", "content": task}]
 
     for message in st.session_state.messages:
         if(message["role"]=="user" or message["role"]=="assistant"):
