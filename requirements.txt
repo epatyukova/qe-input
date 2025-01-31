@@ -3,7 +3,7 @@ openai
 langchain-core
 langchain-openai
 langgraph
-pytorch
+torch
 pymatgen
 ase
 crystal-toolkit
