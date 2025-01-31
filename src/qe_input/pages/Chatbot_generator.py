@@ -64,6 +64,10 @@ if openai_api_key and st.session_state['all_info']:
 
     if "messages" not in st.session_state:
         st.session_state.messages=[{"role": "system", "content": task}]
+    else:
+        for message in st.session_state.messages:
+            if message['role']=='system':
+                message['content']=task
 
     for message in st.session_state.messages:
         if(message["role"]=="user" or message["role"]=="assistant"):
