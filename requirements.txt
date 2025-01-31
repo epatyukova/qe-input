@@ -3,6 +3,7 @@ openai
 langchain-core
 langchain-openai
 langgraph
+pytorch
 pymatgen
 ase
 crystal-toolkit
@@ -14,4 +15,3 @@ jarvis-tools
 mp-api
 requests
 bs4
-pytorch
