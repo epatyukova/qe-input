@@ -66,7 +66,7 @@ def predict_kspacing(structure, training_stat=jarvis_stat,config=model_config):
                             n_h=config['n_h'],
                             classification=config['classification'])
     
-    checkpoint = torch.load('./src/qe_input/trained_models/kspacing_checkpoint.ckpt')
+    checkpoint = torch.load('./src/qe_input/trained_models/kspacing_checkpoint.ckpt', map_location='cpu')
 
     model_weights = checkpoint["state_dict"]
     for key in list(model_weights):
