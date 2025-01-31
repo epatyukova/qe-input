@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrCu2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.98313613
+_cell_length_b   11.57456429
+_cell_length_c   3.56140853
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrCu2O3
+_chemical_formula_sum   'Sr2 Cu4 O6'
+_cell_volume   164.19184952
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.50000000  0.49936993  1.0
+  Sr  Sr1  1  0.50000000  0.00000000  0.50063007  1.0
+  Cu  Cu2  1  0.00000000  0.16493587  0.00048733  1.0
+  Cu  Cu3  1  0.00000000  0.83506413  0.00048733  1.0
+  Cu  Cu4  1  0.50000000  0.66493587  0.99951267  1.0
+  Cu  Cu5  1  0.50000000  0.33506413  0.99951267  1.0
+  O  O6  1  0.00000000  0.67040689  0.99967990  1.0
+  O  O7  1  0.00000000  0.32959311  0.99967990  1.0
+  O  O8  1  0.50000000  0.17040689  0.00032010  1.0
+  O  O9  1  0.50000000  0.82959311  0.00032010  1.0
+  O  O10  1  0.00000000  0.00000000  0.00149440  1.0
+  O  O11  1  0.50000000  0.50000000  0.99850560  1.0

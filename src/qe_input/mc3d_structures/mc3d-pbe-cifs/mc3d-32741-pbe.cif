@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LuAgSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.19292988
+_cell_length_b   6.81021912
+_cell_length_c   13.63072838
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAgSe2
+_chemical_formula_sum   'Lu4 Ag4 Se8'
+_cell_volume   389.22233077
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.27952871  0.78994148  0.87196529  1.0
+  Lu  Lu1  1  0.77952871  0.71005852  0.12803471  1.0
+  Lu  Lu2  1  0.72047129  0.28994148  0.62803471  1.0
+  Lu  Lu3  1  0.22047129  0.21005852  0.37196529  1.0
+  Ag  Ag4  1  0.51202934  0.79141894  0.62568327  1.0
+  Ag  Ag5  1  1.01202934  0.70858106  0.37431673  1.0
+  Ag  Ag6  1  0.48797066  0.29141894  0.87431673  1.0
+  Ag  Ag7  1  -0.01202934  0.20858106  0.12568327  1.0
+  Se  Se8  1  0.27848743  0.91508165  0.22561591  1.0
+  Se  Se9  1  0.77848743  0.58491835  0.77438409  1.0
+  Se  Se10  1  0.72151257  0.41508165  0.27438409  1.0
+  Se  Se11  1  0.22151257  0.08491835  0.72561591  1.0
+  Se  Se12  1  0.22622381  0.48501024  0.52812635  1.0
+  Se  Se13  1  0.72622381  0.01498976  0.47187365  1.0
+  Se  Se14  1  0.77377619  0.98501024  0.97187365  1.0
+  Se  Se15  1  0.27377619  0.51498976  0.02812635  1.0

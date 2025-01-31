@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ba3(LiBi)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.63351111
+_cell_length_b   9.63351111
+_cell_length_c   9.63351111
+_cell_angle_alpha   149.17832643
+_cell_angle_beta   131.82327977
+_cell_angle_gamma   58.29125853
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3(LiBi)4
+_chemical_formula_sum   'Ba3 Li4 Bi4'
+_cell_volume   338.75697627
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.63089259  0.13089259  0.50000000  1.0
+  Ba  Ba1  1  0.36910741  0.86910741  0.50000000  1.0
+  Ba  Ba2  1  0.00000000  0.00000000  0.00000000  1.0
+  Li  Li3  1  0.36541928  0.67428626  0.69113302  1.0
+  Li  Li4  1  1.01684676  0.32571374  0.69113302  1.0
+  Li  Li5  1  0.98315324  0.67428626  1.30886698  1.0
+  Li  Li6  1  0.63458072  0.32571374  0.30886698  1.0
+  Bi  Bi7  1  0.78569513  0.78569513  1.00000000  1.0
+  Bi  Bi8  1  0.21430487  0.21430487  -0.00000000  1.0
+  Bi  Bi9  1  0.30496708  0.50000000  0.80496708  1.0
+  Bi  Bi10  1  0.69503292  0.50000000  1.19503292  1.0

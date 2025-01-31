@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeAg2GeSe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03057026
+_cell_length_b   7.34765075
+_cell_length_c   6.87272004
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAg2GeSe4
+_chemical_formula_sum   'Fe2 Ag4 Ge2 Se8'
+_cell_volume   405.53052010
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.65641037  -0.00457584  1.0
+  Fe  Fe1  1  -0.00000000  0.34358963  0.49542416  1.0
+  Ag  Ag2  1  0.24358972  0.17776579  0.01967715  1.0
+  Ag  Ag3  1  0.74358972  0.82223421  0.51967715  1.0
+  Ag  Ag4  1  0.75641028  0.17776579  0.01967715  1.0
+  Ag  Ag5  1  0.25641028  0.82223421  0.51967715  1.0
+  Ge  Ge6  1  0.50000000  0.33804680  0.50335337  1.0
+  Ge  Ge7  1  -0.00000000  0.66195320  0.00335337  1.0
+  Se  Se8  1  0.24739737  0.17070186  0.40297162  1.0
+  Se  Se9  1  0.74739737  0.82929814  0.90297162  1.0
+  Se  Se10  1  0.75260263  0.17070186  0.40297162  1.0
+  Se  Se11  1  0.25260263  0.82929814  0.90297162  1.0
+  Se  Se12  1  0.50000000  0.35626854  0.86062533  1.0
+  Se  Se13  1  0.00000000  0.64373146  0.36062533  1.0
+  Se  Se14  1  0.50000000  0.63686310  0.34779960  1.0
+  Se  Se15  1  0.00000000  0.36313690  0.84779960  1.0

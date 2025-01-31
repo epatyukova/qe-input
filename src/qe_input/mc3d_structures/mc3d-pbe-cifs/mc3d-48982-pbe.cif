@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnGeIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08165229
+_cell_length_b   3.96423075
+_cell_length_c   7.48279806
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGeIr
+_chemical_formula_sum   'Mn4 Ge4 Ir4'
+_cell_volume   180.40332505
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.96300182  0.75000000  0.69029667  1.0
+  Mn  Mn1  1  0.46300182  0.75000000  0.80970333  1.0
+  Mn  Mn2  1  0.03699818  0.25000000  0.30970333  1.0
+  Mn  Mn3  1  0.53699818  0.25000000  0.19029667  1.0
+  Ge  Ge4  1  0.74440502  0.75000000  0.38079503  1.0
+  Ge  Ge5  1  0.24440502  0.75000000  0.11920497  1.0
+  Ge  Ge6  1  0.25559498  0.25000000  0.61920497  1.0
+  Ge  Ge7  1  0.75559498  0.25000000  0.88079503  1.0
+  Ir  Ir8  1  0.83506859  0.75000000  0.06371255  1.0
+  Ir  Ir9  1  0.33506859  0.75000000  0.43628745  1.0
+  Ir  Ir10  1  0.16493141  0.25000000  0.93628745  1.0
+  Ir  Ir11  1  0.66493141  0.25000000  0.56371255  1.0

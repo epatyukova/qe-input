@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_MgNi2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45194125
+_cell_length_b   6.36074771
+_cell_length_c   5.03308580
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgNi2P
+_chemical_formula_sum   'Mg4 Ni8 P4'
+_cell_volume   206.55366654
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.98158534  0.25000000  0.62652294  1.0
+  Mg  Mg1  1  0.48158534  0.25000000  0.87347706  1.0
+  Mg  Mg2  1  0.01841466  0.75000000  0.37347706  1.0
+  Mg  Mg3  1  0.51841466  0.75000000  0.12652294  1.0
+  Ni  Ni4  1  0.82474748  0.44706993  0.09929312  1.0
+  Ni  Ni5  1  0.82474748  0.05293007  0.09929312  1.0
+  Ni  Ni6  1  0.32474748  0.44706993  0.40070688  1.0
+  Ni  Ni7  1  0.32474748  0.05293007  0.40070688  1.0
+  Ni  Ni8  1  0.17525252  0.94706993  0.90070688  1.0
+  Ni  Ni9  1  0.17525252  0.55293007  0.90070688  1.0
+  Ni  Ni10  1  0.67525252  0.94706993  0.59929312  1.0
+  Ni  Ni11  1  0.67525252  0.55293007  0.59929312  1.0
+  P  P12  1  0.62584479  0.25000000  0.37652929  1.0
+  P  P13  1  0.12584479  0.25000000  0.12347071  1.0
+  P  P14  1  0.37415521  0.75000000  0.62347071  1.0
+  P  P15  1  0.87415521  0.75000000  0.87652929  1.0

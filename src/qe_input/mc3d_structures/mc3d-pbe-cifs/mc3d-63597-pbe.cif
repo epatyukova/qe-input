@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sc3Si3Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30426149
+_cell_length_b   5.30426149
+_cell_length_c   12.81044179
+_cell_angle_alpha   71.31563321
+_cell_angle_beta   108.68436679
+_cell_angle_gamma   135.87233977
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc3Si3Ni
+_chemical_formula_sum   'Sc6 Si6 Ni2'
+_cell_volume   235.47936284
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.60070983  0.39929017  0.92090605  1.0
+  Sc  Sc1  1  1.39929017  -0.39929017  0.07909395  1.0
+  Sc  Sc2  1  1.47491161  -0.47491161  0.62126606  1.0
+  Sc  Sc3  1  0.52508839  0.47491161  0.37873394  1.0
+  Sc  Sc4  1  0.25753419  -0.25753419  0.77371856  1.0
+  Sc  Sc5  1  0.74246581  -0.74246581  0.22628144  1.0
+  Si  Si6  1  0.96143224  -0.96143224  0.76339705  1.0
+  Si  Si7  1  0.03856776  -0.03856776  0.23660295  1.0
+  Si  Si8  1  0.88193526  0.11806474  0.92428098  1.0
+  Si  Si9  1  1.11806474  -0.11806474  0.07571902  1.0
+  Si  Si10  1  0.86727646  -0.86727646  0.45427280  1.0
+  Si  Si11  1  0.13272354  -0.13272354  0.54572720  1.0
+  Ni  Ni12  1  0.75641925  0.24358075  0.59565172  1.0
+  Ni  Ni13  1  1.24358075  -0.24358075  0.40434828  1.0

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2LiGaAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32635788
+_cell_length_b   9.32635788
+_cell_length_c   5.91821797
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   98.67715798
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2LiGaAs2
+_chemical_formula_sum   'Na8 Li4 Ga4 As8'
+_cell_volume   508.88020306
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  -0.32415578  1.32415578  0.27843485  1.0
+  Na  Na1  1  0.17584422  0.82415578  0.22156515  1.0
+  Na  Na2  1  0.32415578  0.67584422  0.72156515  1.0
+  Na  Na3  1  -0.17584422  1.17584422  0.77843485  1.0
+  Na  Na4  1  -0.42773626  0.92773626  0.25000000  1.0
+  Na  Na5  1  0.07226374  1.42773626  0.25000000  1.0
+  Na  Na6  1  -0.07226374  0.57226374  0.75000000  1.0
+  Na  Na7  1  0.42773626  1.07226374  0.75000000  1.0
+  Li  Li8  1  0.38051548  1.38051548  0.50000000  1.0
+  Li  Li9  1  -0.11948452  0.88051548  0.00000000  1.0
+  Li  Li10  1  -0.38051548  0.61948452  0.50000000  1.0
+  Li  Li11  1  0.11948452  1.11948452  0.00000000  1.0
+  Ga  Ga12  1  0.13133950  1.13133950  0.50000000  1.0
+  Ga  Ga13  1  -0.36866050  0.63133950  0.00000000  1.0
+  Ga  Ga14  1  -0.13133950  0.86866050  0.50000000  1.0
+  Ga  Ga15  1  0.36866050  1.36866050  0.00000000  1.0
+  As  As16  1  -0.10667456  1.10667456  0.28059574  1.0
+  As  As17  1  0.39332544  0.60667456  0.21940426  1.0
+  As  As18  1  0.10667456  0.89332544  0.71940426  1.0
+  As  As19  1  -0.39332544  1.39332544  0.78059574  1.0
+  As  As20  1  0.35710633  1.14289367  0.25000000  1.0
+  As  As21  1  -0.14289367  0.64289367  0.25000000  1.0
+  As  As22  1  0.14289367  1.35710633  0.75000000  1.0
+  As  As23  1  -0.35710633  0.85710633  0.75000000  1.0

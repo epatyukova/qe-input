@@ -12,6 +12,9 @@ st.markdown("""
             converged according to the accuracy required for each study. Here to save compute time 
             (and by this make computations more sustainable) we predict these parameters with 
             ML models trained on a database of converged SCF calculations performed before [7,8]. 
+
+            To predict kspacing we use CGCNN model [10]. Currenly the model is trained on Jarvis dataset [7]. 
+            Mean absolute error of the model on the test set is MAE = 8.25, and correlation coefficient is r2 = 0.616.
             
             To facilitate understanding of the content of the input file we provide an integration 
             of the LLMs [9] helping to answer users questions about the content of the input file, 
@@ -68,6 +71,7 @@ st.markdown("""
 
             [7] *The joint automated repository for various integrated simulations (JARVIS) for data-driven materials design* 
             Choudhary, K., Garrity, K.F., Reid, A.C.E. et al. npj Computational Materials 6, 173 (2020) https://doi.org/10.1038/s41524-020-00440-1
+            We use the partial copy of dft3d dataset to query the structures by formula.
 
             [8] *Materials Cloud three-dimensional crystals database (MC3D)* Sebastiaan Huber, Marnik Bercx, 
             Nicolas Hörmann, Martin Uhrin, Giovanni Pizzi, Nicola Marzari, 
@@ -75,5 +79,9 @@ st.markdown("""
 
             [9] To provide reference and advise we suggest to use *OpenAI* models, 
             see usage conditions https://openai.com/policies/row-terms-of-use/ 
+
+            [10] *Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties*
+            Tian Xie and Jeffrey C. Grossman, Phys. Rev. Lett., 2018, 120 (14), 145301.
+    
 
             """)

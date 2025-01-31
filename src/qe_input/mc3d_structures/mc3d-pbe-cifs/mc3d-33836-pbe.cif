@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaAsO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.46169886
+_cell_length_b   5.41437420
+_cell_length_c   6.30079694
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.97198356
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaAsO3
+_chemical_formula_sum   'La2 As2 O6'
+_cell_volume   146.33441645
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.66325622  0.75000000  0.30119335  1.0
+  La  La1  1  0.33674378  0.25000000  0.69880665  1.0
+  As  As2  1  0.92356923  0.75000000  0.85735935  1.0
+  As  As3  1  0.07643077  0.25000000  0.14264065  1.0
+  O  O4  1  0.80783789  0.99923832  0.65683669  1.0
+  O  O5  1  0.80783789  0.50076168  0.65683669  1.0
+  O  O6  1  0.19216211  0.49923832  0.34316331  1.0
+  O  O7  1  0.19216211  0.00076168  0.34316331  1.0
+  O  O8  1  0.33892115  0.75000000  0.88860145  1.0
+  O  O9  1  0.66107885  0.25000000  0.11139855  1.0

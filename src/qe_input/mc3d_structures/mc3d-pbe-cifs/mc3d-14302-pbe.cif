@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La3Ni2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.55688406
+_cell_length_b   10.55688406
+_cell_length_c   10.55688406
+_cell_angle_alpha   159.03195197
+_cell_angle_beta   159.03195197
+_cell_angle_gamma   29.82364777
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Ni2O7
+_chemical_formula_sum   'La3 Ni2 O7'
+_cell_volume   150.57326981
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.67869900  0.67869900  1.00000000  1.0
+  La  La1  1  0.32130100  0.32130100  0.00000000  1.0
+  La  La2  1  0.50000000  0.50000000  1.00000000  1.0
+  Ni  Ni3  1  0.90366115  0.90366115  1.00000000  1.0
+  Ni  Ni4  1  0.09633885  0.09633885  0.00000000  1.0
+  O  O5  1  0.40384777  0.90384777  0.50000000  1.0
+  O  O6  1  0.59615223  0.09615223  0.50000000  1.0
+  O  O7  1  0.90384777  0.40384777  0.50000000  1.0
+  O  O8  1  0.09615223  0.59615223  0.50000000  1.0
+  O  O9  1  0.79547555  0.79547555  1.00000000  1.0
+  O  O10  1  0.20452445  0.20452445  0.00000000  1.0
+  O  O11  1  0.00000000  0.00000000  0.00000000  1.0

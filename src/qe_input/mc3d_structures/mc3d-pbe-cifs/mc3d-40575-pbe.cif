@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfSiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50100546
+_cell_length_b   3.96088257
+_cell_length_c   7.42237957
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSiIr
+_chemical_formula_sum   'Hf4 Si4 Ir4'
+_cell_volume   191.12418993
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.98040385  0.75000000  0.68090031  1.0
+  Hf  Hf1  1  0.48040385  0.75000000  0.81909969  1.0
+  Hf  Hf2  1  0.01959615  0.25000000  0.31909969  1.0
+  Hf  Hf3  1  0.51959615  0.25000000  0.18090031  1.0
+  Si  Si4  1  0.72331108  0.75000000  0.38007794  1.0
+  Si  Si5  1  0.22331108  0.75000000  0.11992206  1.0
+  Si  Si6  1  0.27668892  0.25000000  0.61992206  1.0
+  Si  Si7  1  0.77668892  0.25000000  0.88007794  1.0
+  Ir  Ir8  1  0.84579627  0.75000000  0.06487643  1.0
+  Ir  Ir9  1  0.34579627  0.75000000  0.43512357  1.0
+  Ir  Ir10  1  0.15420373  0.25000000  0.93512357  1.0
+  Ir  Ir11  1  0.65420373  0.25000000  0.56487643  1.0

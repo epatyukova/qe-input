@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_RbAl(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.61679957
+_cell_length_b   5.61679957
+_cell_length_c   7.83878481
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAl(MoO4)2
+_chemical_formula_sum   'Rb1 Al1 Mo2 O8'
+_cell_volume   214.16930478
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.00000000  -0.00000000  -0.00000000  1.0
+  Al  Al1  1  0.00000000  0.00000000  0.50000000  1.0
+  Mo  Mo2  1  0.33333333  0.66666667  0.28658563  1.0
+  Mo  Mo3  1  0.66666667  0.33333333  0.71341437  1.0
+  O  O4  1  0.68328254  0.84164127  0.35655764  1.0
+  O  O5  1  0.84164127  0.68328254  0.64344236  1.0
+  O  O6  1  0.84164127  0.15835873  0.64344236  1.0
+  O  O7  1  0.15835873  0.84164127  0.35655764  1.0
+  O  O8  1  0.15835873  0.31671746  0.35655764  1.0
+  O  O9  1  0.31671746  0.15835873  0.64344236  1.0
+  O  O10  1  0.33333333  0.66666667  0.06519578  1.0
+  O  O11  1  0.66666667  0.33333333  0.93480422  1.0

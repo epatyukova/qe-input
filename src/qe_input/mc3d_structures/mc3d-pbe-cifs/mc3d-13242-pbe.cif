@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_KMo2Cl7O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27717437
+_cell_length_b   8.27717437
+_cell_length_c   10.70950380
+_cell_angle_alpha   77.41258657
+_cell_angle_beta   102.58741343
+_cell_angle_gamma   87.64469968
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMo2Cl7O2
+_chemical_formula_sum   'K2 Mo4 Cl14 O4'
+_cell_volume   695.84932248
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  1.40435806  0.40435806  0.25000000  1.0
+  K  K1  1  0.59564194  -0.40435806  0.75000000  1.0
+  Mo  Mo2  1  0.63847919  -0.13258874  0.33613550  1.0
+  Mo  Mo3  1  1.13258874  0.36152081  0.83613550  1.0
+  Mo  Mo4  1  0.86741126  -0.36152081  0.16386450  1.0
+  Mo  Mo5  1  1.36152081  0.13258874  0.66386450  1.0
+  Cl  Cl6  1  0.52958940  -0.20968198  0.13229015  1.0
+  Cl  Cl7  1  1.20968198  0.47041060  0.63229015  1.0
+  Cl  Cl8  1  0.79031802  -0.47041060  0.36770985  1.0
+  Cl  Cl9  1  1.47041060  0.20968198  0.86770985  1.0
+  Cl  Cl10  1  0.42950699  -0.26726350  0.42005000  1.0
+  Cl  Cl11  1  1.26726350  0.57049301  0.92005000  1.0
+  Cl  Cl12  1  0.73273650  -0.57049301  0.07995000  1.0
+  Cl  Cl13  1  1.57049301  0.26726350  0.57995000  1.0
+  Cl  Cl14  1  1.19762043  0.16954682  0.45147594  1.0
+  Cl  Cl15  1  0.83045318  -0.19762043  0.95147594  1.0
+  Cl  Cl16  1  1.16954682  0.19762043  0.04852406  1.0
+  Cl  Cl17  1  0.80237957  -0.16954682  0.54852406  1.0
+  Cl  Cl18  1  0.89434659  -0.10565341  0.25000000  1.0
+  Cl  Cl19  1  1.10565341  0.10565341  0.75000000  1.0
+  O  O20  1  1.56845953  0.06838933  0.29741752  1.0
+  O  O21  1  0.93161067  -0.56845953  0.79741752  1.0
+  O  O22  1  1.06838933  0.56845953  0.20258248  1.0
+  O  O23  1  0.43154047  -0.06838933  0.70258248  1.0

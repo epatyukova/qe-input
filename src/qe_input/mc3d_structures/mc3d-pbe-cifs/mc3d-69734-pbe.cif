@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeCu2SiTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46539227
+_cell_length_b   7.30885502
+_cell_length_c   7.00421765
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCu2SiTe4
+_chemical_formula_sum   'Fe2 Cu4 Si2 Te8'
+_cell_volume   433.36722941
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.65881073  0.00277206  1.0
+  Fe  Fe1  1  0.00000000  0.34118927  0.50277206  1.0
+  Cu  Cu2  1  0.24764527  0.17259187  0.01188605  1.0
+  Cu  Cu3  1  0.74764527  0.82740813  0.51188605  1.0
+  Cu  Cu4  1  0.75235473  0.17259187  0.01188605  1.0
+  Cu  Cu5  1  0.25235473  0.82740813  0.51188605  1.0
+  Si  Si6  1  0.50000000  0.33161815  0.50577511  1.0
+  Si  Si7  1  0.00000000  0.66838185  0.00577511  1.0
+  Te  Te8  1  0.50000000  0.66314654  0.37811111  1.0
+  Te  Te9  1  0.00000000  0.33685346  0.87811111  1.0
+  Te  Te10  1  0.25063436  0.16211162  0.38245341  1.0
+  Te  Te11  1  0.75063436  0.83788838  0.88245341  1.0
+  Te  Te12  1  0.74936564  0.16211162  0.38245341  1.0
+  Te  Te13  1  0.24936564  0.83788838  0.88245341  1.0
+  Te  Te14  1  0.50000000  0.32550347  0.87716281  1.0
+  Te  Te15  1  0.00000000  0.67449653  0.37716281  1.0

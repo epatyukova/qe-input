@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_ZnAu3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.90655425
+_cell_length_b   8.90655425
+_cell_length_c   5.65499558
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   37.14961011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnAu3
+_chemical_formula_sum   'Zn4 Au12'
+_cell_volume   270.90408448
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  -0.13583834  0.86416166  0.00000000  1.0
+  Zn  Zn1  1  0.36416166  0.36416166  0.50000000  1.0
+  Zn  Zn2  1  0.13583834  0.13583834  0.00000000  1.0
+  Zn  Zn3  1  -0.36416166  0.63583834  0.50000000  1.0
+  Au  Au4  1  -0.81773780  0.81773780  0.81722587  1.0
+  Au  Au5  1  -0.31773780  0.31773780  0.68277413  1.0
+  Au  Au6  1  -0.18226220  0.18226220  0.18277413  1.0
+  Au  Au7  1  -0.68226220  0.68226220  0.31722587  1.0
+  Au  Au8  1  0.00252122  0.49747878  0.75000000  1.0
+  Au  Au9  1  -0.49747878  0.99747878  0.75000000  1.0
+  Au  Au10  1  -0.50252122  1.00252122  0.25000000  1.0
+  Au  Au11  1  -0.00252122  0.50252122  0.25000000  1.0
+  Au  Au12  1  -0.38080087  0.61919913  0.00000000  1.0
+  Au  Au13  1  0.11919913  0.11919913  0.50000000  1.0
+  Au  Au14  1  0.38080087  0.38080087  0.00000000  1.0
+  Au  Au15  1  -0.11919913  0.88080087  0.50000000  1.0

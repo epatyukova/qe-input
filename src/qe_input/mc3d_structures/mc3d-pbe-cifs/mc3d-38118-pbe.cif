@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ca4MgPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.24246379
+_cell_length_b   10.24246379
+_cell_length_c   10.24246379
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca4MgPd
+_chemical_formula_sum   'Ca16 Mg4 Pd4'
+_cell_volume   759.79829331
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.05760905  0.44239095  0.44239095  1.0
+  Ca  Ca1  1  0.44239095  0.44239095  0.05760905  1.0
+  Ca  Ca2  1  0.44239095  0.05760905  0.44239095  1.0
+  Ca  Ca3  1  0.05760905  0.05760905  0.44239095  1.0
+  Ca  Ca4  1  0.05760905  0.44239095  0.05760905  1.0
+  Ca  Ca5  1  0.44239095  0.05760905  0.05760905  1.0
+  Ca  Ca6  1  -0.80747700  0.80747700  0.80747700  1.0
+  Ca  Ca7  1  -0.19252300  0.80747700  0.19252300  1.0
+  Ca  Ca8  1  -0.19252300  0.19252300  0.80747700  1.0
+  Ca  Ca9  1  0.19252300  1.19252300  -0.19252300  1.0
+  Ca  Ca10  1  0.19252300  -0.19252300  0.19252300  1.0
+  Ca  Ca11  1  -0.19252300  0.19252300  0.19252300  1.0
+  Ca  Ca12  1  -0.34493305  0.65506695  0.65506695  1.0
+  Ca  Ca13  1  1.03479915  0.65506695  -0.34493305  1.0
+  Ca  Ca14  1  -0.34493305  0.65506695  1.03479915  1.0
+  Ca  Ca15  1  0.65506695  1.03479915  -0.34493305  1.0
+  Mg  Mg16  1  0.42228984  1.42228984  0.42228984  1.0
+  Mg  Mg17  1  -0.26686953  0.42228984  0.42228984  1.0
+  Mg  Mg18  1  0.42228984  1.42228984  -0.26686953  1.0
+  Mg  Mg19  1  0.42228984  -0.26686953  0.42228984  1.0
+  Pd  Pd20  1  0.86073970  0.86073970  -0.13926030  1.0
+  Pd  Pd21  1  0.41778091  0.86073970  -0.13926030  1.0
+  Pd  Pd22  1  0.86073970  0.86073970  -0.58221909  1.0
+  Pd  Pd23  1  0.86073970  0.41778091  -0.13926030  1.0

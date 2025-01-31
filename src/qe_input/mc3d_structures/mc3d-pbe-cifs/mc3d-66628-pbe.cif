@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Tl2Hg3Te4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59774000
+_cell_length_b   7.59774000
+_cell_length_c   14.42453616
+_cell_angle_alpha   66.01289098
+_cell_angle_beta   113.98710902
+_cell_angle_gamma   120.99630613
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl2Hg3Te4
+_chemical_formula_sum   'Tl4 Hg6 Te8'
+_cell_volume   631.11315224
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  1.74266485  0.08108630  0.44876642  1.0
+  Tl  Tl1  1  0.91891370  0.25733515  0.94876642  1.0
+  Tl  Tl2  1  1.08108630  0.74266485  0.05123358  1.0
+  Tl  Tl3  1  1.25733515  -0.08108630  0.55123358  1.0
+  Hg  Hg4  1  1.43321580  0.31792742  0.14708499  1.0
+  Hg  Hg5  1  0.68207258  0.56678420  0.64708499  1.0
+  Hg  Hg6  1  1.31792742  0.43321580  0.35291501  1.0
+  Hg  Hg7  1  1.56678420  -0.31792742  0.85291501  1.0
+  Hg  Hg8  1  0.86114397  0.86114397  0.25000000  1.0
+  Hg  Hg9  1  1.13885603  0.13885603  0.75000000  1.0
+  Te  Te10  1  0.53698418  -0.25887452  0.06429247  1.0
+  Te  Te11  1  1.25887452  -0.53698418  0.56429247  1.0
+  Te  Te12  1  0.74112548  -0.46301582  0.43570753  1.0
+  Te  Te13  1  0.46301582  0.25887452  0.93570753  1.0
+  Te  Te14  1  0.27752641  -0.08831998  0.26427163  1.0
+  Te  Te15  1  1.08831998  0.72247359  0.76427163  1.0
+  Te  Te16  1  0.91168002  0.27752641  0.23572837  1.0
+  Te  Te17  1  0.72247359  0.08831998  0.73572837  1.0

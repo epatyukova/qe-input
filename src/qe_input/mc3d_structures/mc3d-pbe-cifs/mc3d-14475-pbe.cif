@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96150334
+_cell_length_b   5.96150334
+_cell_length_c   5.96150334
+_cell_angle_alpha   106.05491119
+_cell_angle_beta   106.05491119
+_cell_angle_gamma   116.54387769
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YCrO4
+_chemical_formula_sum   'Y2 Cr2 O8'
+_cell_volume   161.21085862
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.25000000  0.75000000  0.50000000  1.0
+  Y  Y1  1  0.50000000  0.50000000  0.00000000  1.0
+  Cr  Cr2  1  0.00000000  0.00000000  0.00000000  1.0
+  Cr  Cr3  1  0.75000000  1.25000000  0.50000000  1.0
+  O  O4  1  0.17389361  0.35664468  0.18275107  1.0
+  O  O5  1  1.10664468  1.42389361  0.68275107  1.0
+  O  O6  1  0.74114255  0.42389361  0.31724893  1.0
+  O  O7  1  0.17389361  0.99114255  0.81724893  1.0
+  O  O8  1  0.57610639  0.89335532  0.31724893  1.0
+  O  O9  1  1.64335532  0.82610639  0.81724893  1.0
+  O  O10  1  1.00885745  0.82610639  1.18275107  1.0
+  O  O11  1  0.57610639  1.25885745  0.68275107  1.0

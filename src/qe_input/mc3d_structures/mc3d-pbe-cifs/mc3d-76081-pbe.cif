@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CuAsF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47363755
+_cell_length_b   7.47363755
+_cell_length_c   7.47363755
+_cell_angle_alpha   123.56693568
+_cell_angle_beta   87.12177219
+_cell_angle_gamma   119.82170350
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAsF7
+_chemical_formula_sum   'Cu2 As2 F14'
+_cell_volume   286.81395294
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  F  F0  1  1.33697978  0.76655611  1.20251038  1.0
+  F  F1  1  0.93595427  0.86553060  1.70251038  1.0
+  F  F2  1  0.66302022  0.86553060  1.42957633  1.0
+  F  F3  1  1.06404573  0.76655611  0.92957633  1.0
+  F  F4  1  1.33697978  1.13446940  1.57042367  1.0
+  F  F5  1  0.93595427  0.23344389  1.07042367  1.0
+  F  F6  1  0.66302022  0.23344389  0.79748962  1.0
+  F  F7  1  1.06404573  1.13446940  1.29748962  1.0
+  F  F8  1  1.72734406  0.77515321  0.95219085  1.0
+  F  F9  1  1.67703765  1.22484679  1.45219085  1.0
+  F  F10  1  1.27265594  1.22484679  1.04780915  1.0
+  F  F11  1  1.32296235  0.77515321  0.54780915  1.0
+  F  F12  1  0.92608369  0.67608369  1.25000000  1.0
+  F  F13  1  1.07391631  0.32391631  0.75000000  1.0
+  Cu  Cu14  1  1.00000000  0.50000000  1.00000000  1.0
+  Cu  Cu15  1  1.00000000  1.00000000  1.50000000  1.0
+  As  As16  1  0.50000000  -0.00000000  0.50000000  1.0
+  As  As17  1  1.00000000  1.00000000  1.00000000  1.0

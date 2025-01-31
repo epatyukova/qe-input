@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsCu(BiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43179777
+_cell_length_b   7.43179777
+_cell_length_c   15.06003942
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   148.08791612
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCu(BiS2)2
+_chemical_formula_sum   'Cs2 Cu2 Bi4 S8'
+_cell_volume   439.69882879
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.10868232  0.89131768  0.49132250  1.0
+  Cs  Cs1  1  -0.10868232  0.10868232  0.99132250  1.0
+  Cu  Cu2  1  0.15182831  0.84817169  0.97030557  1.0
+  Cu  Cu3  1  -0.15182831  0.15182831  0.47030557  1.0
+  Bi  Bi4  1  0.37486219  0.62513781  0.67560628  1.0
+  Bi  Bi5  1  -0.37486219  0.37486219  0.17560628  1.0
+  Bi  Bi6  1  -0.35685209  0.35685209  0.78444198  1.0
+  Bi  Bi7  1  0.35685209  0.64314791  0.28444198  1.0
+  S  S8  1  0.00525517  0.99474483  0.72335858  1.0
+  S  S9  1  -0.00525517  0.00525517  0.22335858  1.0
+  S  S10  1  0.25851959  0.74148041  0.13552356  1.0
+  S  S11  1  -0.25851959  0.25851959  0.63552356  1.0
+  S  S12  1  0.25299517  0.74700483  0.84871705  1.0
+  S  S13  1  -0.25299517  0.25299517  0.34871705  1.0
+  S  S14  1  0.40934564  0.59065436  0.50172449  1.0
+  S  S15  1  -0.40934564  0.40934564  0.00172449  1.0

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CsHg2Br5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.89289766
+_cell_length_b   6.55300623
+_cell_length_c   11.66654885
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.48538726
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsHg2Br5
+_chemical_formula_sum   'Cs2 Hg4 Br10'
+_cell_volume   640.93212289
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.03454907  0.25000000  0.26437063  1.0
+  Cs  Cs1  1  0.96545093  0.75000000  0.73562937  1.0
+  Hg  Hg2  1  0.61750125  0.25000000  0.43650506  1.0
+  Hg  Hg3  1  0.38249875  0.75000000  0.56349494  1.0
+  Hg  Hg4  1  0.55374299  0.25000000  0.84905174  1.0
+  Hg  Hg5  1  0.44625701  0.75000000  0.15094826  1.0
+  Br  Br6  1  0.91100150  0.25000000  0.56217813  1.0
+  Br  Br7  1  0.08899850  0.75000000  0.43782187  1.0
+  Br  Br8  1  0.84898440  0.25000000  0.90482099  1.0
+  Br  Br9  1  0.15101560  0.75000000  0.09517901  1.0
+  Br  Br10  1  0.44365915  0.25000000  0.21070712  1.0
+  Br  Br11  1  0.55634085  0.75000000  0.78929288  1.0
+  Br  Br12  1  0.41090193  0.25000000  0.56443398  1.0
+  Br  Br13  1  0.58909807  0.75000000  0.43556602  1.0
+  Br  Br14  1  0.27966679  0.25000000  0.85965491  1.0
+  Br  Br15  1  0.72033321  0.75000000  0.14034509  1.0

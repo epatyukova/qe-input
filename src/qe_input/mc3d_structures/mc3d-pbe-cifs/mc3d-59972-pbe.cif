@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RbSO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.97345257
+_cell_length_b   5.61211796
+_cell_length_c   7.83892824
+_cell_angle_alpha   107.17808308
+_cell_angle_beta   100.19165331
+_cell_angle_gamma   95.10571822
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSO4F
+_chemical_formula_sum   'Rb2 S2 O8 F2'
+_cell_volume   244.30193562
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  -0.82946208  -0.60864488  -0.24056227  1.0
+  Rb  Rb1  1  -0.17053792  -0.39135512  -0.75943773  1.0
+  S  S2  1  -0.72638720  -0.88805696  -0.79242081  1.0
+  S  S3  1  -0.27361280  -0.11194304  -0.20757919  1.0
+  O  O4  1  -0.47810628  -0.95419233  -0.68857421  1.0
+  O  O5  1  -0.52189372  -0.04580767  -0.31142579  1.0
+  O  O6  1  -0.86308888  -0.80833739  -0.65384849  1.0
+  O  O7  1  -0.13691112  -0.19166261  -0.34615151  1.0
+  O  O8  1  -0.66272986  -0.69770162  -0.87472625  1.0
+  O  O9  1  -0.33727014  -0.30229838  -0.12527375  1.0
+  O  O10  1  -0.79673350  -0.14829597  -0.91479434  1.0
+  O  O11  1  -0.20326650  -0.85170403  -0.08520566  1.0
+  F  F12  1  -0.35070531  -0.71724988  -0.54663864  1.0
+  F  F13  1  -0.64929469  -0.28275012  -0.45336136  1.0

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_In2As2Cl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85080918
+_cell_length_b   9.52200090
+_cell_length_c   7.67050608
+_cell_angle_alpha   108.86971240
+_cell_angle_beta   102.39749785
+_cell_angle_gamma   100.59135415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2As2Cl2O5
+_chemical_formula_sum   'In4 As4 Cl4 O10'
+_cell_volume   444.74148030
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  -0.87108883  -0.34876735  -0.77800216  1.0
+  In  In1  1  -0.12891117  -0.65123265  -0.22199784  1.0
+  In  In2  1  -0.39917391  -0.52266042  -0.69161160  1.0
+  In  In3  1  -0.60082609  -0.47733958  -0.30838840  1.0
+  As  As4  1  -0.86257678  -0.73958196  -0.84423566  1.0
+  As  As5  1  -0.13742322  -0.26041804  -0.15576434  1.0
+  As  As6  1  -0.67052418  -0.77872004  -0.22393239  1.0
+  As  As7  1  -0.32947582  -0.22127996  -0.77606761  1.0
+  Cl  Cl8  1  -0.81664807  -0.07228405  -0.72232770  1.0
+  Cl  Cl9  1  -0.18335193  -0.92771595  -0.27767230  1.0
+  Cl  Cl10  1  -0.21796340  -0.70874769  -0.60511822  1.0
+  Cl  Cl11  1  -0.78203660  -0.29125231  -0.39488178  1.0
+  O  O12  1  -0.98082411  -0.59911764  -0.90710011  1.0
+  O  O13  1  -0.01917589  -0.40088236  -0.09289989  1.0
+  O  O14  1  -0.81987734  -0.64396838  -0.26544967  1.0
+  O  O15  1  -0.18012266  -0.35603162  -0.73455033  1.0
+  O  O16  1  -0.67373038  -0.61016270  -0.61830456  1.0
+  O  O17  1  -0.32626962  -0.38983730  -0.38169544  1.0
+  O  O18  1  -0.63218996  -0.71620425  -0.95415333  1.0
+  O  O19  1  -0.36781004  -0.28379575  -0.04584667  1.0
+  O  O20  1  -0.55894624  -0.35841506  -0.78477649  1.0
+  O  O21  1  -0.44105376  -0.64158494  -0.21522351  1.0

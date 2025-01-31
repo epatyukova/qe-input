@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Gd2Si4Mo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.89196161
+_cell_length_b   6.94709318
+_cell_length_c   6.79132861
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.03905699
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Si4Mo3
+_chemical_formula_sum   'Gd4 Si8 Mo6'
+_cell_volume   307.37513650
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.31038934  0.66884933  0.93843145  1.0
+  Gd  Gd1  1  0.31038934  0.83115067  0.43843145  1.0
+  Gd  Gd2  1  0.68961066  0.16884933  0.56156855  1.0
+  Gd  Gd3  1  0.68961066  0.33115067  0.06156855  1.0
+  Si  Si4  1  0.99533759  0.86844005  0.62844353  1.0
+  Si  Si5  1  0.99533759  0.63155995  0.12844353  1.0
+  Si  Si6  1  0.00466241  0.36844005  0.87155647  1.0
+  Si  Si7  1  0.00466241  0.13155995  0.37155647  1.0
+  Si  Si8  1  0.59120002  0.95429178  0.86995815  1.0
+  Si  Si9  1  0.59120002  0.54570822  0.36995815  1.0
+  Si  Si10  1  0.40879998  0.45429178  0.63004185  1.0
+  Si  Si11  1  0.40879998  0.04570822  0.13004185  1.0
+  Mo  Mo12  1  0.75182322  0.66324964  0.74916802  1.0
+  Mo  Mo13  1  0.75182322  0.83675036  0.24916802  1.0
+  Mo  Mo14  1  0.24817678  0.16324964  0.75083198  1.0
+  Mo  Mo15  1  0.24817678  0.33675036  0.25083198  1.0
+  Mo  Mo16  1  0.00000000  0.00000000  0.00000000  1.0
+  Mo  Mo17  1  0.00000000  0.50000000  0.50000000  1.0

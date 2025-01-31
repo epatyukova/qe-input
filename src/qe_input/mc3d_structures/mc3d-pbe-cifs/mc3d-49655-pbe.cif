@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaGe2Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90161241
+_cell_length_b   6.90161241
+_cell_length_c   6.90161241
+_cell_angle_alpha   85.73437496
+_cell_angle_beta   115.77397036
+_cell_angle_gamma   129.75889904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGe2Pd3
+_chemical_formula_sum   'Na2 Ge4 Pd6'
+_cell_volume   217.49826776
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  1.28728601  0.53728601  0.75000000  1.0
+  Na  Na1  1  1.71271399  1.46271399  1.25000000  1.0
+  Ge  Ge2  1  0.81317011  0.23407251  0.92090239  1.0
+  Ge  Ge3  1  1.18682989  0.76592749  1.07909761  1.0
+  Ge  Ge4  1  1.18682989  1.10773228  1.42090239  1.0
+  Ge  Ge5  1  0.81317011  0.89226772  1.57909761  1.0
+  Pd  Pd6  1  0.70152860  0.50000000  0.70152860  1.0
+  Pd  Pd7  1  1.70152860  1.00000000  1.20152860  1.0
+  Pd  Pd8  1  0.29847140  0.50000000  0.29847140  1.0
+  Pd  Pd9  1  1.29847140  1.00000000  0.79847140  1.0
+  Pd  Pd10  1  1.00000000  1.00000000  1.00000000  1.0
+  Pd  Pd11  1  0.50000000  0.00000000  0.50000000  1.0

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Zn8Ag5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.13597844
+_cell_length_b   8.13597844
+_cell_length_c   8.13597844
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn8Ag5
+_chemical_formula_sum   'Zn16 Ag10'
+_cell_volume   414.57916907
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.36991508  0.65600905  0.65600905  1.0
+  Zn  Zn1  1  0.65600905  0.36991508  0.65600905  1.0
+  Zn  Zn2  1  1.00000000  0.71390603  1.34399095  1.0
+  Zn  Zn3  1  0.71390603  1.00000000  1.34399095  1.0
+  Zn  Zn4  1  0.65600905  0.65600905  0.36991508  1.0
+  Zn  Zn5  1  1.28609397  1.28609397  0.63008492  1.0
+  Zn  Zn6  1  1.00000000  1.34399095  0.71390603  1.0
+  Zn  Zn7  1  1.28609397  0.63008492  1.28609397  1.0
+  Zn  Zn8  1  0.63008492  1.28609397  1.28609397  1.0
+  Zn  Zn9  1  1.34399095  1.00000000  0.71390603  1.0
+  Zn  Zn10  1  0.71390603  1.34399095  1.00000000  1.0
+  Zn  Zn11  1  1.34399095  0.71390603  1.00000000  1.0
+  Zn  Zn12  1  0.77949870  0.77949870  0.77949870  1.0
+  Zn  Zn13  1  1.00000000  1.00000000  0.22050130  1.0
+  Zn  Zn14  1  1.00000000  0.22050130  1.00000000  1.0
+  Zn  Zn15  1  0.22050130  1.00000000  1.00000000  1.0
+  Ag  Ag16  1  0.64638211  0.64638211  0.00000000  1.0
+  Ag  Ag17  1  0.64638211  -0.00000000  0.64638211  1.0
+  Ag  Ag18  1  -0.00000000  0.64638211  0.64638211  1.0
+  Ag  Ag19  1  0.35361789  -0.00000000  0.35361789  1.0
+  Ag  Ag20  1  -0.00000000  0.35361789  0.35361789  1.0
+  Ag  Ag21  1  0.35361789  0.35361789  0.00000000  1.0
+  Ag  Ag22  1  0.35829021  0.35829021  0.35829021  1.0
+  Ag  Ag23  1  1.00000000  1.00000000  0.64170979  1.0
+  Ag  Ag24  1  1.00000000  0.64170979  1.00000000  1.0
+  Ag  Ag25  1  0.64170979  1.00000000  1.00000000  1.0

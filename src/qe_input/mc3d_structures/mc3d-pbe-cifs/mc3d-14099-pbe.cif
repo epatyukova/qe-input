@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SrICl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.34682374
+_cell_length_b   4.76392587
+_cell_length_c   9.60540287
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrICl
+_chemical_formula_sum   'Sr4 I4 Cl4'
+_cell_volume   381.94587380
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.78715855  0.75000000  0.11854031  1.0
+  Sr  Sr1  1  0.28715855  0.75000000  0.38145969  1.0
+  Sr  Sr2  1  0.21284145  0.25000000  0.88145969  1.0
+  Sr  Sr3  1  0.71284145  0.25000000  0.61854031  1.0
+  I  I4  1  1.02596636  0.75000000  0.66869038  1.0
+  I  I5  1  0.52596636  0.75000000  0.83130962  1.0
+  I  I6  1  -0.02596636  0.25000000  0.33130962  1.0
+  I  I7  1  0.47403364  0.25000000  0.16869038  1.0
+  Cl  Cl8  1  0.64367169  0.75000000  0.43579992  1.0
+  Cl  Cl9  1  0.14367169  0.75000000  0.06420008  1.0
+  Cl  Cl10  1  0.35632831  0.25000000  0.56420008  1.0
+  Cl  Cl11  1  0.85632831  0.25000000  0.93579992  1.0

@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Lu7(TeRu)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.18873222
+_cell_length_b   9.18873222
+_cell_length_c   9.18873222
+_cell_angle_alpha   155.51219190
+_cell_angle_beta   65.76701385
+_cell_angle_gamma   120.02637444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu7(TeRu)2
+_chemical_formula_sum   'Lu7 Te2 Ru2'
+_cell_volume   276.23198944
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.55152218  0.41639359  0.13512859  1.0
+  Lu  Lu1  1  1.28126501  0.41639359  0.86487141  1.0
+  Lu  Lu2  1  0.94322155  0.62775993  0.31546162  1.0
+  Lu  Lu3  1  1.31229830  0.62775993  0.68453838  1.0
+  Lu  Lu4  1  1.61149011  1.26048731  1.35100280  1.0
+  Lu  Lu5  1  0.90948450  1.26048731  0.64899720  1.0
+  Lu  Lu6  1  -0.00427718  -0.00427718  -0.00000000  1.0
+  Te  Te7  1  0.26469915  0.76469915  0.50000000  1.0
+  Te  Te8  1  0.65881229  0.65881229  0.00000000  1.0
+  Ru  Ru9  1  1.16682228  0.93114204  1.23568023  1.0
+  Ru  Ru10  1  0.69546181  0.93114204  0.76431977  1.0

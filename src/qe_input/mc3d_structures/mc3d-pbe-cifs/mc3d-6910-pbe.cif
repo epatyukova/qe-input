@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ta2NiS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.86508452
+_cell_length_b   6.86508452
+_cell_length_c   15.17665347
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.12511407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2NiS5
+_chemical_formula_sum   'Ta4 Ni2 S10'
+_cell_volume   345.40111970
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.27778243  0.72221757  0.39190242  1.0
+  Ta  Ta1  1  0.27778243  0.72221757  0.10809758  1.0
+  Ta  Ta2  1  -0.27778243  0.27778243  0.89190242  1.0
+  Ta  Ta3  1  -0.27778243  0.27778243  0.60809758  1.0
+  Ni  Ni4  1  0.20007511  0.79992489  0.75000000  1.0
+  Ni  Ni5  1  -0.20007511  0.20007511  0.25000000  1.0
+  S  S6  1  -0.18887925  0.18887925  0.75000000  1.0
+  S  S7  1  0.18887925  0.81112075  0.25000000  1.0
+  S  S8  1  0.09534102  0.90465898  0.86458609  1.0
+  S  S9  1  0.09534102  0.90465898  0.63541391  1.0
+  S  S10  1  -0.09534102  0.09534102  0.36458609  1.0
+  S  S11  1  -0.09534102  0.09534102  0.13541391  1.0
+  S  S12  1  0.34297557  0.65702443  0.94947118  1.0
+  S  S13  1  0.34297557  0.65702443  0.55052882  1.0
+  S  S14  1  -0.34297557  0.34297557  0.44947118  1.0
+  S  S15  1  -0.34297557  0.34297557  0.05052882  1.0

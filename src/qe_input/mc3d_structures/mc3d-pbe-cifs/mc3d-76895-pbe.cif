@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Y2Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59838587
+_cell_length_b   5.10461451
+_cell_length_c   9.49017508
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2Al
+_chemical_formula_sum   'Y8 Al4'
+_cell_volume   319.65012917
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.97179481  0.75000000  0.70797545  1.0
+  Y  Y1  1  0.47179481  0.75000000  0.79202455  1.0
+  Y  Y2  1  0.02820519  0.25000000  0.29202455  1.0
+  Y  Y3  1  0.52820519  0.25000000  0.20797545  1.0
+  Y  Y4  1  0.81427721  0.75000000  0.07238156  1.0
+  Y  Y5  1  0.31427721  0.75000000  0.42761844  1.0
+  Y  Y6  1  0.18572279  0.25000000  0.92761844  1.0
+  Y  Y7  1  0.68572279  0.25000000  0.57238156  1.0
+  Al  Al8  1  0.79120930  0.75000000  0.39568043  1.0
+  Al  Al9  1  0.29120930  0.75000000  0.10431957  1.0
+  Al  Al10  1  0.20879070  0.25000000  0.60431957  1.0
+  Al  Al11  1  0.70879070  0.25000000  0.89568043  1.0

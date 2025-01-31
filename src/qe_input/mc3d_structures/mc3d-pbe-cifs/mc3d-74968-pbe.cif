@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ca2Al3Si4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96948653
+_cell_length_b   7.96948653
+_cell_length_c   7.95614387
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   137.79442532
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Al3Si4
+_chemical_formula_sum   'Ca4 Al6 Si8'
+_cell_volume   339.46778533
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  -0.85176623  0.85176623  0.83724077  1.0
+  Ca  Ca1  1  -0.14823377  1.14823377  0.33724077  1.0
+  Ca  Ca2  1  -0.63795572  0.63795572  0.02217892  1.0
+  Ca  Ca3  1  -0.36204428  1.36204428  0.52217892  1.0
+  Al  Al4  1  -0.94744003  0.94744003  0.48675474  1.0
+  Al  Al5  1  -0.05255997  1.05255997  -0.01324526  1.0
+  Al  Al6  1  -0.75732647  0.75732647  0.46410100  1.0
+  Al  Al7  1  -0.24267353  1.24267353  0.96410100  1.0
+  Al  Al8  1  -0.57231492  0.57231492  0.43276148  1.0
+  Al  Al9  1  -0.42768508  1.42768508  0.93276148  1.0
+  Si  Si10  1  -0.59431067  1.02839301  0.19274278  1.0
+  Si  Si11  1  0.02839301  1.40568933  0.69274278  1.0
+  Si  Si12  1  -0.02839301  1.59431067  0.19274278  1.0
+  Si  Si13  1  -0.40568933  0.97160699  0.69274278  1.0
+  Si  Si14  1  -0.70598376  1.24459424  0.21388877  1.0
+  Si  Si15  1  0.24459424  1.29401624  0.71388877  1.0
+  Si  Si16  1  -0.24459424  1.70598376  0.21388877  1.0
+  Si  Si17  1  -0.29401624  0.75540576  0.71388877  1.0

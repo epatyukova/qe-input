@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiSn4Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45809924
+_cell_length_b   7.45809924
+_cell_length_c   7.45809924
+_cell_angle_alpha   126.75567271
+_cell_angle_beta   126.75567271
+_cell_angle_gamma   78.64964713
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSn4Rh
+_chemical_formula_sum   'Li2 Sn8 Rh2'
+_cell_volume   257.75146546
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.00000000  1.0
+  Li  Li1  1  0.50000000  0.50000000  1.00000000  1.0
+  Sn  Sn2  1  1.20385653  0.70385653  1.17973650  1.0
+  Sn  Sn3  1  0.47587996  0.97587996  1.17973650  1.0
+  Sn  Sn4  1  1.02412004  1.20385653  1.50000000  1.0
+  Sn  Sn5  1  0.29614347  0.47587996  0.50000000  1.0
+  Sn  Sn6  1  0.70385653  0.52412004  0.50000000  1.0
+  Sn  Sn7  1  0.97587996  0.79614347  1.50000000  1.0
+  Sn  Sn8  1  0.52412004  1.02412004  0.82026350  1.0
+  Sn  Sn9  1  0.79614347  0.29614347  0.82026350  1.0
+  Rh  Rh10  1  0.75000000  0.75000000  1.00000000  1.0
+  Rh  Rh11  1  0.25000000  0.25000000  -0.00000000  1.0

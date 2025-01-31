@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_TlInHgS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42362078
+_cell_length_b   7.42362078
+_cell_length_c   21.88190589
+_cell_angle_alpha   76.95451320
+_cell_angle_beta   103.04548680
+_cell_angle_gamma   148.65339519
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlInHgS3
+_chemical_formula_sum   'Tl4 In4 Hg4 S12'
+_cell_volume   609.85016462
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.38367278  0.38808033  0.92003324  1.0
+  Tl  Tl1  1  0.61191967  0.61632722  0.42003324  1.0
+  Tl  Tl2  1  1.38808033  -0.61632722  0.57996676  1.0
+  Tl  Tl3  1  1.61632722  -0.38808033  0.07996676  1.0
+  In  In4  1  0.68522611  0.20600017  0.82378451  1.0
+  In  In5  1  0.79399983  -0.68522611  0.32378451  1.0
+  In  In6  1  1.20600017  0.68522611  0.67621549  1.0
+  In  In7  1  1.31477389  -0.20600017  0.17621549  1.0
+  Hg  Hg8  1  0.93545842  0.93545842  0.75000000  1.0
+  Hg  Hg9  1  0.06454158  0.06454158  0.25000000  1.0
+  Hg  Hg10  1  0.50000000  0.00000000  0.50000000  1.0
+  Hg  Hg11  1  1.00000000  -0.50000000  -0.00000000  1.0
+  S  S12  1  1.82253260  0.06299817  0.65391650  1.0
+  S  S13  1  0.93700183  -0.82253260  0.15391650  1.0
+  S  S14  1  1.06299817  0.82253260  0.84608350  1.0
+  S  S15  1  0.17746740  -0.06299817  0.34608350  1.0
+  S  S16  1  0.74902548  0.07996506  0.94159941  1.0
+  S  S17  1  0.92003494  -0.74902548  0.44159941  1.0
+  S  S18  1  1.07996506  0.74902548  0.55840059  1.0
+  S  S19  1  1.25097452  -0.07996506  0.05840059  1.0
+  S  S20  1  0.59939540  0.29471148  0.70271838  1.0
+  S  S21  1  0.70528852  -0.59939540  0.20271838  1.0
+  S  S22  1  1.29471148  0.59939540  0.79728162  1.0
+  S  S23  1  1.40060460  -0.29471148  0.29728162  1.0

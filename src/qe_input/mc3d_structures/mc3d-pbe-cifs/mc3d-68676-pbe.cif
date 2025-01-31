@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaBiPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48804796
+_cell_length_b   4.80810973
+_cell_length_c   8.21067305
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBiPd
+_chemical_formula_sum   'Ca4 Bi4 Pd4'
+_cell_volume   295.61178680
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.00748326  0.75000000  0.70479469  1.0
+  Ca  Ca1  1  0.50748326  0.75000000  0.79520531  1.0
+  Ca  Ca2  1  0.99251674  0.25000000  0.29520531  1.0
+  Ca  Ca3  1  0.49251674  0.25000000  0.20479469  1.0
+  Bi  Bi4  1  0.69618610  0.75000000  0.40789753  1.0
+  Bi  Bi5  1  0.19618610  0.75000000  0.09210247  1.0
+  Bi  Bi6  1  0.30381390  0.25000000  0.59210247  1.0
+  Bi  Bi7  1  0.80381390  0.25000000  0.90789753  1.0
+  Pd  Pd8  1  0.80382418  0.75000000  0.08001979  1.0
+  Pd  Pd9  1  0.30382418  0.75000000  0.41998021  1.0
+  Pd  Pd10  1  0.19617582  0.25000000  0.91998021  1.0
+  Pd  Pd11  1  0.69617582  0.25000000  0.58001979  1.0

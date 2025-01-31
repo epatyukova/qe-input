@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HfTl2PbS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.86496215
+_cell_length_b   8.86496215
+_cell_length_c   6.83048742
+_cell_angle_alpha   73.38385106
+_cell_angle_beta   106.61614894
+_cell_angle_gamma   124.10048214
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTl2PbS4
+_chemical_formula_sum   'Hf2 Tl4 Pb2 S8'
+_cell_volume   420.55882822
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.87802455  0.87802455  0.25000000  1.0
+  Hf  Hf1  1  0.12197545  0.12197545  0.75000000  1.0
+  Tl  Tl2  1  0.37689469  -0.12032786  0.26260798  1.0
+  Tl  Tl3  1  1.12032786  0.62310531  0.76260798  1.0
+  Tl  Tl4  1  0.87967214  0.37689469  0.23739202  1.0
+  Tl  Tl5  1  0.62310531  0.12032786  0.73739202  1.0
+  Pb  Pb6  1  0.37469283  0.37469283  0.25000000  1.0
+  Pb  Pb7  1  0.62530717  0.62530717  0.75000000  1.0
+  S  S8  1  0.80439947  -0.00651253  0.49749592  1.0
+  S  S9  1  1.00651253  0.19560053  0.99749592  1.0
+  S  S10  1  0.99348747  0.80439947  0.00250408  1.0
+  S  S11  1  0.19560053  0.00651253  0.50250408  1.0
+  S  S12  1  0.55865332  -0.23142128  0.04006456  1.0
+  S  S13  1  1.23142128  0.44134668  0.54006456  1.0
+  S  S14  1  0.76857872  0.55865332  0.45993544  1.0
+  S  S15  1  0.44134668  0.23142128  0.95993544  1.0

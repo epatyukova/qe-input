@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Zn13Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.56387627
+_cell_length_b   6.56387627
+_cell_length_c   5.07406312
+_cell_angle_alpha   80.89727459
+_cell_angle_beta   99.10272541
+_cell_angle_gamma   110.30761867
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn13Co
+_chemical_formula_sum   'Zn13 Co1'
+_cell_volume   201.17943960
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.62622161  -0.21903386  0.67971083  1.0
+  Zn  Zn1  1  1.21903386  0.37377839  0.67971083  1.0
+  Zn  Zn2  1  0.78096614  -0.37377839  0.32028917  1.0
+  Zn  Zn3  1  1.37377839  0.21903386  0.32028917  1.0
+  Zn  Zn4  1  1.35572591  0.00298405  0.80056769  1.0
+  Zn  Zn5  1  0.99701595  -0.35572591  0.80056769  1.0
+  Zn  Zn6  1  1.00298405  -0.64427409  0.19943231  1.0
+  Zn  Zn7  1  1.64427409  -0.00298405  0.19943231  1.0
+  Zn  Zn8  1  0.77912321  -0.77912321  0.63017373  1.0
+  Zn  Zn9  1  0.22087679  -0.22087679  0.36982627  1.0
+  Zn  Zn10  1  0.61328790  -0.61328790  0.93140256  1.0
+  Zn  Zn11  1  0.38671210  -0.38671210  0.06859744  1.0
+  Zn  Zn12  1  -0.00000000  -0.00000000  0.00000000  1.0
+  Co  Co13  1  0.00000000  -0.00000000  0.50000000  1.0

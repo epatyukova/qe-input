@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LaH2NO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63746929
+_cell_length_b   3.98532863
+_cell_length_c   7.81265039
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.02350923
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaH2NO5
+_chemical_formula_sum   'La2 H4 N2 O10'
+_cell_volume   204.64104658
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.73435874  0.02379525  0.40508061  1.0
+  La  La1  1  0.26564126  0.52379525  0.59491939  1.0
+  H  H2  1  0.59204007  0.02358515  0.76279667  1.0
+  H  H3  1  0.40795993  0.52358515  0.23720333  1.0
+  H  H4  1  0.84382471  0.50478987  0.69137077  1.0
+  H  H5  1  0.15617529  0.00478987  0.30862923  1.0
+  N  N6  1  0.77819133  0.41256081  0.05998690  1.0
+  N  N7  1  0.22180867  0.91256081  0.94001310  1.0
+  O  O8  1  0.88003979  0.51682490  0.57426533  1.0
+  O  O9  1  0.11996021  0.01682490  0.42573467  1.0
+  O  O10  1  0.86288436  0.52233099  0.20770795  1.0
+  O  O11  1  0.13711564  0.02233099  0.79229205  1.0
+  O  O12  1  0.66360092  0.15845905  0.06088187  1.0
+  O  O13  1  0.33639908  0.65845905  0.93911813  1.0
+  O  O14  1  0.52130395  0.02712559  0.64431818  1.0
+  O  O15  1  0.47869605  0.52712559  0.35568182  1.0
+  O  O16  1  0.80962626  0.55102838  0.92537102  1.0
+  O  O17  1  0.19037374  0.05102838  0.07462898  1.0

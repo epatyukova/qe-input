@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YZnPd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.95592865
+_cell_length_b   4.20408415
+_cell_length_c   8.09795845
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YZnPd
+_chemical_formula_sum   'Y4 Zn4 Pd4'
+_cell_volume   236.81110457
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.96109136  0.75000000  0.69064509  1.0
+  Y  Y1  1  0.46109136  0.75000000  0.80935491  1.0
+  Y  Y2  1  0.03890864  0.25000000  0.30935491  1.0
+  Y  Y3  1  0.53890864  0.25000000  0.19064509  1.0
+  Zn  Zn4  1  0.85483644  0.75000000  0.06589526  1.0
+  Zn  Zn5  1  0.35483644  0.75000000  0.43410474  1.0
+  Zn  Zn6  1  0.14516356  0.25000000  0.93410474  1.0
+  Zn  Zn7  1  0.64516356  0.25000000  0.56589526  1.0
+  Pd  Pd8  1  0.74297932  0.75000000  0.38402234  1.0
+  Pd  Pd9  1  0.24297932  0.75000000  0.11597766  1.0
+  Pd  Pd10  1  0.25702068  0.25000000  0.61597766  1.0
+  Pd  Pd11  1  0.75702068  0.25000000  0.88402234  1.0

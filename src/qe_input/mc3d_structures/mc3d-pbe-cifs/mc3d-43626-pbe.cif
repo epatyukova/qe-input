@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ScZnAg2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.70616945
+_cell_length_b   7.70616945
+_cell_length_c   7.70616945
+_cell_angle_alpha   121.31649853
+_cell_angle_beta   90.84488338
+_cell_angle_gamma   117.74189995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScZnAg2F7
+_chemical_formula_sum   'Sc2 Zn2 Ag4 F14'
+_cell_volume   325.46919265
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  1.11204115  1.36374115  0.74830000  1.0
+  Sc  Sc1  1  1.61544115  1.36374115  1.25170000  1.0
+  Zn  Zn2  1  1.11624303  0.86370995  0.74746691  1.0
+  Zn  Zn3  1  1.11624303  1.36877612  1.25253309  1.0
+  Ag  Ag4  1  1.63640774  0.86857383  0.76783391  1.0
+  Ag  Ag5  1  1.10073991  0.86857383  0.23216609  1.0
+  Ag  Ag6  1  0.57520606  0.31718588  0.74197982  1.0
+  Ag  Ag7  1  0.57520606  0.83322624  1.25802018  1.0
+  F  F8  1  1.07283428  1.24254225  0.43821191  1.0
+  F  F9  1  1.80433034  1.24254225  1.16970797  1.0
+  F  F10  1  1.07283428  1.63462237  0.83029203  1.0
+  F  F11  1  1.80433034  1.63462237  1.56178809  1.0
+  F  F12  1  1.16194288  1.09847295  0.66862222  1.0
+  F  F13  1  1.42985073  1.09847295  0.93653007  1.0
+  F  F14  1  1.16194288  1.49332066  1.06346993  1.0
+  F  F15  1  1.42985073  1.49332066  1.33137778  1.0
+  F  F16  1  0.43324652  0.58732203  0.84592448  1.0
+  F  F17  1  0.74139755  0.58732203  1.15407552  1.0
+  F  F18  1  0.79272041  0.13573507  0.65698534  1.0
+  F  F19  1  0.47874973  0.13573507  0.34301466  1.0
+  F  F20  1  1.20529917  0.70529917  0.50000000  1.0
+  F  F21  1  0.03264203  0.03264203  0.00000000  1.0

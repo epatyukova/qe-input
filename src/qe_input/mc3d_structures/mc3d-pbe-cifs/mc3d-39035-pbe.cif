@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Co(ClO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57064249
+_cell_length_b   8.57064249
+_cell_length_c   8.57064249
+_cell_angle_alpha   33.16987245
+_cell_angle_beta   33.16987245
+_cell_angle_gamma   33.16987245
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(ClO4)2
+_chemical_formula_sum   'Co1 Cl2 O8'
+_cell_volume   167.75598322
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl1  1  0.26095984  0.26095984  0.26095984  1.0
+  Cl  Cl2  1  0.73904016  -0.26095984  -0.26095984  1.0
+  O  O3  1  0.42130437  -0.00993570  -0.25880949  1.0
+  O  O4  1  1.25880949  -0.42130437  0.00993570  1.0
+  O  O5  1  1.00993570  0.25880949  -0.42130437  1.0
+  O  O6  1  0.57869563  0.00993570  0.25880949  1.0
+  O  O7  1  0.74119051  -0.57869563  -0.00993570  1.0
+  O  O8  1  0.99006430  -0.25880949  -0.57869563  1.0
+  O  O9  1  0.20217424  0.20217424  0.20217424  1.0
+  O  O10  1  0.79782576  -0.20217424  -0.20217424  1.0

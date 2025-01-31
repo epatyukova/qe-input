@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_NaHgPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68570854
+_cell_length_b   5.68570854
+_cell_length_c   6.50605255
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   116.26561706
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHgPO4
+_chemical_formula_sum   'Na2 Hg2 P2 O8'
+_cell_volume   188.60759670
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.50000000  1.0
+  Na  Na1  1  0.00000000  0.00000000  0.00000000  1.0
+  Hg  Hg2  1  -0.30925689  1.30925689  0.25000000  1.0
+  Hg  Hg3  1  0.30925689  0.69074311  0.75000000  1.0
+  P  P4  1  0.36328244  0.63671756  0.25000000  1.0
+  P  P5  1  -0.36328244  1.36328244  0.75000000  1.0
+  O  O6  1  0.25684679  0.74315321  0.43597578  1.0
+  O  O7  1  0.25684679  0.74315321  0.06402422  1.0
+  O  O8  1  -0.25684679  1.25684679  0.93597578  1.0
+  O  O9  1  -0.25684679  1.25684679  0.56402422  1.0
+  O  O10  1  0.24106994  0.33345398  0.25000000  1.0
+  O  O11  1  -0.66654602  1.24106994  0.75000000  1.0
+  O  O12  1  0.66654602  0.75893006  0.25000000  1.0
+  O  O13  1  -0.24106994  1.66654602  0.75000000  1.0

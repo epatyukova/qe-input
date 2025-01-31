@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_CdAg2(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.45750776
+_cell_length_b   6.45750776
+_cell_length_c   15.07920741
+_cell_angle_alpha   85.79711597
+_cell_angle_beta   94.20288403
+_cell_angle_gamma   60.06193958
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CdAg2(PS3)2
+_chemical_formula_sum   'Cd2 Ag4 P4 S12'
+_cell_volume   539.01699133
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  1.42307072  0.42307072  0.25000000  1.0
+  Cd  Cd1  1  0.57692928  -0.42307072  0.75000000  1.0
+  Ag  Ag2  1  1.12617746  0.05251810  0.35220542  1.0
+  Ag  Ag3  1  1.05251810  0.12617746  0.14779458  1.0
+  Ag  Ag4  1  0.87382254  -0.05251810  0.64779458  1.0
+  Ag  Ag5  1  0.94748190  -0.12617746  0.85220542  1.0
+  P  P6  1  0.78359739  -0.27163439  0.32723876  1.0
+  P  P7  1  0.72836561  -0.21640261  0.17276124  1.0
+  P  P8  1  1.21640261  0.27163439  0.67276124  1.0
+  P  P9  1  1.27163439  0.21640261  0.82723876  1.0
+  S  S10  1  0.52017475  -0.33021947  0.37002690  1.0
+  S  S11  1  0.66978053  -0.47982525  0.12997310  1.0
+  S  S12  1  1.47982525  0.33021947  0.62997310  1.0
+  S  S13  1  1.33021947  0.47982525  0.87002690  1.0
+  S  S14  1  1.75516481  0.03524064  0.37025246  1.0
+  S  S15  1  1.03524064  0.75516481  0.12974754  1.0
+  S  S16  1  0.24483519  -0.03524064  0.62974754  1.0
+  S  S17  1  0.96475936  -0.75516481  0.87025246  1.0
+  S  S18  1  1.11994560  0.43544014  0.36920915  1.0
+  S  S19  1  1.43544014  0.11994560  0.13079085  1.0
+  S  S20  1  0.88005440  -0.43544014  0.63079085  1.0
+  S  S21  1  0.56455986  -0.11994560  0.86920915  1.0

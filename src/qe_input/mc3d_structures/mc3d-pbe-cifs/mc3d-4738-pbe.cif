@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZnGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51736913
+_cell_length_b   5.51736913
+_cell_length_c   5.51736913
+_cell_angle_alpha   54.34665744
+_cell_angle_beta   54.34665744
+_cell_angle_gamma   54.34665744
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnGeO3
+_chemical_formula_sum   'Zn2 Ge2 O6'
+_cell_volume   103.10091905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.36921217  0.36921217  -0.63078783  1.0
+  Zn  Zn1  1  0.63078783  0.63078783  -0.36921217  1.0
+  Ge  Ge2  1  0.15655661  0.15655661  0.15655661  1.0
+  Ge  Ge3  1  0.84344339  -0.15655661  -0.15655661  1.0
+  O  O4  1  0.43886121  0.04659836  -0.21424409  1.0
+  O  O5  1  1.21424409  -0.43886121  -0.04659836  1.0
+  O  O6  1  0.95340164  0.21424409  -0.43886121  1.0
+  O  O7  1  0.56113879  -0.04659836  0.21424409  1.0
+  O  O8  1  0.78575591  -0.56113879  0.04659836  1.0
+  O  O9  1  1.04659836  -0.21424409  -0.56113879  1.0

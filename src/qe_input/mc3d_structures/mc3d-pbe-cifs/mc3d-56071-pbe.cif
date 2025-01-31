@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2CoS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11471573
+_cell_length_b   7.11471573
+_cell_length_c   7.11471573
+_cell_angle_alpha   127.39644960
+_cell_angle_beta   72.41458681
+_cell_angle_gamma   134.01132961
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CoS2
+_chemical_formula_sum   'Na4 Co2 S4'
+_cell_volume   201.19720161
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.14457943  0.33870925  0.48328868  1.0
+  Na  Na1  1  0.35542057  0.83870925  1.19412982  1.0
+  Na  Na2  1  0.64457943  1.16129075  0.80587018  1.0
+  Na  Na3  1  0.85542057  0.66129075  0.51671132  1.0
+  Co  Co4  1  0.25000000  0.25000000  -0.00000000  1.0
+  Co  Co5  1  0.75000000  0.75000000  -0.00000000  1.0
+  S  S6  1  0.38980274  0.29286430  0.68266704  1.0
+  S  S7  1  0.11019726  0.79286430  0.90306157  1.0
+  S  S8  1  0.88980274  1.20713570  1.09693843  1.0
+  S  S9  1  0.61019726  0.70713570  0.31733296  1.0

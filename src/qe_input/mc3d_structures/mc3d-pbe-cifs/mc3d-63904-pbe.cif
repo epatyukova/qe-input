@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2CeCdF8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.66091575
+_cell_length_b   6.66091575
+_cell_length_c   6.66091575
+_cell_angle_alpha   133.37918632
+_cell_angle_beta   133.37918632
+_cell_angle_gamma   68.05928311
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CeCdF8
+_chemical_formula_sum   'Li2 Ce1 Cd1 F8'
+_cell_volume   153.40641841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.75000000  0.25000000  0.50000000  1.0
+  Li  Li1  1  0.00000000  0.00000000  0.00000000  1.0
+  Ce  Ce2  1  0.25000000  0.75000000  0.50000000  1.0
+  Cd  Cd3  1  0.50000000  0.50000000  1.00000000  1.0
+  F  F4  1  0.24740637  0.80824949  0.88498748  1.0
+  F  F5  1  1.19175051  1.07673799  1.43915688  1.0
+  F  F6  1  0.92326201  0.36241889  1.11501252  1.0
+  F  F7  1  0.63758111  0.75259363  0.56084312  1.0
+  F  F8  1  0.55127508  1.15450485  1.05103458  1.0
+  F  F9  1  0.84549515  0.89652973  1.39677022  1.0
+  F  F10  1  1.10347027  0.50024049  0.94896542  1.0
+  F  F11  1  0.49975951  0.44872492  0.60322978  1.0

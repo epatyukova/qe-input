@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TlCuAs2PbS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.42179100
+_cell_length_b   7.97774041
+_cell_length_c   8.24345911
+_cell_angle_alpha   64.00272754
+_cell_angle_beta   67.93074345
+_cell_angle_gamma   74.08175295
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCuAs2PbS5
+_chemical_formula_sum   'Tl2 Cu2 As4 Pb2 S10'
+_cell_volume   511.62993957
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.37939840  0.23788625  0.83152047  1.0
+  Tl  Tl1  1  0.62060160  0.76211375  0.16847953  1.0
+  Cu  Cu2  1  0.63113607  0.62267874  0.70579491  1.0
+  Cu  Cu3  1  0.36886393  0.37732126  0.29420509  1.0
+  As  As4  1  0.68832360  0.05917358  0.36137502  1.0
+  As  As5  1  0.31167640  0.94082642  0.63862498  1.0
+  As  As6  1  0.86065651  0.41593514  0.94458975  1.0
+  As  As7  1  0.13934349  0.58406486  0.05541025  1.0
+  Pb  Pb8  1  0.92069387  0.24507787  0.54808810  1.0
+  Pb  Pb9  1  0.07930613  0.75492213  0.45191190  1.0
+  S  S10  1  0.25122540  0.13364733  0.36286351  1.0
+  S  S11  1  0.74877460  0.86635267  0.63713649  1.0
+  S  S12  1  0.93285698  0.14892446  0.19480008  1.0
+  S  S13  1  0.06714302  0.85107554  0.80519992  1.0
+  S  S14  1  0.68550377  0.32117982  0.88909307  1.0
+  S  S15  1  0.31449623  0.67882018  0.11090693  1.0
+  S  S16  1  0.56460309  0.32765723  0.41553414  1.0
+  S  S17  1  0.43539691  0.67234277  0.58446586  1.0
+  S  S18  1  0.92151716  0.62504092  0.29118843  1.0
+  S  S19  1  0.07848284  0.37495908  0.70881157  1.0

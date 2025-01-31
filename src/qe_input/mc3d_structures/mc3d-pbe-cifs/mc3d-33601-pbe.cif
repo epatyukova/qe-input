@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58980921
+_cell_length_b   3.94061639
+_cell_length_c   7.47039008
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrSiRh
+_chemical_formula_sum   'Zr4 Si4 Rh4'
+_cell_volume   193.99041838
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.98157907  0.75000000  0.68579600  1.0
+  Zr  Zr1  1  0.48157907  0.75000000  0.81420400  1.0
+  Zr  Zr2  1  0.01842093  0.25000000  0.31420400  1.0
+  Zr  Zr3  1  0.51842093  0.25000000  0.18579600  1.0
+  Si  Si4  1  0.72472180  0.75000000  0.38457516  1.0
+  Si  Si5  1  0.22472180  0.75000000  0.11542484  1.0
+  Si  Si6  1  0.27527820  0.25000000  0.61542484  1.0
+  Si  Si7  1  0.77527820  0.25000000  0.88457516  1.0
+  Rh  Rh8  1  0.85228987  0.75000000  0.06624260  1.0
+  Rh  Rh9  1  0.35228987  0.75000000  0.43375740  1.0
+  Rh  Rh10  1  0.14771013  0.25000000  0.93375740  1.0
+  Rh  Rh11  1  0.64771013  0.25000000  0.56624260  1.0

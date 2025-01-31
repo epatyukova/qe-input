@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Rb2PtSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71436831
+_cell_length_b   6.71436831
+_cell_length_c   6.71436831
+_cell_angle_alpha   146.74011915
+_cell_angle_beta   110.24226453
+_cell_angle_gamma   79.50312030
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2PtSe2
+_chemical_formula_sum   'Rb2 Pt1 Se2'
+_cell_volume   152.34661572
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.69790479  0.19790479  0.50000000  1.0
+  Rb  Rb1  1  1.30209521  0.80209521  0.50000000  1.0
+  Pt  Pt2  1  0.00000000  0.00000000  0.00000000  1.0
+  Se  Se3  1  0.21113733  0.50000000  0.71113733  1.0
+  Se  Se4  1  0.78886267  0.50000000  1.28886267  1.0

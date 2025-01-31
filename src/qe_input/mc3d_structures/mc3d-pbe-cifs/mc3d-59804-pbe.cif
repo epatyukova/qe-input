@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnClF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33252898
+_cell_length_b   4.41061864
+_cell_length_c   10.76188541
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnClF
+_chemical_formula_sum   'Sn4 Cl4 F4'
+_cell_volume   300.58344550
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.71738910  0.75000000  0.57630811  1.0
+  Sn  Sn1  1  0.21738910  0.75000000  0.92369189  1.0
+  Sn  Sn2  1  0.28261090  0.25000000  0.42369189  1.0
+  Sn  Sn3  1  0.78261090  0.25000000  0.07630811  1.0
+  Cl  Cl4  1  0.90249750  0.75000000  0.36569998  1.0
+  Cl  Cl5  1  0.40249750  0.75000000  0.13430002  1.0
+  Cl  Cl6  1  0.09750250  0.25000000  0.63430002  1.0
+  Cl  Cl7  1  0.59750250  0.25000000  0.86569998  1.0
+  F  F8  1  0.89834148  0.75000000  0.02197363  1.0
+  F  F9  1  0.39834148  0.75000000  0.47802637  1.0
+  F  F10  1  0.10165852  0.25000000  0.97802637  1.0
+  F  F11  1  0.60165852  0.25000000  0.52197363  1.0

@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Al4SiC4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.29436329
+_cell_length_b   3.29436329
+_cell_length_c   21.84919545
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al4SiC4
+_chemical_formula_sum   'Al8 Si2 C8'
+_cell_volume   205.35678761
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.33333333  0.66666667  0.04788760  1.0
+  Al  Al1  1  0.66666667  0.33333333  0.54788760  1.0
+  Al  Al2  1  0.33333333  0.66666667  0.23739656  1.0
+  Al  Al3  1  0.66666667  0.33333333  0.73739656  1.0
+  Al  Al4  1  0.33333333  0.66666667  0.45583684  1.0
+  Al  Al5  1  0.66666667  0.33333333  0.95583684  1.0
+  Al  Al6  1  0.00000000  0.00000000  0.15215320  1.0
+  Al  Al7  1  0.00000000  0.00000000  0.65215320  1.0
+  Si  Si8  1  0.00000000  0.00000000  0.33839957  1.0
+  Si  Si9  1  0.00000000  0.00000000  0.83839957  1.0
+  C  C10  1  0.33333333  0.66666667  0.13594749  1.0
+  C  C11  1  0.66666667  0.33333333  0.63594749  1.0
+  C  C12  1  0.33333333  0.66666667  0.36558073  1.0
+  C  C13  1  0.66666667  0.33333333  0.86558073  1.0
+  C  C14  1  0.00000000  0.00000000  0.00118680  1.0
+  C  C15  1  0.00000000  0.00000000  0.50118680  1.0
+  C  C16  1  0.00000000  0.00000000  0.25261122  1.0
+  C  C17  1  0.00000000  0.00000000  0.75261122  1.0

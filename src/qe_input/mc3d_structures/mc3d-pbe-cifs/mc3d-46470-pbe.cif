@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaIn(GeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98507104
+_cell_length_b   6.98507104
+_cell_length_c   5.68989892
+_cell_angle_alpha   77.12797574
+_cell_angle_beta   102.87202426
+_cell_angle_gamma   96.47749873
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaIn(GeO3)2
+_chemical_formula_sum   'Na2 In2 Ge4 O12'
+_cell_volume   263.25567571
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.80420155  0.80420155  0.25000000  1.0
+  Na  Na1  1  0.19579845  0.19579845  0.75000000  1.0
+  In  In2  1  0.39769328  0.39769328  0.25000000  1.0
+  In  In3  1  0.60230672  0.60230672  0.75000000  1.0
+  Ge  Ge4  1  1.29989162  -0.11936497  0.25682566  1.0
+  Ge  Ge5  1  1.11936497  -0.29989162  0.75682566  1.0
+  Ge  Ge6  1  0.88063503  0.29989162  0.24317434  1.0
+  Ge  Ge7  1  0.70010838  0.11936497  0.74317434  1.0
+  O  O8  1  0.40219207  0.11696656  0.16632498  1.0
+  O  O9  1  0.88303344  0.59780793  0.66632498  1.0
+  O  O10  1  1.11696656  -0.59780793  0.33367502  1.0
+  O  O11  1  1.59780793  -0.11696656  0.83367502  1.0
+  O  O12  1  1.47036967  -0.30612042  0.35740503  1.0
+  O  O13  1  1.30612042  -0.47036967  0.85740503  1.0
+  O  O14  1  0.69387958  0.47036967  0.14259497  1.0
+  O  O15  1  0.52963033  0.30612042  0.64259497  1.0
+  O  O16  1  0.83953075  0.12091243  0.51310113  1.0
+  O  O17  1  0.87908757  0.16046925  0.01310113  1.0
+  O  O18  1  1.12091243  -0.16046925  0.98689887  1.0
+  O  O19  1  1.16046925  -0.12091243  0.48689887  1.0

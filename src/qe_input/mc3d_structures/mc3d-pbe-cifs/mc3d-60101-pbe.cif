@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li2CaTa2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.64517452
+_cell_length_b   9.64521545
+_cell_length_c   3.95078648
+_cell_angle_alpha   78.18127966
+_cell_angle_beta   78.18244176
+_cell_angle_gamma   23.63627858
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CaTa2O7
+_chemical_formula_sum   'Li2 Ca1 Ta2 O7'
+_cell_volume   144.09593063
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  1.25000000  0.25000000  0.25000000  1.0
+  Li  Li1  1  0.75000000  0.75000000  -0.25000000  1.0
+  Ca  Ca2  1  0.00000000  -0.00000000  0.00000000  1.0
+  Ta  Ta3  1  0.61206827  0.61206827  -0.61206827  1.0
+  Ta  Ta4  1  0.38793173  1.38793173  -0.38793173  1.0
+  O  O5  1  1.39990589  0.39990589  0.10009411  1.0
+  O  O6  1  1.10009411  0.10009411  0.39990589  1.0
+  O  O7  1  0.60009411  0.60009411  -0.10009411  1.0
+  O  O8  1  0.89990589  0.89990589  -0.39990589  1.0
+  O  O9  1  0.71508749  0.71508749  -0.71508749  1.0
+  O  O10  1  0.28491251  1.28491251  -0.28491251  1.0
+  O  O11  1  -0.50000000  0.50000000  0.50000000  1.0

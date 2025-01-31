@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_LiAlPdF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06298003
+_cell_length_b   5.06298003
+_cell_length_c   9.24927270
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAlPdF6
+_chemical_formula_sum   'Li2 Al2 Pd2 F12'
+_cell_volume   205.32916700
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.66666667  0.33333333  0.25000000  1.0
+  Li  Li1  1  0.33333333  0.66666667  0.75000000  1.0
+  Al  Al2  1  0.33333333  0.66666667  0.25000000  1.0
+  Al  Al3  1  0.66666667  0.33333333  0.75000000  1.0
+  Pd  Pd4  1  0.00000000  0.00000000  -0.00000000  1.0
+  Pd  Pd5  1  -0.00000000  0.00000000  0.50000000  1.0
+  F  F6  1  0.34339378  0.97196613  0.13914847  1.0
+  F  F7  1  0.34339378  0.37142765  0.36085153  1.0
+  F  F8  1  0.97196613  0.34339378  0.63914847  1.0
+  F  F9  1  0.97196613  0.62857235  0.86085153  1.0
+  F  F10  1  0.62857235  0.97196613  0.36085153  1.0
+  F  F11  1  0.62857235  0.65660622  0.13914847  1.0
+  F  F12  1  0.02803387  0.65660622  0.36085153  1.0
+  F  F13  1  0.02803387  0.37142765  0.13914847  1.0
+  F  F14  1  0.65660622  0.62857235  0.63914847  1.0
+  F  F15  1  0.65660622  0.02803387  0.86085153  1.0
+  F  F16  1  0.37142765  0.34339378  0.86085153  1.0
+  F  F17  1  0.37142765  0.02803387  0.63914847  1.0

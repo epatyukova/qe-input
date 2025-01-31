@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Lu2Si5Ni3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.79907234
+_cell_length_b   7.79907234
+_cell_length_c   7.79907234
+_cell_angle_alpha   104.35259190
+_cell_angle_beta   90.57680907
+_cell_angle_gamma   137.90587512
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Si5Ni3
+_chemical_formula_sum   'Lu4 Si10 Ni6'
+_cell_volume   294.00872078
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.63189394  0.73494110  0.36683503  1.0
+  Lu  Lu1  1  0.86810606  0.23494110  1.10304716  1.0
+  Lu  Lu2  1  0.13189394  0.76505890  0.89695284  1.0
+  Lu  Lu3  1  1.36810606  1.26505890  1.63316497  1.0
+  Si  Si4  1  0.89362252  0.65456139  1.54818392  1.0
+  Si  Si5  1  0.60637748  1.15456139  0.76093887  1.0
+  Si  Si6  1  1.39362252  0.84543861  1.23906113  1.0
+  Si  Si7  1  0.10637748  0.34543861  0.45181608  1.0
+  Si  Si8  1  0.48216099  0.75000000  0.73216099  1.0
+  Si  Si9  1  0.98216099  1.25000000  0.73216099  1.0
+  Si  Si10  1  1.51783901  1.25000000  1.26783901  1.0
+  Si  Si11  1  1.01783901  0.75000000  1.26783901  1.0
+  Si  Si12  1  0.75000000  0.75000000  0.00000000  1.0
+  Si  Si13  1  0.25000000  0.25000000  -0.00000000  1.0
+  Ni  Ni14  1  0.86480372  0.88646923  0.75127295  1.0
+  Ni  Ni15  1  0.63519628  0.38646923  1.02166551  1.0
+  Ni  Ni16  1  0.36480372  0.61353077  0.97833449  1.0
+  Ni  Ni17  1  1.13519628  1.11353077  1.24872705  1.0
+  Ni  Ni18  1  0.75000000  1.25000000  0.50000000  1.0
+  Ni  Ni19  1  0.25000000  0.75000000  0.50000000  1.0

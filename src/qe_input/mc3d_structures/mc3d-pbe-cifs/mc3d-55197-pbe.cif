@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ba3InHg10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.64306639
+_cell_length_b   9.64306639
+_cell_length_c   9.64306639
+_cell_angle_alpha   148.10614052
+_cell_angle_beta   115.92921811
+_cell_angle_gamma   73.36409945
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3InHg10
+_chemical_formula_sum   'Ba3 In1 Hg10'
+_cell_volume   419.20955397
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.70169214  0.70169214  1.00000000  1.0
+  Ba  Ba1  1  1.29830786  1.29830786  1.00000000  1.0
+  Ba  Ba2  1  0.00000000  0.00000000  0.00000000  1.0
+  In  In3  1  0.50000000  -0.00000000  0.50000000  1.0
+  Hg  Hg4  1  1.57134366  0.85848634  0.71285733  1.0
+  Hg  Hg5  1  0.85437099  0.14151366  0.71285733  1.0
+  Hg  Hg6  1  1.14562901  0.85848634  0.28714267  1.0
+  Hg  Hg7  1  0.42865634  0.14151366  0.28714267  1.0
+  Hg  Hg8  1  1.30378086  0.66081148  0.64296938  1.0
+  Hg  Hg9  1  0.98215789  0.33918852  0.64296938  1.0
+  Hg  Hg10  1  1.01784211  0.66081148  0.35703062  1.0
+  Hg  Hg11  1  0.69621914  0.33918852  0.35703062  1.0
+  Hg  Hg12  1  0.31700027  0.50000000  0.81700027  1.0
+  Hg  Hg13  1  0.68299973  0.50000000  1.18299973  1.0

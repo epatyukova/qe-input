@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_ZnCuC8N5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.27395326
+_cell_length_b   8.27395326
+_cell_length_c   8.27395326
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuC8N5
+_chemical_formula_sum   'Zn1 Cu1 C8 N5'
+_cell_volume   400.51998610
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.75000000  0.75000000  -0.25000000  1.0
+  Cu  Cu1  1  -0.00000000  0.00000000  -0.00000000  1.0
+  C  C2  1  0.42941188  1.42941188  0.42941188  1.0
+  C  C3  1  -0.28823563  0.42941188  0.42941188  1.0
+  C  C4  1  0.42941188  1.42941188  -0.28823563  1.0
+  C  C5  1  0.42941188  -0.28823563  0.42941188  1.0
+  C  C6  1  0.90414367  0.90414367  -0.09585633  1.0
+  C  C7  1  0.28756900  0.90414367  -0.09585633  1.0
+  C  C8  1  0.90414367  0.90414367  -0.71243100  1.0
+  C  C9  1  0.90414367  0.28756900  -0.09585633  1.0
+  N  N10  1  -0.50000000  0.50000000  0.50000000  1.0
+  N  N11  1  0.84649715  0.84649715  -0.15350285  1.0
+  N  N12  1  0.46050855  0.84649715  -0.15350285  1.0
+  N  N13  1  0.84649715  0.84649715  -0.53949145  1.0
+  N  N14  1  0.84649715  0.46050855  -0.15350285  1.0

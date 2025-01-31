@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu3Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.11630797
+_cell_length_b   8.86893622
+_cell_length_c   6.30217864
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Ir
+_chemical_formula_sum   'Lu12 Ir4'
+_cell_volume   397.75621618
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.32155585  0.94127603  0.67623230  1.0
+  Lu  Lu1  1  0.32155585  0.55872397  0.67623230  1.0
+  Lu  Lu2  1  0.82155585  0.94127603  0.82376770  1.0
+  Lu  Lu3  1  0.82155585  0.55872397  0.82376770  1.0
+  Lu  Lu4  1  0.67844415  0.44127603  0.32376770  1.0
+  Lu  Lu5  1  0.67844415  0.05872397  0.32376770  1.0
+  Lu  Lu6  1  0.17844415  0.44127603  0.17623230  1.0
+  Lu  Lu7  1  0.17844415  0.05872397  0.17623230  1.0
+  Lu  Lu8  1  0.46906029  0.75000000  0.11694679  1.0
+  Lu  Lu9  1  0.96906029  0.75000000  0.38305321  1.0
+  Lu  Lu10  1  0.53093971  0.25000000  0.88305321  1.0
+  Lu  Lu11  1  0.03093971  0.25000000  0.61694679  1.0
+  Ir  Ir12  1  0.11103503  0.75000000  0.96622952  1.0
+  Ir  Ir13  1  0.61103503  0.75000000  0.53377048  1.0
+  Ir  Ir14  1  0.88896497  0.25000000  0.03377048  1.0
+  Ir  Ir15  1  0.38896497  0.25000000  0.46622952  1.0

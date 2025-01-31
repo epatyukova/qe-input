@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ca2InOsO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52743681
+_cell_length_b   5.74571459
+_cell_length_c   9.65799028
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.76814951
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2InOsO6
+_chemical_formula_sum   'Ca4 In2 Os2 O12'
+_cell_volume   251.96740999
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Os  Os0  1  0.00000000  0.50000000  0.00000000  1.0
+  Os  Os1  1  0.00000000  0.00000000  0.50000000  1.0
+  Ca  Ca2  1  0.23573196  0.44190043  0.75173560  1.0
+  Ca  Ca3  1  0.23573196  0.05809957  0.25173560  1.0
+  Ca  Ca4  1  0.76426804  0.55809957  0.24826440  1.0
+  Ca  Ca5  1  0.76426804  0.94190043  0.74826440  1.0
+  In  In6  1  0.50000000  0.50000000  0.50000000  1.0
+  In  In7  1  0.50000000  0.00000000  0.00000000  1.0
+  O  O8  1  0.34582000  0.04304917  0.73642919  1.0
+  O  O9  1  0.34582000  0.45695083  0.23642919  1.0
+  O  O10  1  0.65418000  0.95695083  0.26357081  1.0
+  O  O11  1  0.65418000  0.54304917  0.76357081  1.0
+  O  O12  1  0.88013686  0.71352260  0.56132586  1.0
+  O  O13  1  0.88013686  0.78647740  0.06132586  1.0
+  O  O14  1  0.11986314  0.28647740  0.43867414  1.0
+  O  O15  1  0.11986314  0.21352260  0.93867414  1.0
+  O  O16  1  0.76189986  0.18731626  0.55336850  1.0
+  O  O17  1  0.76189986  0.31268374  0.05336850  1.0
+  O  O18  1  0.23810014  0.81268374  0.44663150  1.0
+  O  O19  1  0.23810014  0.68731626  0.94663150  1.0

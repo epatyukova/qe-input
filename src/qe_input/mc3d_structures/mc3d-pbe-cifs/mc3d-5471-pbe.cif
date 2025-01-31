@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ZrMnSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.83859635
+_cell_length_b   9.83859635
+_cell_length_c   9.83859635
+_cell_angle_alpha   149.65430687
+_cell_angle_beta   132.78159722
+_cell_angle_gamma   57.16657254
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMnSi2
+_chemical_formula_sum   'Zr6 Mn6 Si12'
+_cell_volume   350.64646385
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.51281406  0.86315710  0.64965696  1.0
+  Si  Si1  1  0.78649986  0.13684290  0.64965696  1.0
+  Si  Si2  1  1.21350014  0.86315710  1.35034304  1.0
+  Si  Si3  1  0.48718594  0.13684290  0.35034304  1.0
+  Si  Si4  1  0.70172876  0.70172876  1.00000000  1.0
+  Si  Si5  1  0.29827124  0.29827124  -0.00000000  1.0
+  Si  Si6  1  0.50000000  0.74466684  1.24466684  1.0
+  Si  Si7  1  0.50000000  0.25533316  0.75533316  1.0
+  Si  Si8  1  -0.00000000  0.74545834  0.74545834  1.0
+  Si  Si9  1  -0.00000000  0.25454166  0.25454166  1.0
+  Si  Si10  1  0.78844250  0.28844250  0.50000000  1.0
+  Si  Si11  1  0.21155750  0.71155750  0.50000000  1.0
+  Mn  Mn12  1  0.50000000  0.50000000  0.50000000  1.0
+  Mn  Mn13  1  1.00000000  1.00000000  1.50000000  1.0
+  Mn  Mn14  1  1.00000000  0.50000000  1.00000000  1.0
+  Mn  Mn15  1  0.50000000  1.00000000  1.00000000  1.0
+  Mn  Mn16  1  0.74803438  0.00000000  0.74803438  1.0
+  Mn  Mn17  1  0.25196562  -0.00000000  0.25196562  1.0
+  Zr  Zr18  1  0.33540640  0.59468673  0.74071966  1.0
+  Zr  Zr19  1  1.14603293  0.40531327  0.74071966  1.0
+  Zr  Zr20  1  0.85396707  0.59468673  1.25928034  1.0
+  Zr  Zr21  1  0.66459360  0.40531327  0.25928034  1.0
+  Zr  Zr22  1  0.85880183  0.85880183  1.00000000  1.0
+  Zr  Zr23  1  0.14119817  0.14119817  0.00000000  1.0

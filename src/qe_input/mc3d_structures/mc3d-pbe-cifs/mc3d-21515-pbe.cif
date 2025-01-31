@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ca2Ni12As7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43118283
+_cell_length_b   9.43118283
+_cell_length_c   3.84511310
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2Ni12As7
+_chemical_formula_sum   'Ca2 Ni12 As7'
+_cell_volume   296.19115049
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.33333333  0.66666667  -0.00000000  1.0
+  Ca  Ca1  1  0.66666667  0.33333333  0.50000000  1.0
+  Ni  Ni2  1  0.61717880  0.56319988  0.00000000  1.0
+  Ni  Ni3  1  0.94602108  0.38282120  0.00000000  1.0
+  Ni  Ni4  1  0.43680012  0.05397892  0.00000000  1.0
+  Ni  Ni5  1  0.12713262  0.84730072  -0.00000000  1.0
+  Ni  Ni6  1  0.72016811  0.87286738  0.00000000  1.0
+  Ni  Ni7  1  0.15269928  0.27983189  -0.00000000  1.0
+  Ni  Ni8  1  0.04748836  0.62458043  0.50000000  1.0
+  Ni  Ni9  1  0.57709207  0.95251164  0.50000000  1.0
+  Ni  Ni10  1  0.37541957  0.42290793  0.50000000  1.0
+  Ni  Ni11  1  0.88741184  0.79347557  0.50000000  1.0
+  Ni  Ni12  1  0.90606373  0.11258816  0.50000000  1.0
+  Ni  Ni13  1  0.20652443  0.09393627  0.50000000  1.0
+  As  As14  1  0.88208982  0.59560361  0.00000000  1.0
+  As  As15  1  0.71351379  0.11791018  0.00000000  1.0
+  As  As16  1  0.40439639  0.28648621  0.00000000  1.0
+  As  As17  1  0.29822973  0.89288302  0.50000000  1.0
+  As  As18  1  0.59465330  0.70177027  0.50000000  1.0
+  As  As19  1  0.10711698  0.40534670  0.50000000  1.0
+  As  As20  1  -0.00000000  -0.00000000  -0.00000000  1.0

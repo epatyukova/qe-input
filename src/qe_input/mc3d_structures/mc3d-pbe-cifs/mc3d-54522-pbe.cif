@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_SrSeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.48687271
+_cell_length_b   5.58977999
+_cell_length_c   6.73542740
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.26288435
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSeO3
+_chemical_formula_sum   'Sr2 Se2 O6'
+_cell_volume   160.41960614
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.65342747  0.75000000  0.30497318  1.0
+  Sr  Sr1  1  0.34657253  0.25000000  0.69502682  1.0
+  Se  Se2  1  0.93698659  0.75000000  0.84211973  1.0
+  Se  Se3  1  0.06301341  0.25000000  0.15788027  1.0
+  O  O4  1  0.33774390  0.75000000  0.89976501  1.0
+  O  O5  1  0.66225610  0.25000000  0.10023499  1.0
+  O  O6  1  0.82798620  0.98842477  0.67057787  1.0
+  O  O7  1  0.82798620  0.51157523  0.67057787  1.0
+  O  O8  1  0.17201380  0.48842477  0.32942213  1.0
+  O  O9  1  0.17201380  0.01157523  0.32942213  1.0

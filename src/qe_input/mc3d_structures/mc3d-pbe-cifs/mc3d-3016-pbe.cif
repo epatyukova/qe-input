@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na2Zn(SiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.47366981
+_cell_length_b   5.22913470
+_cell_length_c   11.41824552
+_cell_angle_alpha   77.38746909
+_cell_angle_beta   26.40754541
+_cell_angle_gamma   76.20498549
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Zn(SiO3)2
+_chemical_formula_sum   'Na4 Zn2 Si4 O12'
+_cell_volume   295.87783862
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  1.42653334  0.04950416  0.41782440  1.0
+  Na  Na1  1  0.83217560  0.14386190  0.82346666  1.0
+  Na  Na2  1  1.04950416  0.42653334  0.10613810  1.0
+  Na  Na3  1  1.14386190  -0.16782440  0.20049584  1.0
+  Zn  Zn4  1  1.00908879  0.00908879  -0.00908879  1.0
+  Zn  Zn5  1  1.25908879  0.25908879  0.24091121  1.0
+  Si  Si6  1  0.40398586  0.66332203  1.26246640  1.0
+  Si  Si7  1  0.98753360  -0.42022571  0.84601414  1.0
+  Si  Si8  1  0.66332203  0.40398586  0.67022571  1.0
+  Si  Si9  1  0.57977429  -0.01246640  0.58667797  1.0
+  O  O10  1  0.87710268  0.34696384  0.58683023  1.0
+  O  O11  1  0.66316977  0.06089676  0.37289732  1.0
+  O  O12  1  1.34696384  -0.12289732  0.18910324  1.0
+  O  O13  1  1.06089676  -0.33683023  0.90303616  1.0
+  O  O14  1  0.41960786  0.35881136  1.23632068  1.0
+  O  O15  1  1.01367932  -0.73526009  0.83039214  1.0
+  O  O16  1  0.35881136  0.41960786  0.98526009  1.0
+  O  O17  1  0.26473991  0.01367932  0.89118864  1.0
+  O  O18  1  0.68451447  0.72256560  1.07245638  1.0
+  O  O19  1  1.17754362  -0.27046355  0.56548553  1.0
+  O  O20  1  0.72256560  0.68451447  0.52046355  1.0
+  O  O21  1  0.72953645  0.17754362  0.52743440  1.0

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Bi8Pt5I3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.53688463
+_cell_length_b   9.53688463
+_cell_length_c   13.69962370
+_cell_angle_alpha   67.71513708
+_cell_angle_beta   112.28486292
+_cell_angle_gamma   155.76786476
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi8Pt5I3
+_chemical_formula_sum   'Bi8 Pt5 I3'
+_cell_volume   471.37390068
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.10267340  -0.10267340  0.47641849  1.0
+  Bi  Bi1  1  0.89732660  -0.89732660  0.52358151  1.0
+  Bi  Bi2  1  0.67752079  0.32247921  0.72731523  1.0
+  Bi  Bi3  1  1.32247921  -0.32247921  0.27268477  1.0
+  Bi  Bi4  1  0.51938559  0.48061441  0.78056258  1.0
+  Bi  Bi5  1  1.48061441  -0.48061441  0.21943742  1.0
+  Bi  Bi6  1  0.31788626  -0.31788626  0.97367352  1.0
+  Bi  Bi7  1  0.68211374  -0.68211374  0.02632648  1.0
+  Pt  Pt8  1  0.50000000  0.50000000  0.50000000  1.0
+  Pt  Pt9  1  0.05564927  -0.05564927  0.65672510  1.0
+  Pt  Pt10  1  0.94435073  -0.94435073  0.34327490  1.0
+  Pt  Pt11  1  0.15388947  -0.15388947  0.87102937  1.0
+  Pt  Pt12  1  0.84611053  -0.84611053  0.12897063  1.0
+  I  I13  1  0.00000000  0.00000000  0.00000000  1.0
+  I  I14  1  0.31485413  -0.31485413  0.66973574  1.0
+  I  I15  1  0.68514587  -0.68514587  0.33026426  1.0

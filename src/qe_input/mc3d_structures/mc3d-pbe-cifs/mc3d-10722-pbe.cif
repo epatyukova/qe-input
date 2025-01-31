@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2Li(CuO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.15710703
+_cell_length_b   8.24232042
+_cell_length_c   7.11624101
+_cell_angle_alpha   72.78210283
+_cell_angle_beta   59.29006654
+_cell_angle_gamma   47.92783063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Li(CuO2)3
+_chemical_formula_sum   'Ba4 Li2 Cu6 O12'
+_cell_volume   341.88288226
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  1.19354349  -0.57746151  0.57746151  1.0
+  O  O1  1  -0.19354349  0.57746151  0.42253849  1.0
+  O  O2  1  0.57746151  -0.19354349  1.19354349  1.0
+  O  O3  1  0.42253849  0.19354349  -0.19354349  1.0
+  O  O4  1  0.17642142  0.01622816  1.60345870  1.0
+  O  O5  1  0.20389173  0.60345870  1.01622816  1.0
+  O  O6  1  -0.20389173  0.39654130  0.98377184  1.0
+  O  O7  1  -0.17642142  0.98377184  0.39654130  1.0
+  O  O8  1  -0.01622816  0.82357858  0.79610827  1.0
+  O  O9  1  0.01622816  0.17642142  1.20389173  1.0
+  O  O10  1  -0.60345870  0.79610827  0.82357858  1.0
+  O  O11  1  0.60345870  0.20389173  1.17642142  1.0
+  Li  Li12  1  -0.16449834  0.83550166  0.16449834  1.0
+  Li  Li13  1  0.16449834  0.16449834  -0.16449834  1.0
+  Cu  Cu14  1  -0.82061507  0.82061507  0.82061507  1.0
+  Cu  Cu15  1  -0.17938493  0.17938493  0.17938493  1.0
+  Cu  Cu16  1  0.19051299  0.50418043  -0.19051299  1.0
+  Cu  Cu17  1  -0.50418043  0.80948701  0.50418043  1.0
+  Cu  Cu18  1  -0.49581957  1.19051299  0.49581957  1.0
+  Cu  Cu19  1  -0.19051299  0.49581957  0.19051299  1.0
+  Ba  Ba20  1  -0.26882516  0.26882516  0.73117484  1.0
+  Ba  Ba21  1  0.26882516  -0.26882516  1.26882516  1.0
+  Ba  Ba22  1  -0.25000000  0.75000000  0.75000000  1.0
+  Ba  Ba23  1  0.25000000  0.25000000  1.25000000  1.0

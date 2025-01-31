@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BiTe2Pb2AuS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.13742378
+_cell_length_b   12.44725852
+_cell_length_c   9.63275965
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiTe2Pb2AuS3
+_chemical_formula_sum   'Bi2 Te4 Pb4 Au2 S6'
+_cell_volume   496.08310865
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.50000000  0.50000000  0.36238996  1.0
+  Bi  Bi1  1  0.00000000  0.00000000  0.63761004  1.0
+  Te  Te2  1  0.50000000  0.64184016  0.01290705  1.0
+  Te  Te3  1  0.50000000  0.35815984  0.01290705  1.0
+  Te  Te4  1  0.00000000  0.14184016  0.98709295  1.0
+  Te  Te5  1  -0.00000000  0.85815984  0.98709295  1.0
+  Pb  Pb6  1  0.50000000  0.17187082  0.31780876  1.0
+  Pb  Pb7  1  0.50000000  0.82812918  0.31780876  1.0
+  Pb  Pb8  1  0.00000000  0.67187082  0.68219124  1.0
+  Pb  Pb9  1  0.00000000  0.32812918  0.68219124  1.0
+  Au  Au10  1  0.50000000  0.00000000  0.99330670  1.0
+  Au  Au11  1  0.00000000  0.50000000  0.00669330  1.0
+  S  S12  1  0.50000000  0.15759971  0.61118285  1.0
+  S  S13  1  0.50000000  0.84240029  0.61118285  1.0
+  S  S14  1  0.00000000  0.65759971  0.38881715  1.0
+  S  S15  1  -0.00000000  0.34240029  0.38881715  1.0
+  S  S16  1  0.50000000  0.50000000  0.63592478  1.0
+  S  S17  1  0.00000000  0.00000000  0.36407522  1.0

@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ba3Ga3Si2SbO14
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.59238518
+_cell_length_b   8.59238518
+_cell_length_c   5.25798332
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Ga3Si2SbO14
+_chemical_formula_sum   'Ba3 Ga3 Si2 Sb1 O14'
+_cell_volume   336.18420875
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.43565783  0.43565783  0.00000000  1.0
+  Ba  Ba1  1  -0.00000000  0.56434217  -0.00000000  1.0
+  Ba  Ba2  1  0.56434217  -0.00000000  0.00000000  1.0
+  Ga  Ga3  1  0.74884318  0.74884318  0.50000000  1.0
+  Ga  Ga4  1  -0.00000000  0.25115682  0.50000000  1.0
+  Ga  Ga5  1  0.25115682  -0.00000000  0.50000000  1.0
+  Si  Si6  1  0.33333333  0.66666667  0.51675253  1.0
+  Si  Si7  1  0.66666667  0.33333333  0.48324747  1.0
+  Sb  Sb8  1  -0.00000000  -0.00000000  -0.00000000  1.0
+  O  O9  1  0.10287755  0.88328110  0.22507915  1.0
+  O  O10  1  0.88328110  0.10287755  0.77492085  1.0
+  O  O11  1  0.78040355  0.89712245  0.22507915  1.0
+  O  O12  1  0.11671890  0.21959645  0.22507915  1.0
+  O  O13  1  0.89712245  0.78040355  0.77492085  1.0
+  O  O14  1  0.21959645  0.11671890  0.77492085  1.0
+  O  O15  1  0.70276073  0.52651544  0.35703908  1.0
+  O  O16  1  0.52651544  0.70276073  0.64296092  1.0
+  O  O17  1  0.82375471  0.29723927  0.35703908  1.0
+  O  O18  1  0.47348456  0.17624529  0.35703908  1.0
+  O  O19  1  0.29723927  0.82375471  0.64296092  1.0
+  O  O20  1  0.17624529  0.47348456  0.64296092  1.0
+  O  O21  1  0.33333333  0.66666667  0.21060454  1.0
+  O  O22  1  0.66666667  0.33333333  0.78939546  1.0

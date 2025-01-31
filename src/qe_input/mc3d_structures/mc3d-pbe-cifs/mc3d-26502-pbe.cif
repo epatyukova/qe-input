@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PAuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.95477501
+_cell_length_b   4.95477501
+_cell_length_c   7.75461785
+_cell_angle_alpha   82.95878319
+_cell_angle_beta   97.04121681
+_cell_angle_gamma   102.11894755
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PAuO4
+_chemical_formula_sum   'P2 Au2 O8'
+_cell_volume   183.80540858
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.93015208  -0.06984792  0.25000000  1.0
+  P  P1  1  1.06984792  0.06984792  0.75000000  1.0
+  Au  Au2  1  1.00000000  -0.50000000  0.00000000  1.0
+  Au  Au3  1  1.50000000  -0.00000000  0.50000000  1.0
+  O  O4  1  0.76621732  -0.19071746  0.41177122  1.0
+  O  O5  1  0.80928254  -0.23378268  0.08822878  1.0
+  O  O6  1  1.23378268  0.19071746  0.58822878  1.0
+  O  O7  1  1.19071746  0.23378268  0.91177122  1.0
+  O  O8  1  0.23645601  -0.11058653  0.29151672  1.0
+  O  O9  1  0.88941347  -0.76354399  0.20848328  1.0
+  O  O10  1  1.76354399  0.11058653  0.70848328  1.0
+  O  O11  1  1.11058653  0.76354399  0.79151672  1.0

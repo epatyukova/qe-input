@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Zr2Fe12As7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32506067
+_cell_length_b   9.32506067
+_cell_length_c   3.74968674
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2Fe12As7
+_chemical_formula_sum   'Zr2 Fe12 As7'
+_cell_volume   282.37676016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.23798236  0.45086129  0.50000000  1.0
+  Fe  Fe1  1  0.21287893  0.76201764  0.50000000  1.0
+  Fe  Fe2  1  0.54913871  0.78712107  0.50000000  1.0
+  Fe  Fe3  1  0.29071119  0.22619146  0.00000000  1.0
+  Fe  Fe4  1  0.93548027  0.70928881  0.00000000  1.0
+  Fe  Fe5  1  0.77380854  0.06451973  0.00000000  1.0
+  Fe  Fe6  1  0.72803658  0.62979404  0.50000000  1.0
+  Fe  Fe7  1  0.90175747  0.27196342  0.50000000  1.0
+  Fe  Fe8  1  0.37020596  0.09824253  0.50000000  1.0
+  Fe  Fe9  1  0.49597934  0.54841035  -0.00000000  1.0
+  Fe  Fe10  1  0.05243101  0.50402066  0.00000000  1.0
+  Fe  Fe11  1  0.45158965  0.94756899  -0.00000000  1.0
+  As  As12  1  0.46071016  0.38572046  0.50000000  1.0
+  As  As13  1  0.92501030  0.53928984  0.50000000  1.0
+  As  As14  1  0.61427954  0.07498970  0.50000000  1.0
+  As  As15  1  0.05963803  0.25928190  0.00000000  1.0
+  As  As16  1  0.19964387  0.94036197  0.00000000  1.0
+  As  As17  1  0.74071810  0.80035613  0.00000000  1.0
+  As  As18  1  0.33333333  0.66666667  0.00000000  1.0
+  Zr  Zr19  1  0.00000000  0.00000000  0.50000000  1.0
+  Zr  Zr20  1  0.66666667  0.33333333  0.00000000  1.0

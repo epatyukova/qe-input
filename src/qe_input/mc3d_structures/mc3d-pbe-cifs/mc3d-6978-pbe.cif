@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BeSO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77528017
+_cell_length_b   4.77528017
+_cell_length_c   4.77528017
+_cell_angle_alpha   122.29778401
+_cell_angle_beta   122.29778401
+_cell_angle_gamma   86.06416230
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BeSO4
+_chemical_formula_sum   'Be1 S1 O4'
+_cell_volume   74.13359286
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.25000000  0.75000000  0.50000000  1.0
+  S  S1  1  -0.00000000  -0.00000000  -0.00000000  1.0
+  O  O2  1  0.24759695  0.88577839  0.89332187  1.0
+  O  O3  1  1.11422161  1.00754348  1.36181856  1.0
+  O  O4  1  0.99245652  0.35427508  1.10667813  1.0
+  O  O5  1  0.64572492  0.75240305  0.63818144  1.0

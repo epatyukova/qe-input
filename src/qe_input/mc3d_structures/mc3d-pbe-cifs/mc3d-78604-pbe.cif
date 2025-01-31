@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Te2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   16.18497182
+_cell_length_b   3.99271787
+_cell_length_c   13.06148558
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te2Cl
+_chemical_formula_sum   'Te16 Cl8'
+_cell_volume   844.05966301
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.08108627  0.75000000  0.24786119  1.0
+  Te  Te1  1  0.58108627  0.75000000  0.25213881  1.0
+  Te  Te2  1  0.91891373  0.25000000  0.75213881  1.0
+  Te  Te3  1  0.41891373  0.25000000  0.74786119  1.0
+  Te  Te4  1  0.31415671  0.75000000  0.21724761  1.0
+  Te  Te5  1  0.81415671  0.75000000  0.28275239  1.0
+  Te  Te6  1  0.68584329  0.25000000  0.78275239  1.0
+  Te  Te7  1  0.18584329  0.25000000  0.71724761  1.0
+  Te  Te8  1  0.21930619  0.75000000  0.56698486  1.0
+  Te  Te9  1  0.71930619  0.75000000  0.93301514  1.0
+  Te  Te10  1  0.78069381  0.25000000  0.43301514  1.0
+  Te  Te11  1  0.28069381  0.25000000  0.06698486  1.0
+  Te  Te12  1  0.40615749  0.75000000  0.59123196  1.0
+  Te  Te13  1  0.90615749  0.75000000  0.90876804  1.0
+  Te  Te14  1  0.59384251  0.25000000  0.40876804  1.0
+  Te  Te15  1  0.09384251  0.25000000  0.09123196  1.0
+  Cl  Cl16  1  0.15507041  0.75000000  0.86937203  1.0
+  Cl  Cl17  1  0.65507041  0.75000000  0.63062797  1.0
+  Cl  Cl18  1  0.84492959  0.25000000  0.13062797  1.0
+  Cl  Cl19  1  0.34492959  0.25000000  0.36937203  1.0
+  Cl  Cl20  1  0.43151025  0.75000000  0.89612963  1.0
+  Cl  Cl21  1  0.93151025  0.75000000  0.60387037  1.0
+  Cl  Cl22  1  0.56848975  0.25000000  0.10387037  1.0
+  Cl  Cl23  1  0.06848975  0.25000000  0.39612963  1.0

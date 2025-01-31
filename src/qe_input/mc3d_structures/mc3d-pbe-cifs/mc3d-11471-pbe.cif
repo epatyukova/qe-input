@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_EuZrS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.46804545
+_cell_length_b   3.80213779
+_cell_length_c   13.63145238
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuZrS3
+_chemical_formula_sum   'Eu4 Zr4 S12'
+_cell_volume   438.88745106
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.56266659  0.25000000  0.31973220  1.0
+  Eu  Eu1  1  0.06266659  0.25000000  0.18026780  1.0
+  Eu  Eu2  1  0.43733341  0.75000000  0.68026780  1.0
+  Eu  Eu3  1  0.93733341  0.75000000  0.81973220  1.0
+  Zr  Zr4  1  0.82440896  0.25000000  0.55271284  1.0
+  Zr  Zr5  1  0.32440896  0.25000000  0.94728716  1.0
+  Zr  Zr6  1  0.17559104  0.75000000  0.44728716  1.0
+  Zr  Zr7  1  0.67559104  0.75000000  0.05271284  1.0
+  S  S8  1  0.48730691  0.25000000  0.10926520  1.0
+  S  S9  1  0.98730691  0.25000000  0.39073480  1.0
+  S  S10  1  0.51269309  0.75000000  0.89073480  1.0
+  S  S11  1  0.01269309  0.75000000  0.60926520  1.0
+  S  S12  1  0.29856302  0.75000000  0.28174379  1.0
+  S  S13  1  0.79856302  0.75000000  0.21825621  1.0
+  S  S14  1  0.70143698  0.25000000  0.71825621  1.0
+  S  S15  1  0.20143698  0.25000000  0.78174379  1.0
+  S  S16  1  0.34297504  0.25000000  0.52134801  1.0
+  S  S17  1  0.84297504  0.25000000  0.97865199  1.0
+  S  S18  1  0.65702496  0.75000000  0.47865199  1.0
+  S  S19  1  0.15702496  0.75000000  0.02134801  1.0

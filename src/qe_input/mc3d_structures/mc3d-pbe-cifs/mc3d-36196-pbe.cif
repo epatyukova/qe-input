@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2Ti2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.03881107
+_cell_length_b   6.03881107
+_cell_length_c   6.69533104
+_cell_angle_alpha   80.97320136
+_cell_angle_beta   99.02679864
+_cell_angle_gamma   143.21338386
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ti2O5
+_chemical_formula_sum   'K2 Ti2 O5'
+_cell_volume   144.19961846
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.59922038  0.40077962  0.85120544  1.0
+  K  K1  1  0.40077962  -0.40077962  0.14879456  1.0
+  Ti  Ti2  1  0.85235684  0.14764316  0.59289300  1.0
+  Ti  Ti3  1  0.14764316  -0.14764316  0.40710700  1.0
+  O  O4  1  0.87311515  0.12688485  0.85358452  1.0
+  O  O5  1  0.12688485  -0.12688485  0.14641548  1.0
+  O  O6  1  0.67783335  0.32216665  0.48596706  1.0
+  O  O7  1  0.32216665  -0.32216665  0.51403294  1.0
+  O  O8  1  -0.00000000  0.00000000  0.50000000  1.0

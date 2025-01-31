@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La3(ZnPt)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.44858974
+_cell_length_b   8.44858974
+_cell_length_c   8.44858974
+_cell_angle_alpha   151.43728910
+_cell_angle_beta   126.85951206
+_cell_angle_gamma   61.43539983
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(ZnPt)4
+_chemical_formula_sum   'La3 Zn4 Pt4'
+_cell_volume   228.81839111
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.62747961  0.12747961  0.50000000  1.0
+  La  La1  1  0.37252039  0.87252039  0.50000000  1.0
+  La  La2  1  0.00000000  0.00000000  0.00000000  1.0
+  Zn  Zn3  1  0.36654974  0.67355955  0.69299019  1.0
+  Zn  Zn4  1  1.01943063  0.32644045  0.69299019  1.0
+  Zn  Zn5  1  0.98056937  0.67355955  1.30700981  1.0
+  Zn  Zn6  1  0.63345026  0.32644045  0.30700981  1.0
+  Pt  Pt7  1  0.78187780  0.78187780  1.00000000  1.0
+  Pt  Pt8  1  0.21812220  0.21812220  -0.00000000  1.0
+  Pt  Pt9  1  0.29924917  0.50000000  0.79924917  1.0
+  Pt  Pt10  1  0.70075083  0.50000000  1.20075083  1.0

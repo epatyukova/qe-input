@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Cu5Sn2Te7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53845417
+_cell_length_b   7.53845417
+_cell_length_c   9.73236197
+_cell_angle_alpha   82.56876912
+_cell_angle_beta   97.43123088
+_cell_angle_gamma   131.93780833
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu5Sn2Te7
+_chemical_formula_sum   'Cu5 Sn2 Te7'
+_cell_volume   407.26912954
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.26722376  0.26722376  0.50000000  1.0
+  Cu  Cu1  1  1.11575026  0.40746656  0.07435920  1.0
+  Cu  Cu2  1  0.40746656  0.11575026  0.92564080  1.0
+  Cu  Cu3  1  0.55183096  -0.01931578  0.35782795  1.0
+  Cu  Cu4  1  0.98068422  0.55183096  0.64217205  1.0
+  Sn  Sn5  1  0.85030170  0.70255664  0.22305929  1.0
+  Sn  Sn6  1  0.70255664  -0.14969830  0.77694071  1.0
+  Te  Te7  1  0.48088430  0.48088430  0.00000000  1.0
+  Te  Te8  1  0.64565287  0.34864540  0.44528586  1.0
+  Te  Te9  1  0.34864540  -0.35434713  0.55471414  1.0
+  Te  Te10  1  0.95188433  0.11775702  0.29268923  1.0
+  Te  Te11  1  0.11775702  -0.04811567  0.70731077  1.0
+  Te  Te12  1  0.26168639  -0.18832440  0.13801142  1.0
+  Te  Te13  1  0.81167560  0.26168639  0.86198858  1.0

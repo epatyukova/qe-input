@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PdSO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.93552015
+_cell_length_b   4.93552015
+_cell_length_c   7.74165043
+_cell_angle_alpha   81.54966511
+_cell_angle_beta   98.45033489
+_cell_angle_gamma   97.16067715
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PdSO4
+_chemical_formula_sum   'Pd2 S2 O8'
+_cell_volume   183.48283558
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  1.00000000  0.50000000  0.50000000  1.0
+  Pd  Pd1  1  1.50000000  0.00000000  -0.00000000  1.0
+  S  S2  1  0.92846609  0.92846609  0.75000000  1.0
+  S  S3  1  0.07153391  0.07153391  0.25000000  1.0
+  O  O4  1  1.11949675  -0.22700396  0.29238890  1.0
+  O  O5  1  0.77299604  0.11949675  0.20761110  1.0
+  O  O6  1  0.88050325  0.22700396  0.70761110  1.0
+  O  O7  1  1.22700396  -0.11949675  0.79238890  1.0
+  O  O8  1  1.78265775  -0.18748288  0.90630063  1.0
+  O  O9  1  0.81251712  0.78265775  0.59369937  1.0
+  O  O10  1  0.21734225  0.18748288  0.09369937  1.0
+  O  O11  1  1.18748288  -0.78265775  0.40630063  1.0

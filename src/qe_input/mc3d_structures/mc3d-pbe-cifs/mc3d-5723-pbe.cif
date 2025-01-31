@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KGa3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.71026941
+_cell_length_b   8.71026941
+_cell_length_c   8.71026941
+_cell_angle_alpha   137.28069305
+_cell_angle_beta   137.28069305
+_cell_angle_gamma   62.00645616
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KGa3
+_chemical_formula_sum   'K3 Ga9'
+_cell_volume   300.56317073
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.12636333  0.62636333  0.50000000  1.0
+  K  K1  1  0.37363667  0.87363667  0.50000000  1.0
+  K  K2  1  0.50000000  0.50000000  1.00000000  1.0
+  Ga  Ga3  1  0.48446925  0.27824956  0.20621969  1.0
+  Ga  Ga4  1  0.72175044  0.51553075  0.79378031  1.0
+  Ga  Ga5  1  0.72175044  0.92797013  1.20621969  1.0
+  Ga  Ga6  1  1.07202987  0.27824956  0.79378031  1.0
+  Ga  Ga7  1  0.41285902  0.10709907  0.30575995  1.0
+  Ga  Ga8  1  0.89290093  0.58714098  0.69424005  1.0
+  Ga  Ga9  1  0.89290093  1.19866088  1.30575995  1.0
+  Ga  Ga10  1  0.80133912  0.10709907  0.69424005  1.0
+  Ga  Ga11  1  0.00000000  0.00000000  0.00000000  1.0

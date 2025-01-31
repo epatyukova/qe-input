@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ba3TaGa3(GeO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.74727810
+_cell_length_b   8.74727810
+_cell_length_c   5.26869705
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3TaGa3(GeO7)2
+_chemical_formula_sum   'Ba3 Ta1 Ga3 Ge2 O14'
+_cell_volume   349.12401798
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.42392693  0.42392693  0.00000000  1.0
+  Ba  Ba1  1  0.00000000  0.57607307  0.00000000  1.0
+  Ba  Ba2  1  0.57607307  0.00000000  0.00000000  1.0
+  Ta  Ta3  1  0.00000000  0.00000000  -0.00000000  1.0
+  Ga  Ga4  1  0.74887110  0.74887110  0.50000000  1.0
+  Ga  Ga5  1  0.00000000  0.25112890  0.50000000  1.0
+  Ga  Ga6  1  0.25112890  0.00000000  0.50000000  1.0
+  Ge  Ge7  1  0.33333333  0.66666667  0.51756837  1.0
+  Ge  Ge8  1  0.66666667  0.33333333  0.48243163  1.0
+  O  O9  1  0.10313155  0.88992629  0.22646688  1.0
+  O  O10  1  0.88992629  0.10313155  0.77353312  1.0
+  O  O11  1  0.78679474  0.89686845  0.22646688  1.0
+  O  O12  1  0.11007371  0.21320526  0.22646688  1.0
+  O  O13  1  0.89686845  0.78679474  0.77353312  1.0
+  O  O14  1  0.21320526  0.11007371  0.77353312  1.0
+  O  O15  1  0.70213830  0.53489478  0.34012288  1.0
+  O  O16  1  0.53489478  0.70213830  0.65987712  1.0
+  O  O17  1  0.83275648  0.29786170  0.34012288  1.0
+  O  O18  1  0.46510522  0.16724352  0.34012288  1.0
+  O  O19  1  0.29786170  0.83275648  0.65987712  1.0
+  O  O20  1  0.16724352  0.46510522  0.65987712  1.0
+  O  O21  1  0.33333333  0.66666667  0.18915341  1.0
+  O  O22  1  0.66666667  0.33333333  0.81084659  1.0

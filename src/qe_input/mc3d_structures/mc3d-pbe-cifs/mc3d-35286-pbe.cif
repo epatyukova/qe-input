@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Hg(BiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.60787648
+_cell_length_b   7.60787648
+_cell_length_c   14.40344789
+_cell_angle_alpha   61.64422312
+_cell_angle_beta   118.35577688
+_cell_angle_gamma   148.73266069
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg(BiS2)2
+_chemical_formula_sum   'Hg2 Bi4 S8'
+_cell_volume   376.41532728
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.84329041  -0.84329041  0.33188090  1.0
+  S  S1  1  0.15670959  -0.15670959  0.66811910  1.0
+  S  S2  1  0.30460909  -0.30460909  0.93514909  1.0
+  S  S3  1  0.69539091  -0.69539091  0.06485091  1.0
+  S  S4  1  0.99933724  -0.99933724  0.83414952  1.0
+  S  S5  1  0.00066276  -0.00066276  0.16585048  1.0
+  S  S6  1  0.62845090  0.37154910  0.42597078  1.0
+  S  S7  1  1.37154910  -0.37154910  0.57402922  1.0
+  Hg  Hg8  1  0.00000000  0.00000000  0.00000000  1.0
+  Hg  Hg9  1  0.00000000  -0.00000000  0.50000000  1.0
+  Bi  Bi10  1  0.77570280  0.22429720  0.63014722  1.0
+  Bi  Bi11  1  1.22429720  -0.22429720  0.36985278  1.0
+  Bi  Bi12  1  0.64933616  0.35066384  0.86501605  1.0
+  Bi  Bi13  1  1.35066384  -0.35066384  0.13498395  1.0

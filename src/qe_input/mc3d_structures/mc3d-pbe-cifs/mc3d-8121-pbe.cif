@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_GdMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37568327
+_cell_length_b   6.37568327
+_cell_length_c   6.97659423
+_cell_angle_alpha   76.22240994
+_cell_angle_beta   103.77759006
+_cell_angle_gamma   108.82123871
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdMoClO4
+_chemical_formula_sum   'Gd2 Mo2 Cl2 O8'
+_cell_volume   256.66113203
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.72217186  -0.72217186  0.61633086  1.0
+  Gd  Gd1  1  0.27782814  -0.27782814  0.38366914  1.0
+  Mo  Mo2  1  0.86164092  -0.86164092  0.23234182  1.0
+  Mo  Mo3  1  0.13835908  -0.13835908  0.76765818  1.0
+  Cl  Cl4  1  0.48788670  -0.48788670  0.73227933  1.0
+  Cl  Cl5  1  0.51211330  -0.51211330  0.26772067  1.0
+  O  O6  1  0.38517778  -0.00917708  0.65339279  1.0
+  O  O7  1  1.00917708  0.61482222  0.65339279  1.0
+  O  O8  1  0.99082292  -0.61482222  0.34660721  1.0
+  O  O9  1  1.61482222  0.00917708  0.34660721  1.0
+  O  O10  1  0.96092068  -0.96092068  0.70628704  1.0
+  O  O11  1  0.03907932  -0.03907932  0.29371296  1.0
+  O  O12  1  0.79280521  -0.79280521  0.97065557  1.0
+  O  O13  1  0.20719479  -0.20719479  0.02934443  1.0

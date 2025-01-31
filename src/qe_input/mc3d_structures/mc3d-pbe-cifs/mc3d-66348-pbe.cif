@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cs2Mn(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33145753
+_cell_length_b   7.13024481
+_cell_length_c   7.19176695
+_cell_angle_alpha   121.65314880
+_cell_angle_beta   101.83466694
+_cell_angle_gamma   80.37898989
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Mn(Cl2O)2
+_chemical_formula_sum   'Cs2 Mn1 Cl4 O2'
+_cell_volume   269.80772738
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.22491912  0.64720198  -0.66559162  1.0
+  Cs  Cs1  1  0.77508088  0.35279802  -0.33440838  1.0
+  Mn  Mn2  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl3  1  0.77671746  0.84874890  -0.34453235  1.0
+  Cl  Cl4  1  0.22328254  0.15125110  -0.65546765  1.0
+  Cl  Cl5  1  0.75215433  0.31094886  -0.85825188  1.0
+  Cl  Cl6  1  0.24784567  0.68905114  -0.14174812  1.0
+  O  O7  1  0.87567154  0.87360671  -0.92196313  1.0
+  O  O8  1  0.12432846  0.12639329  -0.07803687  1.0

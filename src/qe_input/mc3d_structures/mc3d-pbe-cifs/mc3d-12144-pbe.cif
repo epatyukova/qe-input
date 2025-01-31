@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li2ZrTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60704350
+_cell_length_b   5.60704350
+_cell_length_c   5.60704350
+_cell_angle_alpha   55.93700894
+_cell_angle_beta   55.93700894
+_cell_angle_gamma   55.93700894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2ZrTeO6
+_chemical_formula_sum   'Li2 Zr1 Te1 O6'
+_cell_volume   112.91223812
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.01541677  0.01541677  0.01541677  1.0
+  Li  Li1  1  0.50367296  0.50367296  -0.49632704  1.0
+  Zr  Zr2  1  0.28893155  0.28893155  0.28893155  1.0
+  Te  Te3  1  0.79319436  -0.20680564  -0.20680564  1.0
+  O  O4  1  0.68224118  0.41928772  -0.94640864  1.0
+  O  O5  1  0.05359136  0.68224118  -0.58071228  1.0
+  O  O6  1  0.41928772  0.05359136  -0.31775882  1.0
+  O  O7  1  1.17183966  -0.43065674  -0.09941882  1.0
+  O  O8  1  0.90058118  0.17183966  -0.43065674  1.0
+  O  O9  1  0.56934326  -0.09941882  0.17183966  1.0

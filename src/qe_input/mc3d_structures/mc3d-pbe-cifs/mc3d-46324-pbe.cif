@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_FeAg2SnTe4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91496703
+_cell_length_b   7.87728362
+_cell_length_c   7.47386333
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeAg2SnTe4
+_chemical_formula_sum   'Fe2 Ag4 Sn2 Te8'
+_cell_volume   524.85746195
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.50000000  0.66720706  0.00102227  1.0
+  Fe  Fe1  1  -0.00000000  0.33279294  0.50102227  1.0
+  Ag  Ag2  1  0.24877016  0.17525222  0.01355239  1.0
+  Ag  Ag3  1  0.74877016  0.82474778  0.51355239  1.0
+  Ag  Ag4  1  0.75122984  0.17525222  0.01355239  1.0
+  Ag  Ag5  1  0.25122984  0.82474778  0.51355239  1.0
+  Sn  Sn6  1  0.50000000  0.33908203  0.50604867  1.0
+  Sn  Sn7  1  0.00000000  0.66091797  0.00604867  1.0
+  Te  Te8  1  0.50000000  0.67029215  0.35031689  1.0
+  Te  Te9  1  0.00000000  0.32970785  0.85031689  1.0
+  Te  Te10  1  0.50000000  0.35606271  0.89101364  1.0
+  Te  Te11  1  -0.00000000  0.64393729  0.39101364  1.0
+  Te  Te12  1  0.23326873  0.16340781  0.38849688  1.0
+  Te  Te13  1  0.73326873  0.83659219  0.88849688  1.0
+  Te  Te14  1  0.76673127  0.16340781  0.38849688  1.0
+  Te  Te15  1  0.26673127  0.83659219  0.88849688  1.0

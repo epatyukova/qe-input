@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2CrN3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67104348
+_cell_length_b   5.98584404
+_cell_length_c   5.76012272
+_cell_angle_alpha   64.20269586
+_cell_angle_beta   67.80417515
+_cell_angle_gamma   72.83888956
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CrN3
+_chemical_formula_sum   'Sr4 Cr2 N6'
+_cell_volume   189.37355853
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  -0.80286869  -0.55575870  -0.84140934  1.0
+  Sr  Sr1  1  -0.19713131  -0.44424130  -0.15859066  1.0
+  Sr  Sr2  1  -0.32939122  -0.81533341  -0.41443425  1.0
+  Sr  Sr3  1  -0.67060878  -0.18466659  -0.58556575  1.0
+  Cr  Cr4  1  -0.81751963  -0.94237047  -0.13891492  1.0
+  Cr  Cr5  1  -0.18248037  -0.05762953  -0.86108508  1.0
+  N  N6  1  -0.41038977  -0.83769453  -0.90178823  1.0
+  N  N7  1  -0.58961023  -0.16230547  -0.09821177  1.0
+  N  N8  1  -0.99348085  -0.91341987  -0.81035892  1.0
+  N  N9  1  -0.00651915  -0.08658013  -0.18964108  1.0
+  N  N10  1  -0.76140659  -0.64598023  -0.37082927  1.0
+  N  N11  1  -0.23859341  -0.35401977  -0.62917073  1.0

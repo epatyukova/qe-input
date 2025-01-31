@@ -83,7 +83,7 @@ elif  structure_file:
     
     input_file_content=generate_input_file(save_directory, 
                                            file_path, 
-                                           pseudo_path, 
+                                           './', 
                                            list_of_element_files, 
                                            cutoffs['max_ecutwfc'], 
                                            cutoffs['max_ecutrho'], 

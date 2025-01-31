@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_InS2NO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.90097846
+_cell_length_b   8.90097846
+_cell_length_c   8.90097846
+_cell_angle_alpha   32.83891176
+_cell_angle_beta   32.83891176
+_cell_angle_gamma   32.83891176
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InS2NO8
+_chemical_formula_sum   'In1 S2 N1 O8'
+_cell_volume   184.49883356
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  S  S0  1  0.74054824  0.74054824  0.74054824  1.0
+  S  S1  1  1.25945176  1.25945176  0.25945176  1.0
+  In  In2  1  0.00000000  -0.00000000  0.00000000  1.0
+  O  O3  1  1.57755324  1.02040864  0.24206257  1.0
+  O  O4  1  0.75793743  0.97959136  0.42244676  1.0
+  O  O5  1  0.97959136  1.42244676  -0.24206257  1.0
+  O  O6  1  1.42244676  0.75793743  -0.02040864  1.0
+  O  O7  1  1.24206257  1.57755324  0.02040864  1.0
+  O  O8  1  1.02040864  1.24206257  0.57755324  1.0
+  O  O9  1  0.79846280  0.79846280  0.79846280  1.0
+  O  O10  1  1.20153720  1.20153720  0.20153720  1.0
+  N  N11  1  1.50000000  0.50000000  0.50000000  1.0

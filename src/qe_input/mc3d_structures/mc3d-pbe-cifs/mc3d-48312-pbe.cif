@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_In2Hg5Te8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.19888551
+_cell_length_b   9.19888551
+_cell_length_c   9.19888551
+_cell_angle_alpha   119.62335718
+_cell_angle_beta   119.62335718
+_cell_angle_gamma   90.65361194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Hg5Te8
+_chemical_formula_sum   'In2 Hg5 Te8'
+_cell_volume   553.50997875
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  1.24640567  1.24640567  1.00000000  1.0
+  In  In1  1  0.75359433  0.75359433  1.00000000  1.0
+  Hg  Hg2  1  0.77234135  0.77234135  1.54468271  1.0
+  Hg  Hg3  1  1.22765865  0.77234135  1.00000000  1.0
+  Hg  Hg4  1  0.77234135  0.22765865  1.00000000  1.0
+  Hg  Hg5  1  0.22765865  0.22765865  0.45531729  1.0
+  Hg  Hg6  1  0.75000000  0.25000000  0.50000000  1.0
+  Te  Te7  1  0.61947123  0.37062109  0.75114987  1.0
+  Te  Te8  1  1.13167864  0.38052877  0.75114987  1.0
+  Te  Te9  1  1.62937891  1.38052877  1.24885013  1.0
+  Te  Te10  1  0.61947123  0.86832136  0.24885013  1.0
+  Te  Te11  1  0.14199052  0.87138300  0.72939248  1.0
+  Te  Te12  1  0.58740196  0.85800948  0.72939248  1.0
+  Te  Te13  1  1.12861700  0.85800948  1.27060752  1.0
+  Te  Te14  1  0.14199052  0.41259804  0.27060752  1.0

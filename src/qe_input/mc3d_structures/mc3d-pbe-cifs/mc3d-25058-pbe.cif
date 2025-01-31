@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ta2Mn4Si5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43968090
+_cell_length_b   9.43968090
+_cell_length_c   9.43968090
+_cell_angle_alpha   134.79548962
+_cell_angle_beta   56.29657641
+_cell_angle_gamma   148.24603290
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Mn4Si5
+_chemical_formula_sum   'Ta4 Mn8 Si10'
+_cell_volume   311.92236014
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.64916608  0.62006137  0.26922745  1.0
+  Mn  Mn1  1  0.35083392  0.37993863  0.73077255  1.0
+  Mn  Mn2  1  0.85083392  1.12006137  0.97089529  1.0
+  Mn  Mn3  1  0.14916608  0.87993863  1.02910471  1.0
+  Mn  Mn4  1  0.93417901  0.74871635  0.68289535  1.0
+  Mn  Mn5  1  0.06582099  0.25128365  0.31710465  1.0
+  Mn  Mn6  1  0.56582099  1.24871635  0.81453734  1.0
+  Mn  Mn7  1  0.43417901  0.75128365  1.18546266  1.0
+  Si  Si8  1  0.79289239  0.80876155  0.60165394  1.0
+  Si  Si9  1  0.20710761  0.19123845  0.39834606  1.0
+  Si  Si10  1  0.70710761  1.30876155  1.01586916  1.0
+  Si  Si11  1  0.29289239  0.69123845  0.98413084  1.0
+  Si  Si12  1  0.55770766  0.89687515  0.45458281  1.0
+  Si  Si13  1  0.44229234  0.10312485  0.54541719  1.0
+  Si  Si14  1  0.94229234  1.39687515  1.33916748  1.0
+  Si  Si15  1  0.05770766  0.60312485  0.66083252  1.0
+  Si  Si16  1  0.75000000  0.75000000  0.00000000  1.0
+  Si  Si17  1  0.25000000  0.25000000  -0.00000000  1.0
+  Ta  Ta18  1  1.06466376  0.75000000  0.31466376  1.0
+  Ta  Ta19  1  0.43533624  0.75000000  0.68533624  1.0
+  Ta  Ta20  1  0.93533624  1.25000000  0.68533624  1.0
+  Ta  Ta21  1  0.56466376  0.25000000  0.31466376  1.0

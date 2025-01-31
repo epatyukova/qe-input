@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Gd2Ge2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86083597
+_cell_length_b   5.86083597
+_cell_length_c   10.31197100
+_cell_angle_alpha   63.44000887
+_cell_angle_beta   116.55999113
+_cell_angle_gamma   136.79105965
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd2Ge2Ir
+_chemical_formula_sum   'Gd4 Ge4 Ir2'
+_cell_volume   212.62736858
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  1.00184888  -1.00184888  0.67444566  1.0
+  Gd  Gd1  1  -0.00184888  0.00184888  0.32555434  1.0
+  Gd  Gd2  1  0.81817417  0.18182583  0.89475534  1.0
+  Gd  Gd3  1  1.18182583  -0.18182583  0.10524466  1.0
+  Ge  Ge4  1  0.64608654  0.35391346  0.57106226  1.0
+  Ge  Ge5  1  1.35391346  -0.35391346  0.42893774  1.0
+  Ge  Ge6  1  0.51314799  0.48685201  0.87377275  1.0
+  Ge  Ge7  1  1.48685201  -0.48685201  0.12622725  1.0
+  Ir  Ir8  1  0.72391490  -0.72391490  0.37471184  1.0
+  Ir  Ir9  1  0.27608510  -0.27608510  0.62528816  1.0

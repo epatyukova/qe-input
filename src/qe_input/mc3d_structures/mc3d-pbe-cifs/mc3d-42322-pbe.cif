@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_AsRh2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.91968256
+_cell_length_b   3.98507607
+_cell_length_c   7.46914049
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsRh2
+_chemical_formula_sum   'As4 Rh8'
+_cell_volume   176.19990197
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  0.76230910  0.75000000  0.38572673  1.0
+  As  As1  1  0.26230910  0.75000000  0.11427327  1.0
+  As  As2  1  0.23769090  0.25000000  0.61427327  1.0
+  As  As3  1  0.73769090  0.25000000  0.88572673  1.0
+  Rh  Rh4  1  0.96760677  0.75000000  0.67484600  1.0
+  Rh  Rh5  1  0.46760677  0.75000000  0.82515400  1.0
+  Rh  Rh6  1  0.03239323  0.25000000  0.32515400  1.0
+  Rh  Rh7  1  0.53239323  0.25000000  0.17484600  1.0
+  Rh  Rh8  1  0.85362497  0.75000000  0.07092669  1.0
+  Rh  Rh9  1  0.35362497  0.75000000  0.42907331  1.0
+  Rh  Rh10  1  0.14637503  0.25000000  0.92907331  1.0
+  Rh  Rh11  1  0.64637503  0.25000000  0.57092669  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdFe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.68113638
+_cell_length_b   8.68113638
+_cell_length_c   8.68113638
+_cell_angle_alpha   34.16692598
+_cell_angle_beta   34.16692598
+_cell_angle_gamma   34.16692598
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdFe3
+_chemical_formula_sum   'Gd3 Fe9'
+_cell_volume   183.98181834
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.85814849  0.85814849  0.85814849  1.0
+  Gd  Gd1  1  1.14185151  1.14185151  0.14185151  1.0
+  Gd  Gd2  1  0.00000000  0.00000000  -0.00000000  1.0
+  Fe  Fe3  1  1.41971499  1.41971499  -0.08294840  1.0
+  Fe  Fe4  1  1.41971499  0.91705160  0.41971499  1.0
+  Fe  Fe5  1  1.08294840  0.58028501  0.58028501  1.0
+  Fe  Fe6  1  1.58028501  0.08294840  0.58028501  1.0
+  Fe  Fe7  1  1.58028501  0.58028501  0.08294840  1.0
+  Fe  Fe8  1  0.91705160  1.41971499  0.41971499  1.0
+  Fe  Fe9  1  1.66724551  0.66724551  0.66724551  1.0
+  Fe  Fe10  1  1.33275449  0.33275449  0.33275449  1.0
+  Fe  Fe11  1  1.50000000  0.50000000  0.50000000  1.0

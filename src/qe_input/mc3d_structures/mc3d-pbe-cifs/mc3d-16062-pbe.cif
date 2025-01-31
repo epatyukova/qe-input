@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SrTaF7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98387702
+_cell_length_b   7.33497453
+_cell_length_c   6.83106634
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   94.52254483
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTaF7
+_chemical_formula_sum   'Sr2 Ta2 F14'
+_cell_volume   248.94310103
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.97245828  0.25000000  0.18443498  1.0
+  Sr  Sr1  1  0.02754172  0.75000000  0.81556502  1.0
+  Ta  Ta2  1  0.52998908  0.25000000  0.72194882  1.0
+  Ta  Ta3  1  0.47001092  0.75000000  0.27805118  1.0
+  F  F4  1  0.80410845  0.42170271  0.85940621  1.0
+  F  F5  1  0.80410845  0.07829729  0.85940621  1.0
+  F  F6  1  0.19589155  0.92170271  0.14059379  1.0
+  F  F7  1  0.19589155  0.57829729  0.14059379  1.0
+  F  F8  1  0.32525226  0.47448380  0.71986028  1.0
+  F  F9  1  0.32525226  0.02551620  0.71986028  1.0
+  F  F10  1  0.67474774  0.97448380  0.28013972  1.0
+  F  F11  1  0.67474774  0.52551620  0.28013972  1.0
+  F  F12  1  0.81425638  0.25000000  0.54384221  1.0
+  F  F13  1  0.18574362  0.75000000  0.45615779  1.0
+  F  F14  1  0.41205101  0.25000000  0.99508819  1.0
+  F  F15  1  0.58794899  0.75000000  0.00491181  1.0
+  F  F16  1  0.33459108  0.25000000  0.45701292  1.0
+  F  F17  1  0.66540892  0.75000000  0.54298708  1.0

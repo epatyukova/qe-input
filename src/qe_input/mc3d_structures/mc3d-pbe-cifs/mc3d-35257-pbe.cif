@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_KCu(BiS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25189838
+_cell_length_b   7.25189838
+_cell_length_c   14.46971624
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   147.70421133
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCu(BiS2)2
+_chemical_formula_sum   'K2 Cu2 Bi4 S8'
+_cell_volume   406.57498844
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.11154580  0.88845420  0.50696966  1.0
+  K  K1  1  -0.11154580  0.11154580  0.00696966  1.0
+  Cu  Cu2  1  0.14762181  0.85237819  0.97560741  1.0
+  Cu  Cu3  1  -0.14762181  0.14762181  0.47560741  1.0
+  Bi  Bi4  1  0.38132332  0.61867668  0.67885381  1.0
+  Bi  Bi5  1  -0.38132332  0.38132332  0.17885381  1.0
+  Bi  Bi6  1  -0.34978558  0.34978558  0.79599221  1.0
+  Bi  Bi7  1  0.34978558  0.65021442  0.29599221  1.0
+  S  S8  1  0.01687781  0.98312219  0.72500673  1.0
+  S  S9  1  -0.01687781  0.01687781  0.22500673  1.0
+  S  S10  1  0.25330959  0.74669041  0.13318547  1.0
+  S  S11  1  -0.25330959  0.25330959  0.63318547  1.0
+  S  S12  1  0.26855714  0.73144286  0.86114902  1.0
+  S  S13  1  -0.26855714  0.26855714  0.36114902  1.0
+  S  S14  1  0.42889132  0.57110868  0.49833570  1.0
+  S  S15  1  -0.42889132  0.42889132  -0.00166430  1.0

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Sr(FeSb3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97545929
+_cell_length_b   7.97545929
+_cell_length_c   7.97545929
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(FeSb3)4
+_chemical_formula_sum   'Sr1 Fe4 Sb12'
+_cell_volume   390.52174156
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.00000000  1.0
+  Fe  Fe1  1  0.50000000  1.00000000  1.00000000  1.0
+  Fe  Fe2  1  0.50000000  0.50000000  0.50000000  1.0
+  Fe  Fe3  1  1.00000000  1.00000000  0.50000000  1.0
+  Fe  Fe4  1  1.00000000  0.50000000  1.00000000  1.0
+  Sb  Sb5  1  0.83651408  1.33662644  1.17314051  1.0
+  Sb  Sb6  1  0.83651408  0.66337356  0.49988764  1.0
+  Sb  Sb7  1  0.16348592  0.33662644  0.50011236  1.0
+  Sb  Sb8  1  0.16348592  0.66337356  0.82685949  1.0
+  Sb  Sb9  1  0.49988764  0.83651408  0.66337356  1.0
+  Sb  Sb10  1  1.17314051  0.83651408  1.33662644  1.0
+  Sb  Sb11  1  0.66337356  0.82685949  0.16348592  1.0
+  Sb  Sb12  1  0.66337356  0.49988764  0.83651408  1.0
+  Sb  Sb13  1  0.82685949  0.16348592  0.66337356  1.0
+  Sb  Sb14  1  0.50011236  0.16348592  0.33662644  1.0
+  Sb  Sb15  1  0.33662644  0.50011236  0.16348592  1.0
+  Sb  Sb16  1  1.33662644  1.17314051  0.83651408  1.0

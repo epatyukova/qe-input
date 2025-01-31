@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Sr2I2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.24862589
+_cell_length_b   8.24862589
+_cell_length_c   8.24862589
+_cell_angle_alpha   124.14312831
+_cell_angle_beta   75.58455455
+_cell_angle_gamma   133.44743787
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2I2O
+_chemical_formula_sum   'Sr4 I4 O2'
+_cell_volume   328.34380115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.41170411  0.33047216  0.74217627  1.0
+  Sr  Sr1  1  0.08829589  0.83047216  0.91876806  1.0
+  Sr  Sr2  1  0.91170411  1.16952784  1.08123194  1.0
+  Sr  Sr3  1  0.58829589  0.66952784  0.25782373  1.0
+  I  I4  1  0.14972030  0.35467177  0.50439207  1.0
+  I  I5  1  0.35027970  0.85467177  1.20495146  1.0
+  I  I6  1  0.64972030  1.14532823  0.79504854  1.0
+  I  I7  1  0.85027970  0.64532823  0.49560793  1.0
+  O  O8  1  0.25000000  0.25000000  -0.00000000  1.0
+  O  O9  1  0.75000000  0.75000000  0.00000000  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SnPtSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36564706
+_cell_length_b   6.37198005
+_cell_length_c   6.34450589
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SnPtSe
+_chemical_formula_sum   'Sn4 Pt4 Se4'
+_cell_volume   257.34442740
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sn  Sn0  1  0.37780280  0.37273187  0.37959217  1.0
+  Sn  Sn1  1  0.87780280  0.62726813  0.37959217  1.0
+  Sn  Sn2  1  0.62219720  0.62726813  0.87959217  1.0
+  Sn  Sn3  1  0.12219720  0.37273187  0.87959217  1.0
+  Pt  Pt4  1  0.49716002  0.75673193  0.50042940  1.0
+  Pt  Pt5  1  0.99716002  0.24326807  0.50042940  1.0
+  Pt  Pt6  1  0.50283998  0.24326807  0.00042940  1.0
+  Pt  Pt7  1  0.00283998  0.75673193  0.00042940  1.0
+  Se  Se8  1  0.37745527  0.87173741  0.12327843  1.0
+  Se  Se9  1  0.87745527  0.12826259  0.12327843  1.0
+  Se  Se10  1  0.62254473  0.12826259  0.62327843  1.0
+  Se  Se11  1  0.12254473  0.87173741  0.62327843  1.0

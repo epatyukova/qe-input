@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_In2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.40339492
+_cell_length_b   9.53018505
+_cell_length_c   5.66064721
+_cell_angle_alpha   82.20330828
+_cell_angle_beta   65.17529177
+_cell_angle_gamma   32.62139995
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Ir
+_chemical_formula_sum   'In8 Ir4'
+_cell_volume   245.84439623
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.09420486  0.40579514  0.09420486  1.0
+  In  In1  1  0.40579514  0.09420486  1.40579514  1.0
+  In  In2  1  0.15579514  -0.15579514  0.15579514  1.0
+  In  In3  1  -0.15579514  0.15579514  0.84420486  1.0
+  In  In4  1  -0.16474747  0.83525253  0.66474747  1.0
+  In  In5  1  -0.33525253  0.66474747  0.83525253  1.0
+  In  In6  1  0.41474747  1.41474747  -0.41474747  1.0
+  In  In7  1  -0.41474747  0.58525253  0.41474747  1.0
+  Ir  Ir8  1  0.38094100  1.38094100  0.11905900  1.0
+  Ir  Ir9  1  0.11905900  0.11905900  0.38094100  1.0
+  Ir  Ir10  1  -0.13094100  0.86905900  0.13094100  1.0
+  Ir  Ir11  1  0.13094100  0.13094100  -0.13094100  1.0

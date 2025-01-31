@@ -1,0 +1,30 @@
+# generated using pymatgen
+data_RbCeS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.05416903
+_cell_length_b   8.05416903
+_cell_length_c   8.05416903
+_cell_angle_alpha   30.71192940
+_cell_angle_beta   30.71192940
+_cell_angle_gamma   30.71192940
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCeS2
+_chemical_formula_sum   'Rb1 Ce1 S2'
+_cell_volume   120.84300137
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00000000  0.00000000  0.00000000  1.0
+  Ce  Ce1  1  1.50000000  0.50000000  0.50000000  1.0
+  S  S2  1  0.76800948  0.76800948  0.76800948  1.0
+  S  S3  1  1.23199052  1.23199052  0.23199052  1.0

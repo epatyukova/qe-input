@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ni2Sn4Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30725599
+_cell_length_b   9.30725599
+_cell_length_c   9.30725599
+_cell_angle_alpha   26.69171379
+_cell_angle_beta   26.69171379
+_cell_angle_gamma   26.69171379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2Sn4Au
+_chemical_formula_sum   'Ni2 Sn4 Au1'
+_cell_volume   143.42755357
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.90063462  0.90063462  0.90063462  1.0
+  Ni  Ni1  1  1.09936538  1.09936538  0.09936538  1.0
+  Sn  Sn2  1  1.61090017  0.61090017  0.61090017  1.0
+  Sn  Sn3  1  1.38909983  0.38909983  0.38909983  1.0
+  Sn  Sn4  1  0.79956447  0.79956447  0.79956447  1.0
+  Sn  Sn5  1  1.20043553  1.20043553  0.20043553  1.0
+  Au  Au6  1  0.00000000  0.00000000  0.00000000  1.0

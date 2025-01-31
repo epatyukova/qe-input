@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NbCuTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79638421
+_cell_length_b   3.85595614
+_cell_length_c   7.33892991
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   107.80819327
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbCuTe2
+_chemical_formula_sum   'Nb2 Cu2 Te4'
+_cell_volume   183.11283046
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.67412487  0.25000000  0.49441532  1.0
+  Nb  Nb1  1  0.32587513  0.75000000  0.50558468  1.0
+  Cu  Cu2  1  0.89402756  0.25000000  0.90850533  1.0
+  Cu  Cu3  1  0.10597244  0.75000000  0.09149467  1.0
+  Te  Te4  1  0.48943861  0.25000000  0.78754915  1.0
+  Te  Te5  1  0.51056139  0.75000000  0.21245085  1.0
+  Te  Te6  1  0.00568974  0.25000000  0.29554347  1.0
+  Te  Te7  1  0.99431026  0.75000000  0.70445653  1.0

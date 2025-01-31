@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_GdBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.37380026
+_cell_length_b   7.37380026
+_cell_length_c   7.58921696
+_cell_angle_alpha   80.83551904
+_cell_angle_beta   99.16448096
+_cell_angle_gamma   60.04960753
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdBr3
+_chemical_formula_sum   'Gd2 Br6'
+_cell_volume   338.94639856
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.83342244  -0.16657756  -0.00000000  1.0
+  Gd  Gd1  1  0.16657756  0.16657756  0.00000000  1.0
+  Br  Br2  1  0.42596598  -0.05774628  0.77402410  1.0
+  Br  Br3  1  1.05774628  -0.42596598  0.77402410  1.0
+  Br  Br4  1  0.94225372  -0.57403402  0.22597590  1.0
+  Br  Br5  1  0.57403402  0.05774628  0.22597590  1.0
+  Br  Br6  1  0.79562456  -0.79562456  0.77239101  1.0
+  Br  Br7  1  0.20437544  -0.20437544  0.22760899  1.0

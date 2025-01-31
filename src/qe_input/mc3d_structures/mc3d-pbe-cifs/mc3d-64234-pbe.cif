@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_OsBrN5Cl2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05418927
+_cell_length_b   7.05418927
+_cell_length_c   7.05418927
+_cell_angle_alpha   128.14987857
+_cell_angle_beta   128.14987857
+_cell_angle_gamma   76.38235634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   OsBrN5Cl2O
+_chemical_formula_sum   'Os1 Br1 N5 Cl2 O1'
+_cell_volume   210.93477108
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  1.39536441  0.84171979  1.00000000  1.0
+  N  N1  1  0.84171979  0.84171979  1.44635538  1.0
+  N  N2  1  0.39536441  0.39536441  0.55364462  1.0
+  N  N3  1  0.84171979  0.39536441  1.00000000  1.0
+  N  N4  1  0.81051287  0.81051287  1.00000000  1.0
+  Cl  Cl5  1  1.59364661  1.09364661  0.50000000  1.0
+  Cl  Cl6  1  1.09364661  1.59364661  0.50000000  1.0
+  O  O7  1  0.91574075  0.91574075  1.00000000  1.0
+  Br  Br8  1  1.41069396  1.41069396  1.00000000  1.0
+  Os  Os9  1  0.64889083  0.64889083  1.00000000  1.0

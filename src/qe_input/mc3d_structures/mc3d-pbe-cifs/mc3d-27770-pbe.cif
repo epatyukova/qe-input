@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Na14Mn2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72096863
+_cell_length_b   6.72096863
+_cell_length_c   9.40105005
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na14Mn2O9
+_chemical_formula_sum   'Na14 Mn2 O9'
+_cell_volume   367.76528587
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.67802044  0.63878555  0.09132851  1.0
+  Na  Na1  1  0.63878555  0.96076512  0.90867149  1.0
+  Na  Na2  1  0.96076512  0.32197956  0.09132851  1.0
+  Na  Na3  1  0.36121445  0.03923488  0.09132851  1.0
+  Na  Na4  1  0.32197956  0.36121445  0.90867149  1.0
+  Na  Na5  1  0.03923488  0.67802044  0.90867149  1.0
+  Na  Na6  1  0.93158865  0.62198473  0.40795286  1.0
+  Na  Na7  1  0.62198473  0.69039608  0.59204714  1.0
+  Na  Na8  1  0.69039608  0.06841135  0.40795286  1.0
+  Na  Na9  1  0.37801527  0.30960392  0.40795286  1.0
+  Na  Na10  1  0.06841135  0.37801527  0.59204714  1.0
+  Na  Na11  1  0.30960392  0.93158865  0.59204714  1.0
+  Na  Na12  1  0.00000000  0.00000000  0.25119963  1.0
+  Na  Na13  1  0.00000000  0.00000000  0.74880037  1.0
+  Mn  Mn14  1  0.33333333  0.66666667  0.26356079  1.0
+  Mn  Mn15  1  0.66666667  0.33333333  0.73643921  1.0
+  O  O16  1  0.30455230  0.94319413  0.33658484  1.0
+  O  O17  1  0.94319413  0.63864183  0.66341516  1.0
+  O  O18  1  0.63864183  0.69544770  0.33658484  1.0
+  O  O19  1  0.05680587  0.36135817  0.33658484  1.0
+  O  O20  1  0.69544770  0.05680587  0.66341516  1.0
+  O  O21  1  0.36135817  0.30455230  0.66341516  1.0
+  O  O22  1  0.33333333  0.66666667  0.04295864  1.0
+  O  O23  1  0.66666667  0.33333333  0.95704136  1.0
+  O  O24  1  0.00000000  0.00000000  0.00000000  1.0

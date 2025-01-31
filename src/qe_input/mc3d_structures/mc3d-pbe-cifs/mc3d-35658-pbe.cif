@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_VFeP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.88552001
+_cell_length_b   3.49351507
+_cell_length_c   6.68420649
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   VFeP
+_chemical_formula_sum   'V4 Fe4 P4'
+_cell_volume   137.43499134
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.97535795  0.75000000  0.67378948  1.0
+  V  V1  1  0.47535795  0.75000000  0.82621052  1.0
+  V  V2  1  0.02464205  0.25000000  0.32621052  1.0
+  V  V3  1  0.52464205  0.25000000  0.17378948  1.0
+  Fe  Fe4  1  0.85627304  0.75000000  0.06180849  1.0
+  Fe  Fe5  1  0.35627304  0.75000000  0.43819151  1.0
+  Fe  Fe6  1  0.14372696  0.25000000  0.93819151  1.0
+  Fe  Fe7  1  0.64372696  0.25000000  0.56180849  1.0
+  P  P8  1  0.72998877  0.75000000  0.37589505  1.0
+  P  P9  1  0.22998877  0.75000000  0.12410495  1.0
+  P  P10  1  0.27001123  0.25000000  0.62410495  1.0
+  P  P11  1  0.77001123  0.25000000  0.87589505  1.0

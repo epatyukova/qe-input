@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Ba2Cd(BO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24386092
+_cell_length_b   7.24386092
+_cell_length_c   7.24386092
+_cell_angle_alpha   59.69244840
+_cell_angle_beta   59.69244840
+_cell_angle_gamma   59.69244840
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Cd(BO2)6
+_chemical_formula_sum   'Ba2 Cd1 B6 O12'
+_cell_volume   266.90120918
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.79383690  0.79383690  -0.20616310  1.0
+  Ba  Ba1  1  1.20616310  1.20616310  0.20616310  1.0
+  Cd  Cd2  1  0.00000000  -0.00000000  -0.00000000  1.0
+  B  B3  1  0.36768541  0.75610583  -0.36656254  1.0
+  B  B4  1  0.24389417  0.36656254  -0.36768541  1.0
+  B  B5  1  0.36656254  0.63231459  -0.75610583  1.0
+  B  B6  1  0.63231459  0.24389417  -0.63343746  1.0
+  B  B7  1  0.75610583  0.63343746  -0.63231459  1.0
+  B  B8  1  0.63343746  0.36768541  -0.24389417  1.0
+  O  O9  1  0.42202214  0.54178868  -0.20152916  1.0
+  O  O10  1  0.45821132  0.20152916  -0.42202214  1.0
+  O  O11  1  0.20152916  0.57797786  -0.54178868  1.0
+  O  O12  1  0.57797786  0.45821132  -0.79847084  1.0
+  O  O13  1  0.54178868  0.79847084  -0.57797786  1.0
+  O  O14  1  0.79847084  0.42202214  -0.45821132  1.0
+  O  O15  1  0.66482940  0.16287562  -0.08548080  1.0
+  O  O16  1  0.83712438  0.08548080  -0.66482940  1.0
+  O  O17  1  1.08548080  -0.66482940  -0.16287562  1.0
+  O  O18  1  0.33517060  -0.16287562  0.08548080  1.0
+  O  O19  1  1.16287562  -0.08548080  -0.33517060  1.0
+  O  O20  1  0.91451920  -0.33517060  0.16287562  1.0

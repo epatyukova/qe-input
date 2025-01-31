@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Na2Te2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.49768671
+_cell_length_b   7.49768671
+_cell_length_c   7.49768671
+_cell_angle_alpha   119.96865656
+_cell_angle_beta   91.45171408
+_cell_angle_gamma   118.36842356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Te2O7
+_chemical_formula_sum   'Na4 Te4 O14'
+_cell_volume   301.60418314
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.50000000  1.00000000  1.00000000  1.0
+  Na  Na1  1  0.50000000  0.50000000  0.50000000  1.0
+  Na  Na2  1  0.50000000  -0.00000000  0.50000000  1.0
+  Na  Na3  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te4  1  1.00000000  1.50000000  1.00000000  1.0
+  Te  Te5  1  1.00000000  1.00000000  0.50000000  1.0
+  Te  Te6  1  -0.00000000  0.50000000  0.50000000  1.0
+  Te  Te7  1  0.50000000  0.50000000  1.00000000  1.0
+  O  O8  1  1.31712120  1.64909388  1.08966645  1.0
+  O  O9  1  0.94057257  0.77254525  1.58966645  1.0
+  O  O10  1  0.68287880  0.77254525  1.33197268  1.0
+  O  O11  1  1.05942743  1.64909388  0.83197268  1.0
+  O  O12  1  1.31712120  1.22745475  0.66802732  1.0
+  O  O13  1  0.94057257  0.35090612  1.16802732  1.0
+  O  O14  1  0.68287880  0.35090612  0.91033355  1.0
+  O  O15  1  1.05942743  1.22745475  0.41033355  1.0
+  O  O16  1  1.64035661  0.72186367  0.91849293  1.0
+  O  O17  1  1.69662926  1.27813633  1.41849293  1.0
+  O  O18  1  0.35964339  0.27813633  0.08150707  1.0
+  O  O19  1  0.30337074  0.72186367  0.58150707  1.0
+  O  O20  1  1.09827873  0.84827873  0.25000000  1.0
+  O  O21  1  0.90172127  0.15172127  0.75000000  1.0

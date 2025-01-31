@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuVO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.60404880
+_cell_length_b   6.60404880
+_cell_length_c   5.01552347
+_cell_angle_alpha   67.68657422
+_cell_angle_beta   112.31342578
+_cell_angle_gamma   64.95657003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuVO4
+_chemical_formula_sum   'Lu2 V2 O8'
+_cell_volume   140.14488909
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  1.37500132  0.37500132  0.75000000  1.0
+  Lu  Lu1  1  0.62499868  0.62499868  0.25000000  1.0
+  V  V2  1  0.87502962  0.87502962  0.75000000  1.0
+  V  V3  1  1.12497038  0.12497038  0.25000000  1.0
+  O  O4  1  1.64602741  -0.05698233  0.85793831  1.0
+  O  O5  1  1.05698233  0.35397259  0.35793831  1.0
+  O  O6  1  0.94301767  0.64602741  0.64206169  1.0
+  O  O7  1  1.35397259  0.05698233  0.14206169  1.0
+  O  O8  1  1.30095091  -0.21196891  0.65492214  1.0
+  O  O9  1  1.21196891  0.69904909  0.15492214  1.0
+  O  O10  1  0.78803109  0.30095091  0.84507786  1.0
+  O  O11  1  1.69904909  0.21196891  0.34507786  1.0

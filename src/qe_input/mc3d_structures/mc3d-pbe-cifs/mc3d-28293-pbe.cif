@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La2NiSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.29297556
+_cell_length_b   4.55058570
+_cell_length_c   11.83758334
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2NiSb
+_chemical_formula_sum   'La8 Ni4 Sb4'
+_cell_volume   446.72548858
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.78524610  0.75000000  0.45149882  1.0
+  La  La1  1  0.28524610  0.75000000  0.04850118  1.0
+  La  La2  1  0.21475390  0.25000000  0.54850118  1.0
+  La  La3  1  0.71475390  0.25000000  0.95149882  1.0
+  La  La4  1  0.53916565  0.75000000  0.70091357  1.0
+  La  La5  1  0.03916565  0.75000000  0.79908643  1.0
+  La  La6  1  0.46083435  0.25000000  0.29908643  1.0
+  La  La7  1  0.96083435  0.25000000  0.20091357  1.0
+  Ni  Ni8  1  0.93260464  0.75000000  0.02063343  1.0
+  Ni  Ni9  1  0.43260464  0.75000000  0.47936657  1.0
+  Ni  Ni10  1  0.06739536  0.25000000  0.97936657  1.0
+  Ni  Ni11  1  0.56739536  0.25000000  0.52063343  1.0
+  Sb  Sb12  1  0.67108820  0.75000000  0.15993106  1.0
+  Sb  Sb13  1  0.17108820  0.75000000  0.34006894  1.0
+  Sb  Sb14  1  0.32891180  0.25000000  0.84006894  1.0
+  Sb  Sb15  1  0.82891180  0.25000000  0.65993106  1.0

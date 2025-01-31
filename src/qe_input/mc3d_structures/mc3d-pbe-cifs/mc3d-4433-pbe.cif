@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AsPb2Cl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20015360
+_cell_length_b   5.81282103
+_cell_length_c   8.87764044
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   78.86456676
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AsPb2Cl2O3
+_chemical_formula_sum   'As2 Pb4 Cl4 O6'
+_cell_volume   364.56253646
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.93098088  0.25000000  0.15349191  1.0
+  Pb  Pb1  1  0.06901912  0.75000000  0.84650809  1.0
+  Pb  Pb2  1  0.19575644  0.25000000  0.52282956  1.0
+  Pb  Pb3  1  0.80424356  0.75000000  0.47717044  1.0
+  As  As4  1  0.76003761  0.25000000  0.76249489  1.0
+  As  As5  1  0.23996239  0.75000000  0.23750511  1.0
+  O  O6  1  0.90898947  0.48941495  0.68035606  1.0
+  O  O7  1  0.90898947  0.01058505  0.68035606  1.0
+  O  O8  1  0.09101053  0.98941495  0.31964394  1.0
+  O  O9  1  0.09101053  0.51058505  0.31964394  1.0
+  O  O10  1  0.75236631  0.25000000  0.95891433  1.0
+  O  O11  1  0.24763369  0.75000000  0.04108567  1.0
+  Cl  Cl12  1  0.63996818  0.25000000  0.41789417  1.0
+  Cl  Cl13  1  0.36003182  0.75000000  0.58210583  1.0
+  Cl  Cl14  1  0.23005911  0.25000000  0.86093545  1.0
+  Cl  Cl15  1  0.76994089  0.75000000  0.13906455  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaIn4Pd
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.90350267
+_cell_length_b   8.90350267
+_cell_length_c   7.45080781
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   149.85395694
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaIn4Pd
+_chemical_formula_sum   'La2 In8 Pd2'
+_cell_volume   296.62440739
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.12051837  1.12051837  0.75000000  1.0
+  La  La1  1  -0.87948163  0.87948163  0.25000000  1.0
+  In  In2  1  -0.93125848  0.93125848  0.75000000  1.0
+  In  In3  1  -0.06874152  1.06874152  0.25000000  1.0
+  In  In4  1  0.50000000  0.50000000  0.00000000  1.0
+  In  In5  1  0.50000000  0.50000000  0.50000000  1.0
+  In  In6  1  -0.31647200  1.31647200  0.95089275  1.0
+  In  In7  1  -0.68352800  0.68352800  0.04910725  1.0
+  In  In8  1  -0.31647200  1.31647200  0.54910725  1.0
+  In  In9  1  -0.68352800  0.68352800  0.45089275  1.0
+  Pd  Pd10  1  -0.77509095  0.77509095  0.75000000  1.0
+  Pd  Pd11  1  -0.22490905  1.22490905  0.25000000  1.0

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_K2Cu(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.75874474
+_cell_length_b   6.75874474
+_cell_length_c   6.75874474
+_cell_angle_alpha   111.28135414
+_cell_angle_beta   111.28135414
+_cell_angle_gamma   105.90862442
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Cu(Cl2O)2
+_chemical_formula_sum   'K2 Cu1 Cl4 O2'
+_cell_volume   236.98737777
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  1.25000000  0.75000000  0.50000000  1.0
+  K  K1  1  0.75000000  1.25000000  0.50000000  1.0
+  Cu  Cu2  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl3  1  0.78852877  0.78852877  0.57705755  1.0
+  Cl  Cl4  1  1.21147123  0.78852877  1.00000000  1.0
+  Cl  Cl5  1  0.21147123  0.21147123  0.42294245  1.0
+  Cl  Cl6  1  0.78852877  1.21147123  1.00000000  1.0
+  O  O7  1  0.57493542  0.57493542  0.00000000  1.0
+  O  O8  1  0.42506458  0.42506458  0.00000000  1.0

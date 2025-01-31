@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaGdCuBO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50314238
+_cell_length_b   5.50314238
+_cell_length_c   7.60003430
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGdCuBO5
+_chemical_formula_sum   'Ba2 Gd2 Cu2 B2 O10'
+_cell_volume   230.16381681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.00229811  1.0
+  Ba  Ba1  1  0.00000000  0.00000000  0.00229811  1.0
+  Gd  Gd2  1  0.50000000  0.50000000  0.51136880  1.0
+  Gd  Gd3  1  0.00000000  0.00000000  0.51136880  1.0
+  Cu  Cu4  1  0.00000000  0.50000000  0.72513257  1.0
+  Cu  Cu5  1  0.50000000  0.00000000  0.72513257  1.0
+  B  B6  1  0.00000000  0.50000000  0.25643370  1.0
+  B  B7  1  0.50000000  0.00000000  0.25643370  1.0
+  O  O8  1  0.34342992  0.15657008  0.34464908  1.0
+  O  O9  1  0.84342992  0.34342992  0.34464908  1.0
+  O  O10  1  0.65657008  0.84342992  0.34464908  1.0
+  O  O11  1  0.15657008  0.65657008  0.34464908  1.0
+  O  O12  1  0.24763431  0.25236569  0.71263406  1.0
+  O  O13  1  0.74763431  0.24763431  0.71263406  1.0
+  O  O14  1  0.75236569  0.74763431  0.71263406  1.0
+  O  O15  1  0.25236569  0.75236569  0.71263406  1.0
+  O  O16  1  0.00000000  0.50000000  0.07320054  1.0
+  O  O17  1  0.50000000  0.00000000  0.07320054  1.0

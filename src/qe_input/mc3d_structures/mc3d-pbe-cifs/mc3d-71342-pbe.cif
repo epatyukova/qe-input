@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_CuPbF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73541682
+_cell_length_b   5.53590017
+_cell_length_c   5.53650463
+_cell_angle_alpha   60.06599173
+_cell_angle_beta   61.08557295
+_cell_angle_gamma   61.21513663
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuPbF6
+_chemical_formula_sum   'Cu1 Pb1 F6'
+_cell_volume   126.48312332
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1.0
+  Pb  Pb1  1  0.50000000  -0.50000000  -0.50000000  1.0
+  F  F2  1  0.75809941  -0.86005223  -1.66193437  1.0
+  F  F3  1  0.24190059  -0.13994777  -0.33806563  1.0
+  F  F4  1  0.23882774  -0.76077365  -1.13953169  1.0
+  F  F5  1  0.76117226  -0.23922635  -0.86046831  1.0
+  F  F6  1  0.75952527  -0.66276547  -1.23846115  1.0
+  F  F7  1  0.24047473  -0.33723453  -0.76153885  1.0

@@ -15,6 +15,19 @@ To facilitate understanding of the content of the input file we provide an integ
 of the LLMs [9] helping to answer users questions about the content of the input file, 
 or provide user-requested changes to parameters.
 
+This application is a product of the STFC **Goldilocks** project. The purpose if this 
+app is to help unexperienced user to setup single point SCF energy calculation with 
+Quantum Espresso package [1,2] and SSSP library of pseudo-potentials [3]. 
+            
+DFT calculations contain numerical approximations that need to be
+converged according to the accuracy required for each study. Here to save compute time 
+(and by this make computations more sustainable) we predict these parameters with 
+ML models trained on a database of converged SCF calculations performed before [7,8]. 
+            
+To facilitate understanding of the content of the input file we provide an integration 
+of the LLMs [9] helping to answer users questions about the content of the input file, 
+or provide user-requested changes to parameters.
+
 ### How to run it on your own machine
 
 1. Install the requirements

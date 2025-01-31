@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Zn4B6SeO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70584530
+_cell_length_b   6.70584530
+_cell_length_c   6.70584530
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn4B6SeO12
+_chemical_formula_sum   'Zn4 B6 Se1 O12'
+_cell_volume   232.13397088
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.64526935  0.64526935  0.64526935  1.0
+  Zn  Zn1  1  1.00000000  1.00000000  0.35473065  1.0
+  Zn  Zn2  1  1.00000000  0.35473065  1.00000000  1.0
+  Zn  Zn3  1  0.35473065  1.00000000  1.00000000  1.0
+  B  B4  1  0.25000000  0.75000000  0.50000000  1.0
+  B  B5  1  0.75000000  0.25000000  0.50000000  1.0
+  B  B6  1  0.25000000  0.50000000  0.75000000  1.0
+  B  B7  1  0.50000000  0.25000000  0.75000000  1.0
+  B  B8  1  0.75000000  0.50000000  0.25000000  1.0
+  B  B9  1  0.50000000  0.75000000  0.25000000  1.0
+  Se  Se10  1  0.00000000  0.00000000  0.00000000  1.0
+  O  O11  1  0.71199028  0.42666773  0.42666773  1.0
+  O  O12  1  0.42666773  0.71199028  0.42666773  1.0
+  O  O13  1  1.00000000  1.28532255  0.57333227  1.0
+  O  O14  1  1.28532255  1.00000000  0.57333227  1.0
+  O  O15  1  0.42666773  0.42666773  0.71199028  1.0
+  O  O16  1  0.71467745  0.71467745  0.28800972  1.0
+  O  O17  1  1.00000000  0.57333227  1.28532255  1.0
+  O  O18  1  0.71467745  0.28800972  0.71467745  1.0
+  O  O19  1  0.28800972  0.71467745  0.71467745  1.0
+  O  O20  1  0.57333227  1.00000000  1.28532255  1.0
+  O  O21  1  1.28532255  0.57333227  1.00000000  1.0
+  O  O22  1  0.57333227  1.28532255  1.00000000  1.0

@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_BaNaBi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.70934953
+_cell_length_b   8.70934953
+_cell_length_c   5.15352350
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNaBi
+_chemical_formula_sum   'Ba3 Na3 Bi3'
+_cell_volume   338.53714991
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.41732756  0.41732756  0.00000000  1.0
+  Ba  Ba1  1  -0.00000000  0.58267244  0.00000000  1.0
+  Ba  Ba2  1  0.58267244  0.00000000  0.00000000  1.0
+  Na  Na3  1  0.75984207  0.75984207  0.50000000  1.0
+  Na  Na4  1  -0.00000000  0.24015793  0.50000000  1.0
+  Na  Na5  1  0.24015793  0.00000000  0.50000000  1.0
+  Bi  Bi6  1  0.33333333  0.66666667  0.50000000  1.0
+  Bi  Bi7  1  0.66666667  0.33333333  0.50000000  1.0
+  Bi  Bi8  1  0.00000000  0.00000000  0.00000000  1.0

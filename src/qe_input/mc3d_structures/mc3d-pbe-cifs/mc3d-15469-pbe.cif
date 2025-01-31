@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Cd(NCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.06224809
+_cell_length_b   6.06224809
+_cell_length_c   3.74317829
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   98.20552894
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd(NCl)2
+_chemical_formula_sum   'Cd1 N2 Cl2'
+_cell_volume   136.15666454
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.00000000  0.00000000  0.00000000  1.0
+  N  N1  1  0.29059878  0.70940122  0.00000000  1.0
+  N  N2  1  -0.29059878  1.29059878  0.00000000  1.0
+  Cl  Cl3  1  0.77842802  0.77842802  0.50000000  1.0
+  Cl  Cl4  1  0.22157198  0.22157198  0.50000000  1.0

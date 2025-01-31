@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Mg3Ga7Co2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55158547
+_cell_length_b   6.55158547
+_cell_length_c   9.40103445
+_cell_angle_alpha   87.63563101
+_cell_angle_beta   92.36436899
+_cell_angle_gamma   87.73412038
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg3Ga7Co2
+_chemical_formula_sum   'Mg6 Ga14 Co4'
+_cell_volume   402.49254360
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  1.75517026  0.13835537  0.19667070  1.0
+  Mg  Mg1  1  0.86164463  -0.75517026  0.69667070  1.0
+  Mg  Mg2  1  1.13835537  0.75517026  0.30332930  1.0
+  Mg  Mg3  1  0.24482974  -0.13835537  0.80332930  1.0
+  Mg  Mg4  1  0.64709235  -0.35290765  0.25000000  1.0
+  Mg  Mg5  1  1.35290765  0.35290765  0.75000000  1.0
+  Ga  Ga6  1  0.80615295  -0.06448995  0.48085599  1.0
+  Ga  Ga7  1  1.06448995  0.19384705  0.98085599  1.0
+  Ga  Ga8  1  0.93551005  -0.19384705  0.01914401  1.0
+  Ga  Ga9  1  1.19384705  0.06448995  0.51914401  1.0
+  Ga  Ga10  1  0.39097935  -0.05647159  0.10264201  1.0
+  Ga  Ga11  1  1.05647159  0.60902065  0.60264201  1.0
+  Ga  Ga12  1  0.94352841  -0.60902065  0.39735799  1.0
+  Ga  Ga13  1  1.60902065  0.05647159  0.89735799  1.0
+  Ga  Ga14  1  1.55512515  0.30912423  0.47421615  1.0
+  Ga  Ga15  1  0.69087577  -0.55512515  0.97421615  1.0
+  Ga  Ga16  1  1.30912423  0.55512515  0.02578385  1.0
+  Ga  Ga17  1  0.44487485  -0.30912423  0.52578385  1.0
+  Ga  Ga18  1  1.27179868  0.27179868  0.25000000  1.0
+  Ga  Ga19  1  0.72820132  -0.27179868  0.75000000  1.0
+  Co  Co20  1  0.46805201  -0.01619568  0.35488898  1.0
+  Co  Co21  1  1.01619568  0.53194799  0.85488898  1.0
+  Co  Co22  1  0.98380432  -0.53194799  0.14511102  1.0
+  Co  Co23  1  1.53194799  0.01619568  0.64511102  1.0

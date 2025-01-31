@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaCd4As3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.87116805
+_cell_length_b   7.87116805
+_cell_length_c   11.74956908
+_cell_angle_alpha   83.43841184
+_cell_angle_beta   96.56158816
+_cell_angle_gamma   60.01474194
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCd4As3
+_chemical_formula_sum   'Na3 Cd12 As9'
+_cell_volume   613.83533009
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.93474092  -0.60170531  0.83698933  1.0
+  Na  Na1  1  0.60170531  0.06525908  0.83698933  1.0
+  Na  Na2  1  0.30349678  -0.30349678  0.83695824  1.0
+  Cd  Cd3  1  1.00830138  -0.33986976  0.02477333  1.0
+  Cd  Cd4  1  0.33986976  -0.00830138  0.02477333  1.0
+  Cd  Cd5  1  1.20427261  -0.53838033  0.61104456  1.0
+  Cd  Cd6  1  0.53838033  -0.20427261  0.61104456  1.0
+  Cd  Cd7  1  0.69384451  -0.69384451  0.08047692  1.0
+  Cd  Cd8  1  0.89215724  -0.89215724  0.66328161  1.0
+  Cd  Cd9  1  0.74649940  -0.36413780  0.23934850  1.0
+  Cd  Cd10  1  0.36413780  0.25350060  0.23934850  1.0
+  Cd  Cd11  1  1.11442402  -0.81565147  0.44627915  1.0
+  Cd  Cd12  1  0.81565147  -0.11442402  0.44627915  1.0
+  Cd  Cd13  1  0.12564935  -0.12564935  0.23740104  1.0
+  Cd  Cd14  1  0.51790915  -0.51790915  0.44251584  1.0
+  As  As15  1  1.11841776  -0.45118438  0.35358134  1.0
+  As  As16  1  0.45118438  -0.11841776  0.35358134  1.0
+  As  As17  1  0.77837723  -0.77837723  0.32579586  1.0
+  As  As18  1  0.66883970  -0.34017822  0.00777864  1.0
+  As  As19  1  0.34017822  0.33116030  0.00777864  1.0
+  As  As20  1  0.89577164  -0.23376796  0.68071077  1.0
+  As  As21  1  0.23376796  0.10422836  0.68071077  1.0
+  As  As22  1  0.99419206  -0.99419206  1.00395908  1.0
+  As  As23  1  0.55829100  -0.55829100  0.67564016  1.0

@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Ce2Zn14Pd3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85690595
+_cell_length_b   6.85690595
+_cell_length_c   6.85690595
+_cell_angle_alpha   82.52648513
+_cell_angle_beta   82.52648513
+_cell_angle_gamma   82.52648513
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Zn14Pd3
+_chemical_formula_sum   'Ce2 Zn14 Pd3'
+_cell_volume   314.83181464
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.65905552  0.65905552  -0.34094448  1.0
+  Ce  Ce1  1  0.34094448  0.34094448  -0.65905552  1.0
+  Zn  Zn2  1  0.35130668  0.35130668  -0.15715451  1.0
+  Zn  Zn3  1  0.35130668  0.84284549  -0.64869332  1.0
+  Zn  Zn4  1  1.15715451  -0.35130668  -0.35130668  1.0
+  Zn  Zn5  1  0.64869332  0.15715451  -0.35130668  1.0
+  Zn  Zn6  1  0.64869332  -0.35130668  0.15715451  1.0
+  Zn  Zn7  1  0.84284549  0.35130668  -0.64869332  1.0
+  Zn  Zn8  1  0.70416118  0.00000000  0.29583882  1.0
+  Zn  Zn9  1  0.70416118  -0.70416118  -0.00000000  1.0
+  Zn  Zn10  1  0.00000000  0.70416118  -0.70416118  1.0
+  Zn  Zn11  1  0.00000000  0.29583882  -0.29583882  1.0
+  Zn  Zn12  1  1.29583882  0.00000000  -0.29583882  1.0
+  Zn  Zn13  1  0.29583882  -0.29583882  -0.00000000  1.0
+  Zn  Zn14  1  0.89617017  0.89617017  -0.10382983  1.0
+  Zn  Zn15  1  1.10382983  1.10382983  0.10382983  1.0
+  Pd  Pd16  1  1.00000000  1.50000000  -0.00000000  1.0
+  Pd  Pd17  1  1.00000000  0.00000000  -0.50000000  1.0
+  Pd  Pd18  1  0.50000000  0.00000000  -0.00000000  1.0

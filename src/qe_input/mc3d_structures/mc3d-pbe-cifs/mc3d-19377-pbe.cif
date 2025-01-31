@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba3Nb2O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97485329
+_cell_length_b   7.97485329
+_cell_length_c   7.97485329
+_cell_angle_alpha   45.32639753
+_cell_angle_beta   45.32639753
+_cell_angle_gamma   45.32639753
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3Nb2O8
+_chemical_formula_sum   'Ba3 Nb2 O8'
+_cell_volume   233.60723623
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.80081469  0.80081469  0.80081469  1.0
+  Ba  Ba1  1  1.19918531  1.19918531  0.19918531  1.0
+  Ba  Ba2  1  0.00000000  0.00000000  0.00000000  1.0
+  Nb  Nb3  1  1.59428106  0.59428106  0.59428106  1.0
+  Nb  Nb4  1  1.40571894  0.40571894  0.40571894  1.0
+  O  O5  1  1.26866941  0.26866941  0.76562503  1.0
+  O  O6  1  1.26866941  0.76562503  0.26866941  1.0
+  O  O7  1  1.23437497  0.73133059  0.73133059  1.0
+  O  O8  1  1.73133059  0.23437497  0.73133059  1.0
+  O  O9  1  1.73133059  0.73133059  0.23437497  1.0
+  O  O10  1  1.76562503  0.26866941  0.26866941  1.0
+  O  O11  1  0.68032274  0.68032274  0.68032274  1.0
+  O  O12  1  1.31967726  1.31967726  0.31967726  1.0

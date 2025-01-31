@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sr2LiFe2N3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50638492
+_cell_length_b   6.50638492
+_cell_length_c   6.54124467
+_cell_angle_alpha   88.73862154
+_cell_angle_beta   91.26137846
+_cell_angle_gamma   60.41262319
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2LiFe2N3
+_chemical_formula_sum   'Sr4 Li2 Fe4 N6'
+_cell_volume   240.57205682
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.32334444  -0.18235899  0.59988886  1.0
+  Sr  Sr1  1  1.18235899  -0.32334444  0.09988886  1.0
+  Sr  Sr2  1  0.81764101  -0.67665556  0.90011114  1.0
+  Sr  Sr3  1  0.67665556  0.18235899  0.40011114  1.0
+  Li  Li4  1  0.30922293  0.30922293  0.75000000  1.0
+  Li  Li5  1  0.69077707  -0.30922293  0.25000000  1.0
+  Fe  Fe6  1  0.66468642  -0.07008549  0.89619873  1.0
+  Fe  Fe7  1  1.07008549  -0.66468642  0.39619873  1.0
+  Fe  Fe8  1  0.92991451  -0.33531358  0.60380127  1.0
+  Fe  Fe9  1  0.33531358  0.07008549  0.10380127  1.0
+  N  N10  1  0.49938116  -0.21865263  0.98387874  1.0
+  N  N11  1  1.21865263  -0.49938116  0.48387874  1.0
+  N  N12  1  0.78134737  -0.50061884  0.51612126  1.0
+  N  N13  1  0.50061884  0.21865263  0.01612126  1.0
+  N  N14  1  0.91078309  -0.08921691  0.75000000  1.0
+  N  N15  1  0.08921691  0.08921691  0.25000000  1.0

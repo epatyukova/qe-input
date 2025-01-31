@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.51297502
+_cell_length_b   3.92015043
+_cell_length_c   7.45130656
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSiRh
+_chemical_formula_sum   'Hf4 Si4 Rh4'
+_cell_volume   190.24558067
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.97972365  0.75000000  0.68434313  1.0
+  Hf  Hf1  1  0.47972365  0.75000000  0.81565687  1.0
+  Hf  Hf2  1  0.02027635  0.25000000  0.31565687  1.0
+  Hf  Hf3  1  0.52027635  0.25000000  0.18434313  1.0
+  Si  Si4  1  0.72638945  0.75000000  0.38263472  1.0
+  Si  Si5  1  0.22638945  0.75000000  0.11736528  1.0
+  Si  Si6  1  0.27361055  0.25000000  0.61736528  1.0
+  Si  Si7  1  0.77361055  0.25000000  0.88263472  1.0
+  Rh  Rh8  1  0.85018534  0.75000000  0.06571518  1.0
+  Rh  Rh9  1  0.35018534  0.75000000  0.43428482  1.0
+  Rh  Rh10  1  0.14981466  0.25000000  0.93428482  1.0
+  Rh  Rh11  1  0.64981466  0.25000000  0.56571518  1.0

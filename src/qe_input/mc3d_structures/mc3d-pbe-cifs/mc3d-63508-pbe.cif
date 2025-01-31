@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ca7Ni4Sn13
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.31028494
+_cell_length_b   11.31028494
+_cell_length_c   4.62437777
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca7Ni4Sn13
+_chemical_formula_sum   'Ca7 Ni4 Sn13'
+_cell_volume   591.56217453
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.66094569  0.67197139  0.50000000  1.0
+  Ca  Ca1  1  0.67197139  0.33905431  0.50000000  1.0
+  Ca  Ca2  1  0.33905431  0.32802861  0.50000000  1.0
+  Ca  Ca3  1  0.32802861  0.66094569  0.50000000  1.0
+  Ca  Ca4  1  0.00000000  0.50000000  0.50000000  1.0
+  Ca  Ca5  1  0.50000000  0.00000000  0.50000000  1.0
+  Ca  Ca6  1  0.00000000  0.00000000  0.00000000  1.0
+  Ni  Ni7  1  0.87961470  0.72553518  0.00000000  1.0
+  Ni  Ni8  1  0.72553518  0.12038530  0.00000000  1.0
+  Ni  Ni9  1  0.12038530  0.27446482  0.00000000  1.0
+  Ni  Ni10  1  0.27446482  0.87961470  0.00000000  1.0
+  Sn  Sn11  1  0.92340162  0.80968014  0.50000000  1.0
+  Sn  Sn12  1  0.80968014  0.07659838  0.50000000  1.0
+  Sn  Sn13  1  0.07659838  0.19031986  0.50000000  1.0
+  Sn  Sn14  1  0.19031986  0.92340162  0.50000000  1.0
+  Sn  Sn15  1  0.78529914  0.52033371  0.00000000  1.0
+  Sn  Sn16  1  0.52033371  0.21470086  0.00000000  1.0
+  Sn  Sn17  1  0.21470086  0.47966629  0.00000000  1.0
+  Sn  Sn18  1  0.47966629  0.78529914  0.00000000  1.0
+  Sn  Sn19  1  0.71493580  0.89021769  0.00000000  1.0
+  Sn  Sn20  1  0.89021769  0.28506420  0.00000000  1.0
+  Sn  Sn21  1  0.28506420  0.10978231  0.00000000  1.0
+  Sn  Sn22  1  0.10978231  0.71493580  0.00000000  1.0
+  Sn  Sn23  1  0.50000000  0.50000000  0.00000000  1.0

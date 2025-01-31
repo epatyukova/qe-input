@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_In4Bi3Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.07140597
+_cell_length_b   9.07140597
+_cell_length_c   9.07140597
+_cell_angle_alpha   124.02757470
+_cell_angle_beta   124.02757470
+_cell_angle_gamma   83.15500848
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4Bi3Pb
+_chemical_formula_sum   'In8 Bi6 Pb2'
+_cell_volume   491.86379373
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  1.18283671  0.68283671  1.20029205  1.0
+  In  In1  1  0.51745534  1.01745534  1.20029205  1.0
+  In  In2  1  0.98254466  1.18283671  1.50000000  1.0
+  In  In3  1  0.31716329  0.51745534  0.50000000  1.0
+  In  In4  1  0.68283671  0.48254466  0.50000000  1.0
+  In  In5  1  1.01745534  0.81716329  1.50000000  1.0
+  In  In6  1  0.48254466  0.98254466  0.79970795  1.0
+  In  In7  1  0.81716329  0.31716329  0.79970795  1.0
+  Bi  Bi8  1  0.86069670  0.36069670  1.22139341  1.0
+  Bi  Bi9  1  0.63930330  0.86069670  1.50000000  1.0
+  Bi  Bi10  1  0.36069670  0.13930330  0.50000000  1.0
+  Bi  Bi11  1  0.13930330  0.63930330  0.77860659  1.0
+  Bi  Bi12  1  0.75000000  0.75000000  1.00000000  1.0
+  Bi  Bi13  1  0.25000000  0.25000000  0.00000000  1.0
+  Pb  Pb14  1  0.00000000  0.00000000  0.00000000  1.0
+  Pb  Pb15  1  0.50000000  0.50000000  1.00000000  1.0

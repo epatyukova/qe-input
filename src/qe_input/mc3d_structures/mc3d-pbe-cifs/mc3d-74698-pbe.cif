@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba3TiS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.21498077
+_cell_length_b   9.21498077
+_cell_length_c   9.21498077
+_cell_angle_alpha   124.83648512
+_cell_angle_beta   124.83648512
+_cell_angle_gamma   81.80904414
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3TiS5
+_chemical_formula_sum   'Ba6 Ti2 S10'
+_cell_volume   507.15320522
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.83665107  0.33665107  1.17330214  1.0
+  Ba  Ba1  1  0.66334893  0.83665107  1.50000000  1.0
+  Ba  Ba2  1  0.33665107  0.16334893  0.50000000  1.0
+  Ba  Ba3  1  0.16334893  0.66334893  0.82669786  1.0
+  Ba  Ba4  1  0.75000000  0.75000000  1.00000000  1.0
+  Ba  Ba5  1  0.25000000  0.25000000  0.00000000  1.0
+  Ti  Ti6  1  0.25000000  0.75000000  0.50000000  1.0
+  Ti  Ti7  1  0.75000000  0.25000000  0.50000000  1.0
+  S  S8  1  1.19985934  0.69985934  1.20396519  1.0
+  S  S9  1  0.50410585  1.00410585  1.20396519  1.0
+  S  S10  1  0.99589415  1.19985934  1.50000000  1.0
+  S  S11  1  0.30014066  0.50410585  0.50000000  1.0
+  S  S12  1  0.69985934  0.49589415  0.50000000  1.0
+  S  S13  1  1.00410585  0.80014066  1.50000000  1.0
+  S  S14  1  0.49589415  0.99589415  0.79603481  1.0
+  S  S15  1  0.80014066  0.30014066  0.79603481  1.0
+  S  S16  1  0.00000000  0.00000000  0.00000000  1.0
+  S  S17  1  0.50000000  0.50000000  1.00000000  1.0

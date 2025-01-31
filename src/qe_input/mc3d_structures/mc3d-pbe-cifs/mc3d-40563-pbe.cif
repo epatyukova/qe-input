@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Lu2Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40745437
+_cell_length_b   4.96881330
+_cell_length_c   9.19471980
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2Al
+_chemical_formula_sum   'Lu8 Al4'
+_cell_volume   292.73638131
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.97132894  0.75000000  0.71269146  1.0
+  Lu  Lu1  1  0.47132894  0.75000000  0.78730854  1.0
+  Lu  Lu2  1  0.02867106  0.25000000  0.28730854  1.0
+  Lu  Lu3  1  0.52867106  0.25000000  0.21269146  1.0
+  Lu  Lu4  1  0.81371971  0.75000000  0.07067498  1.0
+  Lu  Lu5  1  0.31371971  0.75000000  0.42932502  1.0
+  Lu  Lu6  1  0.18628029  0.25000000  0.92932502  1.0
+  Lu  Lu7  1  0.68628029  0.25000000  0.57067498  1.0
+  Al  Al8  1  0.79203594  0.75000000  0.39593511  1.0
+  Al  Al9  1  0.29203594  0.75000000  0.10406489  1.0
+  Al  Al10  1  0.20796406  0.25000000  0.60406489  1.0
+  Al  Al11  1  0.70796406  0.25000000  0.89593511  1.0

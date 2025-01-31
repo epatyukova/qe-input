@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2TeSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.38877200
+_cell_length_b   11.38877200
+_cell_length_c   12.14786808
+_cell_angle_alpha   60.41981356
+_cell_angle_beta   119.58018644
+_cell_angle_gamma   149.15149909
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2TeSe3
+_chemical_formula_sum   'Na8 Te4 Se12'
+_cell_volume   693.96328738
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.74389074  0.23874151  0.12476925  1.0
+  Na  Na1  1  0.76125849  -0.74389074  0.62476925  1.0
+  Na  Na2  1  1.23874151  0.74389074  0.37523075  1.0
+  Na  Na3  1  1.25610926  -0.23874151  0.87523075  1.0
+  Na  Na4  1  0.53648630  0.39588439  0.18949716  1.0
+  Na  Na5  1  0.60411561  0.46351370  0.68949716  1.0
+  Na  Na6  1  1.39588439  -0.46351370  0.31050284  1.0
+  Na  Na7  1  1.46351370  -0.39588439  0.81050284  1.0
+  Te  Te8  1  0.84252860  0.05441028  0.49143732  1.0
+  Te  Te9  1  0.94558972  -0.84252860  0.99143732  1.0
+  Te  Te10  1  1.05441028  0.84252860  0.00856268  1.0
+  Te  Te11  1  1.15747140  -0.05441028  0.50856268  1.0
+  Se  Se12  1  1.88361955  0.05067063  0.30521254  1.0
+  Se  Se13  1  0.94932937  -0.88361955  0.80521254  1.0
+  Se  Se14  1  1.05067063  0.88361955  0.19478746  1.0
+  Se  Se15  1  0.11638045  -0.05067063  0.69478746  1.0
+  Se  Se16  1  0.75226202  0.23209505  0.38296873  1.0
+  Se  Se17  1  0.76790495  -0.75226202  0.88296873  1.0
+  Se  Se18  1  1.23209505  0.75226202  0.11703127  1.0
+  Se  Se19  1  1.24773798  -0.23209505  0.61703127  1.0
+  Se  Se20  1  0.55602148  0.37588770  0.45752516  1.0
+  Se  Se21  1  0.62411230  0.44397852  0.95752516  1.0
+  Se  Se22  1  1.37588770  -0.44397852  0.04247484  1.0
+  Se  Se23  1  1.44397852  -0.37588770  0.54247484  1.0

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdNiPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30007535
+_cell_length_b   4.59837427
+_cell_length_c   7.88232878
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdNiPb
+_chemical_formula_sum   'Gd4 Ni4 Pb4'
+_cell_volume   264.59778533
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.98604750  0.75000000  0.70081151  1.0
+  Gd  Gd1  1  0.48604750  0.75000000  0.79918849  1.0
+  Gd  Gd2  1  0.01395250  0.25000000  0.29918849  1.0
+  Gd  Gd3  1  0.51395250  0.25000000  0.20081151  1.0
+  Ni  Ni4  1  0.71111301  0.75000000  0.41559183  1.0
+  Ni  Ni5  1  0.21111301  0.75000000  0.08440817  1.0
+  Ni  Ni6  1  0.28888699  0.25000000  0.58440817  1.0
+  Ni  Ni7  1  0.78888699  0.25000000  0.91559183  1.0
+  Pb  Pb8  1  0.81286399  0.75000000  0.08639334  1.0
+  Pb  Pb9  1  0.31286399  0.75000000  0.41360666  1.0
+  Pb  Pb10  1  0.18713601  0.25000000  0.91360666  1.0
+  Pb  Pb11  1  0.68713601  0.25000000  0.58639334  1.0

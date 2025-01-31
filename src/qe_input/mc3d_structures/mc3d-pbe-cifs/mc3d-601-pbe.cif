@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiTaSiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48686542
+_cell_length_b   5.48686542
+_cell_length_c   7.49432069
+_cell_angle_alpha   70.52937129
+_cell_angle_beta   109.47062871
+_cell_angle_gamma   86.16206047
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTaSiO5
+_chemical_formula_sum   'Li2 Ta2 Si2 O10'
+_cell_volume   196.49009183
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.68347615  -0.31652385  0.75000000  1.0
+  Li  Li1  1  1.31652385  0.31652385  0.25000000  1.0
+  Ta  Ta2  1  0.00000000  0.00000000  0.00000000  1.0
+  Ta  Ta3  1  -0.00000000  0.00000000  0.50000000  1.0
+  Si  Si4  1  1.35733775  0.35733775  0.75000000  1.0
+  Si  Si5  1  0.64266225  -0.35733775  0.25000000  1.0
+  O  O6  1  0.29450643  -0.31869036  0.64615825  1.0
+  O  O7  1  1.31869036  0.70549357  0.14615825  1.0
+  O  O8  1  0.68130964  -0.70549357  0.85384175  1.0
+  O  O9  1  1.70549357  0.31869036  0.35384175  1.0
+  O  O10  1  1.22443772  0.25213477  0.92115078  1.0
+  O  O11  1  0.74786523  -0.22443772  0.42115078  1.0
+  O  O12  1  1.25213477  0.22443772  0.57884922  1.0
+  O  O13  1  0.77556228  -0.25213477  0.07884922  1.0
+  O  O14  1  0.92411752  -0.07588248  0.75000000  1.0
+  O  O15  1  1.07588248  0.07588248  0.25000000  1.0

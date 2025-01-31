@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_TiCuF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60773530
+_cell_length_b   5.23582907
+_cell_length_c   5.46252283
+_cell_angle_alpha   60.68065521
+_cell_angle_beta   58.20447281
+_cell_angle_gamma   61.44072329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCuF6
+_chemical_formula_sum   'Ti1 Cu1 F6'
+_cell_volume   113.49427112
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.50000000  0.50000000  0.50000000  1.0
+  Cu  Cu1  1  0.00000000  0.00000000  0.00000000  1.0
+  F  F2  1  0.25084588  0.25435704  0.66798506  1.0
+  F  F3  1  0.74915412  0.74564296  0.33201494  1.0
+  F  F4  1  0.74593717  0.33420474  0.17083387  1.0
+  F  F5  1  0.25406283  0.66579526  0.82916613  1.0
+  F  F6  1  0.27676008  0.80948226  0.27769367  1.0
+  F  F7  1  0.72323992  0.19051774  0.72230633  1.0

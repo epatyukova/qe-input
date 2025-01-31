@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2NaAg3(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18169172
+_cell_length_b   7.18169172
+_cell_length_c   8.63118157
+_cell_angle_alpha   90.00824843
+_cell_angle_beta   89.99175157
+_cell_angle_gamma   60.02544852
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NaAg3(CN)6
+_chemical_formula_sum   'K2 Na1 Ag3 C6 N6'
+_cell_volume   385.62545614
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.83335161  -0.16664839  0.50000000  1.0
+  K  K1  1  1.16664839  0.16664839  0.50000000  1.0
+  Na  Na2  1  0.50000000  -0.50000000  0.50000000  1.0
+  Ag  Ag3  1  1.50000000  -0.00000000  0.00000000  1.0
+  Ag  Ag4  1  1.00000000  -0.50000000  0.00000000  1.0
+  Ag  Ag5  1  0.00000000  0.00000000  0.00000000  1.0
+  C  C6  1  0.49985979  -0.13194377  0.78964893  1.0
+  C  C7  1  1.13194377  0.50014021  0.78964893  1.0
+  C  C8  1  0.86805623  -0.50014021  0.21035107  1.0
+  C  C9  1  1.50014021  0.13194377  0.21035107  1.0
+  C  C10  1  0.86781434  -0.86781434  0.78976534  1.0
+  C  C11  1  0.13218566  -0.13218566  0.21023466  1.0
+  N  N12  1  0.49982190  -0.20158945  0.66681884  1.0
+  N  N13  1  1.20158945  0.50017810  0.66681884  1.0
+  N  N14  1  0.79841055  -0.50017810  0.33318116  1.0
+  N  N15  1  1.50017810  0.20158945  0.33318116  1.0
+  N  N16  1  0.79803648  -0.79803648  0.66701528  1.0
+  N  N17  1  0.20196352  -0.20196352  0.33298472  1.0

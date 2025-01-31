@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_LaSi3Os
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.85960440
+_cell_length_b   5.85960440
+_cell_length_c   5.85960440
+_cell_angle_alpha   137.00891324
+_cell_angle_beta   137.00891324
+_cell_angle_gamma   62.42433653
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSi3Os
+_chemical_formula_sum   'La1 Si3 Os1'
+_cell_volume   92.41435585
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.57671665  0.57671665  1.00000000  1.0
+  Si  Si1  1  0.83935648  0.33935648  0.50000000  1.0
+  Si  Si2  1  0.33935648  0.83935648  0.50000000  1.0
+  Si  Si3  1  -0.00293847  -0.00293847  0.00000000  1.0
+  Os  Os4  1  0.23340886  0.23340886  -0.00000000  1.0

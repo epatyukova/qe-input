@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Ba2CaFeCu2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85262789
+_cell_length_b   3.84307223
+_cell_length_c   12.19461450
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CaFeCu2O7
+_chemical_formula_sum   'Ba2 Ca1 Fe1 Cu2 O7'
+_cell_volume   180.55257545
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.50000000  0.50000000  0.80250326  1.0
+  Ba  Ba1  1  0.50000000  0.50000000  0.19749674  1.0
+  O  O2  1  0.50000000  0.00000000  0.62932826  1.0
+  O  O3  1  0.50000000  0.00000000  0.37067174  1.0
+  O  O4  1  0.00000000  0.50000000  0.62689227  1.0
+  O  O5  1  0.00000000  0.50000000  0.37310773  1.0
+  O  O6  1  0.00000000  0.50000000  0.00000000  1.0
+  O  O7  1  0.00000000  0.00000000  0.85239516  1.0
+  O  O8  1  0.00000000  0.00000000  0.14760484  1.0
+  Fe  Fe9  1  0.00000000  0.00000000  0.00000000  1.0
+  Cu  Cu10  1  0.00000000  0.00000000  0.63259236  1.0
+  Cu  Cu11  1  0.00000000  0.00000000  0.36740764  1.0
+  Ca  Ca12  1  0.50000000  0.50000000  0.50000000  1.0

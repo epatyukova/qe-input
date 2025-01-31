@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3GaCoS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.06413990
+_cell_length_b   10.06413990
+_cell_length_c   6.20923544
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3GaCoS7
+_chemical_formula_sum   'La6 Ga2 Co2 S14'
+_cell_volume   544.65574588
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.77772256  0.62751059  0.20266679  1.0
+  La  La1  1  0.62751059  0.84978803  0.70266679  1.0
+  La  La2  1  0.84978803  0.22227744  0.20266679  1.0
+  La  La3  1  0.37248941  0.15021197  0.20266679  1.0
+  La  La4  1  0.22227744  0.37248941  0.70266679  1.0
+  La  La5  1  0.15021197  0.77772256  0.70266679  1.0
+  Ga  Ga6  1  0.33333333  0.66666667  0.12531467  1.0
+  Ga  Ga7  1  0.66666667  0.33333333  0.62531467  1.0
+  Co  Co8  1  0.00000000  0.00000000  0.03690971  1.0
+  Co  Co9  1  0.00000000  0.00000000  0.53690971  1.0
+  S  S10  1  0.33333333  0.66666667  0.48945263  1.0
+  S  S11  1  0.66666667  0.33333333  -0.01054737  1.0
+  S  S12  1  0.42768285  0.90716583  0.98084544  1.0
+  S  S13  1  0.90716583  0.47948298  0.48084544  1.0
+  S  S14  1  0.47948298  0.57231715  0.98084544  1.0
+  S  S15  1  0.09283417  0.52051702  0.98084544  1.0
+  S  S16  1  0.57231715  0.09283417  0.48084544  1.0
+  S  S17  1  0.52051702  0.42768285  0.48084544  1.0
+  S  S18  1  0.08682805  0.87529040  0.28832877  1.0
+  S  S19  1  0.87529040  0.78846235  0.78832877  1.0
+  S  S20  1  0.78846235  0.91317195  0.28832877  1.0
+  S  S21  1  0.12470960  0.21153765  0.28832877  1.0
+  S  S22  1  0.91317195  0.12470960  0.78832877  1.0
+  S  S23  1  0.21153765  0.08682805  0.78832877  1.0

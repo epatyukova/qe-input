@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Na3La2(BO3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.79406678
+_cell_length_b   6.79406678
+_cell_length_c   5.19019966
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   65.76449165
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3La2(BO3)3
+_chemical_formula_sum   'Na3 La2 B3 O9'
+_cell_volume   218.46137365
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.24785944  0.75214056  0.50000000  1.0
+  Na  Na1  1  -0.16502896  1.16502896  0.50000000  1.0
+  Na  Na2  1  -0.41356399  1.41356399  0.00000000  1.0
+  La  La3  1  0.74962464  0.82471401  0.00000000  1.0
+  La  La4  1  0.17528599  0.25037536  0.00000000  1.0
+  B  B5  1  -0.57743636  1.14512270  0.50000000  1.0
+  B  B6  1  -0.14512270  1.57743636  0.50000000  1.0
+  B  B7  1  0.19067247  0.80932753  0.00000000  1.0
+  O  O8  1  -0.48654375  1.16601428  0.73295811  1.0
+  O  O9  1  -0.16601428  1.48654375  0.73295811  1.0
+  O  O10  1  -0.48654375  1.16601428  0.26704189  1.0
+  O  O11  1  -0.16601428  1.48654375  0.26704189  1.0
+  O  O12  1  -0.76885592  1.11717163  0.50000000  1.0
+  O  O13  1  -0.11717163  1.76885592  0.50000000  1.0
+  O  O14  1  0.38703529  0.82264391  0.00000000  1.0
+  O  O15  1  0.17735609  0.61296471  0.00000000  1.0
+  O  O16  1  0.00086168  -0.00086168  0.00000000  1.0

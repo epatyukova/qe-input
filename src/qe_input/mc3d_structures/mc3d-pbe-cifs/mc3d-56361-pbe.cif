@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CrCoP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72135430
+_cell_length_b   3.51642502
+_cell_length_c   6.67433110
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrCoP
+_chemical_formula_sum   'Cr4 Co4 P4'
+_cell_volume   134.27895449
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.97269447  0.75000000  0.67364978  1.0
+  Cr  Cr1  1  0.47269447  0.75000000  0.82635022  1.0
+  Cr  Cr2  1  0.02730553  0.25000000  0.32635022  1.0
+  Cr  Cr3  1  0.52730553  0.25000000  0.17364978  1.0
+  Co  Co4  1  0.85696984  0.75000000  0.06353308  1.0
+  Co  Co5  1  0.35696984  0.75000000  0.43646692  1.0
+  Co  Co6  1  0.14303016  0.25000000  0.93646692  1.0
+  Co  Co7  1  0.64303016  0.25000000  0.56353308  1.0
+  P  P8  1  0.73914623  0.75000000  0.37648569  1.0
+  P  P9  1  0.23914623  0.75000000  0.12351431  1.0
+  P  P10  1  0.26085377  0.25000000  0.62351431  1.0
+  P  P11  1  0.76085377  0.25000000  0.87648569  1.0

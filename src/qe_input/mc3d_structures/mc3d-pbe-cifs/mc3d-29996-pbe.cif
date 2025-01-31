@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Y5Ni2Sb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.61874393
+_cell_length_b   8.61874393
+_cell_length_c   8.61874393
+_cell_angle_alpha   127.31709796
+_cell_angle_beta   127.31709796
+_cell_angle_gamma   77.73394420
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5Ni2Sb
+_chemical_formula_sum   'Y10 Ni4 Sb2'
+_cell_volume   392.57842393
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  1.20528955  0.70528955  1.18540221  1.0
+  Y  Y1  1  0.48011266  0.98011266  1.18540221  1.0
+  Y  Y2  1  1.01988734  1.20528955  1.50000000  1.0
+  Y  Y3  1  0.29471045  0.48011266  0.50000000  1.0
+  Y  Y4  1  0.70528955  0.51988734  0.50000000  1.0
+  Y  Y5  1  0.98011266  0.79471045  1.50000000  1.0
+  Y  Y6  1  0.51988734  1.01988734  0.81459779  1.0
+  Y  Y7  1  0.79471045  0.29471045  0.81459779  1.0
+  Y  Y8  1  0.00000000  0.00000000  0.00000000  1.0
+  Y  Y9  1  0.50000000  0.50000000  1.00000000  1.0
+  Ni  Ni10  1  0.86989676  0.36989676  1.23979351  1.0
+  Ni  Ni11  1  0.63010324  0.86989676  1.50000000  1.0
+  Ni  Ni12  1  0.36989676  0.13010324  0.50000000  1.0
+  Ni  Ni13  1  0.13010324  0.63010324  0.76020649  1.0
+  Sb  Sb14  1  0.75000000  0.75000000  1.00000000  1.0
+  Sb  Sb15  1  0.25000000  0.25000000  0.00000000  1.0

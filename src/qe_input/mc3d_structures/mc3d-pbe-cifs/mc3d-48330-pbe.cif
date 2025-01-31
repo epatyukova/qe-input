@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_NaTl3Cu4(TeO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17513554
+_cell_length_b   8.17513554
+_cell_length_c   5.37597221
+_cell_angle_alpha   77.64128987
+_cell_angle_beta   102.35871013
+_cell_angle_gamma   108.25984287
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTl3Cu4(TeO6)2
+_chemical_formula_sum   'Na1 Tl3 Cu4 Te2 O12'
+_cell_volume   329.08315726
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  1.29481267  0.01086910  0.91394798  1.0
+  O  O1  1  0.98913090  -0.29481267  0.91394798  1.0
+  O  O2  1  1.01086910  0.29481267  0.08605202  1.0
+  O  O3  1  0.70518733  -0.01086910  0.08605202  1.0
+  O  O4  1  0.89196350  -0.89196350  0.56508702  1.0
+  O  O5  1  0.10803650  -0.10803650  0.43491298  1.0
+  O  O6  1  0.69406438  -0.69406438  0.85325385  1.0
+  O  O7  1  0.30593562  -0.30593562  0.14674615  1.0
+  O  O8  1  0.45033041  -0.15724799  0.64720540  1.0
+  O  O9  1  1.15724799  0.54966959  0.64720540  1.0
+  O  O10  1  0.84275201  -0.54966959  0.35279460  1.0
+  O  O11  1  1.54966959  0.15724799  0.35279460  1.0
+  Te  Te12  1  0.78661138  -0.78661138  0.23327352  1.0
+  Te  Te13  1  0.21338862  -0.21338862  0.76672648  1.0
+  Cu  Cu14  1  1.59914978  0.07419647  0.73803371  1.0
+  Cu  Cu15  1  0.92580353  -0.59914978  0.73803371  1.0
+  Cu  Cu16  1  1.07419647  0.59914978  0.26196629  1.0
+  Cu  Cu17  1  0.40085022  -0.07419647  0.26196629  1.0
+  Na  Na18  1  0.00000000  0.00000000  0.00000000  1.0
+  Tl  Tl19  1  0.75723966  -0.24276034  0.50000000  1.0
+  Tl  Tl20  1  1.24276034  0.24276034  0.50000000  1.0
+  Tl  Tl21  1  0.50000000  -0.50000000  -0.00000000  1.0

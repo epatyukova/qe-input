@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3AlAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.29533656
+_cell_length_b   8.29533656
+_cell_length_c   8.29533656
+_cell_angle_alpha   130.06314764
+_cell_angle_beta   68.84988457
+_cell_angle_gamma   135.82224300
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3AlAs2
+_chemical_formula_sum   'Na6 Al2 As4'
+_cell_volume   298.96475777
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.18959883  0.18529886  0.37489768  1.0
+  Na  Na1  1  0.31040117  0.68529886  0.99570003  1.0
+  Na  Na2  1  0.68959883  1.31470114  1.00429997  1.0
+  Na  Na3  1  0.81040117  0.81470114  0.62510232  1.0
+  Na  Na4  1  0.25000000  0.75000000  0.50000000  1.0
+  Na  Na5  1  0.75000000  1.25000000  0.50000000  1.0
+  Al  Al6  1  0.25000000  0.25000000  0.00000000  1.0
+  Al  Al7  1  0.75000000  0.75000000  0.00000000  1.0
+  As  As8  1  0.39674249  0.29859763  0.69534012  1.0
+  As  As9  1  0.10325751  0.79859763  0.90185514  1.0
+  As  As10  1  0.89674249  1.20140237  1.09814486  1.0
+  As  As11  1  0.60325751  0.70140237  0.30465988  1.0

@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ZnInAg2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.76986934
+_cell_length_b   7.76986934
+_cell_length_c   7.76986934
+_cell_angle_alpha   121.44634503
+_cell_angle_beta   90.61195577
+_cell_angle_gamma   117.87989569
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnInAg2F7
+_chemical_formula_sum   'Zn2 In2 Ag4 F14'
+_cell_volume   332.95510928
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  1.11241783  0.86232827  0.74991044  1.0
+  Zn  Zn1  1  1.11241783  1.36250739  1.25008956  1.0
+  In  In2  1  1.11219098  1.36228568  0.74990529  1.0
+  In  In3  1  1.61238039  1.36228568  1.25009471  1.0
+  Ag  Ag4  1  1.61320570  0.86254235  0.75066335  1.0
+  Ag  Ag5  1  1.11187900  0.86254235  0.24933665  1.0
+  Ag  Ag6  1  0.61072276  0.36054697  0.74982421  1.0
+  Ag  Ag7  1  0.61072276  0.86089855  1.25017579  1.0
+  F  F8  1  1.06153346  1.22257875  0.42531464  1.0
+  F  F9  1  1.79726411  1.22257875  1.16104529  1.0
+  F  F10  1  1.06153346  1.63621882  0.83895471  1.0
+  F  F11  1  1.79726411  1.63621882  1.57468536  1.0
+  F  F12  1  1.16334352  1.08865351  0.66098272  1.0
+  F  F13  1  1.42767079  1.08865351  0.92530999  1.0
+  F  F14  1  1.16334352  1.50236079  1.07469001  1.0
+  F  F15  1  1.42767079  1.50236079  1.33901728  1.0
+  F  F16  1  0.44151413  0.59301137  0.84850276  1.0
+  F  F17  1  0.74450861  0.59301137  1.15149724  1.0
+  F  F18  1  0.78294202  0.13139554  0.65154648  1.0
+  F  F19  1  0.47984906  0.13139554  0.34845352  1.0
+  F  F20  1  1.18466234  0.68466234  0.50000000  1.0
+  F  F21  1  0.04046287  0.04046287  -0.00000000  1.0

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CoHg3(SCl2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.52761838
+_cell_length_b   7.52761838
+_cell_length_c   10.60176630
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.05209568
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoHg3(SCl2)2
+_chemical_formula_sum   'Co2 Hg6 S4 Cl8'
+_cell_volume   525.16231450
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  -0.00134727  1.00134727  0.75000000  1.0
+  Co  Co1  1  0.00134727  -0.00134727  0.25000000  1.0
+  Hg  Hg2  1  0.05567081  0.55404841  0.52346196  1.0
+  Hg  Hg3  1  0.55404841  1.05567081  0.47653804  1.0
+  Hg  Hg4  1  0.44595159  0.94432919  0.97653804  1.0
+  Hg  Hg5  1  -0.05567081  0.44595159  0.02346196  1.0
+  Hg  Hg6  1  0.57052693  0.57052693  0.50000000  1.0
+  Hg  Hg7  1  0.42947307  0.42947307  0.00000000  1.0
+  S  S8  1  -0.29317750  0.36933064  0.59322907  1.0
+  S  S9  1  0.36933064  0.70682250  0.40677093  1.0
+  S  S10  1  0.63066936  1.29317750  0.90677093  1.0
+  S  S11  1  0.29317750  0.63066936  0.09322907  1.0
+  Cl  Cl12  1  0.17576807  0.33843828  0.72426435  1.0
+  Cl  Cl13  1  0.33843828  1.17576807  0.27573565  1.0
+  Cl  Cl14  1  0.66156172  0.82423193  0.77573565  1.0
+  Cl  Cl15  1  -0.17576807  0.66156172  0.22426435  1.0
+  Cl  Cl16  1  0.17201174  0.82798826  0.75000000  1.0
+  Cl  Cl17  1  -0.17201174  0.17201174  0.25000000  1.0
+  Cl  Cl18  1  0.94147113  0.94147113  0.50000000  1.0
+  Cl  Cl19  1  0.05852887  0.05852887  0.00000000  1.0

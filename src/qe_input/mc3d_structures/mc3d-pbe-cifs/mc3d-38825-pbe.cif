@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NaLiSe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21078134
+_cell_length_b   4.27057303
+_cell_length_c   7.78235735
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiSe
+_chemical_formula_sum   'Na4 Li4 Se4'
+_cell_volume   239.65122222
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.98467610  0.75000000  0.68179773  1.0
+  Na  Na1  1  0.48467610  0.75000000  0.81820227  1.0
+  Na  Na2  1  0.01532390  0.25000000  0.31820227  1.0
+  Na  Na3  1  0.51532390  0.25000000  0.18179773  1.0
+  Li  Li4  1  0.85808844  0.75000000  0.07074077  1.0
+  Li  Li5  1  0.35808844  0.75000000  0.42925923  1.0
+  Li  Li6  1  0.14191156  0.25000000  0.92925923  1.0
+  Li  Li7  1  0.64191156  0.25000000  0.57074077  1.0
+  Se  Se8  1  0.72113161  0.75000000  0.39180502  1.0
+  Se  Se9  1  0.22113161  0.75000000  0.10819498  1.0
+  Se  Se10  1  0.27886839  0.25000000  0.60819498  1.0
+  Se  Se11  1  0.77886839  0.25000000  0.89180502  1.0

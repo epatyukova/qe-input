@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiFe2C
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42466671
+_cell_length_b   6.51739837
+_cell_length_c   4.53582454
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiFe2C
+_chemical_formula_sum   'Ti4 Fe8 C4'
+_cell_volume   160.36277936
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.51906391  0.25000000  0.62316975  1.0
+  Ti  Ti1  1  0.01906391  0.25000000  0.87683025  1.0
+  Ti  Ti2  1  0.48093609  0.75000000  0.37683025  1.0
+  Ti  Ti3  1  0.98093609  0.75000000  0.12316975  1.0
+  Fe  Fe4  1  0.67347389  0.05655661  0.14730137  1.0
+  Fe  Fe5  1  0.17347389  0.44344339  0.35269863  1.0
+  Fe  Fe6  1  0.32652611  0.55655661  0.85269863  1.0
+  Fe  Fe7  1  0.82652611  0.94344339  0.64730137  1.0
+  Fe  Fe8  1  0.32652611  0.94344339  0.85269863  1.0
+  Fe  Fe9  1  0.82652611  0.55655661  0.64730137  1.0
+  Fe  Fe10  1  0.67347389  0.44344339  0.14730137  1.0
+  Fe  Fe11  1  0.17347389  0.05655661  0.35269863  1.0
+  C  C12  1  0.88679534  0.25000000  0.39909931  1.0
+  C  C13  1  0.38679534  0.25000000  0.10090069  1.0
+  C  C14  1  0.11320466  0.75000000  0.60090069  1.0
+  C  C15  1  0.61320466  0.75000000  0.89909931  1.0

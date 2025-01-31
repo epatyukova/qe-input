@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Co(TePd)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.96539630
+_cell_length_b   6.96539630
+_cell_length_c   6.96539630
+_cell_angle_alpha   125.86485489
+_cell_angle_beta   72.50410363
+_cell_angle_gamma   135.62370768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(TePd)2
+_chemical_formula_sum   'Co2 Te4 Pd4'
+_cell_volume   187.32673098
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.25000000  0.25000000  -0.00000000  1.0
+  Co  Co1  1  0.75000000  0.75000000  0.00000000  1.0
+  Te  Te2  1  0.35518963  0.28451101  0.63970064  1.0
+  Te  Te3  1  0.14481037  0.78451101  0.92932139  1.0
+  Te  Te4  1  0.85518963  1.21548899  1.07067861  1.0
+  Te  Te5  1  0.64481037  0.71548899  0.36029936  1.0
+  Pd  Pd6  1  0.10495167  0.36634237  0.47129404  1.0
+  Pd  Pd7  1  0.39504833  0.86634237  1.26139070  1.0
+  Pd  Pd8  1  0.60495167  1.13365763  0.73860930  1.0
+  Pd  Pd9  1  0.89504833  0.63365763  0.52870596  1.0

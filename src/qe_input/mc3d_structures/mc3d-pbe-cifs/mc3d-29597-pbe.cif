@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_NaGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74308552
+_cell_length_b   5.74308552
+_cell_length_c   5.74308552
+_cell_angle_alpha   134.12323404
+_cell_angle_beta   100.52552987
+_cell_angle_gamma   96.95688541
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaGeAu
+_chemical_formula_sum   'Na2 Ge2 Au2'
+_cell_volume   125.14222094
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.62682655  0.12682655  0.50000000  1.0
+  Na  Na1  1  0.00132726  0.00132726  0.00000000  1.0
+  Ge  Ge2  1  1.22069928  1.39710673  0.82359254  1.0
+  Ge  Ge3  1  1.57351419  1.39710673  1.17640746  1.0
+  Au  Au4  1  1.42305154  0.72021636  0.70283519  1.0
+  Au  Au5  1  1.01738117  0.72021636  0.29716481  1.0

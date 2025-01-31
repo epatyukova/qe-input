@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ScNiAg2F7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64924671
+_cell_length_b   7.64924671
+_cell_length_c   7.64924671
+_cell_angle_alpha   121.26149605
+_cell_angle_beta   91.36803704
+_cell_angle_gamma   117.20533473
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScNiAg2F7
+_chemical_formula_sum   'Sc2 Ni2 Ag4 F14'
+_cell_volume   319.55743591
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  1.11198251  1.36408979  0.74789272  1.0
+  Sc  Sc1  1  1.61619707  1.36408979  1.25210728  1.0
+  Ni  Ni2  1  1.11760138  0.86487727  0.74727589  1.0
+  Ni  Ni3  1  1.11760138  1.37032548  1.25272411  1.0
+  Ag  Ag4  1  1.64120561  0.86942178  0.77178383  1.0
+  Ag  Ag5  1  1.09763794  0.86942178  0.22821617  1.0
+  Ag  Ag6  1  0.57113921  0.31101568  0.73987647  1.0
+  Ag  Ag7  1  0.57113921  0.83126274  1.26012353  1.0
+  F  F8  1  1.07588766  1.24681737  0.43665901  1.0
+  F  F9  1  1.81015836  1.24681737  1.17092972  1.0
+  F  F10  1  1.07588766  1.63922864  0.82907028  1.0
+  F  F11  1  1.81015836  1.63922864  1.56334099  1.0
+  F  F12  1  1.15891607  1.09367318  0.66775804  1.0
+  F  F13  1  1.42591515  1.09367318  0.93475711  1.0
+  F  F14  1  1.15891607  1.49115804  1.06524289  1.0
+  F  F15  1  1.42591515  1.49115804  1.33224196  1.0
+  F  F16  1  0.43325227  0.58544354  0.84780874  1.0
+  F  F17  1  0.73763480  0.58544354  1.15219126  1.0
+  F  F18  1  0.79304753  0.13688196  0.65616557  1.0
+  F  F19  1  0.48071639  0.13688196  0.34383443  1.0
+  F  F20  1  1.20878553  0.70878553  0.50000000  1.0
+  F  F21  1  0.02980470  0.02980470  -0.00000000  1.0

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_BaCd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63912615
+_cell_length_b   6.63912615
+_cell_length_c   6.63912615
+_cell_angle_alpha   133.00885731
+_cell_angle_beta   101.26380364
+_cell_angle_gamma   97.03998504
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCd2
+_chemical_formula_sum   'Ba2 Cd4'
+_cell_volume   196.06644441
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  1.70326217  1.45326217  1.25000000  1.0
+  Ba  Ba1  1  0.29673783  0.54673783  0.75000000  1.0
+  Cd  Cd2  1  1.27450980  0.83530021  1.43920958  1.0
+  Cd  Cd3  1  1.10390937  0.16469979  0.93920958  1.0
+  Cd  Cd4  1  0.72549020  1.16469979  0.56079042  1.0
+  Cd  Cd5  1  0.89609063  0.83530021  0.06079042  1.0

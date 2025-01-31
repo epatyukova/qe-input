@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.20252808
+_cell_length_b   4.11552833
+_cell_length_c   9.20260649
+_cell_angle_alpha   77.07792215
+_cell_angle_beta   25.84202937
+_cell_angle_gamma   77.08004971
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuS
+_chemical_formula_sum   'Eu3 S3'
+_cell_volume   147.87040737
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  -0.00174180  -0.00174180  0.00174180  1.0
+  Eu  Eu1  1  1.33148852  0.66484499  -0.66484499  1.0
+  Eu  Eu2  1  0.66484499  1.33148852  -0.33148852  1.0
+  S  S3  1  0.49826599  1.49826599  -0.49826599  1.0
+  S  S4  1  0.83149735  1.16484495  -0.16484495  1.0
+  S  S5  1  1.16484495  0.83149735  -0.83149735  1.0

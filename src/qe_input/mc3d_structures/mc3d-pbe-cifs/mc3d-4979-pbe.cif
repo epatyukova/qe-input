@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Bi3Se4Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.76033104
+_cell_length_b   10.76033104
+_cell_length_c   12.22612170
+_cell_angle_alpha   66.20165829
+_cell_angle_beta   113.79834171
+_cell_angle_gamma   157.89156235
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi3Se4Br
+_chemical_formula_sum   'Bi6 Se8 Br2'
+_cell_volume   485.66162749
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.82722239  0.17277761  0.26397978  1.0
+  Bi  Bi1  1  0.17277761  -0.17277761  0.73602022  1.0
+  Bi  Bi2  1  0.65143666  0.34856334  0.41499240  1.0
+  Bi  Bi3  1  0.34856334  -0.34856334  0.58500760  1.0
+  Bi  Bi4  1  0.58864875  0.41135125  0.95842312  1.0
+  Bi  Bi5  1  0.41135125  -0.41135125  0.04157688  1.0
+  Se  Se6  1  0.91470246  0.08529754  0.50889729  1.0
+  Se  Se7  1  0.08529754  -0.08529754  0.49110271  1.0
+  Se  Se8  1  0.81366965  0.18633035  0.98317594  1.0
+  Se  Se9  1  0.18633035  -0.18633035  0.01682406  1.0
+  Se  Se10  1  0.75385711  0.24614289  0.64311983  1.0
+  Se  Se11  1  0.24614289  -0.24614289  0.35688017  1.0
+  Se  Se12  1  0.57651121  0.42348879  0.72377045  1.0
+  Se  Se13  1  0.42348879  -0.42348879  0.27622955  1.0
+  Br  Br14  1  0.95709023  0.04290977  0.83380812  1.0
+  Br  Br15  1  0.04290977  -0.04290977  0.16619188  1.0

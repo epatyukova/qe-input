@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KICl2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.17658232
+_cell_length_b   7.59300065
+_cell_length_c   8.15628499
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.23358681
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KICl2O
+_chemical_formula_sum   'K2 I2 Cl4 O2'
+_cell_volume   315.48919708
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.25695915  0.25000000  0.63710303  1.0
+  K  K1  1  0.74304085  0.75000000  0.36289697  1.0
+  I  I2  1  0.00000000  0.50000000  0.00000000  1.0
+  I  I3  1  0.00000000  0.00000000  0.00000000  1.0
+  Cl  Cl4  1  0.76390734  0.99884166  0.68865647  1.0
+  Cl  Cl5  1  0.76390734  0.50115834  0.68865647  1.0
+  Cl  Cl6  1  0.23609266  0.49884166  0.31134353  1.0
+  Cl  Cl7  1  0.23609266  0.00115834  0.31134353  1.0
+  O  O8  1  0.16191030  0.25000000  0.95629359  1.0
+  O  O9  1  0.83808970  0.75000000  0.04370641  1.0

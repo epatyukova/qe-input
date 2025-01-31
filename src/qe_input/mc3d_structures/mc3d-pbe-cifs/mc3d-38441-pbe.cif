@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Gd(BOs)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.67279724
+_cell_length_b   5.96167244
+_cell_length_c   5.60640016
+_cell_angle_alpha   70.37898816
+_cell_angle_beta   57.30434489
+_cell_angle_gamma   52.31666695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Gd(BOs)2
+_chemical_formula_sum   'Gd2 B4 Os4'
+_cell_volume   148.53283618
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  -0.25000000  0.75000000  0.75000000  1.0
+  Gd  Gd1  1  0.00000000  0.00000000  0.00000000  1.0
+  B  B2  1  0.43942546  0.06057454  1.43942546  1.0
+  B  B3  1  0.06057454  0.43942546  1.06057454  1.0
+  B  B4  1  -0.31058036  0.31058036  0.68941964  1.0
+  B  B5  1  0.31058036  -0.31058036  1.31058036  1.0
+  Os  Os6  1  0.36186215  0.36186215  -0.36186215  1.0
+  Os  Os7  1  -0.36186215  0.63813785  0.36186215  1.0
+  Os  Os8  1  0.11185984  0.11185984  1.38814016  1.0
+  Os  Os9  1  0.38814016  0.38814016  1.11185984  1.0

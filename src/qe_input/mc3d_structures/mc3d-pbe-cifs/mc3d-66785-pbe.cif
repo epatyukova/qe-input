@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuSiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.68782870
+_cell_length_b   4.09943149
+_cell_length_c   7.10456510
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSiNi
+_chemical_formula_sum   'Lu4 Si4 Ni4'
+_cell_volume   194.78085668
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.00716449  0.75000000  0.70165488  1.0
+  Lu  Lu1  1  0.50716449  0.75000000  0.79834512  1.0
+  Lu  Lu2  1  0.99283551  0.25000000  0.29834512  1.0
+  Lu  Lu3  1  0.49283551  0.25000000  0.20165488  1.0
+  Si  Si4  1  0.69440629  0.75000000  0.41015627  1.0
+  Si  Si5  1  0.19440629  0.75000000  0.08984373  1.0
+  Si  Si6  1  0.30559371  0.25000000  0.58984373  1.0
+  Si  Si7  1  0.80559371  0.25000000  0.91015627  1.0
+  Ni  Ni8  1  0.81303022  0.75000000  0.08095417  1.0
+  Ni  Ni9  1  0.31303022  0.75000000  0.41904583  1.0
+  Ni  Ni10  1  0.18696978  0.25000000  0.91904583  1.0
+  Ni  Ni11  1  0.68696978  0.25000000  0.58095417  1.0

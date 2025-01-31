@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_ZrCuC2NCl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63547075
+_cell_length_b   7.63547075
+_cell_length_c   12.24279318
+_cell_angle_alpha   78.57963591
+_cell_angle_beta   101.42036409
+_cell_angle_gamma   111.54495796
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCuC2NCl6
+_chemical_formula_sum   'Zr2 Cu2 C4 N2 Cl12'
+_cell_volume   644.57074084
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.00000000  -0.00000000  0.50000000  1.0
+  Zr  Zr1  1  0.00000000  0.00000000  0.00000000  1.0
+  Cu  Cu2  1  0.91130427  0.91130427  0.75000000  1.0
+  Cu  Cu3  1  0.08869573  0.08869573  0.25000000  1.0
+  C  C4  1  0.37300016  0.38367814  0.64702228  1.0
+  C  C5  1  1.38367814  -0.62699984  0.85297772  1.0
+  C  C6  1  1.62699984  -0.38367814  0.35297772  1.0
+  C  C7  1  0.61632186  0.62699984  0.14702228  1.0
+  N  N8  1  0.35621639  0.35621639  0.75000000  1.0
+  N  N9  1  0.64378361  0.64378361  0.25000000  1.0
+  Cl  Cl10  1  0.89632678  0.17242876  0.60935068  1.0
+  Cl  Cl11  1  1.17242876  -0.10367322  0.89064932  1.0
+  Cl  Cl12  1  1.10367322  -0.17242876  0.39064932  1.0
+  Cl  Cl13  1  0.82757124  0.10367322  0.10935068  1.0
+  Cl  Cl14  1  0.90554225  0.70383083  0.63617284  1.0
+  Cl  Cl15  1  1.70383083  -0.09445775  0.86382716  1.0
+  Cl  Cl16  1  1.09445775  -0.70383083  0.36382716  1.0
+  Cl  Cl17  1  0.29616917  0.09445775  0.13617284  1.0
+  Cl  Cl18  1  1.33625669  0.11613402  0.60844492  1.0
+  Cl  Cl19  1  1.11613402  0.33625669  0.89155508  1.0
+  Cl  Cl20  1  0.66374331  -0.11613402  0.39155508  1.0
+  Cl  Cl21  1  0.88386598  -0.33625669  0.10844492  1.0

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La3TiBeS7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.32554181
+_cell_length_b   10.32554181
+_cell_length_c   5.83674038
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3TiBeS7
+_chemical_formula_sum   'La6 Ti2 Be2 S14'
+_cell_volume   538.92298538
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.74542653  0.60866481  0.22852618  1.0
+  La  La1  1  0.60866481  0.86323827  0.72852618  1.0
+  La  La2  1  0.86323827  0.25457347  0.22852618  1.0
+  La  La3  1  0.39133519  0.13676173  0.22852618  1.0
+  La  La4  1  0.25457347  0.39133519  0.72852618  1.0
+  La  La5  1  0.13676173  0.74542653  0.72852618  1.0
+  Ti  Ti6  1  0.00000000  0.00000000  0.00471985  1.0
+  Ti  Ti7  1  0.00000000  0.00000000  0.50471985  1.0
+  Be  Be8  1  0.33333333  0.66666667  0.13931962  1.0
+  Be  Be9  1  0.66666667  0.33333333  0.63931962  1.0
+  S  S10  1  0.40226055  0.88485270  0.01174636  1.0
+  S  S11  1  0.88485270  0.48259215  0.51174636  1.0
+  S  S12  1  0.48259215  0.59773945  0.01174636  1.0
+  S  S13  1  0.11514730  0.51740785  0.01174636  1.0
+  S  S14  1  0.59773945  0.11514730  0.51174636  1.0
+  S  S15  1  0.51740785  0.40226055  0.51174636  1.0
+  S  S16  1  0.07710702  0.85392972  0.25657652  1.0
+  S  S17  1  0.85392972  0.77682270  0.75657652  1.0
+  S  S18  1  0.77682270  0.92289298  0.25657652  1.0
+  S  S19  1  0.14607028  0.22317730  0.25657652  1.0
+  S  S20  1  0.92289298  0.14607028  0.75657652  1.0
+  S  S21  1  0.22317730  0.07710702  0.75657652  1.0
+  S  S22  1  0.33333333  0.66666667  0.49641333  1.0
+  S  S23  1  0.66666667  0.33333333  -0.00358667  1.0

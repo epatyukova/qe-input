@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Cd2As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83574691
+_cell_length_b   5.83574691
+_cell_length_c   4.96566882
+_cell_angle_alpha   82.51736914
+_cell_angle_beta   97.48263086
+_cell_angle_gamma   75.47059683
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd2As2O7
+_chemical_formula_sum   'Cd2 As2 O7'
+_cell_volume   159.95337991
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cd  Cd0  1  0.69609676  -0.30390324  -0.00000000  1.0
+  Cd  Cd1  1  1.30390324  0.30390324  -0.00000000  1.0
+  As  As2  1  0.77236672  -0.77236672  0.59179707  1.0
+  As  As3  1  0.22763328  -0.22763328  0.40820293  1.0
+  O  O4  1  1.60747693  0.07925117  0.77842591  1.0
+  O  O5  1  0.92074883  -0.60747693  0.77842591  1.0
+  O  O6  1  1.07925117  0.60747693  0.22157409  1.0
+  O  O7  1  0.39252307  -0.07925117  0.22157409  1.0
+  O  O8  1  0.38977004  -0.38977004  0.71926930  1.0
+  O  O9  1  0.61022996  -0.61022996  0.28073070  1.0
+  O  O10  1  0.00000000  -0.00000000  0.50000000  1.0

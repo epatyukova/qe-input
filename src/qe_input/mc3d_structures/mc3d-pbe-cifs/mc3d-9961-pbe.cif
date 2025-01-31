@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaPH3NO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81085660
+_cell_length_b   5.81085660
+_cell_length_c   6.20134160
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaPH3NO3
+_chemical_formula_sum   'Na2 P2 H6 N2 O6'
+_cell_volume   181.34124899
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  -0.00176724  1.0
+  Na  Na1  1  0.00000000  0.00000000  0.49823276  1.0
+  P  P2  1  0.33333333  0.66666667  0.30943440  1.0
+  P  P3  1  0.66666667  0.33333333  0.80943440  1.0
+  H  H4  1  0.64297449  0.48947821  0.16035356  1.0
+  H  H5  1  0.48947821  0.84650373  0.66035356  1.0
+  H  H6  1  0.84650373  0.35702551  0.16035356  1.0
+  H  H7  1  0.51052179  0.15349627  0.16035356  1.0
+  H  H8  1  0.35702551  0.51052179  0.66035356  1.0
+  H  H9  1  0.15349627  0.64297449  0.66035356  1.0
+  N  N10  1  0.33333333  0.66666667  0.59988767  1.0
+  N  N11  1  0.66666667  0.33333333  0.09988767  1.0
+  O  O12  1  0.23659278  0.86079065  0.25232816  1.0
+  O  O13  1  0.86079065  0.62419787  0.75232816  1.0
+  O  O14  1  0.62419787  0.76340722  0.25232816  1.0
+  O  O15  1  0.13920935  0.37580213  0.25232816  1.0
+  O  O16  1  0.76340722  0.13920935  0.75232816  1.0
+  O  O17  1  0.37580213  0.23659278  0.75232816  1.0

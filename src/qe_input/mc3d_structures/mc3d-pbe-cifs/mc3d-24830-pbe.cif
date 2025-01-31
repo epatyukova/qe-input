@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Li14Cr2N8O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77738348
+_cell_length_b   5.77738348
+_cell_length_c   8.18544104
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li14Cr2N8O
+_chemical_formula_sum   'Li14 Cr2 N8 O1'
+_cell_volume   236.61109592
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.68669259  0.64765385  0.08661020  1.0
+  Li  Li1  1  0.64765385  0.96096126  0.91338980  1.0
+  Li  Li2  1  0.96096126  0.31330741  0.08661020  1.0
+  Li  Li3  1  0.35234615  0.03903874  0.08661020  1.0
+  Li  Li4  1  0.31330741  0.35234615  0.91338980  1.0
+  Li  Li5  1  0.03903874  0.68669259  0.91338980  1.0
+  Li  Li6  1  0.92903617  0.62485872  0.40935894  1.0
+  Li  Li7  1  0.62485872  0.69582255  0.59064106  1.0
+  Li  Li8  1  0.69582255  0.07096383  0.40935894  1.0
+  Li  Li9  1  0.37514128  0.30417745  0.40935894  1.0
+  Li  Li10  1  0.07096383  0.37514128  0.59064106  1.0
+  Li  Li11  1  0.30417745  0.92903617  0.59064106  1.0
+  Li  Li12  1  0.00000000  0.00000000  0.24277683  1.0
+  Li  Li13  1  0.00000000  0.00000000  0.75722317  1.0
+  Cr  Cr14  1  0.33333333  0.66666667  0.26076084  1.0
+  Cr  Cr15  1  0.66666667  0.33333333  0.73923916  1.0
+  N  N16  1  0.30737393  0.93923374  0.33118794  1.0
+  N  N17  1  0.93923374  0.63185981  0.66881206  1.0
+  N  N18  1  0.63185981  0.69262607  0.33118794  1.0
+  N  N19  1  0.06076626  0.36814019  0.33118794  1.0
+  N  N20  1  0.69262607  0.06076626  0.66881206  1.0
+  N  N21  1  0.36814019  0.30737393  0.66881206  1.0
+  N  N22  1  0.33333333  0.66666667  0.04793910  1.0
+  N  N23  1  0.66666667  0.33333333  0.95206090  1.0
+  O  O24  1  0.00000000  0.00000000  0.00000000  1.0

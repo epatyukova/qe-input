@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AgClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.90629731
+_cell_length_b   5.40859512
+_cell_length_c   9.41335833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgClO4
+_chemical_formula_sum   'Ag4 Cl4 O16'
+_cell_volume   402.53366209
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.32214190  0.75000000  0.30423874  1.0
+  Ag  Ag1  1  0.82214190  0.75000000  0.19576126  1.0
+  Ag  Ag2  1  0.67785810  0.25000000  0.69576126  1.0
+  Ag  Ag3  1  0.17785810  0.25000000  0.80423874  1.0
+  Cl  Cl4  1  0.42368612  0.75000000  0.66217060  1.0
+  Cl  Cl5  1  0.92368612  0.75000000  0.83782940  1.0
+  Cl  Cl6  1  0.57631388  0.25000000  0.33782940  1.0
+  Cl  Cl7  1  0.07631388  0.25000000  0.16217060  1.0
+  O  O8  1  0.42376481  0.97383691  0.75445760  1.0
+  O  O9  1  0.42376481  0.52616309  0.75445760  1.0
+  O  O10  1  0.92376481  0.97383691  0.74554240  1.0
+  O  O11  1  0.92376481  0.52616309  0.74554240  1.0
+  O  O12  1  0.57623519  0.47383691  0.24554240  1.0
+  O  O13  1  0.57623519  0.02616309  0.24554240  1.0
+  O  O14  1  0.07623519  0.47383691  0.25445760  1.0
+  O  O15  1  0.07623519  0.02616309  0.25445760  1.0
+  O  O16  1  0.27176659  0.75000000  0.57323831  1.0
+  O  O17  1  0.77176659  0.75000000  0.92676169  1.0
+  O  O18  1  0.72823341  0.25000000  0.42676169  1.0
+  O  O19  1  0.22823341  0.25000000  0.07323831  1.0
+  O  O20  1  0.07749524  0.75000000  0.92357513  1.0
+  O  O21  1  0.57749524  0.75000000  0.57642487  1.0
+  O  O22  1  0.92250476  0.25000000  0.07642487  1.0
+  O  O23  1  0.42250476  0.25000000  0.42357513  1.0

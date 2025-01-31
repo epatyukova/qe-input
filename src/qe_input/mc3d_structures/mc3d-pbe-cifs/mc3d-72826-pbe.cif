@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_MgAl2SiO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.96162780
+_cell_length_b   5.58565823
+_cell_length_c   5.53586638
+_cell_angle_alpha   60.22178760
+_cell_angle_beta   76.57806497
+_cell_angle_gamma   84.20762131
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgAl2SiO7
+_chemical_formula_sum   'Mg2 Al4 Si2 O14'
+_cell_volume   233.91285927
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  -0.50000000  -0.50000000  -0.00000000  1.0
+  Al  Al1  1  -0.00000000  -0.00000000  -0.50000000  1.0
+  Al  Al2  1  0.00000000  -0.50000000  -0.00000000  1.0
+  Al  Al3  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si4  1  -0.81171066  -0.49781298  -0.56975745  1.0
+  Si  Si5  1  -0.18828934  -0.50218702  -0.43024255  1.0
+  O  O6  1  -0.87109327  -0.33510533  -0.87476632  1.0
+  O  O7  1  -0.12890673  -0.66489467  -0.12523368  1.0
+  O  O8  1  -0.62148068  -0.49929793  -0.63406180  1.0
+  O  O9  1  -0.37851932  -0.50070207  -0.36593820  1.0
+  O  O10  1  -0.87371066  -0.33449993  -0.38628504  1.0
+  O  O11  1  -0.12628934  -0.66550007  -0.61371496  1.0
+  O  O12  1  -0.87545677  -0.82076418  -0.38504380  1.0
+  O  O13  1  -0.12454323  -0.17923582  -0.61495620  1.0
+  O  O14  1  -0.40890739  -0.80853309  -0.74130428  1.0
+  O  O15  1  -0.59109261  -0.19146691  -0.25869572  1.0
+  O  O16  1  -0.59635805  -0.81124370  -0.94940523  1.0
+  O  O17  1  -0.40364195  -0.18875630  -0.05059477  1.0
+  O  O18  1  -0.90301912  -0.82932657  -0.87204081  1.0
+  O  O19  1  -0.09698088  -0.17067343  -0.12795919  1.0
+  Mg  Mg20  1  -0.50002602  -0.82607696  -0.33643154  1.0
+  Mg  Mg21  1  -0.49997398  -0.17392304  -0.66356846  1.0

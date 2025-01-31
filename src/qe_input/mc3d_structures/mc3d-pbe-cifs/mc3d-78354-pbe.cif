@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Eu3TaO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58654284
+_cell_length_b   6.58654284
+_cell_length_c   7.69451226
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.12460644
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Eu3TaO7
+_chemical_formula_sum   'Eu6 Ta2 O14'
+_cell_volume   313.42744338
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O0  1  0.07090706  0.31778177  0.02948396  1.0
+  O  O1  1  -0.68221823  1.07090706  0.97051604  1.0
+  O  O2  1  0.68221823  0.92909294  0.47051604  1.0
+  O  O3  1  -0.07090706  1.68221823  0.52948396  1.0
+  O  O4  1  0.07087613  0.31774674  0.47048122  1.0
+  O  O5  1  -0.68225326  1.07087613  0.52951878  1.0
+  O  O6  1  0.68225326  0.92912387  0.02951878  1.0
+  O  O7  1  -0.07087613  1.68225326  0.97048122  1.0
+  O  O8  1  0.05590679  0.94409321  0.25000000  1.0
+  O  O9  1  -0.05590679  1.05590679  0.75000000  1.0
+  O  O10  1  0.36318055  0.63681945  0.25000000  1.0
+  O  O11  1  -0.36318055  1.36318055  0.75000000  1.0
+  O  O12  1  -0.37109908  1.37109908  0.25000000  1.0
+  O  O13  1  0.37109908  0.62890092  0.75000000  1.0
+  Ta  Ta14  1  0.00001052  0.00001052  0.00000000  1.0
+  Ta  Ta15  1  -0.00001052  -0.00001052  0.50000000  1.0
+  Eu  Eu16  1  0.50000450  0.50000450  0.00000000  1.0
+  Eu  Eu17  1  0.49999550  0.49999550  0.50000000  1.0
+  Eu  Eu18  1  -0.00195510  1.53111260  0.24998180  1.0
+  Eu  Eu19  1  0.53111260  0.99804490  0.75001820  1.0
+  Eu  Eu20  1  -0.53111260  1.00195510  0.25001820  1.0
+  Eu  Eu21  1  0.00195510  0.46888740  0.74998180  1.0

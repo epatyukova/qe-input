@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZrFeAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49340273
+_cell_length_b   3.91759603
+_cell_length_c   7.22583232
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrFeAs
+_chemical_formula_sum   'Zr4 Fe4 As4'
+_cell_volume   183.81454358
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  1.01351742  0.75000000  0.69021316  1.0
+  Zr  Zr1  1  0.51351742  0.75000000  0.80978684  1.0
+  Zr  Zr2  1  -0.01351742  0.25000000  0.30978684  1.0
+  Zr  Zr3  1  0.48648258  0.25000000  0.19021316  1.0
+  Fe  Fe4  1  0.64553472  0.75000000  0.43659397  1.0
+  Fe  Fe5  1  0.14553472  0.75000000  0.06340603  1.0
+  Fe  Fe6  1  0.35446528  0.25000000  0.56340603  1.0
+  Fe  Fe7  1  0.85446528  0.25000000  0.93659397  1.0
+  As  As8  1  0.77729682  0.75000000  0.11314266  1.0
+  As  As9  1  0.27729682  0.75000000  0.38685734  1.0
+  As  As10  1  0.22270318  0.25000000  0.88685734  1.0
+  As  As11  1  0.72270318  0.25000000  0.61314266  1.0

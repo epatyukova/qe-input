@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La4Ni3Pb4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71473262
+_cell_length_b   6.71473262
+_cell_length_c   6.71473262
+_cell_angle_alpha   95.69387495
+_cell_angle_beta   95.69387495
+_cell_angle_gamma   95.69387494
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4Ni3Pb4
+_chemical_formula_sum   'La4 Ni3 Pb4'
+_cell_volume   297.94752524
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  1.09585033  -0.16680472  0.32585765  1.0
+  La  La1  1  0.83319528  0.32585765  0.09585033  1.0
+  La  La2  1  1.32585765  0.09585033  -0.16680472  1.0
+  La  La3  1  0.53581732  0.53581732  0.53581732  1.0
+  Ni  Ni4  1  0.41214007  1.12840735  -0.70342318  1.0
+  Ni  Ni5  1  1.12840735  0.29657682  -0.58785993  1.0
+  Ni  Ni6  1  0.29657682  0.41214007  0.12840735  1.0
+  Pb  Pb7  1  0.76713222  1.13613752  -0.45571631  1.0
+  Pb  Pb8  1  1.13613752  0.54428369  -0.23286778  1.0
+  Pb  Pb9  1  0.54428369  0.76713222  0.13613752  1.0
+  Pb  Pb10  1  -0.13639827  -0.13639827  -0.13639827  1.0

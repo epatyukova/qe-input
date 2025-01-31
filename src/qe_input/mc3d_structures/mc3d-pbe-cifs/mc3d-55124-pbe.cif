@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Rb2SnAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.78763777
+_cell_length_b   8.78763777
+_cell_length_c   8.78763777
+_cell_angle_alpha   128.75581452
+_cell_angle_beta   72.34633077
+_cell_angle_gamma   132.62989925
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2SnAs2
+_chemical_formula_sum   'Rb4 Sn2 As4'
+_cell_volume   380.63444513
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.14444793  0.34000530  0.48445323  1.0
+  Rb  Rb1  1  0.35555207  0.84000530  1.19555737  1.0
+  Rb  Rb2  1  0.64444793  1.15999470  0.80444263  1.0
+  Rb  Rb3  1  0.85555207  0.65999470  0.51554677  1.0
+  Sn  Sn4  1  0.25000000  0.25000000  0.00000000  1.0
+  Sn  Sn5  1  0.75000000  0.75000000  0.00000000  1.0
+  As  As6  1  0.39653484  0.31951353  0.71604837  1.0
+  As  As7  1  0.10346516  0.81951353  0.92297869  1.0
+  As  As8  1  0.89653484  1.18048647  1.07702131  1.0
+  As  As9  1  0.60346516  0.68048647  0.28395163  1.0

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CaNi(GeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82168198
+_cell_length_b   6.82168198
+_cell_length_c   5.46773789
+_cell_angle_alpha   78.51633852
+_cell_angle_beta   101.48366148
+_cell_angle_gamma   97.34526919
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaNi(GeO3)2
+_chemical_formula_sum   'Ca2 Ni2 Ge4 O12'
+_cell_volume   243.32490792
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.80051704  0.80051704  0.75000000  1.0
+  Ca  Ca1  1  0.19948296  0.19948296  0.25000000  1.0
+  Ni  Ni2  1  0.41128439  0.41128439  0.75000000  1.0
+  Ni  Ni3  1  0.58871561  0.58871561  0.25000000  1.0
+  Ge  Ge4  1  1.31402511  -0.11632719  0.77969711  1.0
+  Ge  Ge5  1  1.11632719  -0.31402511  0.27969711  1.0
+  Ge  Ge6  1  0.88367281  0.31402511  0.72030289  1.0
+  Ge  Ge7  1  0.68597489  0.11632719  0.22030289  1.0
+  O  O8  1  1.48268372  -0.30298318  0.86879367  1.0
+  O  O9  1  1.30298318  -0.48268372  0.36879367  1.0
+  O  O10  1  0.69701682  0.48268372  0.63120633  1.0
+  O  O11  1  0.51731628  0.30298318  0.13120633  1.0
+  O  O12  1  0.82842604  0.10831565  0.97684732  1.0
+  O  O13  1  0.89168435  0.17157396  0.47684732  1.0
+  O  O14  1  1.10831565  -0.17157396  0.52315268  1.0
+  O  O15  1  1.17157396  -0.10831565  0.02315268  1.0
+  O  O16  1  0.39994934  0.12804247  0.65730269  1.0
+  O  O17  1  0.87195753  0.60005066  0.15730269  1.0
+  O  O18  1  1.12804247  -0.60005066  0.84269731  1.0
+  O  O19  1  1.60005066  -0.12804247  0.34269731  1.0

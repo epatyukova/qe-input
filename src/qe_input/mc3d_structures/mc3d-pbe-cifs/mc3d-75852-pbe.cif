@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Cr2Pb(NO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.67206608
+_cell_length_b   8.67206608
+_cell_length_c   8.67206608
+_cell_angle_alpha   40.05636763
+_cell_angle_beta   40.05636763
+_cell_angle_gamma   40.05636763
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2Pb(NO4)2
+_chemical_formula_sum   'Cr2 Pb1 N2 O8'
+_cell_volume   243.39127648
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.82902679  0.82902679  0.82902679  1.0
+  N  N1  1  1.17097321  1.17097321  0.17097321  1.0
+  O  O2  1  0.69970662  0.69970662  0.69970662  1.0
+  O  O3  1  1.30029338  1.30029338  0.30029338  1.0
+  O  O4  1  1.23119905  0.23119905  0.70103464  1.0
+  O  O5  1  1.23119905  0.70103464  0.23119905  1.0
+  O  O6  1  1.29896536  0.76880095  0.76880095  1.0
+  O  O7  1  1.76880095  0.29896536  0.76880095  1.0
+  O  O8  1  1.76880095  0.76880095  0.29896536  1.0
+  O  O9  1  1.70103464  0.23119905  0.23119905  1.0
+  Pb  Pb10  1  0.00000000  0.00000000  -0.00000000  1.0
+  Cr  Cr11  1  1.63385610  0.63385610  0.63385610  1.0
+  Cr  Cr12  1  1.36614390  0.36614390  0.36614390  1.0

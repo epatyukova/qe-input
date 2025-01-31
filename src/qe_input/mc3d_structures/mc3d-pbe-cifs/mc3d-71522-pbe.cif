@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Lu3Ga9Pd2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.09013063
+_cell_length_b   8.09013063
+_cell_length_c   8.09013063
+_cell_angle_alpha   149.44264910
+_cell_angle_beta   108.13033893
+_cell_angle_gamma   80.07840382
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu3Ga9Pd2
+_chemical_formula_sum   'Lu3 Ga9 Pd2'
+_cell_volume   250.76838480
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.50000000  0.50000000  1.00000000  1.0
+  Lu  Lu1  1  0.79992090  0.79992090  1.00000000  1.0
+  Lu  Lu2  1  1.20007910  1.20007910  1.00000000  1.0
+  Ga  Ga3  1  0.35600968  0.63875093  0.71725875  1.0
+  Ga  Ga4  1  1.64399032  1.36124907  1.28274125  1.0
+  Ga  Ga5  1  0.92149217  0.63875093  1.28274125  1.0
+  Ga  Ga6  1  1.07850783  1.36124907  0.71725875  1.0
+  Ga  Ga7  1  1.47742795  0.84554134  0.63188661  1.0
+  Ga  Ga8  1  0.52257205  0.15445866  0.36811339  1.0
+  Ga  Ga9  1  1.21365473  0.84554134  0.36811339  1.0
+  Ga  Ga10  1  0.78634527  0.15445866  0.63188661  1.0
+  Ga  Ga11  1  0.00000000  0.50000000  0.50000000  1.0
+  Pd  Pd12  1  0.81721258  0.00000000  0.81721258  1.0
+  Pd  Pd13  1  0.18278742  0.00000000  0.18278742  1.0

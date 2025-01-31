@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KMn(SeO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91944668
+_cell_length_b   8.14688935
+_cell_length_c   5.11964260
+_cell_angle_alpha   83.80840766
+_cell_angle_beta   67.47907542
+_cell_angle_gamma   86.26718864
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KMn(SeO4)2
+_chemical_formula_sum   'K1 Mn1 Se2 O8'
+_cell_volume   188.36958265
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1.0
+  Mn  Mn1  1  -0.00000000  -0.50000000  0.00000000  1.0
+  Se  Se2  1  -0.37981425  -0.29788848  -0.36337973  1.0
+  Se  Se3  1  -0.62018575  -0.70211152  -0.63662027  1.0
+  O  O4  1  -0.23341217  -0.46290381  -0.22791958  1.0
+  O  O5  1  -0.76658783  -0.53709619  -0.77208042  1.0
+  O  O6  1  -0.75412776  -0.31717402  -0.21450333  1.0
+  O  O7  1  -0.24587224  -0.68282598  -0.78549667  1.0
+  O  O8  1  -0.31271053  -0.11610449  -0.29723807  1.0
+  O  O9  1  -0.68728947  -0.88389551  -0.70276193  1.0
+  O  O10  1  -0.27300850  -0.31354085  -0.70962967  1.0
+  O  O11  1  -0.72699150  -0.68645915  -0.29037033  1.0

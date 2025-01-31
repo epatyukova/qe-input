@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Y5(CoB3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36586449
+_cell_length_b   8.36586449
+_cell_length_c   8.36586449
+_cell_angle_alpha   37.71395957
+_cell_angle_beta   37.71395957
+_cell_angle_gamma   37.71395957
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y5(CoB3)2
+_chemical_formula_sum   'Y5 Co2 B6'
+_cell_volume   196.56878096
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.74873125  0.74873125  0.74873125  1.0
+  Y  Y1  1  1.25126875  1.25126875  0.25126875  1.0
+  Y  Y2  1  1.58354276  0.58354276  0.58354276  1.0
+  Y  Y3  1  1.41645724  0.41645724  0.41645724  1.0
+  Y  Y4  1  0.00000000  -0.00000000  -0.00000000  1.0
+  Co  Co5  1  0.87974878  0.87974878  0.87974878  1.0
+  Co  Co6  1  1.12025122  1.12025122  0.12025122  1.0
+  B  B7  1  1.16838748  0.50000000  0.83161252  1.0
+  B  B8  1  1.16838748  0.83161252  0.50000000  1.0
+  B  B9  1  1.50000000  0.16838748  0.83161252  1.0
+  B  B10  1  1.50000000  0.83161252  0.16838748  1.0
+  B  B11  1  1.83161252  0.50000000  0.16838748  1.0
+  B  B12  1  1.83161252  0.16838748  0.50000000  1.0

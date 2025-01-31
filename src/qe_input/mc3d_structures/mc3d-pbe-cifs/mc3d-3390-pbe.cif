@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZnSnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65633983
+_cell_length_b   5.65633983
+_cell_length_c   5.65633983
+_cell_angle_alpha   56.36184099
+_cell_angle_beta   56.36184099
+_cell_angle_gamma   56.36184099
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnSnO3
+_chemical_formula_sum   'Zn2 Sn2 O6'
+_cell_volume   117.19740097
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.77823160  -0.22176840  -0.22176840  1.0
+  Zn  Zn1  1  0.27823160  0.27823160  0.27823160  1.0
+  Sn  Sn2  1  -0.00335524  -0.00335524  -0.00335524  1.0
+  Sn  Sn3  1  0.49664476  0.49664476  -0.50335524  1.0
+  O  O4  1  0.60141302  -0.11184017  0.20755079  1.0
+  O  O5  1  0.10141302  0.70755079  -0.61184017  1.0
+  O  O6  1  0.70755079  0.38815983  -0.89858698  1.0
+  O  O7  1  1.20755079  -0.39858698  -0.11184017  1.0
+  O  O8  1  0.38815983  0.10141302  -0.29244921  1.0
+  O  O9  1  0.88815983  0.20755079  -0.39858698  1.0

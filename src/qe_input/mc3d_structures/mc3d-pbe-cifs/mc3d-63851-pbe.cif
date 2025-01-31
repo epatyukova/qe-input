@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ti5InSb2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.95186158
+_cell_length_b   7.95186158
+_cell_length_c   7.95186158
+_cell_angle_alpha   96.59650318
+_cell_angle_beta   96.59650318
+_cell_angle_gamma   140.37607015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti5InSb2
+_chemical_formula_sum   'Ti10 In2 Sb4'
+_cell_volume   301.68653934
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.75000000  1.25000000  0.50000000  1.0
+  Ti  Ti1  1  0.25000000  0.75000000  0.50000000  1.0
+  Ti  Ti2  1  0.07765416  0.23022168  0.30787585  1.0
+  Ti  Ti3  1  0.92234584  0.76977832  1.69212415  1.0
+  Ti  Ti4  1  0.57765416  1.26977832  0.84743248  1.0
+  Ti  Ti5  1  1.42234584  0.73022168  1.15256752  1.0
+  Ti  Ti6  1  0.76977832  1.07765416  0.84743248  1.0
+  Ti  Ti7  1  1.23022168  0.92234584  1.15256752  1.0
+  Ti  Ti8  1  0.73022168  0.57765416  1.30787585  1.0
+  Ti  Ti9  1  0.26977832  0.42234584  0.69212415  1.0
+  In  In10  1  0.75000000  0.75000000  0.00000000  1.0
+  In  In11  1  0.25000000  0.25000000  0.00000000  1.0
+  Sb  Sb12  1  0.16389376  0.66389376  0.82778752  1.0
+  Sb  Sb13  1  0.83610624  0.33610624  1.17221248  1.0
+  Sb  Sb14  1  0.66389376  0.83610624  0.50000000  1.0
+  Sb  Sb15  1  1.33610624  1.16389376  1.50000000  1.0

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Zr2CuH5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72308926
+_cell_length_b   5.72308926
+_cell_length_c   8.29532147
+_cell_angle_alpha   58.54508695
+_cell_angle_beta   121.45491305
+_cell_angle_gamma   142.73922907
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr2CuH5
+_chemical_formula_sum   'Zr4 Cu2 H10'
+_cell_volume   137.31109856
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.08036711  -0.08036711  0.84363088  1.0
+  Zr  Zr1  1  0.91963289  -0.91963289  0.15636912  1.0
+  Zr  Zr2  1  0.67363905  0.32636095  0.57499884  1.0
+  Zr  Zr3  1  1.32636095  -0.32636095  0.42500116  1.0
+  Cu  Cu4  1  0.37657680  -0.37657680  0.84948679  1.0
+  Cu  Cu5  1  0.62342320  -0.62342320  0.15051321  1.0
+  H  H6  1  0.13682935  -0.13682935  0.42545093  1.0
+  H  H7  1  0.86317065  -0.86317065  0.57454907  1.0
+  H  H8  1  1.46487414  -0.46487414  0.32771410  1.0
+  H  H9  1  0.53512586  0.46487414  0.67228590  1.0
+  H  H10  1  1.31593787  -0.31593787  0.02072488  1.0
+  H  H11  1  0.68406213  0.31593787  0.97927512  1.0
+  H  H12  1  0.18275687  -0.18275687  0.70184347  1.0
+  H  H13  1  0.81724313  -0.81724313  0.29815653  1.0
+  H  H14  1  0.88176888  0.11823112  0.85952730  1.0
+  H  H15  1  1.11823112  -0.11823112  0.14047270  1.0

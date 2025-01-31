@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cs3Bi7Se12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.01081909
+_cell_length_b   14.01081909
+_cell_length_c   13.47427371
+_cell_angle_alpha   72.61109708
+_cell_angle_beta   107.38890292
+_cell_angle_gamma   162.50602730
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3Bi7Se12
+_chemical_formula_sum   'Cs3 Bi7 Se12'
+_cell_volume   757.89434999
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  1.02600850  -0.02600850  0.74792063  1.0
+  Cs  Cs1  1  1.36925367  -0.36925367  0.31603179  1.0
+  Cs  Cs2  1  0.75257613  -0.75257613  -0.00406399  1.0
+  Bi  Bi3  1  1.07451664  -0.07451664  0.40032983  1.0
+  Bi  Bi4  1  1.11459704  -0.11459704  0.09438088  1.0
+  Bi  Bi5  1  1.30808724  -0.30808724  0.62326014  1.0
+  Bi  Bi6  1  1.48033543  -0.48033543  0.14039597  1.0
+  Bi  Bi7  1  0.66998216  -0.66998216  0.65981006  1.0
+  Bi  Bi8  1  0.71429215  -0.71429215  0.35828340  1.0
+  Bi  Bi9  1  0.89213575  -0.89213575  0.88514974  1.0
+  Se  Se10  1  0.00012097  -0.00012097  0.00644821  1.0
+  Se  Se11  1  1.16143052  -0.16143052  0.78968309  1.0
+  Se  Se12  1  1.19338370  -0.19338370  0.49892854  1.0
+  Se  Se13  1  1.22403250  -0.22403250  0.21237614  1.0
+  Se  Se14  1  1.37357413  -0.37357413  0.02808261  1.0
+  Se  Se15  1  1.41207645  -0.41207645  0.74834630  1.0
+  Se  Se16  1  0.56406303  -0.56406303  0.54308175  1.0
+  Se  Se17  1  0.59508579  -0.59508579  0.25795842  1.0
+  Se  Se18  1  0.61993482  -0.61993482  0.96197372  1.0
+  Se  Se19  1  0.78642082  -0.78642082  0.75418353  1.0
+  Se  Se20  1  0.81868469  -0.81868469  0.47372259  1.0
+  Se  Se21  1  0.97020789  -0.97020789  0.29031665  1.0

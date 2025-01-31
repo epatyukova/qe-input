@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.58053950
+_cell_length_b   4.60495402
+_cell_length_c   7.17363040
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HOF
+_chemical_formula_sum   'H4 O4 F4'
+_cell_volume   151.31463259
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.03670448  0.56646098  0.76101964  1.0
+  H  H1  1  0.53670448  0.93353902  0.23898036  1.0
+  H  H2  1  0.96329552  0.06646098  0.73898036  1.0
+  H  H3  1  0.46329552  0.43353902  0.26101964  1.0
+  O  O4  1  0.13944269  0.75660108  0.78978354  1.0
+  O  O5  1  0.63944269  0.74339892  0.21021646  1.0
+  O  O6  1  0.86055731  0.25660108  0.71021646  1.0
+  O  O7  1  0.36055731  0.24339892  0.28978354  1.0
+  F  F8  1  0.35323068  0.75132456  0.64104056  1.0
+  F  F9  1  0.85323068  0.74867544  0.35895944  1.0
+  F  F10  1  0.64676932  0.25132456  0.85895944  1.0
+  F  F11  1  0.14676932  0.24867544  0.14104056  1.0

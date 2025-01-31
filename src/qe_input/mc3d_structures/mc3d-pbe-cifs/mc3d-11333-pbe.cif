@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_CN3ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47876448
+_cell_length_b   5.47876448
+_cell_length_c   5.47876448
+_cell_angle_alpha   81.95735595
+_cell_angle_beta   81.95735595
+_cell_angle_gamma   81.95735595
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CN3ClO4
+_chemical_formula_sum   'C1 N3 Cl1 O4'
+_cell_volume   160.01703636
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.53395327  0.53395327  0.53395327  1.0
+  N  N1  1  1.31566929  0.64192349  -0.35807651  1.0
+  N  N2  1  0.64192349  1.31566929  -0.35807651  1.0
+  N  N3  1  0.64192349  0.64192349  0.31566929  1.0
+  Cl  Cl4  1  0.17394293  0.17394293  0.17394293  1.0
+  O  O5  1  0.44596121  0.11461868  0.11461868  1.0
+  O  O6  1  1.11461868  -0.55403879  0.11461868  1.0
+  O  O7  1  1.11461868  0.11461868  -0.55403879  1.0
+  O  O8  1  0.04018896  0.04018896  0.04018896  1.0

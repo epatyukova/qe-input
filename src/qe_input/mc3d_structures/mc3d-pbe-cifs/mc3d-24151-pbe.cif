@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Hf3AlAu2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69255599
+_cell_length_b   8.69255599
+_cell_length_c   8.69255599
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf3AlAu2
+_chemical_formula_sum   'Hf12 Al4 Au8'
+_cell_volume   464.43772775
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.80453195  0.80453195  -0.80453195  1.0
+  Hf  Hf1  1  0.19546805  1.19546805  -0.19546805  1.0
+  Hf  Hf2  1  0.80453195  -0.80453195  0.80453195  1.0
+  Hf  Hf3  1  0.19546805  -0.19546805  0.19546805  1.0
+  Hf  Hf4  1  -0.80453195  0.80453195  0.80453195  1.0
+  Hf  Hf5  1  -0.19546805  0.19546805  0.19546805  1.0
+  Hf  Hf6  1  0.44546805  1.44546805  0.05453195  1.0
+  Hf  Hf7  1  0.05453195  0.05453195  0.44546805  1.0
+  Hf  Hf8  1  0.44546805  1.05453195  0.44546805  1.0
+  Hf  Hf9  1  0.05453195  1.44546805  0.05453195  1.0
+  Hf  Hf10  1  0.05453195  1.44546805  0.44546805  1.0
+  Hf  Hf11  1  0.44546805  1.05453195  0.05453195  1.0
+  Al  Al12  1  1.12500000  0.62500000  0.62500000  1.0
+  Al  Al13  1  0.62500000  1.12500000  -0.37500000  1.0
+  Al  Al14  1  -0.37500000  0.62500000  1.12500000  1.0
+  Al  Al15  1  -0.37500000  0.62500000  0.62500000  1.0
+  Au  Au16  1  -0.23486727  0.41162242  0.41162242  1.0
+  Au  Au17  1  0.41162242  -0.23486727  0.41162242  1.0
+  Au  Au18  1  0.41162242  1.41162242  -0.23486727  1.0
+  Au  Au19  1  0.41162242  1.41162242  0.41162242  1.0
+  Au  Au20  1  0.48486727  0.83837758  -0.16162242  1.0
+  Au  Au21  1  0.83837758  0.48486727  0.83837758  1.0
+  Au  Au22  1  0.83837758  0.83837758  -0.51513273  1.0
+  Au  Au23  1  0.83837758  0.83837758  0.83837758  1.0

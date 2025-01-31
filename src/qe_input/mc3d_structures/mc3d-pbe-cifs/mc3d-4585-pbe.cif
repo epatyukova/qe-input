@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2Si3Ag
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.45631023
+_cell_length_b   10.84671884
+_cell_length_c   8.65510499
+_cell_angle_alpha   78.50953910
+_cell_angle_beta   58.57558981
+_cell_angle_gamma   42.91487109
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Si3Ag
+_chemical_formula_sum   'Ba8 Si12 Ag4'
+_cell_volume   645.02793980
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.37584106  1.37584106  -0.37584106  1.0
+  Ba  Ba1  1  0.62415894  0.62415894  -0.62415894  1.0
+  Ba  Ba2  1  0.87415894  0.87415894  0.62584106  1.0
+  Ba  Ba3  1  0.62584106  -0.37415894  0.87415894  1.0
+  Ba  Ba4  1  0.87569518  0.87569518  -0.87569518  1.0
+  Ba  Ba5  1  0.12430482  0.12430482  -0.12430482  1.0
+  Ba  Ba6  1  1.37430482  0.37430482  0.12569518  1.0
+  Ba  Ba7  1  1.12569518  0.12569518  0.37430482  1.0
+  Si  Si8  1  0.65987051  -0.65987051  0.65987051  1.0
+  Si  Si9  1  0.34012949  -0.34012949  1.34012949  1.0
+  Si  Si10  1  0.59012949  0.90987051  -0.40987051  1.0
+  Si  Si11  1  0.90987051  0.59012949  0.90987051  1.0
+  Si  Si12  1  0.33771115  1.65648983  -0.17809594  1.0
+  Si  Si13  1  0.18389496  -0.17809594  1.65648983  1.0
+  Si  Si14  1  -0.17809594  0.18389496  0.33771115  1.0
+  Si  Si15  1  1.65648983  0.33771115  0.18389496  1.0
+  Si  Si16  1  0.91228885  0.59351017  0.42809594  1.0
+  Si  Si17  1  1.06610504  0.42809594  0.59351017  1.0
+  Si  Si18  1  0.42809594  1.06610504  0.91228885  1.0
+  Si  Si19  1  0.59351017  0.91228885  1.06610504  1.0
+  Ag  Ag20  1  0.83296885  -0.83296885  0.83296885  1.0
+  Ag  Ag21  1  0.16703115  -0.16703115  1.16703115  1.0
+  Ag  Ag22  1  1.41703115  0.08296885  0.41703115  1.0
+  Ag  Ag23  1  0.08296885  1.41703115  0.08296885  1.0

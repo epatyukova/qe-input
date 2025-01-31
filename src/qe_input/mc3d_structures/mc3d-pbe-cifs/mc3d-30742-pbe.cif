@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Cu5(AsO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.32991058
+_cell_length_b   5.26214168
+_cell_length_c   6.41270583
+_cell_angle_alpha   95.22720715
+_cell_angle_beta   100.37857629
+_cell_angle_gamma   94.54456404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu5(AsO5)2
+_chemical_formula_sum   'Cu5 As2 O10'
+_cell_volume   208.23174384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000000  0.00000000  0.00000000  1.0
+  Cu  Cu1  1  -0.33632114  -0.85346734  -0.77637006  1.0
+  Cu  Cu2  1  -0.66367886  -0.14653266  -0.22362994  1.0
+  Cu  Cu3  1  -0.87823401  -0.74645314  -0.44916554  1.0
+  Cu  Cu4  1  -0.12176599  -0.25354686  -0.55083446  1.0
+  O  O5  1  -0.56663757  -0.81285068  -0.33720992  1.0
+  O  O6  1  -0.43336243  -0.18714932  -0.66279008  1.0
+  O  O7  1  -0.60642392  -0.70772045  -0.85225365  1.0
+  O  O8  1  -0.39357608  -0.29227955  -0.14774635  1.0
+  O  O9  1  -0.81454922  -0.42082323  -0.56462298  1.0
+  O  O10  1  -0.18545078  -0.57917677  -0.43537702  1.0
+  O  O11  1  -0.81328517  -0.28183684  -0.98968188  1.0
+  O  O12  1  -0.18671483  -0.71816316  -0.01031812  1.0
+  O  O13  1  -0.05664399  -0.98067641  -0.71479439  1.0
+  O  O14  1  -0.94335601  -0.01932359  -0.28520561  1.0
+  As  As15  1  -0.66024010  -0.40160270  -0.76777771  1.0
+  As  As16  1  -0.33975990  -0.59839730  -0.23222229  1.0

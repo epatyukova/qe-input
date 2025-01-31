@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Cr(Te2Rh)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74105646
+_cell_length_b   6.74105646
+_cell_length_c   6.95221205
+_cell_angle_alpha   60.61010479
+_cell_angle_beta   119.38989521
+_cell_angle_gamma   145.42691695
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(Te2Rh)2
+_chemical_formula_sum   'Cr1 Te4 Rh2'
+_cell_volume   153.78125118
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.00000000  0.00000000  0.00000000  1.0
+  Te  Te1  1  0.62742006  0.37257994  0.96792107  1.0
+  Te  Te2  1  0.37257994  -0.37257994  0.03207893  1.0
+  Te  Te3  1  0.88324685  0.11675315  0.55151823  1.0
+  Te  Te4  1  0.11675315  -0.11675315  0.44848177  1.0
+  Rh  Rh5  1  0.73996895  0.26003105  0.72459647  1.0
+  Rh  Rh6  1  0.26003105  -0.26003105  0.27540353  1.0

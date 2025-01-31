@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Nb3SBr7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.18356102
+_cell_length_b   7.18356102
+_cell_length_c   6.92415948
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3SBr7
+_chemical_formula_sum   'Nb3 S1 Br7'
+_cell_volume   309.44057841
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.73058925  0.86529462  0.27463504  1.0
+  Nb  Nb1  1  0.13470538  0.86529462  0.27463504  1.0
+  Nb  Nb2  1  0.13470538  0.26941075  0.27463504  1.0
+  S  S3  1  0.00000000  0.00000000  0.02538127  1.0
+  Br  Br4  1  0.99729191  0.49864595  0.06732653  1.0
+  Br  Br5  1  0.50135405  0.49864595  0.06732653  1.0
+  Br  Br6  1  0.50135405  0.00270809  0.06732653  1.0
+  Br  Br7  1  0.33495684  0.16747842  0.52151830  1.0
+  Br  Br8  1  0.83252158  0.16747842  0.52151830  1.0
+  Br  Br9  1  0.83252158  0.66504316  0.52151830  1.0
+  Br  Br10  1  0.33333333  0.66666667  0.47617916  1.0

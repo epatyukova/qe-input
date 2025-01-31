@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_ZnS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   15.91601572
+_cell_length_b   15.91601572
+_cell_length_c   15.91601572
+_cell_angle_alpha   13.88420228
+_cell_angle_beta   13.88420228
+_cell_angle_gamma   13.88420228
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnS
+_chemical_formula_sum   'Zn5 S5'
+_cell_volume   202.03782910
+_cell_formula_units_Z   5
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.00007213  0.00007213  0.00007213  1.0
+  Zn  Zn1  1  0.73336144  -0.26663856  -0.26663856  1.0
+  Zn  Zn2  1  0.46664534  0.46664534  -0.53335466  1.0
+  Zn  Zn3  1  0.86668923  -0.13331077  -0.13331077  1.0
+  Zn  Zn4  1  0.60003351  0.60003351  -0.39996649  1.0
+  S  S5  1  0.05004208  0.05004208  0.05004208  1.0
+  S  S6  1  0.78324399  -0.21675601  -0.21675601  1.0
+  S  S7  1  0.51662010  0.51662010  -0.48337990  1.0
+  S  S8  1  0.91664001  -0.08335999  -0.08335999  1.0
+  S  S9  1  0.64999216  0.64999216  -0.35000784  1.0

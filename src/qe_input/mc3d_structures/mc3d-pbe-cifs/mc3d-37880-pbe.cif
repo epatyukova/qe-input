@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba2NaCu3S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.77198227
+_cell_length_b   8.77198227
+_cell_length_c   10.42859876
+_cell_angle_alpha   81.95537504
+_cell_angle_beta   98.04462496
+_cell_angle_gamma   142.98437967
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2NaCu3S5
+_chemical_formula_sum   'Ba4 Na2 Cu6 S10'
+_cell_volume   477.81529905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.95800429  0.04199571  0.28883546  1.0
+  Ba  Ba1  1  0.04199571  -0.04199571  0.71116454  1.0
+  Ba  Ba2  1  0.73755935  0.26244065  0.69975228  1.0
+  Ba  Ba3  1  0.26244065  -0.26244065  0.30024772  1.0
+  Na  Na4  1  0.39426593  -0.39426593  0.76590427  1.0
+  Na  Na5  1  0.60573407  0.39426593  0.23409573  1.0
+  Cu  Cu6  1  0.42766456  0.08879324  0.99045365  1.0
+  Cu  Cu7  1  0.91120676  0.57233544  0.99045365  1.0
+  Cu  Cu8  1  1.08879324  0.42766456  0.00954635  1.0
+  Cu  Cu9  1  0.57233544  -0.08879324  0.00954635  1.0
+  Cu  Cu10  1  0.73430388  0.73430388  0.00000000  1.0
+  Cu  Cu11  1  0.26569612  0.26569612  0.00000000  1.0
+  S  S12  1  0.68527008  -0.06681298  0.53001210  1.0
+  S  S13  1  1.06681298  0.31472992  0.53001210  1.0
+  S  S14  1  0.93318702  0.68527008  0.46998790  1.0
+  S  S15  1  0.31472992  0.06681298  0.46998790  1.0
+  S  S16  1  0.90278001  0.09721999  0.88192824  1.0
+  S  S17  1  0.09721999  -0.09721999  0.11807176  1.0
+  S  S18  1  0.57045406  0.42954594  0.85344629  1.0
+  S  S19  1  0.42954594  -0.42954594  0.14655371  1.0
+  S  S20  1  0.23875646  -0.23875646  0.85511271  1.0
+  S  S21  1  0.76124354  0.23875646  0.14488729  1.0

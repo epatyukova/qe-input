@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbGeRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08117381
+_cell_length_b   4.45101256
+_cell_length_c   7.18619881
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbGeRu
+_chemical_formula_sum   'Tb4 Ge4 Ru4'
+_cell_volume   226.49744240
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.01539189  0.75000000  0.69107030  1.0
+  Tb  Tb1  1  0.51539189  0.75000000  0.80892970  1.0
+  Tb  Tb2  1  0.98460811  0.25000000  0.30892970  1.0
+  Tb  Tb3  1  0.48460811  0.25000000  0.19107030  1.0
+  Ge  Ge4  1  0.70184096  0.75000000  0.39298837  1.0
+  Ge  Ge5  1  0.20184096  0.75000000  0.10701163  1.0
+  Ge  Ge6  1  0.29815904  0.25000000  0.60701163  1.0
+  Ge  Ge7  1  0.79815904  0.25000000  0.89298837  1.0
+  Ru  Ru8  1  0.84692307  0.75000000  0.06335955  1.0
+  Ru  Ru9  1  0.34692307  0.75000000  0.43664045  1.0
+  Ru  Ru10  1  0.15307693  0.25000000  0.93664045  1.0
+  Ru  Ru11  1  0.65307693  0.25000000  0.56335955  1.0

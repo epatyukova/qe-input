@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_La4CdNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.05357366
+_cell_length_b   10.05357366
+_cell_length_c   10.05357366
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4CdNi
+_chemical_formula_sum   'La16 Cd4 Ni4'
+_cell_volume   718.53246331
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  -0.34700746  0.65299254  0.65299254  1.0
+  La  La1  1  1.04102237  0.65299254  -0.34700746  1.0
+  La  La2  1  -0.34700746  0.65299254  1.04102237  1.0
+  La  La3  1  0.65299254  1.04102237  -0.34700746  1.0
+  La  La4  1  0.06217687  0.43782313  0.43782313  1.0
+  La  La5  1  0.43782313  0.43782313  0.06217687  1.0
+  La  La6  1  0.43782313  0.06217687  0.43782313  1.0
+  La  La7  1  0.06217687  0.06217687  0.43782313  1.0
+  La  La8  1  0.06217687  0.43782313  0.06217687  1.0
+  La  La9  1  0.43782313  0.06217687  0.06217687  1.0
+  La  La10  1  -0.80756581  0.80756581  0.80756581  1.0
+  La  La11  1  -0.19243419  0.80756581  0.19243419  1.0
+  La  La12  1  -0.19243419  0.19243419  0.80756581  1.0
+  La  La13  1  0.19243419  1.19243419  -0.19243419  1.0
+  La  La14  1  0.19243419  -0.19243419  0.19243419  1.0
+  La  La15  1  -0.19243419  0.19243419  0.19243419  1.0
+  Cd  Cd16  1  0.42115141  1.42115141  0.42115141  1.0
+  Cd  Cd17  1  -0.26345422  0.42115141  0.42115141  1.0
+  Cd  Cd18  1  0.42115141  1.42115141  -0.26345422  1.0
+  Cd  Cd19  1  0.42115141  -0.26345422  0.42115141  1.0
+  Ni  Ni20  1  0.85805744  0.85805744  -0.14194256  1.0
+  Ni  Ni21  1  0.42582768  0.85805744  -0.14194256  1.0
+  Ni  Ni22  1  0.85805744  0.85805744  -0.57417232  1.0
+  Ni  Ni23  1  0.85805744  0.42582768  -0.14194256  1.0

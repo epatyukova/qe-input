@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiCa2InGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26831228
+_cell_length_b   4.45387253
+_cell_length_c   16.92694528
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2InGe2
+_chemical_formula_sum   'Li4 Ca8 In4 Ge8'
+_cell_volume   547.96138136
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.98806898  0.75000000  0.56743694  1.0
+  Li  Li1  1  0.48806898  0.75000000  0.93256306  1.0
+  Li  Li2  1  0.01193102  0.25000000  0.43256306  1.0
+  Li  Li3  1  0.51193102  0.25000000  0.06743694  1.0
+  Ca  Ca4  1  0.98879005  0.75000000  0.27976138  1.0
+  Ca  Ca5  1  0.48879005  0.75000000  0.22023862  1.0
+  Ca  Ca6  1  0.01120995  0.25000000  0.72023862  1.0
+  Ca  Ca7  1  0.51120995  0.25000000  0.77976138  1.0
+  Ca  Ca8  1  0.84316679  0.75000000  0.06269447  1.0
+  Ca  Ca9  1  0.34316679  0.75000000  0.43730553  1.0
+  Ca  Ca10  1  0.15683321  0.25000000  0.93730553  1.0
+  Ca  Ca11  1  0.65683321  0.25000000  0.56269447  1.0
+  In  In12  1  0.84184955  0.75000000  0.84713854  1.0
+  In  In13  1  0.34184955  0.75000000  0.65286146  1.0
+  In  In14  1  0.15815045  0.25000000  0.15286146  1.0
+  In  In15  1  0.65815045  0.25000000  0.34713854  1.0
+  Ge  Ge16  1  0.77273497  0.75000000  0.43793889  1.0
+  Ge  Ge17  1  0.27273497  0.75000000  0.06206111  1.0
+  Ge  Ge18  1  0.22726503  0.25000000  0.56206111  1.0
+  Ge  Ge19  1  0.72726503  0.25000000  0.93793889  1.0
+  Ge  Ge20  1  0.72621858  0.75000000  0.68560376  1.0
+  Ge  Ge21  1  0.22621858  0.75000000  0.81439624  1.0
+  Ge  Ge22  1  0.27378142  0.25000000  0.31439624  1.0
+  Ge  Ge23  1  0.77378142  0.25000000  0.18560376  1.0

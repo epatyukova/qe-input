@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Fe4CoSiB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43878421
+_cell_length_b   6.43878421
+_cell_length_c   6.43878421
+_cell_angle_alpha   129.85047605
+_cell_angle_beta   129.85047605
+_cell_angle_gamma   73.64591657
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4CoSiB2
+_chemical_formula_sum   'Fe8 Co2 Si2 B4'
+_cell_volume   153.51510640
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.52852042  1.02852042  0.83127556  1.0
+  Fe  Fe1  1  1.19724487  0.69724487  1.16872444  1.0
+  Fe  Fe2  1  1.02852042  1.19724487  1.50000000  1.0
+  Fe  Fe3  1  0.69724487  0.52852042  0.50000000  1.0
+  Fe  Fe4  1  0.47147958  0.97147958  1.16872444  1.0
+  Fe  Fe5  1  0.80275513  0.30275513  0.83127556  1.0
+  Fe  Fe6  1  0.97147958  0.80275513  1.50000000  1.0
+  Fe  Fe7  1  0.30275513  0.47147958  0.50000000  1.0
+  Co  Co8  1  0.50000000  0.50000000  1.00000000  1.0
+  Co  Co9  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si10  1  0.25000000  0.25000000  -0.00000000  1.0
+  Si  Si11  1  0.75000000  0.75000000  1.00000000  1.0
+  B  B12  1  0.87770092  0.37770092  1.25540184  1.0
+  B  B13  1  0.12229908  0.62229908  0.74459816  1.0
+  B  B14  1  0.37770092  0.12229908  0.50000000  1.0
+  B  B15  1  0.62229908  0.87770092  1.50000000  1.0

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiEu2Ge3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.87664305
+_cell_length_b   11.52377541
+_cell_length_c   4.44744136
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiEu2Ge3
+_chemical_formula_sum   'Li4 Eu8 Ge12'
+_cell_volume   557.44226362
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.86155663  0.78290463  0.50000000  1.0
+  Li  Li1  1  0.36155663  0.71709537  0.00000000  1.0
+  Li  Li2  1  0.13844337  0.21709537  0.50000000  1.0
+  Li  Li3  1  0.63844337  0.28290463  0.00000000  1.0
+  Eu  Eu4  1  0.44844052  0.14817097  0.50000000  1.0
+  Eu  Eu5  1  0.94844052  0.35182903  0.00000000  1.0
+  Eu  Eu6  1  0.55155948  0.85182903  0.50000000  1.0
+  Eu  Eu7  1  0.05155948  0.64817097  0.00000000  1.0
+  Eu  Eu8  1  0.17815352  0.93103660  0.50000000  1.0
+  Eu  Eu9  1  0.67815352  0.56896340  0.00000000  1.0
+  Eu  Eu10  1  0.82184648  0.06896340  0.50000000  1.0
+  Eu  Eu11  1  0.32184648  0.43103660  0.00000000  1.0
+  Ge  Ge12  1  0.47388657  0.60447727  0.50000000  1.0
+  Ge  Ge13  1  0.97388657  0.89552273  0.00000000  1.0
+  Ge  Ge14  1  0.52611343  0.39552273  0.50000000  1.0
+  Ge  Ge15  1  0.02611343  0.10447727  0.00000000  1.0
+  Ge  Ge16  1  0.24495703  0.64421403  0.50000000  1.0
+  Ge  Ge17  1  0.74495703  0.85578597  0.00000000  1.0
+  Ge  Ge18  1  0.75504297  0.35578597  0.50000000  1.0
+  Ge  Ge19  1  0.25504297  0.14421403  0.00000000  1.0
+  Ge  Ge20  1  0.88781242  0.54496213  0.50000000  1.0
+  Ge  Ge21  1  0.38781242  0.95503787  0.00000000  1.0
+  Ge  Ge22  1  0.11218758  0.45503787  0.50000000  1.0
+  Ge  Ge23  1  0.61218758  0.04496213  0.00000000  1.0

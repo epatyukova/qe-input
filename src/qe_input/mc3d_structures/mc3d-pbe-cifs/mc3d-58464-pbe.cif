@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Ba3TaFe3(SiO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.69292742
+_cell_length_b   8.69292742
+_cell_length_c   5.27589956
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba3TaFe3(SiO7)2
+_chemical_formula_sum   'Ba3 Ta1 Fe3 Si2 O14'
+_cell_volume   345.27032873
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.42869409  0.42869409  0.00000000  1.0
+  Ba  Ba1  1  0.00000000  0.57130591  0.00000000  1.0
+  Ba  Ba2  1  0.57130591  0.00000000  0.00000000  1.0
+  Ta  Ta3  1  0.00000000  0.00000000  0.00000000  1.0
+  Si  Si4  1  0.33333333  0.66666667  0.52240315  1.0
+  Si  Si5  1  0.66666667  0.33333333  0.47759685  1.0
+  O  O6  1  0.33333333  0.66666667  0.21687600  1.0
+  O  O7  1  0.66666667  0.33333333  0.78312400  1.0
+  O  O8  1  0.10569487  0.89001657  0.22245217  1.0
+  O  O9  1  0.89001657  0.10569487  0.77754783  1.0
+  O  O10  1  0.78432170  0.89430513  0.22245217  1.0
+  O  O11  1  0.10998343  0.21567830  0.22245217  1.0
+  O  O12  1  0.89430513  0.78432170  0.77754783  1.0
+  O  O13  1  0.21567830  0.10998343  0.77754783  1.0
+  O  O14  1  0.69847966  0.52290399  0.35138912  1.0
+  O  O15  1  0.52290399  0.69847966  0.64861088  1.0
+  O  O16  1  0.82442433  0.30152034  0.35138912  1.0
+  O  O17  1  0.47709601  0.17557567  0.35138912  1.0
+  O  O18  1  0.30152034  0.82442433  0.64861088  1.0
+  O  O19  1  0.17557567  0.47709601  0.64861088  1.0
+  Fe  Fe20  1  0.74460954  0.74460954  0.50000000  1.0
+  Fe  Fe21  1  0.00000000  0.25539046  0.50000000  1.0
+  Fe  Fe22  1  0.25539046  0.00000000  0.50000000  1.0

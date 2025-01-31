@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82993932
+_cell_length_b   3.70955515
+_cell_length_c   9.02565182
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfAs2
+_chemical_formula_sum   'Hf4 As8'
+_cell_volume   228.67424461
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.77165368  0.75000000  0.33763707  1.0
+  Hf  Hf1  1  0.27165368  0.75000000  0.16236293  1.0
+  Hf  Hf2  1  0.22834632  0.25000000  0.66236293  1.0
+  Hf  Hf3  1  0.72834632  0.25000000  0.83763707  1.0
+  As  As4  1  0.91968413  0.75000000  0.64667808  1.0
+  As  As5  1  0.41968413  0.75000000  0.85332192  1.0
+  As  As6  1  0.08031587  0.25000000  0.35332192  1.0
+  As  As7  1  0.58031587  0.25000000  0.14667808  1.0
+  As  As8  1  0.87980729  0.75000000  0.04245697  1.0
+  As  As9  1  0.37980729  0.75000000  0.45754303  1.0
+  As  As10  1  0.12019271  0.25000000  0.95754303  1.0
+  As  As11  1  0.62019271  0.25000000  0.54245697  1.0

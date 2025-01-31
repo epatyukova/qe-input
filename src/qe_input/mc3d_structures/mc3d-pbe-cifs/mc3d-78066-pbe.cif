@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_BaMg(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35694212
+_cell_length_b   6.35694212
+_cell_length_c   6.35694212
+_cell_angle_alpha   47.09597408
+_cell_angle_beta   47.09597408
+_cell_angle_gamma   47.09597408
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMg(CO3)2
+_chemical_formula_sum   'Ba1 Mg1 C2 O6'
+_cell_volume   126.02113012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.00000000  1.0
+  Mg  Mg1  1  1.50000000  0.50000000  0.50000000  1.0
+  C  C2  1  0.75987597  0.75987597  0.75987597  1.0
+  C  C3  1  1.24012403  1.24012403  0.24012403  1.0
+  O  O4  1  1.38937854  1.38937854  -0.05159990  1.0
+  O  O5  1  1.38937854  0.94840010  0.38937854  1.0
+  O  O6  1  1.05159990  0.61062146  0.61062146  1.0
+  O  O7  1  1.61062146  0.05159990  0.61062146  1.0
+  O  O8  1  1.61062146  0.61062146  0.05159990  1.0
+  O  O9  1  0.94840010  1.38937854  0.38937854  1.0

@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_SrN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.08901215
+_cell_length_b   8.08901215
+_cell_length_c   8.08901215
+_cell_angle_alpha   146.14105923
+_cell_angle_beta   146.14105923
+_cell_angle_gamma   48.63729022
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrN2
+_chemical_formula_sum   'Sr2 N4'
+_cell_volume   163.59082075
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  1.25000000  0.75000000  0.50000000  1.0
+  Sr  Sr1  1  0.50000000  0.50000000  1.00000000  1.0
+  N  N2  1  1.32085267  1.32085267  1.00000000  1.0
+  N  N3  1  0.07085267  0.57085267  0.50000000  1.0
+  N  N4  1  1.42914733  0.92914733  0.50000000  1.0
+  N  N5  1  0.67914733  0.67914733  -0.00000000  1.0

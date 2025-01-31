@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_LuAlO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.38619229
+_cell_length_b   7.39430227
+_cell_length_c   5.14742682
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuAlO3
+_chemical_formula_sum   'Lu4 Al4 O12'
+_cell_volume   205.00725697
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.06306382  0.75000000  0.51640189  1.0
+  Lu  Lu1  1  0.56306382  0.75000000  0.98359811  1.0
+  Lu  Lu2  1  0.93693618  0.25000000  0.48359811  1.0
+  Lu  Lu3  1  0.43693618  0.25000000  0.01640189  1.0
+  Al  Al4  1  0.50000000  0.00000000  0.50000000  1.0
+  Al  Al5  1  0.50000000  0.50000000  0.50000000  1.0
+  Al  Al6  1  0.00000000  0.00000000  0.00000000  1.0
+  Al  Al7  1  0.00000000  0.50000000  0.00000000  1.0
+  O  O8  1  0.96973751  0.75000000  0.09862409  1.0
+  O  O9  1  0.46973751  0.75000000  0.40137591  1.0
+  O  O10  1  0.03026249  0.25000000  0.90137591  1.0
+  O  O11  1  0.53026249  0.25000000  0.59862409  1.0
+  O  O12  1  0.29936581  0.94881636  0.80069713  1.0
+  O  O13  1  0.29936581  0.55118364  0.80069713  1.0
+  O  O14  1  0.79936581  0.94881636  0.69930287  1.0
+  O  O15  1  0.79936581  0.55118364  0.69930287  1.0
+  O  O16  1  0.70063419  0.44881636  0.19930287  1.0
+  O  O17  1  0.70063419  0.05118364  0.19930287  1.0
+  O  O18  1  0.20063419  0.44881636  0.30069713  1.0
+  O  O19  1  0.20063419  0.05118364  0.30069713  1.0

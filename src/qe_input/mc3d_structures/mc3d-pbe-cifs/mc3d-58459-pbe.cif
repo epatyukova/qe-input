@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfFeSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.34790777
+_cell_length_b   3.97889087
+_cell_length_c   6.93047620
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfFeSi
+_chemical_formula_sum   'Hf4 Fe4 Si4'
+_cell_volume   175.04741914
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  1.00647400  0.75000000  0.69787761  1.0
+  Hf  Hf1  1  0.50647400  0.75000000  0.80212239  1.0
+  Hf  Hf2  1  -0.00647400  0.25000000  0.30212239  1.0
+  Hf  Hf3  1  0.49352600  0.25000000  0.19787761  1.0
+  Fe  Fe4  1  0.84293337  0.75000000  0.06159318  1.0
+  Fe  Fe5  1  0.34293337  0.75000000  0.43840682  1.0
+  Fe  Fe6  1  0.15706663  0.25000000  0.93840682  1.0
+  Fe  Fe7  1  0.65706663  0.25000000  0.56159318  1.0
+  Si  Si8  1  0.70938191  0.75000000  0.39261097  1.0
+  Si  Si9  1  0.20938191  0.75000000  0.10738903  1.0
+  Si  Si10  1  0.29061809  0.25000000  0.60738903  1.0
+  Si  Si11  1  0.79061809  0.25000000  0.89261097  1.0

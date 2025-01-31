@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Lu2CBr2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.62301509
+_cell_length_b   10.62301509
+_cell_length_c   10.62301509
+_cell_angle_alpha   19.88855426
+_cell_angle_beta   19.88855426
+_cell_angle_gamma   19.88855426
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2CBr2
+_chemical_formula_sum   'Lu2 C1 Br2'
+_cell_volume   121.35546344
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  1.62559341  0.62559341  0.62559341  1.0
+  Lu  Lu1  1  1.37440659  0.37440659  0.37440659  1.0
+  C  C2  1  0.00000000  0.00000000  -0.00000000  1.0
+  Br  Br3  1  0.76913477  0.76913477  0.76913478  1.0
+  Br  Br4  1  1.23086522  1.23086522  0.23086523  1.0

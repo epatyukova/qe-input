@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiNi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.06512306
+_cell_length_b   4.79352086
+_cell_length_c   2.94145860
+_cell_angle_alpha   102.82882097
+_cell_angle_beta   90.00231910
+_cell_angle_gamma   89.98933505
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNi
+_chemical_formula_sum   'Ti6 Ni6'
+_cell_volume   165.87103604
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  -0.58334370  -0.71542918  -0.88296537  1.0
+  Ti  Ti1  1  -0.91667672  -0.71542664  -0.88296492  1.0
+  Ti  Ti2  1  -0.25001014  -0.71545572  0.11706238  1.0
+  Ti  Ti3  1  -0.74998986  -0.28454428  -0.11706238  1.0
+  Ti  Ti4  1  -0.08332328  -0.28457336  -0.11703508  1.0
+  Ti  Ti5  1  -0.41665630  -0.28457082  -0.11703463  1.0
+  Ni  Ni6  1  -0.58333769  -0.17107601  -0.56688547  1.0
+  Ni  Ni7  1  -0.91666877  -0.17107757  -0.56688490  1.0
+  Ni  Ni8  1  -0.74999600  -0.82888945  -0.43314127  1.0
+  Ni  Ni9  1  -0.25000400  -0.17111055  -0.56685873  1.0
+  Ni  Ni10  1  -0.08333123  -0.82892243  -0.43311510  1.0
+  Ni  Ni11  1  -0.41666231  -0.82892399  -0.43311453  1.0

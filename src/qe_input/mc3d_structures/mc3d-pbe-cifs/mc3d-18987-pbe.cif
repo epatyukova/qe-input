@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_Cd(AsO4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.26814122
+_cell_length_b   6.35196591
+_cell_length_c   8.94988968
+_cell_angle_alpha   88.84620671
+_cell_angle_beta   115.60062419
+_cell_angle_gamma   79.81899775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cd(AsO4)4
+_chemical_formula_sum   'Cd1 As4 O16'
+_cell_volume   314.42208671
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  As  As0  1  -0.53963941  -1.00469640  -0.76450730  1.0
+  As  As1  1  -0.46036059  0.00469640  -0.23549270  1.0
+  As  As2  1  -1.04808885  -0.60658537  -0.27286720  1.0
+  As  As3  1  0.04808885  -0.39341463  -0.72713280  1.0
+  Cd  Cd4  1  -0.50000000  -0.50000000  -0.00000000  1.0
+  O  O5  1  -0.65043982  -0.92941366  -0.62067035  1.0
+  O  O6  1  -0.34956018  -0.07058634  -0.37932965  1.0
+  O  O7  1  -0.64645815  -0.45700063  -0.68280652  1.0
+  O  O8  1  -0.35354185  -0.54299937  -0.31719348  1.0
+  O  O9  1  -1.05563670  -0.64462374  -0.47345453  1.0
+  O  O10  1  0.05563670  -0.35537626  -0.52654547  1.0
+  O  O11  1  -0.92156361  -0.87303667  -0.16080249  1.0
+  O  O12  1  -0.07843639  -0.12696333  -0.83919751  1.0
+  O  O13  1  -0.21869673  -1.04218891  -0.65704024  1.0
+  O  O14  1  -0.78130327  0.04218891  -0.34295976  1.0
+  O  O15  1  -0.63783932  -0.22662274  -0.86426615  1.0
+  O  O16  1  -0.36216068  -0.77337726  -0.13573385  1.0
+  O  O17  1  -0.11587999  -0.57800142  -0.82416547  1.0
+  O  O18  1  -0.88412001  -0.42199858  -0.17583453  1.0
+  O  O19  1  -0.63845443  -0.78977500  -0.92002429  1.0
+  O  O20  1  -0.36154557  -0.21022500  -0.07997571  1.0

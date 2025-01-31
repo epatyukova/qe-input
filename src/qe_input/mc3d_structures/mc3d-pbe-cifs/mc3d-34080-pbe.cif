@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca2GeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.72489132
+_cell_length_b   5.72489132
+_cell_length_c   7.60533198
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2GeO4
+_chemical_formula_sum   'Ca4 Ge2 O8'
+_cell_volume   215.86553115
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.33333333  0.66666667  0.17735038  1.0
+  Ca  Ca1  1  0.66666667  0.33333333  0.67735038  1.0
+  Ca  Ca2  1  0.00000000  -0.00000000  -0.05342162  1.0
+  Ca  Ca3  1  -0.00000000  -0.00000000  0.44657838  1.0
+  Ge  Ge4  1  0.33333333  0.66666667  0.66549481  1.0
+  Ge  Ge5  1  0.66666667  0.33333333  0.16549481  1.0
+  O  O6  1  0.32294012  0.16147006  0.22449404  1.0
+  O  O7  1  0.16147006  0.32294012  0.72449404  1.0
+  O  O8  1  0.16147006  0.83852994  0.72449404  1.0
+  O  O9  1  0.83852994  0.16147006  0.22449404  1.0
+  O  O10  1  0.83852994  0.67705988  0.22449404  1.0
+  O  O11  1  0.67705988  0.83852994  0.72449404  1.0
+  O  O12  1  0.33333333  0.66666667  0.43709430  1.0
+  O  O13  1  0.66666667  0.33333333  0.93709430  1.0

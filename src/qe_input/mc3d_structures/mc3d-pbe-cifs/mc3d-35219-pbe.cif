@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_AlBMo
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20028166
+_cell_length_b   7.20028166
+_cell_length_c   3.10805716
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   154.20072365
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlBMo
+_chemical_formula_sum   'Al2 B2 Mo2'
+_cell_volume   70.12882159
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.19843365  0.80156635  0.75000000  1.0
+  Al  Al1  1  -0.19843365  0.19843365  0.25000000  1.0
+  B  B2  1  0.03320912  0.96679088  0.75000000  1.0
+  B  B3  1  -0.03320912  0.03320912  0.25000000  1.0
+  Mo  Mo4  1  0.41082687  0.58917313  0.75000000  1.0
+  Mo  Mo5  1  -0.41082687  0.41082687  0.25000000  1.0
