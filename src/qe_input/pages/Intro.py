@@ -37,12 +37,17 @@ with col1:
                                 ('PBE','PBEsol'), 
                                 index=None, 
                                 placeholder='PBE')
-
-with col2:
+    
     mode_value = st.selectbox('pseudopotential flavour', 
                             ('efficiency','precision'), 
                             index=None, 
                             placeholder='efficiency')
+    
+with col2:
+    kspacing_model = st.selectbox('ML model to predict kspacing', 
+                            ('CGCNN'), 
+                            index=None, 
+                            placeholder='CGCNN')
 
 if functional_value:
     st.session_state['functional'] = functional_value
@@ -53,6 +58,11 @@ if mode_value:
     st.session_state['mode'] = mode_value
 else:
     st.session_state['mode'] = 'efficiency'
+
+if kspacing_model:
+    st.session_state['kspacing_model'] = kspacing_model
+else:
+    st.session_state['kspacing_model'] = 'CGCNN'
 
 
 # upload structure file into buffer
@@ -76,10 +86,32 @@ elif input_formula:
                                   )
     if structure_database=='Jarvis':
         try:
-            structure=jarvis_structure_lookup(formula)
-            st.info('Structure was found in Jarvis 3d_dft dataset')
-        except:
+            result=jarvis_structure_lookup(formula,id=False)
+            selected_row=st.data_editor(
+                            result,
+                            column_config={
+                                "select": st.column_config.CheckboxColumn(
+                                    "Which structure?",
+                                    help="Select your structure",
+                                    default=False,
+                                )
+                            },
+                            disabled=["formula",'energy','sg','natoms','abc','angles'],
+                            hide_index=True,
+                        )
+            if(len(selected_row.loc[selected_row['select']==True])==1):
+                x=selected_row.loc[selected_row['select']==True]['id'].values[0]
+            elif(len(selected_row.loc[selected_row['select']==True])==0):
+                st.info('Choose the structure!')
+            else:
+                st.info('You need to choose one structure!')
+            if x is not None:
+                structure=jarvis_structure_lookup(formula,id=x)
+
+        except Exception as exc:
             st.info('Structure was not found!')
+            st.info(exc)
+
     elif structure_database=='MP':
         mp_api_key = st.text_input("Materials Project API Key ([Get a MP API key](https://next-gen.materialsproject.org/api#api-key))", key="mp_api_key", type="password")
         if mp_api_key:
@@ -136,9 +168,11 @@ if structure:
     cutoffs=cutoff_limits('./src/qe_input/pseudo_cutoffs/', st.session_state['functional'],
                           st.session_state['mode'], composition)
     st.session_state['cutoffs']=cutoffs
-    kspacing=predict_kspacing(structure)
-    st.session_state['kspacing']=kspacing
 
+    if(st.session_state['kspacing_model']=='CGCNN'):
+        kspacing=predict_kspacing(structure)
+
+    st.session_state['kspacing']=kspacing
     st.session_state['all_info']=True
     
     next_step()
