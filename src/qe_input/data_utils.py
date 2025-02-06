@@ -12,21 +12,64 @@ import requests
 from bs4 import BeautifulSoup
 
 @st.cache_data
-def jarvis_structure_lookup(formula):
+def jarvis_structure_lookup(formula,id=False):
     df=pd.read_pickle('./src/qe_input/Jarvis.pkl')
     da=df.loc[df['formula']==formula]
     da.reset_index(inplace=True,drop=True)
-    lowest_energy_index=0
-    lowest_energy=da.iloc[0]['formation_energy_peratom']
-    if(len(da)>1):
-        for i in range(1,len(da)):
-            energy=da.iloc[i]['formation_energy_peratom']
-            if(energy<lowest_energy):
-                lowest_energy=energy
-                lowest_energy_index=i
-    atoms=da.iloc[lowest_energy_index]['atoms']
-    structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
-    return structure
+    
+    if not id:
+        formulas=[]
+        energy=[]
+        groups=[]
+        natoms=[]
+        abc=[]
+        angles=[]
+        jid=[]
+        for i in range(len(da)):
+            atoms=da['atoms'].values[i]
+            structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
+            groups.append(structure.get_space_group_info(symprec = 0.01, angle_tolerance = 5.0)[0])
+            structure=structure.get_reduced_structure()
+            ABC=[round(x,2) for x in structure.lattice.abc]
+            Angles=[round(x,1) for x in structure.lattice.angles]
+            natoms.append(structure.num_sites)
+            abc.append(ABC)
+            angles.append(Angles)
+            energy.append(da['formation_energy_peratom'].values[i])
+            formulas.append(structure.formula)
+            jid.append(da['jid'].values[i])
+
+        result=pd.DataFrame()
+        result['select']=np.zeros(len(formulas),dtype=bool)
+        result['formula']=formulas
+        result['energy']=energy
+        result['id']=jid
+        result['sg']=groups
+        result['natoms']=natoms
+        result['abc']=abc
+        result['angles']=angles
+        
+        result=result.sort_values(by=['energy'])
+        result.reset_index(drop=True, inplace=True)
+        return result
+    else:
+        dx=da.loc[da['jid']==id]
+        atoms=dx['atoms'].values[0]
+        structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
+        return structure
+
+
+    # lowest_energy_index=0
+    # lowest_energy=da.iloc[0]['formation_energy_peratom']
+    # if(len(da)>1):
+    #     for i in range(1,len(da)):
+    #         energy=da.iloc[i]['formation_energy_peratom']
+    #         if(energy<lowest_energy):
+    #             lowest_energy=energy
+    #             lowest_energy_index=i
+    # atoms=da.iloc[lowest_energy_index]['atoms']
+    # structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
+    # return structure
 
 @st.cache_data
 def mp_structure_lookup(formula, mp_api_key):

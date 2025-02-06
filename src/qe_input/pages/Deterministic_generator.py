@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from utils import generate_input_file
+from utils import generate_input_file, generate_kpoints_grid
 import shutil
 
 
@@ -32,7 +32,7 @@ if st.session_state['all_info']:
         st.write('Pseudo family used: ', st.session_state['pseudo_family'])
         st.write('energy cutoff (Ry): ', st.session_state['cutoffs']['max_ecutwfc'])
         st.write('density cutoff (Ry): ', st.session_state['cutoffs']['max_ecutrho'])
-        st.write('k spacing (1/A): ', st.session_state['kspacing'])
+        st.write('k points and offset: ', str(generate_kpoints_grid(st.session_state['structure'], st.session_state['kspacing'])))
 
         st.download_button(
                 label="Download the files",
