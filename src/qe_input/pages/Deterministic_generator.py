@@ -1,17 +1,8 @@
 import os
 import streamlit as st
-import pandas as pd
-from openai import OpenAI
-from pymatgen.core.structure import Structure
-from pymatgen.core.composition import Composition
-from pymatgen.io.cif import CifWriter
-from utils import list_of_pseudos, cutoff_limits, generate_input_file
-from data_utils import jarvis_structure_lookup, mp_structure_lookup, mc3d_structure_lookup, oqmd_strucutre_lookup
-from kspacing_model import predict_kspacing
-
+from utils import generate_input_file
 import shutil
-import json
-import time
+
 
 st.title("Generate QE input with a deterministic function")
 

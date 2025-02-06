@@ -1,12 +1,10 @@
 import os
 import streamlit as st
-import pandas as pd
 import shutil
-from openai import OpenAI
 from pymatgen.core.structure import Structure
 from pymatgen.core.composition import Composition
 from pymatgen.io.cif import CifWriter
-from utils import list_of_pseudos, cutoff_limits, generate_input_file
+from utils import list_of_pseudos, cutoff_limits
 from data_utils import jarvis_structure_lookup, mp_structure_lookup, mc3d_structure_lookup, oqmd_strucutre_lookup
 from kspacing_model import predict_kspacing
 
@@ -130,3 +128,14 @@ if structure:
     st.session_state['kspacing']=kspacing
 
     st.session_state['all_info']=True
+    
+    st.info('Next choose how to generate an input file:')
+    col3, col4 = st.columns(2)
+
+    with col3:
+        if st.button("Chatbot generator"):
+            st.switch_page("pages/Chatbot_generator.py")
+
+    with col4:
+        if st.button("Deterministic generator"):
+            st.switch_page("pages/Deterministic_generator.py")
