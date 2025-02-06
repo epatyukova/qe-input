@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.header("About this app")
+st.title("About this app")
 
 st.markdown("""
             This application is a product of the STFC **Goldilocks** project. The purpose if this 
@@ -82,6 +82,4 @@ st.markdown("""
 
             [10] *Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties*
             Tian Xie and Jeffrey C. Grossman, Phys. Rev. Lett., 2018, 120 (14), 145301.
-    
-
             """)
