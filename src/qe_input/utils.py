@@ -92,18 +92,19 @@ def generate_input_file(save_directory, structure_file, pseudo_path_temp, dict_p
         'calculation': 'scf',
         'restart_mode': 'from_scratch',
         'tprnfor': True,
+        'tstress': True,
         'etot_conv_thr': 1e-5,
         'forc_conv_thr': 1e-4,
+        'max_seconds': 3.42e3,
         'ecutwfc': int(max_ecutwfc),
         'ecutrho': int(max_ecutrho),
         'occupations': 'smearing',
-        'degauss': 0.0045,
-        'smearing': 'fermi-dirac',
-        'conv_thr': 1e-8,
+        'degauss': 0.01,
+        'smearing': 'cold',
+        'conv_thr': 1e-10,
+        'electron_maxstep': 80,
         'mixing_mode': 'plain',
-        'mixing_beta': 0.6,
-        'diagonalization': 'ppcg',
-        'startingwfc':'atomic+random'
+        'mixing_beta': 0.4
     }
     save_directory = Path(save_directory)
     filename = save_directory / 'qe.in'
