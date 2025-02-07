@@ -13,11 +13,11 @@ if 'all_info' not in st.session_state.keys():
 
 with st.sidebar:
     llm_name_value = st.selectbox('assistant LLM', 
-                        ("gpt-4o", "gpt-4o-mini", 'gpt-3.5-turbo', 'llama-3.3-70b-versatile'), 
+                        ('llama-3.3-70b-versatile','gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo'), 
                         index=None, 
-                        placeholder='gpt-4o-mini')
+                        placeholder='llama-3.3-70b-versatile')
 
-    if llm_name_value in ["gpt-4o", "gpt-4o-mini", 'gpt-3.5-turbo']:
+    if llm_name_value in ['gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo']:
         openai_api_key = st.text_input("OpenAI API Key ([Get an OpenAI API key](https://platform.openai.com/account/api-keys))", 
                                     key="openai_api_key", 
                                     type="password",

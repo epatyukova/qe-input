@@ -8,8 +8,8 @@ readme = st.Page("pages/README.py", title="Readme", icon="📄")
 
 pg = st.navigation(
         {
-            "Start here": [intro_page],
-            "Choose how to generate input": [chat_page, deterministic_page],
+            "1. Start here": [intro_page],
+            "2. Choose how to generate input": [chat_page, deterministic_page],
             "About the app": [readme]
         }
     )
