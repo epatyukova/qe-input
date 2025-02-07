@@ -48,6 +48,7 @@ with col2:
                             ('CGCNN'), 
                             index=None, 
                             placeholder='CGCNN')
+    
 
 if functional_value:
     st.session_state['functional'] = functional_value
@@ -107,6 +108,20 @@ elif input_formula:
                 st.info('You need to choose one structure!')
             if x is not None:
                 structure=jarvis_structure_lookup(formula,id=x)
+                unit_cell = st.selectbox('Transform unit cell', 
+                            ('leave as is','niggli reduced cell', 'primitive','supercell'), 
+                            index=None, 
+                            placeholder='leave as is')
+                if(unit_cell=='niggli reduced cell'):
+                    structure=structure.get_reduced_structure()
+                elif(unit_cell=='primitive'):
+                    structure=structure.get_primitive_structure()
+                elif(unit_cell=='supercell'):
+                    multi=st.text_input(label='multiplication factor in the format (na,nb,nc)',
+                                        placeholder='(2,2,2)')
+                    multi=tuple(multi[1:-1].split(','))
+                    structure.make_supercell(multi)
+                    st.info('Supercell is created')
 
         except Exception as exc:
             st.info('Structure was not found!')
@@ -126,14 +141,14 @@ elif input_formula:
             st.info('Structure was found in MC3D dataset')
         except Exception as exc:
             st.info('Structure was not found!')
-            # st.info(exc)
+            st.info(exc)
     elif structure_database=='OQMD':
         try:
             structure=oqmd_strucutre_lookup(formula)
             st.info('Structure was found in OQMD database')
         except Exception as exc:
             st.info('Structure was not found!')
-            # st.info(exc)
+            st.info(exc)
 elif structure_file:
     save_directory = "./src/qe_input/temp/"
     if os.path.exists(save_directory):

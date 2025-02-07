@@ -21,6 +21,7 @@ def jarvis_structure_lookup(formula,id=False):
         formulas=[]
         energy=[]
         groups=[]
+        groups_j=[]
         natoms=[]
         abc=[]
         angles=[]
@@ -29,6 +30,7 @@ def jarvis_structure_lookup(formula,id=False):
             atoms=da['atoms'].values[i]
             structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
             groups.append(structure.get_space_group_info(symprec = 0.01, angle_tolerance = 5.0)[0])
+            groups_j.append(da['spg_symbol'].values[i])
             structure=structure.get_reduced_structure()
             ABC=[round(x,2) for x in structure.lattice.abc]
             Angles=[round(x,1) for x in structure.lattice.angles]
@@ -42,14 +44,15 @@ def jarvis_structure_lookup(formula,id=False):
         result=pd.DataFrame()
         result['select']=np.zeros(len(formulas),dtype=bool)
         result['formula']=formulas
-        result['energy']=energy
-        result['id']=jid
+        result['form_energy_per_atom']=energy
         result['sg']=groups
+        result['sg_jarvis']=groups_j
         result['natoms']=natoms
         result['abc']=abc
         result['angles']=angles
+        result['id']=jid
         
-        result=result.sort_values(by=['energy'])
+        result=result.sort_values(by=['form_energy_per_atom'])
         result.reset_index(drop=True, inplace=True)
         return result
     else:
@@ -57,19 +60,6 @@ def jarvis_structure_lookup(formula,id=False):
         atoms=dx['atoms'].values[0]
         structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
         return structure
-
-
-    # lowest_energy_index=0
-    # lowest_energy=da.iloc[0]['formation_energy_peratom']
-    # if(len(da)>1):
-    #     for i in range(1,len(da)):
-    #         energy=da.iloc[i]['formation_energy_peratom']
-    #         if(energy<lowest_energy):
-    #             lowest_energy=energy
-    #             lowest_energy_index=i
-    # atoms=da.iloc[lowest_energy_index]['atoms']
-    # structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
-    # return structure
 
 @st.cache_data
 def mp_structure_lookup(formula, mp_api_key):
