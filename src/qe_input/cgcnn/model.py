@@ -81,7 +81,7 @@ class CrystalGraphConvNet(nn.Module):
     """
     def __init__(self, orig_atom_fea_len, nbr_fea_len,
                  atom_fea_len=64, n_conv=3, h_fea_len=128, n_h=1,
-                 classification=False):
+                 robust_regression=False,classification=False, quantile_regression=False):
         """
         Initialize CrystalGraphConvNet.
 
@@ -103,6 +103,8 @@ class CrystalGraphConvNet(nn.Module):
         """
         super(CrystalGraphConvNet, self).__init__()
         self.classification = classification
+        self.robust_regression=robust_regression
+        self.quantile_regression=quantile_regression
         self.embedding = nn.Linear(orig_atom_fea_len, atom_fea_len)
         self.convs = nn.ModuleList([ConvLayer(atom_fea_len=atom_fea_len,
                                     nbr_fea_len=nbr_fea_len)
@@ -116,6 +118,10 @@ class CrystalGraphConvNet(nn.Module):
                                              for _ in range(n_h-1)])
         if self.classification:
             self.fc_out = nn.Linear(h_fea_len, 2)
+        elif self.robust_regression:
+            self.fc_out = nn.Linear(h_fea_len, 2)
+        elif self.quantile_regression:
+            self.fc_out = nn.Linear(h_fea_len, 3)
         else:
             self.fc_out = nn.Linear(h_fea_len, 1)
         if self.classification:

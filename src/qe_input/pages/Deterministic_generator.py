@@ -2,6 +2,7 @@ import os
 import streamlit as st
 from utils import generate_input_file, generate_kpoints_grid
 import shutil
+from scipy import stats
 
 
 st.title("Generate QE input with a deterministic function")
@@ -33,6 +34,9 @@ if st.session_state['all_info']:
         st.write('energy cutoff (Ry): ', st.session_state['cutoffs']['max_ecutwfc'])
         st.write('density cutoff (Ry): ', st.session_state['cutoffs']['max_ecutrho'])
         st.write('k points and offset: ', str(generate_kpoints_grid(st.session_state['structure'], st.session_state['kspacing'])))
+        x1,x2=stats.norm.interval(0.9, loc=st.session_state['klength'], scale=st.session_state['klength_std'])
+        
+        st.write('k length: ', str(round(st.session_state['klength']))+'±'+str(round(st.session_state['klength']-x1)))
 
         st.download_button(
                 label="Download the files",
