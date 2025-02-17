@@ -185,9 +185,12 @@ if structure:
     st.session_state['cutoffs']=cutoffs
 
     if(st.session_state['kspacing_model']=='CGCNN'):
-        kspacing=predict_kspacing(structure)
-
+        klength, klength_std=predict_kspacing(structure)
+    
+    kspacing = round(1 / klength , 4)
     st.session_state['kspacing']=kspacing
+    st.session_state['klength']=klength
+    st.session_state['klength_std']=klength_std
     st.session_state['all_info']=True
     
     next_step()
