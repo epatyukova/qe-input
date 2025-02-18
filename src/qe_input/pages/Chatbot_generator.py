@@ -84,8 +84,12 @@ if (openai_api_key or groq_api_key) and st.session_state['all_info']:
                 message['content']=task
 
     for message in st.session_state.messages:
-        if(message["role"]=="user" or message["role"]=="assistant"):
-            st.markdown(message["content"])
+        if(message["role"]=="user"):
+            with st.chat_message("user"):
+                st.markdown(message["content"])
+        elif(message["role"]=="assistant"):
+            with st.chat_message("assistant"):
+                st.markdown(message["content"])
 
 
     if prompt := st.chat_input("Do you have any questions?"):
