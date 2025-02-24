@@ -17,3 +17,4 @@ mp-api
 requests
 bs4
 scipy
+google-generativeai

@@ -151,9 +151,33 @@ def generate_response(messages,client,llm_model):
     response = client.chat.completions.create(
         model=llm_model,  # Example model, change as needed
         messages=messages,
+        temperature=0,
         stream=True  # Enable streaming
     )
 
     for chunk in response:
         if chunk.choices and chunk.choices[0].delta.content:
             yield chunk.choices[0].delta.content
+
+
+def convert_openai_to_gemini(openai_prompt):
+    """Converts prompt in openai format to gemini format (no 'system' role)"""
+    gemini_prompt = []  # List of message objects
+
+    for message in openai_prompt:
+        role = message["role"]
+        content = message["content"]
+
+        # Convert OpenAI roles to Gemini-compatible ones
+        if role == "system":
+            role = "user"  # Gemini doesn't support "system", use first user message
+        elif role == "assistant":
+            role = "model"  # Gemini uses "model" instead of "assistant"
+
+        gemini_prompt.append({"role": role, "parts": [{"text": content}]})
+
+    return gemini_prompt
+
+def gemini_stream_to_streamlit(gemini_stream):
+    for chunk in gemini_stream:
+        yield chunk.candidates[0].content.parts[0].text

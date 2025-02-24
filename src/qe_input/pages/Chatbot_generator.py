@@ -1,19 +1,21 @@
 import streamlit as st
 from openai import OpenAI
 from groq import Groq
-from utils import atomic_positions_list, generate_kpoints_grid, generate_response
+import google.generativeai as genai
+from utils import atomic_positions_list, generate_kpoints_grid, generate_response, convert_openai_to_gemini, gemini_stream_to_streamlit
 
 st.title("Generate QE input with an LLM Agent")
 
 groq_api_key=None
 openai_api_key=None
+gemini_api_key=None
 
 if 'all_info' not in st.session_state.keys():
     st.session_state['all_info']=False
 
 with st.sidebar:
     llm_name_value = st.selectbox('assistant LLM', 
-                        ("gemma2-9b-it",'llama-3.3-70b-versatile','gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo'), 
+                        ('llama-3.3-70b-versatile','gemini-2.0-flash', 'gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo'), 
                         index=None, 
                         placeholder='llama-3.3-70b-versatile')
 
@@ -22,12 +24,21 @@ with st.sidebar:
                                     key="openai_api_key", 
                                     type="password",
                                     )
-    elif llm_name_value in ['llama-3.3-70b-versatile', "gemma2-9b-it"]:
+    elif llm_name_value in ['llama-3.3-70b-versatile']:
         groq_api_key = st.text_input("Groq API Key ([Get an Groq API key](https://console.groq.com/keys))", 
                                    key="groq_api_key", 
                                    type="password",
                                    )
-    if llm_name_value in ['llama-3.3-70b-versatile', "gemma2-9b-it"]:
+    elif llm_name_value in ['gemini-2.0-flash']:
+        gemini_api_key = st.text_input ("Gemini API Key ([Get Gemini API Key](https://aistudio.google.com/apikey))",
+                                        key="groq_api_key", 
+                                        type="password",
+                                        )
+    if llm_name_value in ['llama-3.3-70b-versatile']:
+        st.session_state['llm_name'] = llm_name_value
+    elif llm_name_value in ['gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo']:
+        st.session_state['llm_name'] = llm_name_value
+    elif llm_name_value in ['gemini-2.0-flash']:
         st.session_state['llm_name'] = llm_name_value
     else:
         st.session_state['llm_name'] = 'gpt-4o'
@@ -37,19 +48,26 @@ with st.sidebar:
             st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 
     if not groq_api_key:
-        if llm_name_value in ['llama-3.3-70b-versatile', "gemma2-9b-it"]:
+        if llm_name_value in ['llama-3.3-70b-versatile']:
             st.info("Please add your Groq API key to continue.", icon="🗝️")
+    
+    if not gemini_api_key:
+        if llm_name_value in ['gemini-2.0-flash']:
+            st.info("Please add your Gemini API key to continue.", icon="🗝️")
 
 if not (st.session_state['all_info']):
     st.info("Please provide all necessary material information on the Intro page")
 
 
-if (openai_api_key or groq_api_key) and st.session_state['all_info']:
+if (openai_api_key or groq_api_key or gemini_api_key) and st.session_state['all_info']:
     # Create an OpenAI client.
     if llm_name_value in ["gpt-4o", "gpt-4o-mini", 'gpt-3.5-turbo']:
         client = OpenAI(api_key=openai_api_key)
-    elif llm_name_value in ['llama-3.3-70b-versatile', "gemma2-9b-it"]:
+    elif llm_name_value in ['llama-3.3-70b-versatile']:
         client = Groq(api_key=groq_api_key)
+    elif llm_name_value in ['gemini-2.0-flash']:
+        genai.configure(api_key=gemini_api_key)
+        client = genai.GenerativeModel("gemini-2.0-flash")
 
     st.markdown('** Ask the agent to generate an input QE SCF file for the compound you uploaded**')
     # Create a session state variable to store the chat messages. This ensures that the
@@ -104,13 +122,20 @@ if (openai_api_key or groq_api_key) and st.session_state['all_info']:
             stream = client.chat.completions.create(
                 model=st.session_state['llm_name'],
                 messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
+                temperature=0,
                 stream=True,
             )
-        elif st.session_state['llm_name'] in ['llama-3.3-70b-versatile', "gemma2-9b-it"]:
+        elif st.session_state['llm_name'] in ['llama-3.3-70b-versatile']:
             stream = generate_response(messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
                                        client=client,
                                        llm_model=st.session_state['llm_name'])
-
+        elif st.session_state['llm_name'] in ['gemini-2.0-flash']:
+            gemini_prompt=convert_openai_to_gemini(st.session_state.messages)
+            stream=gemini_stream_to_streamlit(client.generate_content(gemini_prompt, 
+                                           generation_config={"temperature": 0},
+                                           stream=True))
+            # chunk.candidates[0].content.parts[0].text
+            
         # Stream the response to the chat using `st.write_stream`, then store it in 
         # session state.
         with st.chat_message("assistant"):

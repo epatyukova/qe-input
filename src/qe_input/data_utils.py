@@ -58,7 +58,7 @@ def jarvis_structure_lookup(formula,id=False):
     else:
         dx=da.loc[da['jid']==id]
         atoms=dx['atoms'].values[0]
-        structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'])
+        structure=Structure(lattice=atoms['lattice_mat'],species=atoms['elements'],coords=atoms['coords'],coords_are_cartesian=True)
         return structure
 
 @st.cache_data
