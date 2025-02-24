@@ -4,43 +4,82 @@ from groq import Groq
 import google.generativeai as genai
 from utils import atomic_positions_list, generate_kpoints_grid, generate_response, convert_openai_to_gemini, gemini_stream_to_streamlit
 
+# input_file_schema="Below is the QE input file for SCF calculations for NaCl. Can you generate the \
+#                     similar one for my compound for which I will give parameters? \
+#                     Check line by line that only material parameters are different. \
+#                     &CONTROL  # this should stay intact \
+#                     pseudo_dir       = './'  # this should stay intact \
+#                     calculation      = 'scf'  # this should stay intact \
+#                     restart_mode     = 'from_scratch'  # this should stay intact \
+#                     tprnfor          = .true.  # this should stay intact \
+#                     /  # this should stay intact \
+#                     &SYSTEM # this should stay intact \
+#                     ecutwfc          = 40 \n # put correct energy cutoff here \
+#                     ecutrho          = 320 \n # put correct density cutoff here   \
+#                     occupations      = 'smearing' \n# this should stay intact \
+#                     degauss          = 0.01 \n # you can change the number \
+#                     smearing         = 'cold' \n # choose correct smearing method \
+#                     ntyp             = 2 \n # put correct number of atoms types \
+#                     nat              = 2 \n # put correct number of atoms \
+#                     ibrav            = 0 \n # this should stay intact \
+#                     / \n # this should stay intact \
+#                     &ELECTRONS  \n # this should stay intact \
+#                     electron_maxstep = 80 \n # this should stay intact \
+#                     conv_thr         = 1e-10 \n # this should stay intact \
+#                     mixing_mode      = 'plain' \n # this should stay intact \
+#                     mixing_beta      = 0.4 \n # this should stay intact \
+#                     / \n # this should stay intact \
+#                     ATOMIC_SPECIES \n # this should stay intact \
+#                     Na 22.98976928 na_pbe_v1.5.uspp.F.UPF\n # specify correct atoms and pseudo potentisal file names \
+#                     Cl 35.45 cl_pbe_v1.4.uspp.F.UPF \n # specify correct atoms and pseudo potentisal file names \
+#                     K_POINTS automatic \n # this should stay intact \
+#                     9 9 9  0 0 0 \n # put correct k points \
+#                     CELL_PARAMETERS angstrom \n # specify exactley in this way the cell parameters \
+#                     3.43609630987442 0.00000000000000 1.98383169159751 \n #here the line of three numbers describing coordinates of the first lattice vector \
+#                     1.14536543840311 3.23958308210503 1.98383169547732 \n #here the line of three numbers describing coordinates of the second lattice vector \
+#                     0.00000000000000 0.00000000000000 3.96766243000000 \n #here the line of three numbers describing coordinates of the third lattice vector \
+#                     ATOMIC_POSITIONS angstrom \n  # specify atomic positions \
+#                     Na 0.0000000000 0.0000000000 0.0000000000 \n #here the line of three numbers describing coordinates of the first atom \
+#                     Cl 2.2907350089 1.6197900184 3.9676599923 \n #here the line of three numbers describing coordinates of the first atom \
+#                      "
+
 input_file_schema="Below is the QE input file for SCF calculations for NaCl. Can you generate the \
                     similar one for my compound for which I will give parameters? \
-                    Check line by line that only material parameters are different. \
-                    &CONTROL \n # this should stay intact \
-                    pseudo_dir       = './' \n # this should stay intact \
-                    calculation      = 'scf'  \n # this should stay intact \
-                    restart_mode     = 'from_scratch' \n # this should stay intact \
-                    tprnfor          = .true. \n # this should stay intact \
-                    / \n # this should stay intact \
-                    &SYSTEM \n# this should stay intact \
-                    ecutwfc          = 40 \n# put correct energy cutoff here \
-                    ecutrho          = 320  \n# put correct density cutoff here   \
-                    occupations      = 'smearing' \n# this should stay intact \
-                    degauss          = 0.01  \n# you can change the number \
-                    smearing         = 'cold' \n# choose correct smearing method \
-                    ntyp             = 2 \n# put correct number of atoms types \
-                    nat              = 2 \n# put correct number of atoms \
-                    ibrav            = 0 \n# this should stay intact \
-                    / \n# this should stay intact \
-                    &ELECTRONS  \n # this should stay intact \
-                    electron_maxstep = 80 \n# this should stay intact \
-                    conv_thr         = 1e-10 \n# this should stay intact \
-                    mixing_mode      = 'plain' \n# this should stay intact \
-                    mixing_beta      = 0.4 \n# this should stay intact \
-                    /\n # this should stay intact \
-                    ATOMIC_SPECIES \n# this should stay intact \
-                    Na 22.98976928 na_pbe_v1.5.uspp.F.UPF\n # specify correct atoms and pseudo potentisal file names \
-                    Cl 35.45 cl_pbe_v1.4.uspp.F.UPF \n# specify correct atoms and pseudo potentisal file names \
-                    K_POINTS automatic \n# this should stay intact \
-                    9 9 9  0 0 0 \n# put correct k points \
-                    CELL_PARAMETERS angstrom \n # specify exactley in this way the cell parameters \
-                    3.43609630987442 0.00000000000000 1.98383169159751 \n#here the line of three numbers describing coordinates of the first lattice vector \
-                    1.14536543840311 3.23958308210503 1.98383169547732 \n#here the line of three numbers describing coordinates of the second lattice vector \
-                    0.00000000000000 0.00000000000000 3.96766243000000 \n#here the line of three numbers describing coordinates of the third lattice vector \
-                    ATOMIC_POSITIONS angstrom\n  # specify atomic positions \
-                    Na 0.0000000000 0.0000000000 0.0000000000 \n #here the line of three numbers describing coordinates of the first atom \
-                    Cl 2.2907350089 1.6197900184 3.9676599923  \n#here the line of three numbers describing coordinates of the first atom \
+                    Check line by line that only material parameters are different.\
+                    &CONTROL\
+                    pseudo_dir       = './'\
+                    calculation      = 'scf'\
+                    restart_mode     = 'from_scratch'\
+                    tprnfor          = .true.\
+                    /\
+                    &SYSTEM\
+                    ecutwfc          = 40  ! put correct energy cutoff here\
+                    ecutrho          = 320 ! put correct density cutoff here\
+                    occupations      = 'smearing'\
+                    degauss          = 0.01 ! you can change the number\
+                    smearing         = 'cold' ! choose correct smearing method\
+                    ntyp             = 2 ! put correct number of atoms types\
+                    nat              = 2 ! put correct number of atoms\
+                    ibrav            = 0\
+                    /\
+                    &ELECTRONS\
+                    electron_maxstep = 80\
+                    conv_thr         = 1e-10\
+                    mixing_mode      = 'plain'\
+                    mixing_beta      = 0.4\
+                    / \
+                    ATOMIC_SPECIES \
+                    Na 22.98976928 na_pbe_v1.5.uspp.F.UPF \
+                    Cl 35.45 cl_pbe_v1.4.uspp.F.UPF \
+                    K_POINTS automatic\
+                    9 9 9  0 0 0\
+                    CELL_PARAMETERS angstrom\
+                    3.43609630987442 0.00000000000000 1.98383169159751\
+                    1.14536543840311 3.23958308210503 1.98383169547732\
+                    0.00000000000000 0.00000000000000 3.96766243000000\
+                    ATOMIC_POSITIONS angstrom \
+                    Na 0.0000000000 0.0000000000 0.0000000000\
+                    Cl 2.2907350089 1.6197900184 3.9676599923\
                      "
 
 st.title("Generate QE input with an LLM Agent")
