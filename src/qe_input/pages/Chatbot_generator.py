@@ -4,6 +4,46 @@ from groq import Groq
 import google.generativeai as genai
 from utils import atomic_positions_list, generate_kpoints_grid, generate_response, convert_openai_to_gemini, gemini_stream_to_streamlit
 
+input_file_schema="Below is the QE input file for SCF calculations for NaCl. Can you generate the \
+                    similar one for my compound for which I will give parameters? \
+                    Check line by line that only material parameters are different. \
+                    &CONTROL  # this should stay intact \
+                    pseudo_dir       = './' # this should stay intact \
+                    calculation      = 'scf' # this should stay intact \
+                    restart_mode     = 'from_scratch' # this should stay intact \
+                    tprnfor          = .true. # this should stay intact \
+                    / # this should stay intact \
+                    &SYSTEM # this should stay intact \
+                    ecutwfc          = 40 # put correct energy cutoff here \
+                    ecutrho          = 320 # put correct density cutoff here   \
+                    occupations      = 'smearing' # this should stay intact \
+                    degauss          = 0.01  # you can change the number \
+                    smearing         = 'cold' # choose correct smearing method \
+                    ntyp             = 2 # put correct number of atoms types \
+                    nat              = 2 # put correct number of atoms \
+                    ibrav            = 0 # this should stay intact \
+                    / # this should stay intact \
+                    &ELECTRONS  # this should stay intact \
+                    electron_maxstep = 80 # this should stay intact \
+                    conv_thr         = 1e-10 # this should stay intact \
+                    mixing_mode      = 'plain' # this should stay intact \
+                    mixing_beta      = 0.4 # this should stay intact \
+                    / # this should stay intact \
+                    ATOMIC_SPECIES # this should stay intact \
+                    Na 22.98976928 na_pbe_v1.5.uspp.F.UPF # specify correct atoms and pseudo potentisal file names \
+                    Cl 35.45 cl_pbe_v1.4.uspp.F.UPF # specify correct atoms and pseudo potentisal file names \
+                    K_POINTS automatic # this should stay intact \
+                    9 9 9  0 0 0 # put correct k points \
+                    CELL_PARAMETERS angstrom  # specify exactley in this way the cell parameters \
+                    3.43609630987442 0.00000000000000 1.98383169159751 #here the line of three numbers describing coordinates of the first lattice vector \
+                    1.14536543840311 3.23958308210503 1.98383169547732 #here the line of three numbers describing coordinates of the second lattice vector \
+                    0.00000000000000 0.00000000000000 3.96766243000000 #here the line of three numbers describing coordinates of the third lattice vector \
+                    ATOMIC_POSITIONS angstrom  # specify atomic positions \
+                    Na 0.0000000000 0.0000000000 0.0000000000  #here the line of three numbers describing coordinates of the first atom \
+                    Cl 2.2907350089 1.6197900184 3.9676599923  #here the line of three numbers describing coordinates of the first atom \
+                     "
+
+
 st.title("Generate QE input with an LLM Agent")
 
 groq_api_key=None
@@ -90,16 +130,18 @@ if (openai_api_key or groq_api_key or gemini_api_key) and st.session_state['all_
               the density cutoff is {st.session_state['cutoffs'][ 'max_ecutrho']} in Ry,\
               kpoints automatic are {kpoints}. \
               Please calculate forces, and do gaussian smearing for dielectrics and semiconductors \
-              smearing for metals. Try to assess whether the provided compound is \
-              metal, dielectric or semiconductor before generation"
+              and cold smearing for metals.  Try to assess whether the provided compound is \
+              metal, dielectric or semiconductor before generation."
     
 
     if "messages" not in st.session_state:
         st.session_state.messages=[{"role": "system", "content": task}]
+        st.session_state.messages.append({"role": "system", "content": input_file_schema})
     else:
         for message in st.session_state.messages:
             if message['role']=='system':
-                message['content']=task
+                message['content']=task+' '+input_file_schema
+            
 
     for message in st.session_state.messages:
         if(message["role"]=="user"):
