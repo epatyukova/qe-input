@@ -54,7 +54,7 @@ if 'all_info' not in st.session_state.keys():
 
 with st.sidebar:
     llm_name_value = st.selectbox('assistant LLM', 
-                        ('llama-3.3-70b-versatile','gemini-2.0-flash', 'gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo'), 
+                        ('llama-3.3-70b-versatile','gemini-2.0-flash', 'gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo','gemma2-9b-it'), 
                         index=None, 
                         placeholder='llama-3.3-70b-versatile')
 
@@ -63,7 +63,7 @@ with st.sidebar:
                                     key="openai_api_key", 
                                     type="password",
                                     )
-    elif llm_name_value in ['llama-3.3-70b-versatile']:
+    elif llm_name_value in ['llama-3.3-70b-versatile','gemma2-9b-it']:
         groq_api_key = st.text_input("Groq API Key ([Get an Groq API key](https://console.groq.com/keys))", 
                                    key="groq_api_key", 
                                    type="password",
@@ -73,7 +73,7 @@ with st.sidebar:
                                         key="groq_api_key", 
                                         type="password",
                                         )
-    if llm_name_value in ['llama-3.3-70b-versatile']:
+    if llm_name_value in ['llama-3.3-70b-versatile','gemma2-9b-it']:
         st.session_state['llm_name'] = llm_name_value
     elif llm_name_value in ['gpt-4o', 'gpt-4o-mini', 'gpt-3.5-turbo']:
         st.session_state['llm_name'] = llm_name_value
@@ -87,7 +87,7 @@ with st.sidebar:
             st.info("Please add your OpenAI API key to continue.", icon="🗝️")
 
     if not groq_api_key:
-        if llm_name_value in ['llama-3.3-70b-versatile']:
+        if llm_name_value in ['llama-3.3-70b-versatile','gemma2-9b-it']:
             st.info("Please add your Groq API key to continue.", icon="🗝️")
     
     if not gemini_api_key:
@@ -102,7 +102,7 @@ if (openai_api_key or groq_api_key or gemini_api_key) and st.session_state['all_
     # Create an OpenAI client.
     if llm_name_value in ["gpt-4o", "gpt-4o-mini", 'gpt-3.5-turbo']:
         client = OpenAI(api_key=openai_api_key)
-    elif llm_name_value in ['llama-3.3-70b-versatile']:
+    elif llm_name_value in ['llama-3.3-70b-versatile','gemma2-9b-it']:
         client = Groq(api_key=groq_api_key)
     elif llm_name_value in ['gemini-2.0-flash']:
         genai.configure(api_key=gemini_api_key)
@@ -167,7 +167,7 @@ if (openai_api_key or groq_api_key or gemini_api_key) and st.session_state['all_
                 temperature=0,
                 stream=True,
             )
-        elif st.session_state['llm_name'] in ['llama-3.3-70b-versatile']:
+        elif st.session_state['llm_name'] in ['llama-3.3-70b-versatile','gemma2-9b-it']:
             stream = generate_response(messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
                                        client=client,
                                        llm_model=st.session_state['llm_name'])
