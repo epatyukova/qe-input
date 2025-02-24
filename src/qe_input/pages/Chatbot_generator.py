@@ -8,42 +8,41 @@ input_file_schema="Below is the QE input file for SCF calculations for NaCl. Can
                     similar one for my compound for which I will give parameters? \
                     Check line by line that only material parameters are different. \
                     When generating file remove comments from generated file \
-                    &CONTROL  # this should stay intact \
-                    pseudo_dir       = './' # this should stay intact \
-                    calculation      = 'scf' # this should stay intact \
-                    restart_mode     = 'from_scratch' # this should stay intact \
-                    tprnfor          = .true. # this should stay intact \
-                    / # this should stay intact \
-                    &SYSTEM # this should stay intact \
-                    ecutwfc          = 40 # put correct energy cutoff here \
-                    ecutrho          = 320 # put correct density cutoff here   \
-                    occupations      = 'smearing' # this should stay intact \
-                    degauss          = 0.01  # you can change the number \
-                    smearing         = 'cold' # choose correct smearing method \
-                    ntyp             = 2 # put correct number of atoms types \
-                    nat              = 2 # put correct number of atoms \
-                    ibrav            = 0 # this should stay intact \
-                    / # this should stay intact \
-                    &ELECTRONS  # this should stay intact \
-                    electron_maxstep = 80 # this should stay intact \
-                    conv_thr         = 1e-10 # this should stay intact \
-                    mixing_mode      = 'plain' # this should stay intact \
-                    mixing_beta      = 0.4 # this should stay intact \
-                    / # this should stay intact \
-                    ATOMIC_SPECIES # this should stay intact \
-                    Na 22.98976928 na_pbe_v1.5.uspp.F.UPF # specify correct atoms and pseudo potentisal file names \
-                    Cl 35.45 cl_pbe_v1.4.uspp.F.UPF # specify correct atoms and pseudo potentisal file names \
-                    K_POINTS automatic # this should stay intact \
-                    9 9 9  0 0 0 # put correct k points \
-                    CELL_PARAMETERS angstrom  # specify exactley in this way the cell parameters \
-                    3.43609630987442 0.00000000000000 1.98383169159751 #here the line of three numbers describing coordinates of the first lattice vector \
-                    1.14536543840311 3.23958308210503 1.98383169547732 #here the line of three numbers describing coordinates of the second lattice vector \
-                    0.00000000000000 0.00000000000000 3.96766243000000 #here the line of three numbers describing coordinates of the third lattice vector \
-                    ATOMIC_POSITIONS angstrom  # specify atomic positions \
-                    Na 0.0000000000 0.0000000000 0.0000000000  #here the line of three numbers describing coordinates of the first atom \
-                    Cl 2.2907350089 1.6197900184 3.9676599923  #here the line of three numbers describing coordinates of the first atom \
+                    &CONTROL \n # this should stay intact \
+                    pseudo_dir       = './' \n # this should stay intact \
+                    calculation      = 'scf'  \n# this should stay intact \
+                    restart_mode     = 'from_scratch' \n # this should stay intact \
+                    tprnfor          = .true. \n # this should stay intact \
+                    / \n # this should stay intact \
+                    &SYSTEM \n# this should stay intact \
+                    ecutwfc          = 40 \n# put correct energy cutoff here \
+                    ecutrho          = 320  \n# put correct density cutoff here   \
+                    occupations      = 'smearing' \n# this should stay intact \
+                    degauss          = 0.01  \n# you can change the number \
+                    smearing         = 'cold' \n# choose correct smearing method \
+                    ntyp             = 2 \n# put correct number of atoms types \
+                    nat              = 2 \n# put correct number of atoms \
+                    ibrav            = 0 \n# this should stay intact \
+                    / \n# this should stay intact \
+                    &ELECTRONS  \n # this should stay intact \
+                    electron_maxstep = 80 \n# this should stay intact \
+                    conv_thr         = 1e-10 \n# this should stay intact \
+                    mixing_mode      = 'plain' \n# this should stay intact \
+                    mixing_beta      = 0.4 \n# this should stay intact \
+                    /\n # this should stay intact \
+                    ATOMIC_SPECIES \n# this should stay intact \
+                    Na 22.98976928 na_pbe_v1.5.uspp.F.UPF\n # specify correct atoms and pseudo potentisal file names \
+                    Cl 35.45 cl_pbe_v1.4.uspp.F.UPF \n# specify correct atoms and pseudo potentisal file names \
+                    K_POINTS automatic \n# this should stay intact \
+                    9 9 9  0 0 0 \n# put correct k points \
+                    CELL_PARAMETERS angstrom \n # specify exactley in this way the cell parameters \
+                    3.43609630987442 0.00000000000000 1.98383169159751 \n#here the line of three numbers describing coordinates of the first lattice vector \
+                    1.14536543840311 3.23958308210503 1.98383169547732 \n#here the line of three numbers describing coordinates of the second lattice vector \
+                    0.00000000000000 0.00000000000000 3.96766243000000 \n#here the line of three numbers describing coordinates of the third lattice vector \
+                    ATOMIC_POSITIONS angstrom\n  # specify atomic positions \
+                    Na 0.0000000000 0.0000000000 0.0000000000 \n #here the line of three numbers describing coordinates of the first atom \
+                    Cl 2.2907350089 1.6197900184 3.9676599923  \n#here the line of three numbers describing coordinates of the first atom \
                      "
-
 
 st.title("Generate QE input with an LLM Agent")
 
@@ -178,7 +177,6 @@ if (openai_api_key or groq_api_key or gemini_api_key) and st.session_state['all_
             stream=gemini_stream_to_streamlit(client.generate_content(gemini_prompt, 
                                            generation_config={"temperature": 0},
                                            stream=True))
-            # chunk.candidates[0].content.parts[0].text
             
         # Stream the response to the chat using `st.write_stream`, then store it in 
         # session state.
