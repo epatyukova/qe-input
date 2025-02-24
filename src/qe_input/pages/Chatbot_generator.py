@@ -7,10 +7,9 @@ from utils import atomic_positions_list, generate_kpoints_grid, generate_respons
 input_file_schema="Below is the QE input file for SCF calculations for NaCl. Can you generate the \
                     similar one for my compound for which I will give parameters? \
                     Check line by line that only material parameters are different. \
-                    When generating file remove comments from generated file \
                     &CONTROL \n # this should stay intact \
                     pseudo_dir       = './' \n # this should stay intact \
-                    calculation      = 'scf'  \n# this should stay intact \
+                    calculation      = 'scf'  \n # this should stay intact \
                     restart_mode     = 'from_scratch' \n # this should stay intact \
                     tprnfor          = .true. \n # this should stay intact \
                     / \n # this should stay intact \
