@@ -128,7 +128,8 @@ if (openai_api_key or groq_api_key or gemini_api_key) and st.session_state['all_
               the atomic positions in angstroms {atomic_positions},\
               the energy cutoff is {st.session_state['cutoffs'][ 'max_ecutwfc']} in Ry,\
               the density cutoff is {st.session_state['cutoffs'][ 'max_ecutrho']} in Ry,\
-              kpoints automatic are {kpoints}. \
+              kpoints automatic are {kpoints}, \
+              number of atoms is {len(st.session_state['structure'].sites)} \
               Please calculate forces, and do gaussian smearing for dielectrics and semiconductors \
               and cold smearing for metals.  Try to assess whether the provided compound is \
               metal, dielectric or semiconductor before generation."
