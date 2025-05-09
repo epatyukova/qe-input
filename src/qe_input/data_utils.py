@@ -62,11 +62,11 @@ def jarvis_structure_lookup(formula,id=False):
         return structure
 
 @st.cache_data
-def mp_structure_lookup(formula, mp_api_key):
+def mp_structure_lookup(formula, mp_api_key, id=False):
+
     with MPRester(mp_api_key) as mpr:
         docs = mpr.materials.summary.search(
-                formula=formula, is_stable="True"
-                )
+                formula=formula)
     lowest_energy_index=0
     lowest_energy=docs[0].energy_per_atom
     if(len(docs)>1):
