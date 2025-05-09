@@ -13,7 +13,7 @@ pytest
 python-dotenv
 ruff
 jarvis-tools
-mp-api
+mp-api==0.40.0
 requests
 bs4
 scipy
